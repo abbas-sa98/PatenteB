@@ -1,0 +1,72 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 1. Global Safety Net
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // 2. Globally Hardened Helpers
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && request.auth.token.email == "akhavi98@gmail.com";
+    }
+
+    // Validation Blueprint for user Profile settings
+    function isValidUserProfile(data) {
+      return data.userId is string 
+          && data.get('email', '') is string
+          && data.get('streak', 0) is int
+          && data.get('bookmarkedWordIds', []) is list
+          && data.get('bookmarkedQuestionIds', []) is list
+          && data.get('answeredQuestions', {}) is map
+          && data.get('chaptersProgress', {}) is map
+          && data.get('isPremium', false) is bool
+          && data.get('paymentStatus', '') is string
+          && data.get('paymentReceiptName', '') is string
+          && data.get('paymentReceiptDate', '') is string
+          && data.get('paymentReceiptBase64', '') is string
+          && data.get('createdAt', '') is string
+          && data.get('updatedAt', '') is string;
+    }
+
+    // 3. Document/Collection specific gates
+    match /users/{userId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create: if isOwner(userId) 
+          && isValidUserProfile(request.resource.data)
+          && request.resource.data.get('isPremium', false) == false
+          && request.resource.data.get('paymentStatus', 'none') != 'approved';
+      allow update: if isAdmin() || (
+        isOwner(userId) 
+        && isValidUserProfile(request.resource.data)
+        // Prevent user from setting isPremium to true themselves
+        && (request.resource.data.get('isPremium', false) == resource.data.get('isPremium', false))
+        // Prevent user from approving their own status
+        && (request.resource.data.get('paymentStatus', 'none') != 'approved' || (resource.data.keys().hasAll(['paymentStatus']) && resource.data.paymentStatus == 'approved'))
+      );
+      allow delete: if false;
+    }
+
+    match /chapters/{chapterId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /vocabulary/{wordId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}

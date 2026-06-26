@@ -1,0 +1,64 @@
+{
+  "entities": {
+    "userProfile": {
+      "title": "UserProfile",
+      "description": "User specific progress, saved vocabulary, and streak data.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "The Firebase Auth UID of this user." },
+        "streak": { "type": "integer", "description": "User daily study streak count." },
+        "bookmarkedWordIds": { "type": "array", "description": "List of saved vocabulary word IDs." },
+        "bookmarkedQuestionIds": { "type": "array", "description": "List of saved practice question IDs." },
+        "answeredQuestions": { "type": "object", "description": "Map of question IDs to their selected answer ('Vero' or 'Falso')." },
+        "chaptersProgress": { "type": "object", "description": "Map of chapter IDs to completion progress percentage." },
+        "isPremium": { "type": "boolean", "description": "Indicates whether the user has purchased the full course." },
+        "paymentStatus": { "type": "string", "enum": ["none", "pending", "approved", "rejected"], "description": "Offline purchase approval status." },
+        "paymentReceiptName": { "type": "string", "description": "Name of the uploaded bank transfer receipt document." },
+        "paymentReceiptDate": { "type": "string", "description": "Timestamp indicating when the receipt was uploaded." },
+        "paymentReceiptBase64": { "type": "string", "description": "Base64 encoded compression representation of the receipt." },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId"]
+    },
+    "chapter": {
+      "title": "Chapter",
+      "description": "Educational content divided into sub-lessons, vocabulary, and questions.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "integer", "description": "Unique chapter number." },
+        "title": { "type": "string", "description": "Chapter core heading in Italian." },
+        "farsiTitle": { "type": "string", "description": "Chapter descriptive heading in Farsi." },
+        "description": { "type": "string", "description": "Brief description of the content covered in the chapter." },
+        "lessons": { "type": "array", "description": "List of lessons inside the chapter." },
+        "questions": { "type": "array", "description": "List of quiz questions inside the chapter." }
+      },
+      "required": ["id", "title"]
+    },
+    "vocabulary": {
+      "title": "VocabularyWord",
+      "description": "Bilingual driving-related vocabulary word flashcard entry.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Vocabulary ID code." },
+        "italian": { "type": "string", "description": "Italian original term." },
+        "farsi": { "type": "string", "description": "Farsi equivalent or definition." }
+      },
+      "required": ["id", "italian", "farsi"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "userProfile",
+      "description": "Collection storing personalized study progress for each registered user."
+    },
+    "/chapters/{chapterId}": {
+      "schema": "chapter",
+      "description": "Educational chapters cache synced to db."
+    },
+    "/vocabulary/{wordId}": {
+      "schema": "vocabulary",
+      "description": "Bilingual vocabularies cache synced to db."
+    }
+  }
+}

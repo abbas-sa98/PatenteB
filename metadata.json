@@ -1,0 +1,6 @@
+{
+  "name": "Guida Sicura",
+  "description": "An elegant, interactive bilingual driving exam (Patente di Guida) preparation platform in Italian and Persian (Farsi), featuring vocabulary tracking, dynamic translation, and custom study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
