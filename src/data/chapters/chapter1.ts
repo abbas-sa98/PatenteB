@@ -145,7 +145,7 @@ Comprende:
 ✅ Sovrappassi  ✅ Sottopassi  ✅ Rampe
 
 Regole principali:
-Facilita la circolazione perché esclude l'incrocio diretto fra i veicoli. Valgono i limiti massimi generali di velocità. ❌ Di norma NON è regolata da semafori, né si trata di un incrocio a raso con i binari del treno.`,
+Facilita la circolazione perché esclude l'incrocio diretto fra i veicoli. Valgono i limiti massimi generali di velocità. ❌ Di norma NON è regolata da semafori, né si tratta di un incrocio a raso con i binari del treno.`,
       farsiTranslation: `تقاطع غیرهمسطح، یک تقاطع جاده‌ای با سطوح روی هم قرار گرفته است که هدف آن تسهیل هدایت جریان ترافیک بین شاخه‌های جاده‌های واقع در سطوح مختلف است.
 
 شامل می‌شود:
@@ -160,7 +160,7 @@ Facilita la circolazione perché esclude l'incrocio diretto fra i veicoli. Valgo
     {
       id: 'intersezione_raso_1_7',
       title: '1.7 Intersezione a raso',
-      italianText: `L'intersezione a raso è un incrocio di due o più strade poste allo stesso piano o livello que permette lo smistamento delle correnti veicolari dall'una all'altra strada o braccio di strada.
+      italianText: `L'intersezione a raso è un incrocio di due o più strade poste allo stesso piano o livello che permette lo smistamento delle correnti veicolari dall'una all'altra strada o braccio di strada.
 
 Regole principali:
 Può essere regolata da semaforo. Richiede di fare attenzione ai veicoli provenienti dalle strade che si incrociano. ❌ NON comprende sovrappassi, sottopassi o rampe. NON è un incrocio con binari del tram, passi carrabili, né un passaggio a livello con barriere.`,
@@ -350,6 +350,46 @@ Può essere limitata ad ore prestabilite (fasce orarie) o solo a particolari cat
       imageUrl: '/images/1-16.jpg',
       vocabularyIds: ['zona_a_traffico_limitato', 'ztl', 'accesso', 'limitati', 'ore_prestabilite', 'particolari_categorie', 'utenti'],
       questionIds: ['q_16_1', 'q_16_2', 'q_16_3', 'q_16_4', 'q_16_5', 'q_16_6', 'q_16_7', 'q_16_8', 'q_16_9']
+    },
+    {
+      id: 'autostrada_1_17',
+      title: '1.17 Autostrada',
+      italianText: `L'autostrada è una strada a carreggiate indipendenti o separate da spartitraffico, senza incroci a raso, riservata alla circolazione di alcune categorie di veicoli a motore.
+
+Caratteristiche:
+È dotata di corsie speciali per l'ingresso e l'uscita dei veicoli, cioè corsie di accelerazione e di decelerazione. Deve essere lateralmente recintata.
+
+Limitazioni:
+Non tutti i veicoli possono circolare in autostrada. Non possono circolare macchine agricole, ciclomotori e motocicli con cilindrata fino a 125 cm3. I motocicli devono avere cilindrata di almeno 150 cm3.`,
+      farsiTranslation: `اتوبان جاده‌ای است با سواره‌روهای مستقل یا جداشده با جداکننده میانی، بدون تقاطع همسطح، که برای عبور بعضی دسته‌های وسایل نقلیه موتوری اختصاص دارد.
+
+ویژگی‌ها:
+برای ورود و خروج خودروها دارای باندهای مخصوص است؛ یعنی باند شتاب و باند کاهش سرعت. همچنین باید در دو طرف با حصار محافظت شده باشد.
+
+محدودیت‌ها:
+همه وسایل نقلیه اجازه حرکت در اتوبان را ندارند. ماشین‌های کشاورزی، موتورگازی‌ها و موتورسیکلت‌های تا ۱۲۵ سانتی‌متر مکعب نمی‌توانند در اتوبان حرکت کنند. موتورسیکلت باید حداقل ۱۵۰ سانتی‌متر مکعب حجم موتور داشته باشد.`,
+      vocabularyIds: ['autostrada', 'carreggiate_indipendenti', 'spartitraffico', 'incroci_a_raso', 'corsie_di_accelerazione', 'corsie_di_decelerazione', 'recintata', 'macchine_agricole', 'ciclomotori', 'motocicli'],
+      questionIds: ['q_17_1', 'q_17_2', 'q_17_3', 'q_17_4', 'q_17_5', 'q_17_6', 'q_17_7', 'q_17_8', 'q_17_9', 'q_17_10', 'q_17_11', 'q_17_12', 'q_17_13', 'q_17_14']
+    },
+    {
+      id: 'strada_extraurbana_principale_1_18',
+      title: '1.18 Strada extraurbana principale',
+      italianText: `La strada extraurbana principale è una strada fuori dai centri abitati, a carreggiate separate, segnalata da appositi cartelli stradali di inizio e fine.
+
+Caratteristiche:
+Non ha incroci a raso che la attraversano, può avere intersezioni a livelli sfalsati ed è dotata di aree di sosta e corsie di accelerazione per l'ingresso.
+
+Limitazioni:
+Possono circolare solo alcune categorie di veicoli a motore. Non è contraddistinta da segnaletica verde e non ha lo stesso limite massimo di velocità dell'autostrada.`,
+      farsiTranslation: `جاده اصلی برون‌شهری جاده‌ای خارج از مناطق مسکونی است که سواره‌روهای جداگانه دارد و با تابلوهای مخصوص شروع و پایان مشخص می‌شود.
+
+ویژگی‌ها:
+تقاطع همسطحی که آن را قطع کند ندارد، ممکن است تقاطع‌های غیرهمسطح داشته باشد و دارای محل‌های توقف و باند شتاب برای ورود خودروها است.
+
+محدودیت‌ها:
+فقط بعضی دسته‌های وسایل نقلیه موتوری می‌توانند در آن حرکت کنند. با تابلوهای سبز مشخص نمی‌شود و حد سرعت آن با اتوبان یکسان نیست.`,
+      vocabularyIds: ['strada_extraurbana_principale', 'carreggiate_separate', 'cartelli_stradali', 'inizio', 'fine', 'intersezioni_a_livelli_sfalsati', 'aree_di_sosta', 'corsie_di_accelerazione', 'categorie_di_veicoli'],
+      questionIds: ['q_18_1', 'q_18_2', 'q_18_3', 'q_18_4', 'q_18_5', 'q_18_6', 'q_18_7', 'q_18_8', 'q_18_9', 'q_18_10', 'q_18_11', 'q_18_12', 'q_18_13', 'q_18_14', 'q_18_15', 'q_18_16']
     }
   ],
   questions: [
@@ -674,7 +714,7 @@ Può essere limitata ad ore prestabilite (fasce orarie) o solo a particolari cat
     },
     {
       id: 'q_4_5',
-      italianText: 'La corsia di accelerazione facilita l’ingresso dei veicoli in autostrada o su strade extraurbane principais.',
+      italianText: 'La corsia di accelerazione facilita l’ingresso dei veicoli in autostrada o su strade extraurbane principali.',
       farsiTranslation: 'باند شتاب ورود وسایل نقلیه به اتوبان یا جاده‌های اصلی خارج از شهر را تسهیل می‌کند.',
       correctAnswer: 'Vero'
     },
@@ -1400,7 +1440,7 @@ Può essere limitata ad ore prestabilite (fasce orarie) o solo a particolari cat
     },
     {
       id: 'q_16_6',
-      italianText: 'In una zona a traffico limitato non possono entrare più di un certain numero di veicoli.',
+      italianText: 'In una zona a traffico limitato non possono entrare più di un certo numero di veicoli.',
       farsiTranslation: 'در یک منطقه با ترافیک محدود، تعداد مشخص و محدودی خودرو مجاز به ورود همزمان هستند و بیشتر از آن ظرفیت ندارد.',
       correctAnswer: 'Falso'
     },
@@ -1420,6 +1460,190 @@ Può essere limitata ad ore prestabilite (fasce orarie) o solo a particolari cat
       id: 'q_16_9',
       italianText: 'Una zona a traffico limitato è un’area vietata al transito dei pedoni durante le ore notturne.',
       farsiTranslation: 'منطقه با ترافیک محدود محدوده‌ای است که عبور عابران پیاده در طول ساعات شب در آن ممنوع است.',
+      correctAnswer: 'Falso'
+    },
+
+    // 1.17 Autostrada (Blocco: 11013)
+    {
+      id: 'q_17_1',
+      italianText: 'L’autostrada non ha incroci a raso che l’attraversano.',
+      farsiTranslation: 'اتوبان تقاطع همسطحی که از آن عبور کند ندارد.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_2',
+      italianText: 'L’autostrada è dotata di speciali corsie per l’ingresso e l’uscita dei veicoli.',
+      farsiTranslation: 'اتوبان برای ورود و خروج وسایل نقلیه دارای باندهای مخصوص است.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_3',
+      italianText: 'L’autostrada è a carreggiate indipendenti o separate da spartitraffico.',
+      farsiTranslation: 'اتوبان دارای سواره‌روهای مستقل یا جداشده با جداکننده میانی است.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_4',
+      italianText: 'I motocicli con cilindrata di almeno 150 cm3 possono circolare in autostrada.',
+      farsiTranslation: 'موتورسیکلت‌هایی با حجم موتور حداقل ۱۵۰ سانتی‌متر مکعب می‌توانند در اتوبان حرکت کنند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_5',
+      italianText: 'Le macchine agricole non possono circolare in autostrada.',
+      farsiTranslation: 'ماشین‌های کشاورزی نمی‌توانند در اتوبان حرکت کنند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_6',
+      italianText: 'Non tutti i tipi di veicoli possono circolare in autostrada.',
+      farsiTranslation: 'همه انواع وسایل نقلیه اجازه حرکت در اتوبان را ندارند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_7',
+      italianText: 'L’uscita dei veicoli dalle autostrade avviene tramite corsie di decelerazione.',
+      farsiTranslation: 'خروج وسایل نقلیه از اتوبان از طریق باندهای کاهش سرعت انجام می‌شود.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_8',
+      italianText: 'L’autostrada deve essere lateralmente recintata.',
+      farsiTranslation: 'اتوبان باید در دو طرف با حصار محافظت شده باشد.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_17_9',
+      italianText: 'Nelle autostrade possono circolare solo le autovetture.',
+      farsiTranslation: 'در اتوبان فقط خودروهای سواری می‌توانند حرکت کنند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_17_10',
+      italianText: 'Nelle autostrade possono circolare tutti i tipi di motocicli.',
+      farsiTranslation: 'در اتوبان همه انواع موتورسیکلت‌ها می‌توانند حرکت کنند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_17_11',
+      italianText: 'L’autostrada può comprendere piste ciclabili.',
+      farsiTranslation: 'اتوبان می‌تواند شامل مسیرهای ویژه دوچرخه باشد.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_17_12',
+      italianText: 'Nelle autostrade possono circolare i ciclomotori e i motocicli con cilindrata fino a 125 cm3.',
+      farsiTranslation: 'در اتوبان موتورگازی‌ها و موتورسیکلت‌های با حجم موتور تا ۱۲۵ سانتی‌متر مکعب می‌توانند حرکت کنند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_17_13',
+      italianText: 'Nelle autostrade possono circolare solo gli autoveicoli.',
+      farsiTranslation: 'در اتوبان فقط وسایل نقلیه خودرویی می‌توانند حرکت کنند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_17_14',
+      italianText: 'Nelle autostrade possono circolare tutti i motocicli e i ciclomotori.',
+      farsiTranslation: 'در اتوبان همه موتورسیکلت‌ها و موتورگازی‌ها می‌توانند حرکت کنند.',
+      correctAnswer: 'Falso'
+    },
+
+    // 1.18 Strada extraurbana principale (Blocco: 11005)
+    {
+      id: 'q_18_1',
+      italianText: 'Le strade extraurbane principali sono a carreggiate separate.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری دارای سواره‌روهای جداگانه هستند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_18_2',
+      italianText: 'Le strade extraurbane principali sono dotate di apposite aree di sosta.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری دارای محل‌های توقف مخصوص هستند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_18_3',
+      italianText: 'La strada extraurbana principale non ha incroci a raso che l’attraversano.',
+      farsiTranslation: 'جاده اصلی برون‌شهری تقاطع همسطحی که آن را قطع کند ندارد.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_18_4',
+      italianText: 'Le strade extraurbane principali sono segnalate da cartelli stradali di inizio e fine.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری با تابلوهای شروع و پایان مشخص می‌شوند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_18_5',
+      italianText: 'Nelle strade extraurbane principali possono circolare solo alcune categorie di veicoli a motore.',
+      farsiTranslation: 'در جاده‌های اصلی برون‌شهری فقط بعضی دسته‌های وسایل نقلیه موتوری می‌توانند حرکت کنند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_18_6',
+      italianText: 'Nelle strade extraurbane principali si possono trovare intersezioni (incroci) a livelli sfalsati.',
+      farsiTranslation: 'در جاده‌های اصلی برون‌شهری ممکن است تقاطع‌های غیرهمسطح وجود داشته باشد.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_18_7',
+      italianText: 'Le strade extraurbane principali sono provviste di corsie di accelerazione per l’ingresso.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری برای ورود دارای باندهای شتاب هستند.',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_18_8',
+      italianText: 'Sulle strade extraurbane principali è consentito circolare alla velocità massima di 130 km/h.',
+      farsiTranslation: 'در جاده‌های اصلی برون‌شهری حرکت با حداکثر سرعت ۱۳۰ کیلومتر بر ساعت مجاز است.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_9',
+      italianText: 'Le strade extraurbane principali sono contraddistinte da segnaletica verde.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری با تابلوهای سبز مشخص می‌شوند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_10',
+      italianText: 'Le strade extraurbane principali possono essere ad un’unica carreggiata.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری می‌توانند فقط یک سواره‌رو داشته باشند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_11',
+      italianText: 'Sulle strade extraurbane principali è consentito circolare alla stessa velocità massima prevista per le autostrade.',
+      farsiTranslation: 'در جاده‌های اصلی برون‌شهری حرکت با همان حداکثر سرعت مجاز اتوبان‌ها مجاز است.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_12',
+      italianText: 'Sulle strade extraurbane principali i quadricicli leggeri possono transitare.',
+      farsiTranslation: 'در جاده‌های اصلی برون‌شهری چهارچرخه‌های سبک می‌توانند عبور کنند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_13',
+      italianText: 'Le strade extraurbane principali hanno una sola corsia per ogni senso di marcia.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری برای هر جهت حرکت فقط یک باند دارند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_14',
+      italianText: 'Sulle strade extraurbane principali i ciclomotori possono transitare.',
+      farsiTranslation: 'در جاده‌های اصلی برون‌شهری موتورگازی‌ها می‌توانند عبور کنند.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_15',
+      italianText: 'Nelle strade extraurbane principali non vi sono curve né dossi.',
+      farsiTranslation: 'در جاده‌های اصلی برون‌شهری پیچ یا برآمدگی وجود ندارد.',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_18_16',
+      italianText: 'Le strade extraurbane principali devono essere dotate di pannelli a messaggio variabile.',
+      farsiTranslation: 'جاده‌های اصلی برون‌شهری باید دارای تابلوهای پیام متغیر باشند.',
       correctAnswer: 'Falso'
     }
   ]
