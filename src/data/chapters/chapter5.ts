@@ -23,7 +23,7 @@ Non indica l'inizio del senso unico di circolazione né esclude che possano veni
 
 این تابلو به معنای شروع خیابان یک‌طرفه (Senso unico) نیست و آمدن خودروها از روبه‌رو را نفی نمی‌کند (جاده می‌تواند همچنان دوطرفه باشد). مسیر پیشنهادی (Direzione consigliata) نیست.`,
       imageUrl: '/images/5-1.jpg',
-      vocabularyIds: ['direzione_obbligatoria', 'diritto', 'proseguire', 'incrocio', 'esclude'],
+      vocabularyIds: [ 'direzione_obbligatoria', 'diritto', 'proseguire', 'incrocio', 'esclude', 'non', 'con', 'obbliga', 'possono', 'posto', 'una', 'un', 'che', 'del', 'dei', 'quale', 'come', 'inoltre', 'segnale', 'segnali', 'senso', 'unico', 'parte', 'direzione', 'circolare', 'minima', 'blu', 'genere', 'catene', 'e_verb'],
       questionIds: Array.from({ length: 21 }, (_, i) => `q_5_1_${i + 1}`)
     },
     {
@@ -42,7 +42,7 @@ Non significa preavviso di curva a sinistra.`,
 
 این تابلو را نباید با عبور از سمت چپ مانع (Passaggio obbligatorio) یا پیش‌آگهی پیچ خطرناک به چپ (Curva a sinistra) اشتباه گرفت.`,
       imageUrl: '/images/5-2.jpg',
-      vocabularyIds: ['sinistra', 'svoltare', 'passaggio_obbligatorio', 'curva_a_sinistra'],
+      vocabularyIds: [ 'sinistra', 'svoltare', 'passaggio_obbligatorio', 'curva_a_sinistra', 'non', 'un', 'passaggio', 'passare', 'curva', 'e_verb'],
       questionIds: Array.from({ length: 24 }, (_, i) => `q_5_2_${i + 1}`)
     },
     {
@@ -59,7 +59,7 @@ Non indica un'area di parcheggio a destra né di passare a destra di un ostacolo
 
 این تابلو نشانه پارکینگ در سمت راست یا تابلوی عبور از سمت راست مانع نیست. همچنین به معنای شروع خیابان یک‌طرفه در حین پیچیدن نیست.`,
       imageUrl: '/images/5-3.jpg',
-      vocabularyIds: ['destra', 'area_di_parcheggio', 'passare_a_destra'],
+      vocabularyIds: [ 'destra', 'area_di_parcheggio', 'passare_a_destra', 'non', 'un', 'passare', 'parcheggio', 'corrispondenza'],
       questionIds: Array.from({ length: 25 }, (_, i) => `q_5_3_${i + 1}`)
     },
     {
@@ -78,7 +78,7 @@ Non indica una curva pericolosa a destra o una confluenza.`,
 
 این تابلو دستور به پیچیدنِ در همان لحظه (Subito) را نمی‌دهد، بلکه برای تقاطع بعدی است. نباید با پیچ خطرناک یا جاده فرعی اشتباه شود.`,
       imageUrl: '/images/5-4.jpg',
-      vocabularyIds: ['preavviso', 'incrocio_con_obbligo', 'distanza', 'subito', 'confluenza'],
+      vocabularyIds: [ 'preavviso', 'incrocio_con_obbligo', 'distanza', 'subito', 'confluenza', 'non', 'con', 'prima', 'obbliga', 'puo', 'posto', 'una', 'un', 'che', 'dal', 'direzione', 'curva', 'pericolosa', 'pannello', 'integrato', 'punto', 'preannuncia', 'più'],
       questionIds: Array.from({ length: 29 }, (_, i) => `q_5_4_${i + 1}`)
     },
     {
@@ -95,7 +95,7 @@ Non è un percorso facoltativo o consigliato, è un OBBLIGO per i veicoli merci 
 
 این مسیر پیشنهادی (Consigliata) یا اختیاری نیست، بلکه برای این دسته از خودروها اجباری است. ربطی به پمپ بنزین یا پارکینگ کامیون‌ها ندارد.`,
       imageUrl: '/images/5-5.jpg',
-      vocabularyIds: ['percorso_obbligatorio', 'autocarri', 'direzione_della_freccia', 'consigliato'],
+      vocabularyIds: [ 'percorso_obbligatorio', 'autocarri', 'direzione_della_freccia', 'consigliato', 'non', 'vieta', 'una', 'un', 'della', 'agli', 'nella', 'percorso', 'direzione', 'merci', 'preannuncia', 'e_verb'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_5_5_${i + 1}`)
     },
     {
@@ -112,7 +112,7 @@ Non indica un senso unico o un obbligo di cambiare corsia.`,
 
 این تابلو برای جاده‌های شیب‌دار، تعویض لاین (Cambiare corsia) یا جاده یک‌طرفه نیست.`,
       imageUrl: '/images/5-6.jpg',
-      vocabularyIds: ['prossimo_incrocio', 'girare_a_destra', 'cambiare_corsia'],
+      vocabularyIds: [ 'prossimo_incrocio', 'girare_a_destra', 'cambiare_corsia', 'non', 'consentito', 'un', 'senso', 'unico', 'preannuncia', 'e_verb'],
       questionIds: Array.from({ length: 26 }, (_, i) => `q_5_6_${i + 1}`)
     },
     {
@@ -129,7 +129,7 @@ Non significa passaggio consentito alla destra e alla sinistra di un ostacolo.`,
 
 این تابلو برای عبور از دو طرف مانع یا ردیف شدن در دو صف (File parallele) نیست. تابلوی راهنما (Indicazione) نمی‌باشد.`,
       imageUrl: '/images/5-7.jpg',
-      vocabularyIds: ['direzioni_consentite', 'impossibilita', 'ostacolo', 'file_parallele'],
+      vocabularyIds: [ 'direzioni_consentite', 'impossibilita', 'ostacolo', 'file_parallele', 'non', 'obbliga', 'consentito', 'un', 'alla', 'passaggio'],
       questionIds: Array.from({ length: 23 }, (_, i) => `q_5_7_${i + 1}`)
     },
     {
@@ -146,7 +146,7 @@ Non obbliga a passare a destra di un cantiere stradale.`,
 
 این تابلو الزام به پیچیدنِ صرف به راست یا مستقیمِ محض را نشان نمی‌دهد، بلکه حق انتخاب دارید. عبور از سمت راست کارگاه جاده‌ای نیست.`,
       imageUrl: '/images/5-8.jpg',
-      vocabularyIds: ['diritto_e_destra', 'impossibilita_di_svoltare', 'cantiere_stradale'],
+      vocabularyIds: [ 'diritto_e_destra', 'impossibilita_di_svoltare', 'cantiere_stradale', 'non', 'obbliga', 'un', 'stradale', 'passare', 'cantiere'],
       questionIds: Array.from({ length: 22 }, (_, i) => `q_5_8_${i + 1}`)
     },
     {
@@ -163,7 +163,7 @@ Non obbliga a passare a sinistra di un cantiere stradale né di sorpassare lo sp
 
 این تابلو به معنای افزایش خطوط عبوری (Corsie disponibili) یا عبور از کنار مانع/رفوژ وسط جاده نیست. حق تقدم را مشخص نمی‌کند.`,
       imageUrl: '/images/5-9.jpg',
-      vocabularyIds: ['diritto_e_sinistra', 'non_svoltare', 'spartitraffico', 'corsie_disponibili'],
+      vocabularyIds: [ 'diritto_e_sinistra', 'non_svoltare', 'spartitraffico', 'corsie_disponibili', 'non', 'obbliga', 'un', 'che', 'stradale', 'passare', 'cantiere'],
       questionIds: Array.from({ length: 21 }, (_, i) => `q_5_9_${i + 1}`)
     },
     {
@@ -180,7 +180,7 @@ Non obbliga a svoltare a sinistra, non indica direzione obbligatoria o incrocio.
 
 این تابلوی گردش به چپ (Svoltare) در تقاطع نیست؛ جاده عوض نمی‌شود، بلکه فقط از کنار مانع رد می‌شوید. قبل از میدان (Rotatoria) نصب نمی‌شود.`,
       imageUrl: '/images/5-10.jpg',
-      vocabularyIds: ['passaggio_obbligatorio', 'ostacolo', 'isola_di_traffico', 'salvagente', 'lasciare_a_destra'],
+      vocabularyIds: [ 'passaggio_obbligatorio', 'ostacolo', 'isola_di_traffico', 'salvagente', 'lasciare_a_destra', 'non', 'obbliga', 'un', 'passare', 'direzione', 'cantiere'],
       questionIds: Array.from({ length: 20 }, (_, i) => `q_5_10_${i + 1}`)
     },
     {
@@ -197,7 +197,7 @@ Non indica obbligo di svoltare a destra o direzione obbligatoria a destra.`,
 
 این تابلوی پیچیدن به راست در تقاطع نیست. نشانه پیچ خطرناک یا جاده ناهموار در سمت راست نمی‌باشد.`,
       imageUrl: '/images/5-11.jpg',
-      vocabularyIds: ['passare_a_destra', 'non_superare', 'spartitraffico'],
+      vocabularyIds: [ 'passare_a_destra', 'non_superare', 'spartitraffico', 'non', 'obbliga', 'un', 'passare', 'direzione', 'cantiere'],
       questionIds: Array.from({ length: 19 }, (_, i) => `q_5_11_${i + 1}`)
     },
     {
@@ -214,7 +214,7 @@ Non obbliga a svoltare a sinistra o a destra all'incrocio. Non è preceduto da R
 
 این تابلوی گردش به چپ و راست در تقاطع نیست. عبور از این جاده را ممنوع نمی‌کند و معمولاً قبل از میدان نصب نمی‌شود.`,
       imageUrl: '/images/5-12.jpg',
-      vocabularyIds: ['passaggi_consentiti', 'ambedue_i_lati', 'ostacolo', 'svoltare_all_incrocio'],
+      vocabularyIds: [ 'passaggi_consentiti', 'ambedue_i_lati', 'ostacolo', 'svoltare_all_incrocio', 'non', 'di_norma', 'obbliga', 'un', 'che', 'gli', 'sia', 'passaggio', 'cantiere', 'unici', 'e_verb'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_5_12_${i + 1}`)
     },
     {
@@ -233,7 +233,7 @@ Non prescrive un obbligo solo per le autovetture. Non è collocato al centro del
 
 این قانون شامل همه وسایل نقلیه (حتی موتورگازی) می‌شود و مختص سواری‌ها نیست. این تابلو در مرکز میدان روی ستون نصب نمی‌شود، بلکه قبل از ورودی میدان است. تابلوی بن‌بست نیست.`,
       imageUrl: '/images/5-13.jpg',
-      vocabularyIds: ['rotatoria', 'verso_delle_frecce', 'sbocco', 'segnale_triangolare', 'colonnina_luminosa'],
+      vocabularyIds: [ 'rotatoria', 'verso_delle_frecce', 'sbocco', 'segnale_triangolare', 'colonnina_luminosa', 'non', 'con', 'prima', 'posto', 'un', 'delle', 'dal', 'sul', 'segnale', 'circolare', 'autovetture', 'destro', 'lato', 'e_verb'],
       questionIds: Array.from({ length: 19 }, (_, i) => `q_5_13_${i + 1}`)
     },
     {
@@ -252,7 +252,7 @@ Non prescrive di marciare alla velocità COSTANTE esatta. Non vieta di superare 
 
 این تابلو به معنای حرکت با سرعت کاملاً ثابت و یکنواخت نیست. تابلوی پایان محدودیت حداکثر سرعت نیست. نشانه فاصله ایمنی ۳۰ متری هم نمی‌باشد.`,
       imageUrl: '/images/5-14.jpg',
-      vocabularyIds: ['limite_minimo', 'al_di_sotto', 'vietato_circolare', 'velocita_costante', 'distanza_minima_sicurezza'],
+      vocabularyIds: [ 'limite_minimo', 'al_di_sotto', 'vietato_circolare', 'velocita_costante', 'distanza_minima_sicurezza', 'non', 'con', 'vieta', 'puo', 'una', 'un', 'che', 'della', 'del', 'alla', 'quale', 'circolare', 'marciare', 'avere', 'limite', 'limiti', 'minimo', 'generali', 'pannello', 'e_verb'],
       questionIds: Array.from({ length: 25 }, (_, i) => `q_5_14_${i + 1}`)
     },
     {
@@ -269,7 +269,7 @@ Non indica la fine del limite massimo. Non vieta di circolare alla velocità ind
 
 این تابلو پایان سقف سرعت (Limite massimo) نیست. همچنین ربطی به محدودیت وزن خودرو یا فاصله ایمنی بین ماشین‌ها ندارد. رانندگی با همان سرعت را ممنوع نمی‌کند.`,
       imageUrl: '/images/5-15.jpg',
-      vocabularyIds: ['fine_limite_minimo', 'velocita_inferiore_superiore', 'limite_massimo', 'distanza_di_almeno'],
+      vocabularyIds: [ 'fine_limite_minimo', 'velocita_inferiore_superiore', 'limite_massimo', 'distanza_di_almeno', 'non', 'vieta', 'della', 'del', 'alla', 'circolare', 'limite', 'limiti', 'massimo', 'minimo', 'più'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_5_15_${i + 1}`)
     },
     {
@@ -288,7 +288,7 @@ Non obbliga a togliere le catene. Non basta solo averle a bordo (subito dopo il 
 
 همراه داشتن زنجیر در صندق عقب به تنهایی کافی نیست (باید بسته شود یا لاستیک زمستانی باشد). این تابلو دستور به باز کردن زنجیرها نمی‌دهد. ربطی به آج لاستیک کمتر از ۳ میلی‌متر ندارد.`,
       imageUrl: '/images/5-16.jpg',
-      vocabularyIds: ['catene_da_neve', 'pneumatici_invernali', 'ruote_motrici', 'sprovvisti', 'innevate_ghiacciate'],
+      vocabularyIds: [ 'catene_da_neve', 'pneumatici_invernali', 'ruote_motrici', 'sprovvisti', 'innevate_ghiacciate', 'non', 'con', 'dopo', 'obbliga', 'vieta', 'sulle', 'segnale', 'circolare', 'occorre', 'catene', 'e_verb'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_5_16_${i + 1}`)
     },
     {
@@ -305,7 +305,7 @@ Non consente il transito ai veicoli anche se con prudenza. Non è un attraversam
 
 این تابلو خط‌کشی عابر پیاده (Attraversamento pedonale) در خیابان نیست، بلکه یک مسیر کاملاً مجزا و تفکیک‌شده است. رانندگی با احتیاط خودروها هم در آن مجاز نیست. ممنوعیت عبور پیاده‌ها نیست.`,
       imageUrl: '/images/5-17.jpg',
-      vocabularyIds: ['percorso_pedonale', 'viale_pedonale', 'riservato', 'attraversamento_pedonale'],
+      vocabularyIds: [ 'percorso_pedonale', 'viale_pedonale', 'riservato', 'attraversamento_pedonale', 'non', 'con', 'tutti', 'vieta', 'un', 'che', 'segnale', 'attraversamento', 'percorso', 'pedonale', 'e_verb'],
       questionIds: Array.from({ length: 9 }, (_, i) => `q_5_17_${i + 1}`)
     },
     {
@@ -322,7 +322,7 @@ Non vieta il transito ai pedoni (possono continuare a camminare insieme agli alt
 
 این تابلو عابران پیاده را از ادامه حرکت منع نمی‌کند. پیش‌آگهی خط‌کشی عابر پیاده یا ممنوعیت ورود عابران نیست.`,
       imageUrl: '/images/5-18.jpg',
-      vocabularyIds: ['fine_percorso', 'non_riservato', 'utenti_della_strada'],
+      vocabularyIds: [ 'fine_percorso', 'non_riservato', 'utenti_della_strada', 'non', 'vieta', 'possono', 'un', 'che', 'della', 'del', 'agli', 'attraversamento', 'percorso', 'più', 'e_verb'],
       questionIds: Array.from({ length: 7 }, (_, i) => `q_5_18_${i + 1}`)
     },
     {
@@ -339,7 +339,7 @@ Non indica un attraversamento ciclabile regolato da semaforo.`,
 
 این تابلو خط‌کشی محل عبور دوچرخه از عرض خیابان (Attraversamento ciclabile) نیست. عبور دوچرخه‌ها را ممنوع نمی‌کند، بلکه مسیر اختصاصی آن‌هاست. با موتورگازی مشترک نیست.`,
       imageUrl: '/images/5-19.jpg',
-      vocabularyIds: ['pista_ciclabile', 'velocipedi', 'esclusivamente', 'attraversamento_ciclabile'],
+      vocabularyIds: [ 'pista_ciclabile', 'velocipedi', 'esclusivamente', 'attraversamento_ciclabile', 'non', 'un', 'alle', 'attraversamento', 'percorso', 'ciclomotori', 'autovetture', 'ciclabile'],
       questionIds: Array.from({ length: 9 }, (_, i) => `q_5_19_${i + 1}`)
     },
     {
@@ -356,7 +356,7 @@ Non indica un divieto di sosta per le biciclette o la fine di un percorso pedona
 
 این تابلو پارک ممنوع برای دوچرخه نیست. عبور دوچرخه‌ها و موتورگازی‌ها را ممنوع نمی‌کند و ربطی به مسیر پیاده‌رو ندارد.`,
       imageUrl: '/images/5-20.jpg',
-      vocabularyIds: ['fine_pista', 'viabilita_ordinaria', 'divieto_di_sosta_bici'],
+      vocabularyIds: [ 'fine_pista', 'viabilita_ordinaria', 'divieto_di_sosta_bici', 'non', 'vieta', 'possono', 'un', 'della', 'alle', 'sulla', 'percorso', 'divieto', 'circolare', 'pedonale', 'pista'],
       questionIds: Array.from({ length: 8 }, (_, i) => `q_5_20_${i + 1}`)
     },
     {
@@ -373,7 +373,7 @@ Non indica un percorso unico promiscuo (misto) per pedoni e bici (le corsie sono
 
 این تابلو یک مسیر مشترک و مخلوط (Promiscuo/Misto) برای پیاده و دوچرخه نیست، بلکه دو لاین جدا از هم اما چسبیده به هم هستند. نیازی به هدایت دوچرخه با دست (A mano) نیست.`,
       imageUrl: '/images/5-21.jpg',
-      vocabularyIds: ['contigua', 'marciapiede', 'affiancata', 'percorso_promiscuo', 'a_mano'],
+      vocabularyIds: [ 'contigua', 'marciapiede', 'affiancata', 'percorso_promiscuo', 'a_mano', 'non', 'un', 'unico', 'percorso', 'motore', 'separate', 'pedonale', 'ciclabile'],
       questionIds: Array.from({ length: 8 }, (_, i) => `q_5_21_${i + 1}`)
     },
     {
@@ -390,7 +390,7 @@ Non indica una pista riservata in alcuni giorni ai pedoni e in altri alle bici.`
 
 این تابلو به معنای نوبتی بودن مسیر در روزهای مختلف هفته برای پیاده‌ها و دوچرخه‌ها نیست. عبور دوچرخه با دست را ممنوع نمی‌کند.`,
       imageUrl: '/images/5-22.jpg',
-      vocabularyIds: ['fine_pista_contigua', 'vietato_transito_bici'],
+      vocabularyIds: [ 'fine_pista_contigua', 'vietato_transito_bici', 'non', 'vieta', 'possono', 'una', 'del', 'alle', 'percorso', 'circolare', 'pedonale', 'ciclabile', 'pista'],
       questionIds: Array.from({ length: 8 }, (_, i) => `q_5_22_${i + 1}`)
     },
     {
@@ -407,7 +407,7 @@ Non indica una pista ciclabile a fianco del marciapiede (separata).`,
 
 این تابلو به معنای لاین‌های موازی جداگانه (Contigua) نیست، بلکه فضا کاملاً مشترک است. نیازی به حرکت دادن دوچرخه با دست نیست.`,
       imageUrl: '/images/5-23.jpg',
-      vocabularyIds: ['percorso_unico', 'circolazione_promiscua', 'viale_misto', 'veicoli_a_motore'],
+      vocabularyIds: [ 'percorso_unico', 'circolazione_promiscua', 'viale_misto', 'veicoli_a_motore', 'non', 'una', 'un', 'del', 'dei', 'alla', 'motore', 'ciclabile', 'pista'],
       questionIds: Array.from({ length: 8 }, (_, i) => `q_5_23_${i + 1}`)
     },
     {
@@ -424,7 +424,7 @@ Non indica la fine della sola pista ciclabile o del solo percorso pedonale.`,
 
 این تابلو عبور دوچرخه‌ها با دست را ممنوع نمی‌کند و فقط مختص به پایان یکی از دو مسیر (تنها پیاده یا تنها دوچرخه) نیست، بلکه پایان مسیر مشترک است.`,
       imageUrl: '/images/5-24.jpg',
-      vocabularyIds: ['fine_percorso_unico', 'velocipedi', 'transito_consentito'],
+      vocabularyIds: [ 'fine_percorso_unico', 'velocipedi', 'transito_consentito', 'non', 'dopo', 'della', 'del', 'sulla', 'segnale', 'unico', 'percorso', 'pedonale', 'ciclabile', 'pista'],
       questionIds: Array.from({ length: 7 }, (_, i) => `q_5_24_${i + 1}`)
     },
     {
@@ -441,7 +441,7 @@ Non indica la vicinanza di un maneggio o la presenza di animali vaganti (pericol
 
 این تابلو خطر عبور حیوانات سرگردان (Animali vaganti) یا نزدیکی باشگاه سوارکاری (Maneggio) را نشان نمی‌دهد، بلکه یک لاین دستوری و اختصاصی عبور است.`,
       imageUrl: '/images/5-25.jpg',
-      vocabularyIds: ['animali_da_soma', 'animali_da_sella', 'veicoli_vietati', 'maneggio', 'animali_vaganti'],
+      vocabularyIds: [ 'animali_da_soma', 'animali_da_sella', 'veicoli_vietati', 'maneggio', 'animali_vaganti', 'non', 'tutti', 'vieta', 'un', 'agli', 'percorso', 'soma', 'sella'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_5_25_${i + 1}`)
     },
     {
@@ -458,7 +458,7 @@ Non indica la vicinanza di un ippodromo o la fine di un tratto vietato ai cavall
 
 این تابلو عبور چهارپایان را ممنوع نمی‌کند. ربطی به پیست اسب‌دوانی (Ippodromo) یا پایان منطقه ممنوعه اسب‌ها ندارد.`,
       imageUrl: '/images/5-26.jpg',
-      vocabularyIds: ['fine_percorso_riservato', 'quadrupedi', 'ippodromo'],
+      vocabularyIds: [ 'fine_percorso_riservato', 'quadrupedi', 'ippodromo', 'non', 'dopo', 'vieta', 'un', 'del', 'agli', 'segnale', 'percorso', 'soma', 'sella'],
       questionIds: Array.from({ length: 7 }, (_, i) => `q_5_26_${i + 1}`)
     },
     {
@@ -477,7 +477,7 @@ Non segnala un controllo doganale o una stazione autostradale.`,
 
 این تابلو فقط برای کاهش سرعت نیست؛ توقف اجباری است حتی اگر مأمور تابلوی دست‌پایان (Paletta) را نشان ندهد. برای گمرک یا عوارضی اتوبان نیست.`,
       imageUrl: '/images/5-27.jpg',
-      vocabularyIds: ['alt_polizia', 'posto_di_blocco', 'punto_di_arresto', 'paletta', 'controllo_doganale'],
+      vocabularyIds: [ 'alt_polizia', 'posto_di_blocco', 'punto_di_arresto', 'paletta', 'controllo_doganale', 'non', 'obbliga', 'viene', 'posto', 'una', 'un', 'del', 'gli', 'quale', 'segnala', 'stradale', 'polizia', 'punto', 'blocco', 'doganale', 'e_verb'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_5_27_${i + 1}`)
     },
     {
@@ -494,7 +494,7 @@ Non indica una stazione ferroviaria, né un posto di blocco della polizia o pont
 
 کلمه Stazione به معنای ایستگاه قطار (Ferroviaria) نیست! همچنین برای ایست بازرسی پلیس یا بارگیری خودرو روی قطار/کشتی نمی‌باشد.`,
       imageUrl: '/images/5-28.jpg',
-      vocabularyIds: ['alt_stazione', 'caselli_autostradali', 'pedaggio', 'stazione_ferroviaria', 'pontili_d_imbarco'],
+      vocabularyIds: [ 'alt_stazione', 'caselli_autostradali', 'pedaggio', 'stazione_ferroviaria', 'pontili_d_imbarco', 'non', 'obbliga', 'posto', 'una', 'un', 'della', 'alla', 'quale', 'segnala', 'polizia', 'blocco', 'e_verb'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_5_28_${i + 1}`)
     },
     {
@@ -511,7 +511,7 @@ Non si trova alla frontiera con paesi dell'Unione Europea (dove il transito è l
 
 این تابلو در مرزهای بین کشورهای داخل اتحادیه اروپا (نظیر مرز ایتالیا و فرانسه) وجود ندارد. نشانه اداره کل یا کلانتری پلیس نیست.`,
       imageUrl: '/images/5-29.jpg',
-      vocabularyIds: ['alt_dogana', 'varco_doganale', 'frontiera', 'paese_extracomunitario', 'merci_da_dichiarare'],
+      vocabularyIds: [ 'alt_dogana', 'varco_doganale', 'frontiera', 'paese_extracomunitario', 'merci_da_dichiarare', 'non', 'con', 'dove', 'obbliga', 'un', 'alla', 'segnala', 'merci', 'fuori', 'paese', 'doganale', 'e_verb'],
       questionIds: Array.from({ length: 8 }, (_, i) => `q_5_29_${i + 1}`)
     },
     {
@@ -528,7 +528,7 @@ Non è posto dietro al veicolo per indicare la nazionalità.`,
 
 این تابلو هیچ توقف اجباری ایجاد نمی‌کند. پلاک یا برچسب پشت خودرو برای مشخص کردن ملیت راننده نیست. ایست بازرسی پلیس را اعلام نمی‌کند.`,
       imageUrl: '/images/5-30.jpg',
-      vocabularyIds: ['confine_di_stato', 'unione_europea', 'non_obbliga_ad_arrestarsi', 'nazionalita'],
+      vocabularyIds: [ 'confine_di_stato', 'unione_europea', 'non_obbliga_ad_arrestarsi', 'nazionalita', 'non', 'con', 'obbliga', 'posto', 'un', 'che', 'parte', 'stato', 'paese', 'e_verb'],
       questionIds: Array.from({ length: 9 }, (_, i) => `q_5_30_${i + 1}`)
     },
     {
@@ -545,7 +545,7 @@ Non obbliga ad arrestarsi per controlli doganali alla frontiera.`,
 
 این تابلو هشدار ایست بازرسی یا توقف در مرز ندارد. برچسب پشت ماشین برای نشان دادن مشخصات شهروندی اتحادیه اروپا نیست.`,
       imageUrl: '/images/5-31.jpg',
-      vocabularyIds: ['preavviso_confine', 'distanza_dal_confine', 'controllo_doganale'],
+      vocabularyIds: [ 'preavviso_confine', 'distanza_dal_confine', 'controllo_doganale', 'non', 'con', 'obbliga', 'posto', 'che', 'alla', 'dal', 'sulle', 'stato'],
       questionIds: Array.from({ length: 9 }, (_, i) => `q_5_31_${i + 1}`)
     }
   ],

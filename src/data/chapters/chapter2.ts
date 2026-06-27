@@ -25,7 +25,7 @@ Bisogna rallentare, tenere saldamente il volante ed evitare sbandamenti e sollec
 رفتار:
 باید سرعت را کم کرد، فرمان را محکم گرفت و از انحراف خودرو و فشار به سیستم تعلیق جلوگیری کرد. در صورت وجود دید کافی، سبقت مجاز است. تابلو می‌تواند با پنل «امتداد» یا محدودیت حداکثر سرعت تکمیل شود؛ زمینه زرد نشان‌دهنده کارگاه جاده‌ای است.`,
       imageUrl: '/images/2-1.jpg',
-      vocabularyIds: ['ammortizzatori', 'cantiere_stradale', 'cattivo_stato', 'consentito', 'cunette', 'danni', 'dissestata', 'dossi', 'evitare', 'fondo_giallo', 'forte', 'indica', 'non_indica', 'obbligo', 'pavimentazione_irregolare', 'pendenza', 'per', 'rallentare', 'sbandamenti', 'sbandamento', 'se', 'sorpasso', 'sospensioni', 'specifici', 'strada', 'strada_deformata', 'variazione_pendenza', 'visibilita'],
+      vocabularyIds: [ 'ammortizzatori', 'cantiere_stradale', 'cattivo_stato', 'consentito', 'cunette', 'danni', 'dissestata', 'dossi', 'evitare', 'fondo_giallo', 'forte', 'indica', 'non_indica', 'obbligo', 'pavimentazione_irregolare', 'pendenza', 'per', 'rallentare', 'sbandamenti', 'sbandamento', 'se', 'sorpasso', 'sospensioni', 'specifici', 'strada', 'strada_deformata', 'variazione_pendenza', 'visibilita', 'con', 'prima', 'puo', 'una', 'un', 'della', 'del', 'dei', 'alle', 'dal', 'come', 'segnale', 'segnali', 'segnala', 'diversa', 'sollecitazioni', 'pericolose', 'tenere', 'metri', 'limite', 'massimo', 'generali', 'circa', 'salvo_word', 'pannello', 'giallo', 'cantiere', 'stato', 'deformata', 'pavimentazione', 'saldamente', 'volante', 'completato', 'genere', 'soprattutto', 'e_verb'],
       questionIds: ['q_2_1_1', 'q_2_1_2', 'q_2_1_3', 'q_2_1_4', 'q_2_1_5', 'q_2_1_6', 'q_2_1_7', 'q_2_1_8', 'q_2_1_9', 'q_2_1_10', 'q_2_1_11', 'q_2_1_12', 'q_2_1_13', 'q_2_1_14', 'q_2_1_15', 'q_2_1_16', 'q_2_1_17', 'q_2_1_18', 'q_2_1_19', 'q_2_1_20', 'q_2_1_21', 'q_2_1_22', 'q_2_1_23', 'q_2_1_24', 'q_2_1_25', 'q_2_1_26', 'q_2_1_27', 'q_2_1_28', 'q_2_1_29']
     },
     {
@@ -46,7 +46,7 @@ Ridurre la velocità e, sulle strade a doppio senso con due sole corsie, tenersi
 رفتار:
 سرعت را کاهش دهید و در جاده دوطرفه دو بانده تا حد ممکن نزدیک حاشیه راست حرکت کنید.`,
       imageUrl: '/images/2-2.jpg',
-      vocabularyIds: ['almeno', 'comportamento', 'consentito', 'corsie', 'diminuire', 'discesa', 'dosso', 'fermata', 'indica', 'inversione', 'margine_destro', 'pendenza', 'per', 'retromarcia', 'salita', 'seguito', 'senso_unico', 'solo', 'sorpasso', 'sosta', 'strade', 'tenersi', 'tratto', 'variazione_pendenza', 'velocita', 'vietati', 'vietati_pl', 'visibilita', 'visibilita_limitata'],
+      vocabularyIds: [ 'almeno', 'comportamento', 'consentito', 'corsie', 'diminuire', 'discesa', 'dosso', 'fermata', 'indica', 'inversione', 'margine_destro', 'pendenza', 'per', 'retromarcia', 'salita', 'seguito', 'senso_unico', 'solo', 'sorpasso', 'sosta', 'strade', 'tenersi', 'tratto', 'variazione_pendenza', 'velocita', 'vietati', 'vietati_pl', 'visibilita', 'visibilita_limitata', 'con', 'ogni', 'una', 'che', 'sul', 'sulle', 'oppure', 'segnale', 'senso', 'unico', 'doppio', 'due', 'direzione', 'divieti', 'ridurre', 'normalmente', 'possibile', 'margine', 'destro', 'più', 'e_verb'],
       questionIds: ['q_2_2_1', 'q_2_2_2', 'q_2_2_3', 'q_2_2_4', 'q_2_2_5', 'q_2_2_6', 'q_2_2_7', 'q_2_2_8', 'q_2_2_9', 'q_2_2_10', 'q_2_2_11', 'q_2_2_12', 'q_2_2_13', 'q_2_2_14', 'q_2_2_15', 'q_2_2_16', 'q_2_2_17', 'q_2_2_18', 'q_2_2_19', 'q_2_2_20', 'q_2_2_21', 'q_2_2_22', 'q_2_2_23', 'q_2_2_24']
     },
     {
@@ -67,7 +67,7 @@ Moderare la velocità, tenere saldamente il volante e mantenere il controllo del
 رفتار:
 سرعت را متعادل کنید، فرمان را محکم نگه دارید و کنترل خودرو را حفظ کنید.`,
       imageUrl: '/images/2-3.jpg',
-      vocabularyIds: ['accumulo_acqua', 'aquaplaning', 'banchina_cedevole', 'consentito', 'controllo', 'cunetta', 'discesa', 'fango', 'in_caso_di', 'indica', 'mantenere', 'moderare', 'non_danneggiare', 'non_indica', 'per', 'pericolo', 'pioggia', 'salita', 'sorpasso', 'sospensioni', 'strada', 'strada_deformata', 'velocita', 'visibilita'],
+      vocabularyIds: [ 'accumulo_acqua', 'aquaplaning', 'banchina_cedevole', 'consentito', 'controllo', 'cunetta', 'discesa', 'fango', 'in_caso_di', 'indica', 'mantenere', 'moderare', 'non_danneggiare', 'non_indica', 'per', 'pericolo', 'pioggia', 'salita', 'sorpasso', 'sospensioni', 'strada', 'strada_deformata', 'velocita', 'visibilita', 'con', 'puo', 'una', 'del', 'alle', 'nella', 'quindi', 'inoltre', 'segnale', 'parte', 'bassa', 'accumularsi', 'acqua', 'rischio', 'provocare', 'sollecitazioni', 'passaggio', 'pericoli', 'tenere', 'normalmente', 'saldamente', 'volante', 'soprattutto', 'più', 'e_verb'],
       questionIds: ['q_2_3_1', 'q_2_3_2', 'q_2_3_3', 'q_2_3_4', 'q_2_3_5', 'q_2_3_6', 'q_2_3_7', 'q_2_3_8', 'q_2_3_9', 'q_2_3_10', 'q_2_3_11', 'q_2_3_12', 'q_2_3_13', 'q_2_3_14', 'q_2_3_15', 'q_2_3_16', 'q_2_3_17', 'q_2_3_18', 'q_2_3_19', 'q_2_3_20', 'q_2_3_21']
     },
     {
@@ -88,7 +88,7 @@ Ridurre la velocità in base alla visibilità, al raggio della curva e allo stat
 رفتار:
 سرعت را متناسب با دید، شعاع پیچ و وضعیت لاستیک‌ها کاهش دهید. در جاده دوطرفه دو بانده نزدیک حاشیه راست بمانید. ممکن است با پنل Tornante تکمیل شود.`,
       imageUrl: '/images/2-4.jpg',
-      vocabularyIds: ['carreggiate_separate', 'comportamento', 'consentito', 'corsie', 'curva_pericolosa', 'destra', 'doppio_senso', 'due_corsie', 'fermata', 'indica', 'margine_destro', 'non_rettilineo', 'per', 'piu', 'piu_possibile', 'rallentare', 'retromarcia', 'se', 'senso_unico', 'solo', 'sorpasso', 'sosta', 'strada', 'tenersi', 'tratto', 'vicino', 'vietati', 'vietati_pl', 'visibilita', 'visibilita_limitata'],
+      vocabularyIds: [ 'carreggiate_separate', 'comportamento', 'consentito', 'corsie', 'curva_pericolosa', 'destra', 'doppio_senso', 'due_corsie', 'fermata', 'indica', 'margine_destro', 'non_rettilineo', 'per', 'piu', 'piu_possibile', 'rallentare', 'retromarcia', 'se', 'senso_unico', 'solo', 'sorpasso', 'sosta', 'strada', 'tenersi', 'tratto', 'vicino', 'vietati', 'vietati_pl', 'visibilita', 'visibilita_limitata', 'non', 'con', 'ogni', 'puo', 'una', 'un', 'della', 'alla', 'dal', 'nel', 'quale', 'cioè', 'senso', 'unico', 'doppio', 'due', 'direzione', 'curva', 'pericolosa', 'divieti', 'ridurre', 'normalmente', 'pannello', 'integrato', 'margine', 'destro', 'stato', 'raggio', 'allo', 'e_verb'],
       questionIds: ['q_2_4_1', 'q_2_4_2', 'q_2_4_3', 'q_2_4_4', 'q_2_4_5', 'q_2_4_6', 'q_2_4_7', 'q_2_4_8', 'q_2_4_9', 'q_2_4_10', 'q_2_4_11', 'q_2_4_12', 'q_2_4_13', 'q_2_4_14', 'q_2_4_15', 'q_2_4_16', 'q_2_4_17', 'q_2_4_18', 'q_2_4_19', 'q_2_4_20', 'q_2_4_21', 'q_2_4_22', 'q_2_4_23', 'q_2_4_24', 'q_2_4_25', 'q_2_4_26']
     },
     {
@@ -109,7 +109,7 @@ Ridurre la velocità in base alla visibilità, al raggio della curva e allo stat
 رفتار:
 سرعت را متناسب با دید، شعاع پیچ و وضعیت لاستیک‌ها کاهش دهید و نزدیک حاشیه راست بمانید. این تابلو انحراف مسیر یا مانعی برای دورزدن را نشان نمی‌دهد.`,
       imageUrl: '/images/2-5.jpg',
-      vocabularyIds: ['almeno', 'comportamento', 'consentito', 'corsie', 'fermata', 'indica', 'non_rettilineo', 'obbligo_di_svolta', 'ostacolo', 'per', 'raggio_della_curva', 'rallentare', 'retromarcia', 'rotatoria', 'senso_unico', 'sinistra', 'solo', 'sorpasso', 'sosta', 'strada', 'strade', 'tratto', 'vietati', 'vietati_pl', 'visibilita', 'visibilita_limitata'],
+      vocabularyIds: [ 'almeno', 'comportamento', 'consentito', 'corsie', 'fermata', 'indica', 'non_rettilineo', 'obbligo_di_svolta', 'ostacolo', 'per', 'raggio_della_curva', 'rallentare', 'retromarcia', 'rotatoria', 'senso_unico', 'sinistra', 'solo', 'sorpasso', 'sosta', 'strada', 'strade', 'tratto', 'vietati', 'vietati_pl', 'visibilita', 'visibilita_limitata', 'non', 'con', 'ogni', 'una', 'un', 'della', 'alla', 'nel', 'quale', 'cioè', 'senso', 'unico', 'doppio', 'due', 'direzione', 'curva', 'pericolosa', 'divieti', 'ridurre', 'normalmente', 'margine', 'destro', 'stato', 'raggio', 'allo', 'e_verb'],
       questionIds: ['q_2_5_1', 'q_2_5_2', 'q_2_5_3', 'q_2_5_4', 'q_2_5_5', 'q_2_5_6', 'q_2_5_7', 'q_2_5_8', 'q_2_5_9', 'q_2_5_10', 'q_2_5_11', 'q_2_5_12', 'q_2_5_13', 'q_2_5_14', 'q_2_5_15', 'q_2_5_16', 'q_2_5_17', 'q_2_5_18', 'q_2_5_19', 'q_2_5_20', 'q_2_5_21', 'q_2_5_22', 'q_2_5_23', 'q_2_5_24', 'q_2_5_25', 'q_2_5_26']
     },
     {
@@ -128,7 +128,7 @@ Può essere integrato dai pannelli Tornanti o Estesa.`,
 
 ممکن است با پنل‌های Tornanti یا Estesa تکمیل شود.`,
       imageUrl: '/images/2-6.jpg',
-      vocabularyIds: ['carico_del_veicolo', 'comportamento', 'destra', 'doppia_curva', 'essere', 'estesa', 'in_caso_di', 'indica', 'moderare', 'pioggia', 'puo', 'retromarcia', 'sorpasso', 'sosta', 'tornanti', 'velocita', 'vietati', 'vietati_pl', 'visibilita'],
+      vocabularyIds: [ 'carico_del_veicolo', 'comportamento', 'destra', 'doppia_curva', 'essere', 'estesa', 'in_caso_di', 'indica', 'moderare', 'pioggia', 'puo', 'retromarcia', 'sorpasso', 'sosta', 'tornanti', 'velocita', 'vietati', 'vietati_pl', 'visibilita', 'con', 'prima', 'ogni', 'una', 'del', 'delle', 'alla', 'senso', 'unico', 'due', 'curve', 'pericolose', 'divieti', 'ridurre', 'normalmente', 'salvo_word', 'pannelli', 'integrato', 'carico', 'raggio', 'e_verb'],
       questionIds: ['q_2_6_1', 'q_2_6_2', 'q_2_6_3', 'q_2_6_4', 'q_2_6_5', 'q_2_6_6', 'q_2_6_7', 'q_2_6_8', 'q_2_6_9', 'q_2_6_10', 'q_2_6_11', 'q_2_6_12', 'q_2_6_13', 'q_2_6_14', 'q_2_6_15', 'q_2_6_16', 'q_2_6_17', 'q_2_6_18', 'q_2_6_19', 'q_2_6_20', 'q_2_6_21', 'q_2_6_22', 'q_2_6_23', 'q_2_6_24', 'q_2_6_25', 'q_2_6_26', 'q_2_6_27']
     },
     {
@@ -147,7 +147,7 @@ Può essere integrato dai pannelli Tornanti o Estesa.`,
 
 ممکن است با پنل‌های Tornanti یا Estesa تکمیل شود.`,
       imageUrl: '/images/2-7.jpg',
-      vocabularyIds: ['confluenza', 'corsie', 'doppio_senso', 'dossi', 'fare_attenzione', 'indica', 'non_indica', 'rallentare', 'se', 'senso_opposto', 'sinistra', 'sorpasso', 'strada', 'strada_sdrucciolevole', 'strettoia', 'veicoli', 'veicoli_provenienti', 'vietato', 'vietato_past', 'visibilita', 'visibilita_limitata'],
+      vocabularyIds: [ 'confluenza', 'corsie', 'doppio_senso', 'dossi', 'fare_attenzione', 'indica', 'non_indica', 'rallentare', 'se', 'senso_opposto', 'sinistra', 'sorpasso', 'strada', 'strada_sdrucciolevole', 'strettoia', 'veicoli', 'veicoli_provenienti', 'vietato', 'vietato_past', 'visibilita', 'visibilita_limitata', 'con', 'prima', 'ogni', 'puo', 'una', 'del', 'delle', 'alla', 'senso', 'unico', 'due', 'curve', 'pericolose', 'divieti', 'ridurre', 'normalmente', 'salvo_word', 'pannelli', 'integrato', 'carico', 'raggio', 'e_verb'],
       questionIds: ['q_2_7_1', 'q_2_7_2', 'q_2_7_3', 'q_2_7_4', 'q_2_7_5', 'q_2_7_6', 'q_2_7_7', 'q_2_7_8', 'q_2_7_9', 'q_2_7_10', 'q_2_7_11', 'q_2_7_12', 'q_2_7_13', 'q_2_7_14', 'q_2_7_15', 'q_2_7_16', 'q_2_7_17', 'q_2_7_18', 'q_2_7_19', 'q_2_7_20', 'q_2_7_21', 'q_2_7_22', 'q_2_7_23', 'q_2_7_24']
     },
     {
@@ -166,7 +166,7 @@ Sono vietati la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è a
 
 پارک، دورزدن و دنده‌عقب ممنوع است. سبقت فقط با ماندن در نیمه خودِ جاده مجاز است. صلیب سنت آندره مربوط به این نوع گذرگاه نیست.`,
       imageUrl: '/images/2-8.jpg',
-      vocabularyIds: ['barriere', 'binari', 'consentito', 'corsia', 'dispositivo_acustico', 'fermata', 'indica', 'linea_tranviaria', 'luci_rosse', 'luci_rosse_lampeggianti', 'moderare', 'passaggio_a_livello', 'passaggio_la_livello', 'per', 'puo', 'se', 'semibarriere', 'sono', 'sorpasso', 'sosta', 'velocita', 'vietate', 'vietate_pl'],
+      vocabularyIds: [ 'barriere', 'binari', 'consentito', 'corsia', 'dispositivo_acustico', 'fermata', 'indica', 'linea_tranviaria', 'luci_rosse', 'luci_rosse_lampeggianti', 'moderare', 'passaggio_a_livello', 'passaggio_la_livello', 'per', 'puo', 'se', 'semibarriere', 'sono', 'sorpasso', 'sosta', 'velocita', 'vietate', 'vietate_pl', 'non', 'con', 'soltanto', 'un', 'che', 'nella', 'segnalazione', 'passaggio', 'metri', 'normalmente', 'luce', 'luci', 'rosse', 'lampeggianti', 'livello', 'funzione', 'andrea', 'croce', 'e_verb'],
       questionIds: ['q_2_8_1', 'q_2_8_2', 'q_2_8_3', 'q_2_8_4', 'q_2_8_5', 'q_2_8_6', 'q_2_8_7', 'q_2_8_8', 'q_2_8_9', 'q_2_8_10', 'q_2_8_11', 'q_2_8_12', 'q_2_8_13', 'q_2_8_14', 'q_2_8_15', 'q_2_8_16', 'q_2_8_17', 'q_2_8_18', 'q_2_8_19', 'q_2_8_20', 'q_2_8_21', 'q_2_8_22', 'q_2_8_23', 'q_2_8_24', 'q_2_8_25', 'q_2_8_26', 'q_2_8_27']
     },
     {
@@ -185,7 +185,7 @@ Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Il 
 
 سبقت، پارک، دورزدن و دنده‌عقب ممنوع است. تابلو روی نخستین پنل فاصله‌سنج، یعنی پنل سه‌خط، نصب می‌شود و نزدیک ریل، اگر یک خط باشد صلیب سنت آندره و اگر دو یا چند خط باشد صلیب دوگانه قرار می‌گیرد.`,
       imageUrl: '/images/2-9.jpg',
-      vocabularyIds: ['barriere', 'binari', 'corsia', 'croce_di_s_andrea', 'croce_di_san_andrea', 'fermarsi', 'indica', 'pannello_distanziometrico', 'rallentare', 'seguito', 'sempre', 'senza_barriere', 'stazione', 'treni_in_arrivo', 'vietato', 'vietato_past'],
+      vocabularyIds: [ 'barriere', 'binari', 'corsia', 'croce_di_s_andrea', 'croce_di_san_andrea', 'fermarsi', 'indica', 'pannello_distanziometrico', 'rallentare', 'seguito', 'sempre', 'senza_barriere', 'stazione', 'treni_in_arrivo', 'vietato', 'vietato_past', 'con', 'posto', 'un', 'alla', 'dalla', 'sul', 'sui', 'oppure', 'segnale', 'segnalazione', 'due', 'tre', 'passaggio', 'pannello', 'barre', 'luci', 'rosse', 'lampeggianti', 'livello', 'andrea', 'croce', 'binario', 'più', 'e_verb'],
       questionIds: ['q_2_9_1', 'q_2_9_2', 'q_2_9_3', 'q_2_9_4', 'q_2_9_5', 'q_2_9_6', 'q_2_9_7', 'q_2_9_8', 'q_2_9_9', 'q_2_9_10', 'q_2_9_11', 'q_2_9_12', 'q_2_9_13', 'q_2_9_14', 'q_2_9_15', 'q_2_9_16', 'q_2_9_17', 'q_2_9_18', 'q_2_9_19', 'q_2_9_20', 'q_2_9_21', 'q_2_9_22', 'q_2_9_23', 'q_2_9_24']
     },
     {
@@ -198,7 +198,7 @@ Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Il 
 
 پس از تابلوی خطر قرار می‌گیرد و هنگام نزدیک‌شدن قطار ممکن است با دو چراغ قرمز چشمک‌زن متناوب همراه باشد. خط تراموا، گذرگاه نیم‌مانع‌دار یا تقاطع جاده‌ای را نشان نمی‌دهد.`,
       imageUrl: '/images/2-10.jpg',
-      vocabularyIds: ['barriere', 'binari', 'croce_di_s_andrea', 'ha_verb', 'immediate_vicinanze', 'incrocio', 'indica', 'non_indica', 'passaggio_a_livello', 'passaggio_la_livello', 'semibarriere', 'senza_barriere', 'solo', 'trova', 'un_solo_binario'],
+      vocabularyIds: [ 'barriere', 'binari', 'croce_di_s_andrea', 'ha_verb', 'immediate_vicinanze', 'incrocio', 'indica', 'non_indica', 'passaggio_a_livello', 'passaggio_la_livello', 'semibarriere', 'senza_barriere', 'solo', 'trova', 'un_solo_binario', 'non', 'con', 'quando', 'dopo', 'puo', 'una', 'un', 'dei', 'nelle', 'nei', 'segnale', 'segnala', 'stradale', 'due', 'passaggio', 'linea', 'luci', 'rosse', 'lampeggianti', 'livello', 'andrea', 'croce', 'binario', 'treno', 'vicinanze', 'e_verb'],
       questionIds: ['q_2_10_1', 'q_2_10_2', 'q_2_10_3', 'q_2_10_4', 'q_2_10_5', 'q_2_10_6', 'q_2_10_7', 'q_2_10_8', 'q_2_10_9', 'q_2_10_10', 'q_2_10_11', 'q_2_10_12', 'q_2_10_13']
     },
     {
@@ -211,7 +211,7 @@ Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Il 
 
 پیش از آن تابلوی گذرگاه بدون مانع و پنل‌های فاصله‌سنج قرار دارند. باید بسیار مراقب بود، زیرا پس از عبور یک قطار ممکن است قطار دیگری روی خط دیگر برسد.`,
       imageUrl: '/images/2-11.jpg',
-      vocabularyIds: ['barriere', 'binari', 'contemporaneamente', 'doppia_croce_di_s_andrea', 'essere', 'fare_attenzione', 'ha_verb', 'immediate_vicinanze', 'indica', 'linea_ferroviaria', 'piu', 'piu_di_un_binario', 'puo', 'semibarriere', 'senza_barriere', 'solo', 'trova'],
+      vocabularyIds: [ 'barriere', 'binari', 'contemporaneamente', 'doppia_croce_di_s_andrea', 'essere', 'fare_attenzione', 'ha_verb', 'immediate_vicinanze', 'indica', 'linea_ferroviaria', 'piu', 'piu_di_un_binario', 'puo', 'semibarriere', 'senza_barriere', 'solo', 'trova', 'dopo', 'un', 'dei', 'dal', 'nelle', 'nei', 'perché', 'segnale', 'due', 'diverso', 'passaggio', 'richiede', 'pannelli', 'livello', 'attenzione', 'andrea', 'croce', 'binario', 'treno', 'vicinanze', 'distanziometrici', 'più', 'e_verb'],
       questionIds: ['q_2_11_1', 'q_2_11_2', 'q_2_11_3', 'q_2_11_4', 'q_2_11_5', 'q_2_11_6', 'q_2_11_7', 'q_2_11_8', 'q_2_11_9', 'q_2_11_10', 'q_2_11_11', 'q_2_11_12', 'q_2_11_13', 'q_2_11_14']
     },
     {
@@ -234,7 +234,7 @@ Le barre diminuiscono man mano che ci si avvicina all'attraversamento ferroviari
 
 هرچه به گذرگاه نزدیک‌تر می‌شویم، تعداد خط‌ها کمتر می‌شود.`,
       imageUrl: '/images/2-12.jpg',
-      vocabularyIds: ['barriere', 'binari', 'due_barre', 'pannelli_distanziometrici', 'passaggio_a_livello', 'passaggio_la_livello', 'qualsiasi_tipo', 'senza_barriere', 'sono', 'tre_barre', 'trovano', 'una_barra'],
+      vocabularyIds: [ 'barriere', 'binari', 'due_barre', 'pannelli_distanziometrici', 'passaggio_a_livello', 'passaggio_la_livello', 'qualsiasi_tipo', 'senza_barriere', 'sono', 'tre_barre', 'trovano', 'una_barra', 'con', 'una', 'un', 'che', 'dal', 'due', 'tre', 'passaggio', 'attraversamento', 'metri', 'circa', 'pannelli', 'barre', 'rosse', 'livello', 'distanziometrici', 'mobile'],
       questionIds: ['q_2_12_1', 'q_2_12_2', 'q_2_12_3', 'q_2_12_4', 'q_2_12_5', 'q_2_12_6', 'q_2_12_7', 'q_2_12_8', 'q_2_12_9', 'q_2_12_10', 'q_2_12_11', 'q_2_12_12']
     },
     {
@@ -253,7 +253,7 @@ Non riguarda filobus o passaggi a livello ferroviari.`,
 
 این تابلو مربوط به ترولی‌بوس یا گذرگاه راه‌آهن نیست.`,
       imageUrl: '/images/2-13.jpg',
-      vocabularyIds: ['attraversamento_tranviario', 'binari', 'centri_abitati', 'consentito', 'destra', 'distanza_di_arresto', 'fermata', 'filobus', 'incrocio', 'intralciare', 'linea_tranviaria', 'pedoni', 'per', 'puo', 'regolata_fem', 'salvagente', 'se', 'sorpasso', 'spazio', 'tram'],
+      vocabularyIds: [ 'attraversamento_tranviario', 'binari', 'centri_abitati', 'consentito', 'destra', 'distanza_di_arresto', 'fermata', 'filobus', 'incrocio', 'intralciare', 'linea_tranviaria', 'pedoni', 'per', 'puo', 'regolata_fem', 'salvagente', 'se', 'sorpasso', 'spazio', 'tram', 'non', 'quando', 'un', 'del', 'nelle', 'sui', 'precedenza', 'attraversamento', 'marciare', 'possibile', 'livello', 'attenzione', 'e_verb'],
       questionIds: ['q_2_13_1', 'q_2_13_2', 'q_2_13_3', 'q_2_13_4', 'q_2_13_5', 'q_2_13_6', 'q_2_13_7', 'q_2_13_8', 'q_2_13_9', 'q_2_13_10', 'q_2_13_11', 'q_2_13_12', 'q_2_13_13', 'q_2_13_14', 'q_2_13_15', 'q_2_13_16', 'q_2_13_17', 'q_2_13_18', 'q_2_13_19', 'q_2_13_20', 'q_2_13_21', 'q_2_13_22', 'q_2_13_23', 'q_2_13_24', 'q_2_13_25', 'q_2_13_26', 'q_2_13_27', 'q_2_13_28']
     },
     {
@@ -272,7 +272,7 @@ In corrispondenza delle strisce sono vietate la fermata e la sosta; il segnale n
 
 روی خط عابر توقف کوتاه و پارک ممنوع است؛ تابلو مسیر پیاده یا محل حضور کودکان را نشان نمی‌دهد.`,
       imageUrl: '/images/2-14.jpg',
-      vocabularyIds: ['anche', 'attraversamento_pedonale', 'centri_abitati', 'clacson', 'extraurbane', 'fermata', 'fermi', 'obbligo', 'pedoni', 'per', 'puo', 'sosta', 'sottopassaggio', 'strade', 'strisce_bianche', 'veicoli', 'vietata_fem', 'vietato', 'vietato_past'],
+      vocabularyIds: [ 'anche', 'attraversamento_pedonale', 'centri_abitati', 'clacson', 'extraurbane', 'fermata', 'fermi', 'obbligo', 'pedoni', 'per', 'puo', 'sosta', 'sottopassaggio', 'strade', 'strisce_bianche', 'veicoli', 'vietata_fem', 'vietato', 'vietato_past', 'non', 'una', 'un', 'che', 'delle', 'precedenza', 'segnale', 'attraversamento', 'percorso', 'metri', 'normalmente', 'strisce', 'pedonale', 'corrispondenza', 'preannuncia'],
       questionIds: ['q_2_14_1', 'q_2_14_2', 'q_2_14_3', 'q_2_14_4', 'q_2_14_5', 'q_2_14_6', 'q_2_14_7', 'q_2_14_8', 'q_2_14_9', 'q_2_14_10', 'q_2_14_11', 'q_2_14_12', 'q_2_14_13', 'q_2_14_14', 'q_2_14_15', 'q_2_14_16', 'q_2_14_17', 'q_2_14_18', 'q_2_14_19', 'q_2_14_20', 'q_2_14_21', 'q_2_14_22', 'q_2_14_23', 'q_2_14_24']
     },
     {
@@ -291,7 +291,7 @@ In corrispondenza dell'attraversamento sono vietate la fermata e la sosta. Il se
 
 روی گذرگاه توقف کوتاه و پارک ممنوع است. تابلو شروع مسیر دوچرخه را نشان نمی‌دهد.`,
       imageUrl: '/images/2-15.jpg',
-      vocabularyIds: ['attraversamento_ciclabile', 'ciclisti', 'comportamento', 'gara_ciclistica', 'indica', 'moderare', 'non_indica', 'per', 'pista_ciclabile', 'sono', 'veicoli', 'velocita', 'vietato', 'vietato_past'],
+      vocabularyIds: [ 'attraversamento_ciclabile', 'ciclisti', 'comportamento', 'gara_ciclistica', 'indica', 'moderare', 'non_indica', 'per', 'pista_ciclabile', 'sono', 'veicoli', 'velocita', 'vietato', 'vietato_past', 'non', 'possono', 'una', 'un', 'dal', 'sulla', 'quale', 'segnale', 'passare', 'attraversamento', 'metri', 'normalmente', 'ciclabile', 'pista', 'corrispondenza', 'punto', 'preannuncia'],
       questionIds: ['q_2_15_1', 'q_2_15_2', 'q_2_15_3', 'q_2_15_4', 'q_2_15_5', 'q_2_15_6', 'q_2_15_7', 'q_2_15_8', 'q_2_15_9', 'q_2_15_10', 'q_2_15_11', 'q_2_15_12', 'q_2_15_13', 'q_2_15_14', 'q_2_15_15', 'q_2_15_16', 'q_2_15_17', 'q_2_15_18']
     },
     {
@@ -310,7 +310,7 @@ In discesa aumenta lo spazio di frenatura; bisogna quindi aumentare la distanza 
 
 در سراشیبی فاصله ترمز افزایش می‌یابد؛ بنابراین فاصله ایمنی را بیشتر کنید.`,
       imageUrl: '/images/2-16.jpg',
-      vocabularyIds: ['comportamento', 'discesa', 'discesa_pericolosa', 'evitare', 'freno_motore', 'frizione', 'marcia_bassa', 'pendenza', 'per', 'salita', 'spazio', 'spazio_di_frenatura', 'surriscaldamento'],
+      vocabularyIds: [ 'comportamento', 'discesa', 'discesa_pericolosa', 'evitare', 'freno_motore', 'frizione', 'marcia_bassa', 'pendenza', 'per', 'salita', 'spazio', 'spazio_di_frenatura', 'surriscaldamento', 'non', 'con', 'possono', 'una', 'perché', 'quindi', 'bassa', 'pericolosa', 'usare', 'tenere', 'motore', 'bagnata', 'frenatura', 'freni', 'soprattutto'],
       questionIds: ['q_2_16_1', 'q_2_16_2', 'q_2_16_3', 'q_2_16_4', 'q_2_16_5', 'q_2_16_6', 'q_2_16_7', 'q_2_16_8', 'q_2_16_9', 'q_2_16_10', 'q_2_16_11', 'q_2_16_12', 'q_2_16_13', 'q_2_16_14', 'q_2_16_15', 'q_2_16_16', 'q_2_16_17', 'q_2_16_18', 'q_2_16_19', 'q_2_16_20', 'q_2_16_21', 'q_2_16_22']
     },
     {
@@ -329,7 +329,7 @@ A differenza della discesa, la salita non aumenta lo spazio di frenatura.`,
 
 برخلاف سراشیبی، سربالایی فاصله ترمز را افزایش نمی‌دهد.`,
       imageUrl: '/images/2-17.jpg',
-      vocabularyIds: ['comportamento', 'frizione', 'pendenza', 'per', 'salita', 'salita_ripida', 'spazio', 'spazio_di_frenatura'],
+      vocabularyIds: [ 'comportamento', 'frizione', 'pendenza', 'per', 'salita', 'salita_ripida', 'spazio', 'spazio_di_frenatura', 'non', 'una', 'della', 'avere', 'maggiore', 'frenatura'],
       questionIds: ['q_2_17_1', 'q_2_17_2', 'q_2_17_3', 'q_2_17_4', 'q_2_17_5', 'q_2_17_6', 'q_2_17_7', 'q_2_17_8']
     },
     {
@@ -348,7 +348,7 @@ Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Con
 
 سبقت، پارک، دورزدن و دنده‌عقب ممنوع است. زمینه زرد نشان‌دهنده کارگاه است.`,
       imageUrl: '/images/2-18.jpg',
-      vocabularyIds: ['cantiere_stradale', 'difficolta_di_incrocio', 'fondo_giallo', 'incrocio', 'indica', 'moderare', 'non_indica', 'per', 'presenza', 'restringimento', 'se', 'senso_opposto', 'senso_unico', 'senso_unico_alternato', 'sono', 'strettoia_simmetrica', 'veicoli', 'velocita'],
+      vocabularyIds: [ 'cantiere_stradale', 'difficolta_di_incrocio', 'fondo_giallo', 'incrocio', 'indica', 'moderare', 'non_indica', 'per', 'presenza', 'restringimento', 'se', 'senso_opposto', 'senso_unico', 'senso_unico_alternato', 'sono', 'strettoia_simmetrica', 'veicoli', 'velocita', 'con', 'un', 'della', 'precedenza', 'segnala', 'senso', 'diversa', 'passare', 'possibile', 'già', 'salvo_word', 'giallo', 'cantiere'],
       questionIds: ['q_2_18_1', 'q_2_18_2', 'q_2_18_3', 'q_2_18_4', 'q_2_18_5', 'q_2_18_6', 'q_2_18_7', 'q_2_18_8', 'q_2_18_9', 'q_2_18_10', 'q_2_18_11', 'q_2_18_12', 'q_2_18_13', 'q_2_18_14', 'q_2_18_15', 'q_2_18_16']
     },
     {
@@ -367,7 +367,7 @@ Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Con
 
 سبقت، پارک، دورزدن و دنده‌عقب ممنوع است. زمینه زرد نشان‌دهنده کارگاه است؛ تابلو ورود جاده فرعی را نشان نمی‌دهد.`,
       imageUrl: '/images/2-19.jpg',
-      vocabularyIds: ['confluenza', 'difficolta_di_incrocio', 'fondo_giallo', 'immissione', 'incrocio', 'lato_sinistro', 'moderare', 'restringimento', 'se', 'solo', 'strettoia_sinistra', 'velocita'],
+      vocabularyIds: [ 'confluenza', 'difficolta_di_incrocio', 'fondo_giallo', 'immissione', 'incrocio', 'lato_sinistro', 'moderare', 'restringimento', 'se', 'solo', 'strettoia_sinistra', 'velocita', 'non', 'con', 'una', 'un', 'della', 'sul', 'segnala', 'passare', 'possibile', 'già', 'giallo', 'cantiere', 'lavori', 'lato', 'sinistro'],
       questionIds: ['q_2_19_1', 'q_2_19_2', 'q_2_19_3', 'q_2_19_4', 'q_2_19_5', 'q_2_19_6', 'q_2_19_7', 'q_2_19_8', 'q_2_19_9', 'q_2_19_10', 'q_2_19_11', 'q_2_19_12', 'q_2_19_13', 'q_2_19_14', 'q_2_19_15']
     },
     {
@@ -386,7 +386,7 @@ Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Con
 
 سبقت، پارک، دورزدن و دنده‌عقب ممنوع است. زمینه زرد نشان‌دهنده کارگاه است.`,
       imageUrl: '/images/2-20.jpg',
-      vocabularyIds: ['anche', 'apposito_segnale', 'doppio_senso', 'file_parallele', 'fondo_giallo', 'indica', 'non_indica', 'ostacolo', 'puo', 'restringimento', 'se', 'strada', 'strettoia_destra', 'veicoli'],
+      vocabularyIds: [ 'anche', 'apposito_segnale', 'doppio_senso', 'file_parallele', 'fondo_giallo', 'indica', 'non_indica', 'ostacolo', 'puo', 'restringimento', 'se', 'strada', 'strettoia_destra', 'veicoli', 'con', 'una', 'un', 'della', 'sul', 'segnala', 'senso', 'unico', 'doppio', 'passare', 'possibile', 'già', 'giallo', 'cantiere', 'lavori', 'destro', 'lato'],
       questionIds: ['q_2_20_1', 'q_2_20_2', 'q_2_20_3', 'q_2_20_4', 'q_2_20_5', 'q_2_20_6', 'q_2_20_7', 'q_2_20_8', 'q_2_20_9', 'q_2_20_10', 'q_2_20_11', 'q_2_20_12']
     },
     {
@@ -405,7 +405,7 @@ Il segnale può essere completato dal pannello distanziometrico con tre barre e 
 
 تابلو ممکن است با پنل فاصله‌سنج سه‌خط و پنل ساعت کار پل تکمیل شود. به‌طور کلی منطقه بندری را نشان نمی‌دهد.`,
       imageUrl: '/images/2-21.jpg',
-      vocabularyIds: ['area_portuale', 'arrestarsi', 'essere', 'fermarsi', 'in_funzione', 'luci_rosse', 'luci_rosse_lampeggianti', 'orari_di_manovra', 'ponte_mobile', 'puo', 'se', 'sono', 'spente', 'tre_barre'],
+      vocabularyIds: [ 'area_portuale', 'arrestarsi', 'essere', 'fermarsi', 'in_funzione', 'luci_rosse', 'luci_rosse_lampeggianti', 'orari_di_manovra', 'ponte_mobile', 'puo', 'se', 'sono', 'spente', 'tre_barre', 'non', 'con', 'quando', 'una', 'un', 'del', 'dal', 'gli', 'segnale', 'due', 'tre', 'pannello', 'barre', 'luci', 'rosse', 'lampeggianti', 'completato', 'mobile', 'preannuncia'],
       questionIds: ['q_2_21_1', 'q_2_21_2', 'q_2_21_3', 'q_2_21_4', 'q_2_21_5', 'q_2_21_6', 'q_2_21_7', 'q_2_21_8', 'q_2_21_9', 'q_2_21_10', 'q_2_21_11', 'q_2_21_12']
     },
     {
@@ -424,7 +424,7 @@ Non indica pietrisco sulla pavimentazione e non segnala una strada sdrucciolevol
 
 وجود شن‌ریزه روی جاده یا جاده لغزنده را نشان نمی‌دهد.`,
       imageUrl: '/images/2-22.jpg',
-      vocabularyIds: ['banchina_cedevole', 'caduta', 'cunetta', 'cunetta_laterale', 'dissestata', 'indica', 'margine_destro', 'non_indica', 'non_praticabile', 'pericolo', 'strada', 'tratto'],
+      vocabularyIds: [ 'banchina_cedevole', 'caduta', 'cunetta', 'cunetta_laterale', 'dissestata', 'indica', 'margine_destro', 'non_indica', 'non_praticabile', 'pericolo', 'strada', 'tratto', 'non', 'con', 'una', 'sulla', 'perché', 'segnala', 'pericolosa', 'margine', 'destro', 'pavimentazione', 'sdrucciolevole'],
       questionIds: ['q_2_22_1', 'q_2_22_2', 'q_2_22_3', 'q_2_22_4', 'q_2_22_5', 'q_2_22_6', 'q_2_22_7', 'q_2_22_8', 'q_2_22_9', 'q_2_22_10', 'q_2_22_11', 'q_2_22_12', 'q_2_22_13']
     },
     {
@@ -443,7 +443,7 @@ Il sorpasso è ammesso soltanto con particolare prudenza.`,
 
 سبقت فقط با احتیاط ویژه مجاز است.`,
       imageUrl: '/images/2-23.jpg',
-      vocabularyIds: ['accelerate', 'aderenza', 'brusche_frenate', 'comportamento', 'diminuire', 'distanza', 'distanza_di_sicurezza', 'essere', 'evitare', 'ghiaccio', 'moderata', 'per', 'pioggia', 'pneumatici', 'puo', 'spazio', 'spazio_di_frenatura', 'sterzate', 'strada', 'strada_sdrucciolevole', 'velocita'],
+      vocabularyIds: [ 'accelerate', 'aderenza', 'brusche_frenate', 'comportamento', 'diminuire', 'distanza', 'distanza_di_sicurezza', 'essere', 'evitare', 'ghiaccio', 'moderata', 'per', 'pioggia', 'pneumatici', 'puo', 'spazio', 'spazio_di_frenatura', 'sterzate', 'strada', 'strada_sdrucciolevole', 'velocita', 'con', 'soltanto', 'una', 'che', 'sdrucciolevole', 'frenatura', 'e_verb'],
       questionIds: ['q_2_23_1', 'q_2_23_2', 'q_2_23_3', 'q_2_23_4', 'q_2_23_5', 'q_2_23_6', 'q_2_23_7', 'q_2_23_8', 'q_2_23_9', 'q_2_23_10', 'q_2_23_11', 'q_2_23_12', 'q_2_23_13', 'q_2_23_14', 'q_2_23_15', 'q_2_23_16', 'q_2_23_17', 'q_2_23_18', 'q_2_23_19', 'q_2_23_20', 'q_2_23_21', 'q_2_23_22', 'q_2_23_23', 'q_2_23_24']
     },
     {
@@ -458,7 +458,7 @@ Moderare la velocità, essere pronti a fermarsi e considerare i movimenti improv
 رفتار:
 سرعت را کم کنید، آماده توقف باشید و حرکت ناگهانی کودکان، حتی روی پیاده‌رو، را در نظر بگیرید. از خودروهایی که برای عبور کودکان متوقف شده‌اند سبقت نگیرید.`,
       imageUrl: '/images/2-24.jpg',
-      vocabularyIds: ['bambini', 'comportamenti_imprevedibili', 'comportamento', 'fanciulli', 'fermata', 'fermi', 'giardini_pubblici', 'indica', 'moderata', 'non_indica', 'per', 'scuolabus', 'scuole', 'veicoli', 'velocita', 'vietato', 'vietato_past'],
+      vocabularyIds: [ 'bambini', 'comportamenti_imprevedibili', 'comportamento', 'fanciulli', 'fermata', 'fermi', 'giardini_pubblici', 'indica', 'moderata', 'non_indica', 'per', 'scuolabus', 'scuole', 'veicoli', 'velocita', 'vietato', 'vietato_past', 'non', 'quando', 'dei', 'sul', 'come', 'attraversare'],
       questionIds: ['q_2_24_1', 'q_2_24_2', 'q_2_24_3', 'q_2_24_4', 'q_2_24_5', 'q_2_24_6', 'q_2_24_7', 'q_2_24_8', 'q_2_24_9', 'q_2_24_10', 'q_2_24_11', 'q_2_24_12', 'q_2_24_13', 'q_2_24_14', 'q_2_24_15', 'q_2_24_16', 'q_2_24_17', 'q_2_24_18', 'q_2_24_19', 'q_2_24_20', 'q_2_24_21']
     },
     {
@@ -477,7 +477,7 @@ Non indica la presenza di veicoli a trazione animale.`,
 
 وجود وسایل نقلیه با کشش حیوانی را نشان نمی‌دهد.`,
       imageUrl: '/images/2-25.jpg',
-      vocabularyIds: ['animali_domestici', 'arrestarsi', 'avvisatore_acustico', 'clacson', 'indica', 'non_indica', 'obbligatorio', 'per', 'rallentare', 'se', 'spavento', 'trazione_animale', 'vaganti'],
+      vocabularyIds: [ 'animali_domestici', 'arrestarsi', 'avvisatore_acustico', 'clacson', 'indica', 'non_indica', 'obbligatorio', 'per', 'rallentare', 'se', 'spavento', 'trazione_animale', 'vaganti', 'non', 'agli', 'sulla', 'gli', 'attraversamento', 'usare', 'possibile', 'attenzione', 'preannuncia'],
       questionIds: ['q_2_25_1', 'q_2_25_2', 'q_2_25_3', 'q_2_25_4', 'q_2_25_5', 'q_2_25_6', 'q_2_25_7', 'q_2_25_8', 'q_2_25_9', 'q_2_25_10']
     },
     {
@@ -492,7 +492,7 @@ Rallentare, essere pronti a fermarsi e non suonare il clacson se gli animali mos
 رفتار:
 سرعت را کم کنید، آماده توقف باشید و اگر حیوانات ترسیده‌اند بوق نزنید.`,
       imageUrl: '/images/2-26.jpg',
-      vocabularyIds: ['animali_selvatici', 'arrestarsi', 'avvisatore_acustico', 'clacson', 'evitare', 'improvviso_attraversamento', 'indica', 'non_indica', 'parco_nazionale', 'rallentare', 'se', 'urti', 'vaganti', 'vietato', 'vietato_past', 'zoo_safari'],
+      vocabularyIds: [ 'animali_selvatici', 'arrestarsi', 'avvisatore_acustico', 'clacson', 'evitare', 'improvviso_attraversamento', 'indica', 'non_indica', 'parco_nazionale', 'rallentare', 'se', 'urti', 'vaganti', 'vietato', 'vietato_past', 'zoo_safari', 'non', 'gli', 'attraversamento', 'possibile', 'preannuncia'],
       questionIds: ['q_2_26_1', 'q_2_26_2', 'q_2_26_3', 'q_2_26_4', 'q_2_26_5', 'q_2_26_6', 'q_2_26_7', 'q_2_26_8', 'q_2_26_9', 'q_2_26_10', 'q_2_26_11', 'q_2_26_12']
     },
     {
@@ -511,7 +511,7 @@ Il segnale non impone di dare precedenza ai veicoli opposti e non indica due car
 
 تابلو الزام به دادن حق‌تقدم به خودروهای روبه‌رو یا وجود دو سواره‌روی جدا را نشان نمی‌دهد. زمینه زرد در عملیات جاده‌ای استفاده می‌شود.`,
       imageUrl: '/images/2-27.jpg',
-      vocabularyIds: ['carreggiate_separate', 'diritto_di_precedenza', 'doppio_senso', 'fondo_giallo', 'indica', 'non_indica', 'per', 'se', 'sensi_unici_alternati', 'senso_opposto', 'senso_unico', 'sorpasso', 'veicoli'],
+      vocabularyIds: [ 'carreggiate_separate', 'diritto_di_precedenza', 'doppio_senso', 'fondo_giallo', 'indica', 'non_indica', 'per', 'se', 'sensi_unici_alternati', 'senso_opposto', 'senso_unico', 'sorpasso', 'veicoli', 'non', 'con', 'impone', 'possono', 'una', 'che', 'quindi', 'precedenza', 'segnale', 'senso', 'unico', 'doppio', 'due', 'giallo', 'separate', 'lavori', 'attenzione', 'maggiore', 'soprattutto', 'e_verb'],
       questionIds: ['q_2_27_1', 'q_2_27_2', 'q_2_27_3', 'q_2_27_4', 'q_2_27_5', 'q_2_27_6', 'q_2_27_7', 'q_2_27_8', 'q_2_27_9', 'q_2_27_10', 'q_2_27_11', 'q_2_27_12', 'q_2_27_13', 'q_2_27_14']
     },
     {
@@ -530,7 +530,7 @@ Non impone una svolta a sinistra e non vieta la svolta a destra.`,
 
 تابلو گردش اجباری به چپ یا ممنوعیت گردش به راست را نشان نمی‌دهد.`,
       imageUrl: '/images/2-28.jpg',
-      vocabularyIds: ['antiorario', 'circolazione_rotatoria', 'incrocio', 'obbligatoria', 'obbligatoria_fem', 'regolato', 'rotatoria', 'sinistra', 'strada', 'strada_senza_uscita', 'svolta', 'uscita', 'veicoli'],
+      vocabularyIds: [ 'antiorario', 'circolazione_rotatoria', 'incrocio', 'obbligatoria', 'obbligatoria_fem', 'regolato', 'rotatoria', 'sinistra', 'strada', 'strada_senza_uscita', 'svolta', 'uscita', 'veicoli', 'non', 'con', 'quando', 'impone', 'vieta', 'una', 'un', 'alla', 'nei', 'segnale', 'centri', 'abitati', 'preannuncia', 'e_verb'],
       questionIds: ['q_2_28_1', 'q_2_28_2', 'q_2_28_3', 'q_2_28_4', 'q_2_28_5', 'q_2_28_6']
     },
     {
@@ -549,7 +549,7 @@ Non indica un ponte mobile, interrotto o levatoio.`,
 
 پل متحرک، قطع‌شده یا بالارونده را نشان نمی‌دهد.`,
       imageUrl: '/images/2-29.jpg',
-      vocabularyIds: ['alluvione', 'argine', 'caduta', 'caduta_in_acqua', 'canale', 'fiume', 'lavaggio', 'molo', 'pericolo', 'ponte_mobile', 'retromarcia', 'sbocco', 'strada', 'viadotto'],
+      vocabularyIds: [ 'alluvione', 'argine', 'caduta', 'caduta_in_acqua', 'canale', 'fiume', 'lavaggio', 'molo', 'pericolo', 'ponte_mobile', 'retromarcia', 'sbocco', 'strada', 'viadotto', 'non', 'con', 'una', 'un', 'che', 'acqua', 'attenzione', 'mobile', 'notte'],
       questionIds: ['q_2_29_1', 'q_2_29_2', 'q_2_29_3', 'q_2_29_4', 'q_2_29_5', 'q_2_29_6', 'q_2_29_7', 'q_2_29_8', 'q_2_29_9', 'q_2_29_10', 'q_2_29_11', 'q_2_29_12', 'q_2_29_13', 'q_2_29_14', 'q_2_29_15', 'q_2_29_16', 'q_2_29_17']
     },
     {
@@ -568,7 +568,7 @@ Con fondo giallo segnala lavori in corso. Non indica una frana o una banchina ce
 
 زمینه زرد نشان‌دهنده عملیات جاده‌ای است. تابلو ریزش کوه یا شانه سست را نشان نمی‌دهد.`,
       imageUrl: '/images/2-30.jpg',
-      vocabularyIds: ['aderenza', 'comportamento', 'distanza', 'frana', 'ghiaia', 'mantenere', 'materiale_instabile', 'moderare', 'obbligo', 'pericolo', 'pietrisco', 'scagliato', 'slittamento', 'veicoli', 'veicolo', 'velocita'],
+      vocabularyIds: [ 'aderenza', 'comportamento', 'distanza', 'frana', 'ghiaia', 'mantenere', 'materiale_instabile', 'moderare', 'obbligo', 'pericolo', 'pietrisco', 'scagliato', 'slittamento', 'veicoli', 'veicolo', 'velocita', 'non', 'con', 'puo', 'una', 'sulla', 'segnala', 'pericoli', 'ridurre', 'giallo', 'lavori', 'pavimentazione'],
       questionIds: ['q_2_30_1', 'q_2_30_2', 'q_2_30_3', 'q_2_30_4', 'q_2_30_5', 'q_2_30_6', 'q_2_30_7', 'q_2_30_8', 'q_2_30_9', 'q_2_30_10', 'q_2_30_11', 'q_2_30_12', 'q_2_30_13', 'q_2_30_14', 'q_2_30_15']
     },
     {
@@ -587,7 +587,7 @@ Il segnale non indica una strada deformata e non introduce da solo uno specifico
 
 جاده ناهموار را نشان نمی‌دهد و به‌تنهایی ممنوعیت مشخصی برای سبقت ایجاد نمی‌کند.`,
       imageUrl: '/images/2-31.jpg',
-      vocabularyIds: ['caduta', 'caduta_massi', 'cattivo_stato', 'evitare', 'indica', 'massi', 'moderare', 'non_indica', 'pericolo', 'pietre', 'presenza', 'sinistra', 'sorpasso', 'soste', 'strada', 'velocita'],
+      vocabularyIds: [ 'caduta', 'caduta_massi', 'cattivo_stato', 'evitare', 'indica', 'massi', 'moderare', 'non_indica', 'pericolo', 'pietre', 'presenza', 'sinistra', 'sorpasso', 'soste', 'strada', 'velocita', 'non', 'una', 'agli', 'dalla', 'sulla', 'segnale', 'divieto', 'possibile', 'già', 'attenzione', 'deformata', 'preannuncia'],
       questionIds: ['q_2_31_1', 'q_2_31_2', 'q_2_31_3', 'q_2_31_4', 'q_2_31_5', 'q_2_31_6', 'q_2_31_7', 'q_2_31_8', 'q_2_31_9', 'q_2_31_10']
     },
     {
@@ -606,7 +606,7 @@ Non indica una strettoia, una strada sdrucciolevole o un limite di velocità.`,
 
 باریک‌شدن، جاده لغزنده یا محدودیت سرعت را نشان نمی‌دهد.`,
       imageUrl: '/images/2-32.jpg',
-      vocabularyIds: ['brusche_frenate', 'caduta', 'caduta_massi', 'destra', 'evitare', 'fare_attenzione', 'grandinate', 'indica', 'massi', 'moderare', 'non_indica', 'parete_rocciosa', 'per', 'pericolo', 'strada', 'strada_sdrucciolevole', 'strettoia', 'veicoli', 'velocita'],
+      vocabularyIds: [ 'brusche_frenate', 'caduta', 'caduta_massi', 'destra', 'evitare', 'fare_attenzione', 'grandinate', 'indica', 'massi', 'moderare', 'non_indica', 'parete_rocciosa', 'per', 'pericolo', 'strada', 'strada_sdrucciolevole', 'strettoia', 'veicoli', 'velocita', 'non', 'una', 'un', 'agli', 'dalla', 'sulla', 'limite', 'possibile', 'già', 'attenzione', 'sdrucciolevole', 'preannuncia'],
       questionIds: ['q_2_32_1', 'q_2_32_2', 'q_2_32_3', 'q_2_32_4', 'q_2_32_5', 'q_2_32_6', 'q_2_32_7', 'q_2_32_8', 'q_2_32_9', 'q_2_32_10', 'q_2_32_11']
     },
     {
@@ -625,7 +625,7 @@ Con fondo giallo è usato in presenza di un cantiere stradale. Non preannuncia u
 
 زمینه زرد در کارگاه جاده‌ای استفاده می‌شود. تابلوی STOP یا گذرگاه راه‌آهن را اعلام نمی‌کند.`,
       imageUrl: '/images/2-33.jpg',
-      vocabularyIds: ['dischi_verticali', 'essere', 'extraurbane', 'fondo_giallo', 'ha_verb', 'luce_gialla', 'luce_gialla_lampeggiante', 'moderare', 'obbligatorio', 'obbligo', 'per', 'puo', 'se', 'semaforo', 'strade', 'velocita'],
+      vocabularyIds: [ 'dischi_verticali', 'essere', 'extraurbane', 'fondo_giallo', 'ha_verb', 'luce_gialla', 'luce_gialla_lampeggiante', 'moderare', 'obbligatorio', 'obbligo', 'per', 'puo', 'se', 'semaforo', 'strade', 'velocita', 'non', 'con', 'una', 'un', 'segnale', 'stradale', 'passaggio', 'luce', 'luci', 'giallo', 'gialla', 'lampeggiante', 'livello', 'cantiere', 'preannuncia', 'e_verb'],
       questionIds: ['q_2_33_1', 'q_2_33_2', 'q_2_33_3', 'q_2_33_4', 'q_2_33_5', 'q_2_33_6', 'q_2_33_7', 'q_2_33_8', 'q_2_33_9', 'q_2_33_10', 'q_2_33_11', 'q_2_33_12', 'q_2_33_13', 'q_2_33_14']
     },
     {
@@ -644,7 +644,7 @@ Non preannuncia un posto di blocco, un passaggio a livello o un semaforo per cor
 
 ایست بازرسی، گذرگاه راه‌آهن یا چراغ باند برگشت‌پذیر را اعلام نمی‌کند.`,
       imageUrl: '/images/2-34.jpg',
-      vocabularyIds: ['corsie', 'corsie_reversibili', 'dischi_orizzontali', 'essere', 'luce_gialla', 'luce_gialla_lampeggiante', 'moderare', 'posto_di_blocco', 'puo', 'semaforo', 'traghetto', 'velocita'],
+      vocabularyIds: [ 'corsie', 'corsie_reversibili', 'dischi_orizzontali', 'essere', 'luce_gialla', 'luce_gialla_lampeggiante', 'moderare', 'posto_di_blocco', 'puo', 'semaforo', 'traghetto', 'velocita', 'non', 'con', 'posto', 'una', 'un', 'passaggio', 'luce', 'luci', 'giallo', 'gialla', 'lampeggiante', 'livello', 'preannuncia', 'blocco'],
       questionIds: ['q_2_34_1', 'q_2_34_2', 'q_2_34_3', 'q_2_34_4', 'q_2_34_5', 'q_2_34_6', 'q_2_34_7', 'q_2_34_8', 'q_2_34_9', 'q_2_34_10', 'q_2_34_11', 'q_2_34_12', 'q_2_34_13', 'q_2_34_14']
     },
     {
@@ -663,7 +663,7 @@ Il segnale può essere integrato da due luci rosse lampeggianti. Non indica la d
 
 تابلو ممکن است با دو چراغ قرمز چشمک‌زن تکمیل شود. مسیر فرودگاه را نشان نمی‌دهد.`,
       imageUrl: '/images/2-35.jpg',
-      vocabularyIds: ['abbagliamento', 'accesso', 'aeromobili', 'atterraggio', 'bassa_quota', 'bivio', 'decollo', 'indica', 'non_indica', 'per', 'pericolo', 'quota', 'rumore', 'volo_a_vela'],
+      vocabularyIds: [ 'abbagliamento', 'accesso', 'aeromobili', 'atterraggio', 'bassa_quota', 'bivio', 'decollo', 'indica', 'non_indica', 'per', 'pericolo', 'quota', 'rumore', 'volo_a_vela', 'non', 'con', 'puo', 'nelle', 'segnale', 'due', 'bassa', 'provocare', 'direzione', 'pericoli', 'integrato', 'luci', 'rosse', 'lampeggianti', 'piste', 'vicinanze', 'preannuncia'],
       questionIds: ['q_2_35_1', 'q_2_35_2', 'q_2_35_3', 'q_2_35_4', 'q_2_35_5', 'q_2_35_6', 'q_2_35_7', 'q_2_35_8', 'q_2_35_9', 'q_2_35_10']
     },
     {
@@ -682,7 +682,7 @@ Il pericolo è maggiore per veicoli telonati o furgonati, mezzi con rimorchio, m
 
 خطر برای خودروهای چادردار یا ون، وسایل دارای یدک، موتورسیکلت و خودروهای دارای بار حجیم روی سقف بیشتر است، زیرا باد می‌تواند موجب انحراف یا واژگونی شود.`,
       imageUrl: '/images/2-36.jpg',
-      vocabularyIds: ['furgonati', 'galleria', 'indica', 'ingresso', 'non_indica', 'per', 'pericolo', 'raffiche', 'rimorchi', 'superficie_laterale', 'telonati', 'uscita', 'veicoli', 'vento_laterale', 'viadotto'],
+      vocabularyIds: [ 'furgonati', 'galleria', 'indica', 'ingresso', 'non_indica', 'per', 'pericolo', 'raffiche', 'rimorchi', 'superficie_laterale', 'telonati', 'uscita', 'veicoli', 'vento_laterale', 'viadotto', 'con', 'puo', 'delle', 'sul', 'perché', 'tenere', 'motocicli', 'saldamente', 'volante', 'maggiore', 'preannuncia', 'e_verb'],
       questionIds: ['q_2_36_1', 'q_2_36_2', 'q_2_36_3', 'q_2_36_4', 'q_2_36_5', 'q_2_36_6', 'q_2_36_7', 'q_2_36_8', 'q_2_36_9', 'q_2_36_10', 'q_2_36_11', 'q_2_36_12', 'q_2_36_13', 'q_2_36_14', 'q_2_36_15', 'q_2_36_16', 'q_2_36_17', 'q_2_36_18', 'q_2_36_19', 'q_2_36_20', 'q_2_36_21', 'q_2_36_22', 'q_2_36_23', 'q_2_36_24', 'q_2_36_25', 'q_2_36_26']
     },
     {
@@ -701,7 +701,7 @@ Il segnale deve essere completato dal pannello Estesa. Non vieta il transito ai 
 
 تابلو باید با پنل Estesa تکمیل شود. عبور خودروهای حامل مواد قابل اشتعال را ممنوع نمی‌کند.`,
       imageUrl: '/images/2-37.jpg',
-      vocabularyIds: ['boschi', 'esplosioni', 'infiammabile', 'pericolo', 'pericolo_di_incendio', 'se', 'sigarette_accese', 'strada', 'tratto', 'veicoli'],
+      vocabularyIds: [ 'boschi', 'esplosioni', 'infiammabile', 'pericolo', 'pericolo_di_incendio', 'se', 'sigarette_accese', 'strada', 'tratto', 'veicoli', 'non', 'vieta', 'una', 'che', 'dal', 'sulla', 'come', 'segnale', 'rischio', 'pannello', 'trasportano', 'infiammabili', 'sostanze', 'completato'],
       questionIds: ['q_2_37_1', 'q_2_37_2', 'q_2_37_3', 'q_2_37_4', 'q_2_37_5', 'q_2_37_6', 'q_2_37_7', 'q_2_37_8', 'q_2_37_9', 'q_2_37_10', 'q_2_37_11', 'q_2_37_12']
     },
     {
@@ -720,7 +720,7 @@ Il segnale deve essere accompagnato da un pannello integrativo che precisa la na
 
 تابلو باید با یک پنل مکمل همراه باشد که نوع خطر، مانند صف، آب‌گرفتگی، یخ، تصادف یا فعالیت برف‌روب، را مشخص کند. جایگزین تابلوهای اختصاصی جاده ناهموار، سربالایی تند یا گذرگاه راه‌آهن نیست.`,
       imageUrl: '/images/2-38.jpg',
-      vocabularyIds: ['altri_pericoli', 'binari', 'cattivo_stato', 'diverso', 'emergenza', 'generico', 'ghiaccio', 'indica', 'macchine_sgombraneve', 'non_indica', 'passaggio_a_livello', 'passaggio_la_livello', 'per', 'pericolo', 'pericolo_generico', 'puo', 'scalo_merci', 'sgombraneve', 'specifici', 'strada'],
+      vocabularyIds: [ 'altri_pericoli', 'binari', 'cattivo_stato', 'diverso', 'emergenza', 'generico', 'ghiaccio', 'indica', 'macchine_sgombraneve', 'non_indica', 'passaggio_a_livello', 'passaggio_la_livello', 'per', 'pericolo', 'pericolo_generico', 'puo', 'scalo_merci', 'sgombraneve', 'specifici', 'strada', 'non', 'con', 'un', 'che', 'del', 'segnale', 'segnali', 'passaggio', 'pannello', 'livello', 'deformata'],
       questionIds: ['q_2_38_1', 'q_2_38_2', 'q_2_38_3', 'q_2_38_4', 'q_2_38_5', 'q_2_38_6', 'q_2_38_7', 'q_2_38_8', 'q_2_38_9', 'q_2_38_10', 'q_2_38_11']
     }
   ],

@@ -24,11 +24,7 @@ Comprende:
 شامل می‌شود:
 ✅ محوطه‌های سواره‌رو (Le carreggiate)  ✅ شانه‌های جاده (Le banchine)  ✅ پیاده‌روها (I marciapiedi)  ✅ مسیرهای ویژه دوچرخه (Le piste ciclabili)`,
       imageUrl: '/images/1-1.jpg',
-      vocabularyIds: [
-        'strada', 'area_aperta', 'circolazione', 'veicoli', 'pedoni', 'animali', 'caratteristiche',
-        'senso_unico', 'doppio_senso', 'suddivisa', 'carreggiate', 'spartitraffico', 'comprende',
-        'riservate', 'banchine', 'marciapiedi', 'piste_ciclabili', 'biciclette'
-      ],
+      vocabularyIds: [ 'strada', 'area_aperta', 'circolazione', 'veicoli', 'pedoni', 'animali', 'caratteristiche', 'senso_unico', 'doppio_senso', 'suddivisa', 'carreggiate', 'spartitraffico', 'comprende', 'riservate', 'banchine', 'marciapiedi', 'piste_ciclabili', 'biciclette', 'quando', 'puo', 'un', 'alla', 'alle', 'senso', 'unico', 'doppio', 'ciclabili', 'piste', 'e_verb'],
       questionIds: ['q_1_1', 'q_1_2', 'q_1_3', 'q_1_4', 'q_1_5', 'q_1_6', 'q_1_7', 'q_1_8', 'q_1_9', 'q_1_10']
     },
     {
@@ -55,12 +51,7 @@ Non fanno parte della carreggiata:
 جزء سواره‌رو نیستند (Non fanno parte):
 ❌ پیاده‌روها  ❌ محل‌های توقف اضطراری  ❌ شانه‌های جاده  ❌ باندهای اضطراری اتوبان‌ها  ❌ مسیرهای ویژه دوچرخه`,
       imageUrl: '/images/1-2.jpg',
-      vocabularyIds: [
-        'carreggiata', 'transito', 'veicoli', 'doppio_senso', 'senso_unico', 'suddivisa', 'corsie',
-        'affiancata', 'piste_ciclabili', 'comprende', 'attraversamenti_pedonali', 'attraversamenti_ciclabili',
-        'marciapiedi', 'piazzole_di_sosta', 'fanno_parte', 'tranne', 'corsia_di_emergenza', 'viali_pedonali',
-        'non_comprendere', 'banchine', 'corsie_di_marcia', 'corsie_di_sorpasso'
-      ],
+      vocabularyIds: [ 'carreggiata', 'transito', 'veicoli', 'doppio_senso', 'senso_unico', 'suddivisa', 'corsie', 'affiancata', 'piste_ciclabili', 'comprende', 'attraversamenti_pedonali', 'attraversamenti_ciclabili', 'marciapiedi', 'piazzole_di_sosta', 'fanno_parte', 'tranne', 'corsia_di_emergenza', 'viali_pedonali', 'non_comprendere', 'banchine', 'corsie_di_marcia', 'corsie_di_sorpasso', 'non', 'tutte', 'puo', 'della', 'dei', 'delle', 'gli', 'senso', 'unico', 'doppio', 'parte', 'attraversamenti', 'autostrade', 'pedonali', 'ciclabili', 'piste', 'e_verb'],
       questionIds: [
         'q_2_1', 'q_2_2', 'q_2_3', 'q_2_4', 'q_2_5', 'q_2_6', 'q_2_7', 'q_2_8', 'q_2_9',
         'q_2_10', 'q_2_11', 'q_2_12', 'q_2_13', 'q_2_14', 'q_2_15', 'q_2_16', 'q_2_17', 'q_2_18'
@@ -84,16 +75,7 @@ Regole principali:
 قوانین اصلی:
 با خطوط ممتد یا منقطع محدود می‌شود. اداره راه می‌تواند حداقل سرعت اجباری تعیین کند. دو موتورسیکلت یا دو موتورگازی اجازه ندارند کنار هم در یک باند حرکت کنند (چه داخل شهر و چه خارج شهر). عابران پیاده می‌توانند از عرض آن عبور کنند.`,
       imageUrl: '/images/1-3.jpg',
-      vocabularyIds: [
-        'corsia', 'suddivisione', 'larga', 'sufficienza', 'sola_fila', 'larghezza_minima', 'larghezza_massima',
-        'sempre', 'senso_unico', 'di_marcia', 'di_emergenza', 'di_accelerazione', 'di_decelerazione',
-        'riservata', 'esclusivamente', 'specializzata', 'manovre', 'sorpasso', 'svolta', 'sosta',
-        'strisce_continue', 'strisce_discontinue', 'ente_proprietario', 'velocita_minima', 'obbligatoria',
-        'affiancati', 'motocicli', 'ciclomotori', 'centri_abitati', 'attraversata', 'pedoni',
-        'veicoli', 'circolazione', 'destinata', 'caratteristiche', 'marcia', 'decelerazione',
-        'effettuare_sorpassi', 'rallentamento', 'taluni', 'guasto', 'malessere', 'vetture_da_corsa',
-        'consente', 'a_scorrimento_veloce'
-      ],
+      vocabularyIds: [ 'corsia', 'suddivisione', 'larga', 'sufficienza', 'sola_fila', 'larghezza_minima', 'larghezza_massima', 'sempre', 'senso_unico', 'di_marcia', 'di_emergenza', 'di_accelerazione', 'di_decelerazione', 'riservata', 'esclusivamente', 'specializzata', 'manovre', 'sorpasso', 'svolta', 'sosta', 'strisce_continue', 'strisce_discontinue', 'ente_proprietario', 'velocita_minima', 'obbligatoria', 'affiancati', 'motocicli', 'ciclomotori', 'centri_abitati', 'attraversata', 'pedoni', 'veicoli', 'circolazione', 'destinata', 'caratteristiche', 'marcia', 'decelerazione', 'effettuare_sorpassi', 'rallentamento', 'taluni', 'guasto', 'malessere', 'vetture_da_corsa', 'consente', 'a_scorrimento_veloce', 'non', 'puo', 'possono', 'una', 'che', 'della', 'dei', 'alla', 'nei', 'sulla', 'sia', 'senso', 'unico', 'due', 'metri', 'minima', 'strisce', 'principali', 'fuori', 'centri', 'abitati', 'imporre', 'e_verb'],
       questionIds: [
         'q_3_1', 'q_3_2', 'q_3_3', 'q_3_4', 'q_3_5', 'q_3_6', 'q_3_7', 'q_3_8', 'q_3_9', 'q_3_10',
         'q_3_11', 'q_3_12', 'q_3_13', 'q_3_14', 'q_3_15', 'q_3_16', 'q_3_17', 'q_3_18', 'q_3_19', 'q_3_20'
@@ -111,11 +93,7 @@ Facilita l'ingresso dei veicoli o il rientro da un'area di servizio. ❌ Nella c
 قوانین و ممنوعیت‌ها:
 ورود وسایل نقلیه یا بازگشت آن‌ها از مجتمع خدمات رفاهی (Area di servizio) را تسهیل می‌کند. ❌ در باند شتاب، توقف (Sosta) و سبقت (Sorpasso) ممنوع است. برای خروج از محل توقف اضطراری یا ورود به یک محوطه پارک استفاده نمی‌شود.`,
       imageUrl: '/images/1-4.jpg',
-      vocabularyIds: [
-        'corsia_di_accelerazione', 'utilizzata', 'aumentare', 'velocita', 'consente', 'ingresso',
-        'autostrada', 'strada_extraurbana_principale', 'facilitare', 'rientrare', 'area_di_servizio',
-        'vietati', 'sosta', 'sorpasso', 'abbandonare', 'piazzola_di_sosta', 'area_di_sosta'
-      ],
+      vocabularyIds: [ 'corsia_di_accelerazione', 'utilizzata', 'aumentare', 'velocita', 'consente', 'ingresso', 'autostrada', 'strada_extraurbana_principale', 'facilitare', 'rientrare', 'area_di_servizio', 'vietati', 'sosta', 'sorpasso', 'abbandonare', 'piazzola_di_sosta', 'area_di_sosta', 'non', 'viene', 'una', 'un', 'dei', 'nella', 'divieti', 'serve', 'extraurbana', 'principale', 'servizio'],
       questionIds: ['q_4_1', 'q_4_2', 'q_4_3', 'q_4_4', 'q_4_5', 'q_4_6', 'q_4_7']
     },
     {
@@ -130,10 +108,7 @@ Serve per uscire correttamente ed entrare in un'area di servizio. ❌ Nella cors
 قوانین و ممنوعیت‌ها:
 برای خروج صحیح و ورود به مجتمع خدمات رفاهی (Area di servizio) استفاده می‌شود. ❌ در باند کاهش سرعت، توقف (Sosta) و سبقت (Sorpasso) ممنوع است. برای ورود به اتوبان یا ورود به محل توقف اضطراری استفاده نمی‌شود.`,
       imageUrl: '/images/1-5.jpg',
-      vocabularyIds: [
-        'corsia_di_decelerazione', 'destinata', 'rallentamento', 'agevola', 'uscita', 'strada_a_precedenza',
-        'correttamente', 'area_di_servizio', 'vietati', 'sosta', 'sorpasso', 'entrare', 'piazzola_di_sosta'
-      ],
+      vocabularyIds: [ 'corsia_di_decelerazione', 'destinata', 'rallentamento', 'agevola', 'uscita', 'strada_a_precedenza', 'correttamente', 'area_di_servizio', 'vietati', 'sosta', 'sorpasso', 'entrare', 'piazzola_di_sosta', 'non', 'una', 'un', 'dei', 'nella', 'precedenza', 'divieti', 'serve', 'extraurbana', 'principale', 'servizio', 'e_verb'],
       questionIds: ['q_5_1', 'q_5_2', 'q_5_3', 'q_5_4', 'q_5_5', 'q_5_6']
     },
     {
@@ -154,7 +129,7 @@ Facilita la circolazione perché esclude l'incrocio diretto fra i veicoli. Valgo
 قوانین اصلی:
 تردد را آسان می‌کند زیرا برخورد و تقاطع مستقیم بین وسایل نقلیه را حذف می‌کند. قوانین عمومی حداکثر سرعت در آن معتبر است. ❌ به طور معمول توسط چراغ راهنمایی کنترل نمی‌شود و تقاطع همسطح با ریل قطار نیست.`,
       imageUrl: '/images/1-6.jpg',
-      vocabularyIds: ['intersezione', 'livelli_sfalsati', 'sovrappassi', 'sottopassi', 'rampe', 'smistamento', 'esclude'],
+      vocabularyIds: [ 'intersezione', 'livelli_sfalsati', 'sovrappassi', 'sottopassi', 'rampe', 'smistamento', 'esclude', 'non', 'con', 'di_norma', 'un', 'del', 'delle', 'perché', 'fra', 'stradale', 'limiti', 'generali', 'livelli', 'raso', 'sfalsati', 'correnti', 'principali', 'treno', 'e_verb'],
       questionIds: ['q_6_1', 'q_6_2', 'q_6_3', 'q_6_4', 'q_6_5', 'q_6_6', 'q_6_7']
     },
     {
@@ -169,12 +144,7 @@ Può essere regolata da semaforo. Richiede di fare attenzione ai veicoli proveni
 قوانین اصلی:
 می‌آتواند توسط چراغ راهنمایی (Semaforo) کنترل شود. نیازمند توجه به وسایل نقلیه وارد شده از جاده‌های متقاطع است. ❌ شامل روگذر، زیرگذر یا رمپ نمی‌شود. تقاطع با ریل تراموا، درب پارکینگ (Passo carrabile) یا گذرگاه ریلی دارای مانع نیست.`,
       imageUrl: '/images/1-7.jpg',
-      vocabularyIds: [
-        'intersezione', 'intersezione_a_raso', 'area_comune', 'stesso_piano', 'stesso_livello',
-        'smistamento', 'correnti_veicolari', 'braccio', 'regolata_da_semaforo', 'fare_attenzione',
-        'veicoli_provenienti', 'incrociarsi', 'non_comprendere', 'sovrappassi', 'sottopassi',
-        'rampe', 'binari_del_tram', 'passi_carrabili', 'passaggio_a_livello', 'barriere'
-      ],
+      vocabularyIds: [ 'intersezione', 'intersezione_a_raso', 'area_comune', 'stesso_piano', 'stesso_livello', 'smistamento', 'correnti_veicolari', 'braccio', 'regolata_da_semaforo', 'fare_attenzione', 'veicoli_provenienti', 'incrociarsi', 'non_comprendere', 'sovrappassi', 'sottopassi', 'rampe', 'binari_del_tram', 'passi_carrabili', 'passaggio_a_livello', 'barriere', 'non', 'con', 'puo', 'una', 'un', 'che', 'del', 'delle', 'dalle', 'due', 'stesso', 'passaggio', 'richiede', 'livello', 'raso', 'piano', 'correnti', 'principali', 'attenzione', 'allo', 'più', 'e_verb'],
       questionIds: ['q_7_1', 'q_7_2', 'q_7_3', 'q_7_4', 'q_7_5', 'q_7_6', 'q_7_7', 'q_7_8', 'q_7_9']
     },
     {
@@ -189,12 +159,7 @@ Regole principali:
 قوانین اصلی:
 در فراتر از خط سفید ممتدِ حاشیه سواره‌رو قرار گرفته و خارج از آن است. ❌ به طور معمول اجازه عبور به وسایل نقلیه را نمی‌دهد. سواره‌رو را تقسیم نمی‌کند، برای پارک خودروها نیست (حتی برای ۵ ساعت) و مخصوص خودروهای کندرو در سربالایی‌ها نیست.`,
       imageUrl: '/images/1-8.jpg',
-      vocabularyIds: [
-        'banchina', 'parte_della_strada', 'esterna_alla_carreggiata', 'circolazione_pedoni',
-        'oltre_la_linea', 'bianca_continua', 'margine_carreggiata', 'fuori_di_essa', 'non_consente',
-        'transito_veicoli', 'non_divide', 'non_destinata', 'sosta_veicoli', 'cinque_ore', 'riservata',
-        'veicoli_lenti', 'strade_in_salita'
-      ],
+      vocabularyIds: [ 'banchina', 'parte_della_strada', 'esterna_alla_carreggiata', 'circolazione_pedoni', 'oltre_la_linea', 'bianca_continua', 'margine_carreggiata', 'fuori_di_essa', 'non_consente', 'transito_veicoli', 'non_divide', 'non_destinata', 'sosta_veicoli', 'cinque_ore', 'riservata', 'veicoli_lenti', 'strade_in_salita', 'non', 'di_norma', 'una', 'della', 'dei', 'alla', 'parte', 'linea', 'continua', 'principali', 'fuori', 'margine', 'e_verb'],
       questionIds: ['q_8_1', 'q_8_2', 'q_8_3', 'q_8_4', 'q_8_5', 'q_8_6', 'q_8_7']
     },
     {
@@ -211,12 +176,7 @@ Deve essere corredato da un apposito segnale che riporti l'ente e il numero di a
 
 اشتباهات رایج (رد گزینه‌های آزمون): این محل جاده‌ای برای گاری یا کامیون نیست، نشان‌دهنده میدان (Rotatoria) نیست، پارکینگ تعویضی (Parcheggio scambiatore) نیست و سکوی ایمنی عابر پیاده (Salvagente) هم نیست.`,
       imageUrl: 'NULL',
-      vocabularyIds: [
-        'passo_carrabile', 'zona', 'accesso_veicoli', 'proprieta_private', 'laterali_alla_strada',
-        'garage', 'cortili', 'aree_di_sosta', 'corredato', 'apposito_segnale', 'riporti_ente',
-        'numero_di_autorizzazione', 'sosta_vietata', 'consentita_la_fermata', 'carri_trainati',
-        'circolazione_rotatoria', 'autocarri', 'parcheggio_scambiatore', 'salvagente_circolare'
-      ],
+      vocabularyIds: [ 'passo_carrabile', 'zona', 'accesso_veicoli', 'proprieta_private', 'laterali_alla_strada', 'garage', 'cortili', 'aree_di_sosta', 'corredato', 'apposito_segnale', 'riporti_ente', 'numero_di_autorizzazione', 'sosta_vietata', 'consentita_la_fermata', 'carri_trainati', 'circolazione_rotatoria', 'autocarri', 'parcheggio_scambiatore', 'salvagente_circolare', 'non', 'una', 'un', 'che', 'dei', 'alla', 'alle', 'come', 'mentre', 'segnale', 'parcheggio', 'corrispondenza', 'passo', 'carrabile', 'e_verb'],
       questionIds: [
         'q_9_1', 'q_9_2', 'q_9_3', 'q_9_4', 'q_9_5', 'q_9_6', 'q_9_7', 'q_9_8', 'q_9_9', 'q_9_10', 'q_9_11'
       ]
@@ -233,11 +193,7 @@ Regole per la sosta:
 قوانین پارک:
 ✅ فقط و فقط در صورت وجود خط‌کشی‌های مخصوص پارک، اجازه پارک کردن خودروها را می‌دهد. ❌ به طور معمول به عابران اختصاص دارد: اگر خط‌کشی نباشد اجازه پارک ندارد (حتی اگر پیاده‌رو برجسته نباشد)، به طور عادی برای موتورگازی‌ها نیست، بخشی از سواره‌رو نیست و برای دوچرخه‌ها اختصاص نیافته است.`,
       imageUrl: '/images/1-10.jpg',
-      vocabularyIds: [
-        'marciapiede', 'a_raso', 'rialzato', 'parte_della_strada', 'esterna_alla_carreggiata',
-        'destinata', 'circolazione_pedoni', 'consente_la_sosta', 'solo_in_presenza', 'strisce_di_parcheggio',
-        'riservato', 'ciclomotori', 'biciclette'
-      ],
+      vocabularyIds: [ 'marciapiede', 'a_raso', 'rialzato', 'parte_della_strada', 'esterna_alla_carreggiata', 'destinata', 'circolazione_pedoni', 'consente_la_sosta', 'solo_in_presenza', 'strisce_di_parcheggio', 'riservato', 'ciclomotori', 'biciclette', 'non', 'di_norma', 'puo', 'una', 'che', 'della', 'dei', 'alla', 'alle', 'parte', 'strisce', 'raso', 'parcheggio', 'e_verb'],
       questionIds: ['q_10_1', 'q_10_2', 'q_10_3', 'q_10_4', 'q_10_5', 'q_10_6', 'q_10_7', 'q_10_8']
     },
     {
@@ -252,11 +208,7 @@ Regole e divieti:
 قوانین و ممنوعیت‌ها:
 ✅ بخشی از سواره‌رو است که برای عبور عابران پیاده در حال عبور اختصاص یافته است. وسایل نقلیه باید به عابران روی خط‌کشی حق تقدم بدهند. ❌ توقف کامل (Sosta) و توقف کوتاه (Fermata) وسایل نقلیه روی آن ممنوع است. عبور وسایل نقلیه از روی آن ممنوع نیست، با خط زرد جدا نشده و خارج از سواره‌رو قرار ندارد.`,
       imageUrl: '/images/1-11.jpg',
-      vocabularyIds: [
-        'attraversamento_pedonale', 'parte_della_carreggiata', 'segnalata', 'strisce_bianche_parallele',
-        'pedoni', 'diritto_di_precedenza', 'rispetto_ai_veicoli', 'transito', 'vietata_la_sosta',
-        'separata', 'striscia_gialla', 'vietata_la_fermata', 'al_di_fuori'
-      ],
+      vocabularyIds: [ 'attraversamento_pedonale', 'parte_della_carreggiata', 'segnalata', 'strisce_bianche_parallele', 'pedoni', 'diritto_di_precedenza', 'rispetto_ai_veicoli', 'transito', 'vietata_la_sosta', 'separata', 'striscia_gialla', 'vietata_la_fermata', 'al_di_fuori', 'non', 'devono', 'posto', 'una', 'che', 'della', 'dei', 'sulla', 'sulle', 'quale', 'precedenza', 'parte', 'attraversamento', 'attraversano', 'divieti', 'strisce', 'striscia', 'gialla', 'pedonale', 'fuori', 'e_verb'],
       questionIds: ['q_11_1', 'q_11_2', 'q_11_3', 'q_11_4', 'q_11_5', 'q_11_6', 'q_11_7', 'q_11_8', 'q_11_9', 'q_11_10']
     },
     {
@@ -271,7 +223,7 @@ Si trova in corrispondenza di attraversamenti pedonali o di fermate dei trasport
 ویژگی‌ها:
 در محل خط‌کشی‌های عابر پیاده یا ایستگاه‌های وسایل نقلیه عمومی قرار دارد. سوار و پیاده شدن مسافران تراموا (Tram)، اتوبوس برقی (Filobus) یا اتوبوس را تسهیل می‌کند. می‌تواند با ستون‌های نورانی با چراغ زرد ثابت یا چشمک‌زن علامت‌گذاری شود.`,
       imageUrl: '/images/1-12.jpg',
-      vocabularyIds: ['salvagente', 'rialzata', 'riparo', 'sosta_pedoni', 'fermate', 'trasporti_pubblici', 'agevola', 'colonnine_luminose', 'luce_gialla'],
+      vocabularyIds: [ 'salvagente', 'rialzata', 'riparo', 'sosta_pedoni', 'fermate', 'trasporti_pubblici', 'agevola', 'colonnine_luminose', 'luce_gialla', 'con', 'puo', 'una', 'che', 'della', 'dei', 'alla', 'parte', 'attraversamenti', 'attraversano', 'luce', 'gialla', 'lampeggiante', 'pedonali', 'corrispondenza', 'e_verb'],
       questionIds: ['q_12_1', 'q_12_2', 'q_12_3', 'q_12_4', 'q_12_5', 'q_12_6', 'q_12_7']
     },
     {
@@ -292,7 +244,7 @@ Regole principali:
 قوانین اصلی:
 برای جداسازی و هدایت جریان‌های ترافیکی به سمت مسیرهای مختلف اختصاص یافته است. ❌ رانندگی، عبور و پارک کردن روی آن برای هر نوع وسیله نقلیه‌ای (شامل موتورسیکلت‌ها و موتورگازی‌ها) ممنوع است. برای عبور عابران پیاده یا محوطه پارک نیست.`,
       imageUrl: '/images/1-13.jpg',
-      vocabularyIds: ['isola_di_traffico', 'esclusa', 'rialzata', 'dipinta_a_raso', 'zebrature', 'strisce_di_raccordo', 'separare', 'incanalare', 'vietato_marciare'],
+      vocabularyIds: [ 'isola_di_traffico', 'esclusa', 'rialzata', 'dipinta_a_raso', 'zebrature', 'strisce_di_raccordo', 'separare', 'incanalare', 'vietato_marciare', 'non', 'puo', 'viene', 'una', 'della', 'dei', 'dal', 'sul', 'stradale', 'parte', 'marciare', 'sostare', 'strisce', 'raso', 'piano', 'correnti', 'motocicli', 'ciclomotori', 'principali', 'e_verb'],
       questionIds: [
         'q_13_1', 'q_13_2', 'q_13_3', 'q_13_4', 'q_13_5', 'q_13_6', 'q_13_7', 'q_13_8',
         'q_13_9', 'q_13_10', 'q_13_11', 'q_13_12', 'q_13_13', 'q_13_14', 'q_13_15', 'q_13_16',
@@ -315,7 +267,7 @@ Attrezzature presenti:
 
 ❌ اشتباه رایج: این یک پل روگذر، زیرگذر یا تقاطع اتوبانی نیست و فاقد باند شتاب است.`,
       imageUrl: '/images/1-14.jpg',
-      vocabularyIds: ['passaggio_a_livello', 'attraversamento_a_raso', 'linea_ferroviaria', 'barriere', 'semibarriere', 'luci_rosse', 'segnalazione_acustica', 'croce_di_san_andrea', 'pannelli_distanziometrici'],
+      vocabularyIds: [ 'passaggio_a_livello', 'attraversamento_a_raso', 'linea_ferroviaria', 'barriere', 'semibarriere', 'luci_rosse', 'segnalazione_acustica', 'croce_di_san_andrea', 'pannelli_distanziometrici', 'non', 'una', 'un', 'segnalazione', 'stesso', 'passaggio', 'attraversamento', 'attraversamenti', 'pannelli', 'linea', 'luci', 'rosse', 'livello', 'raso', 'piano', 'andrea', 'croce', 'distanziometrici', 'e_verb'],
       questionIds: [
         'q_14_1', 'q_14_2', 'q_14_3', 'q_14_4', 'q_14_5', 'q_14_6',
         'q_14_7', 'q_14_8', 'q_14_9', 'q_14_10', 'q_14_11', 'q_14_12'
@@ -333,7 +285,7 @@ Chi può circolare:
 چه کسانی اجازه تردد دارند:
 ✅ عابران پیاده و دوچرخه‌ها  ✅ وسایل نقلیه در خدمت افراد دارای معلولیت (Persone diversamente abili)  ✅ وسایل نقلیه امدادی (پلیس، آتش‌نشانی) تنها در صورت فعال بودن آژیر و چراغ چشمک‌زن آبی  ✅ خودروهای با آلایندگی صفر (برقی) در صورتی که صراحتاً مجاز اعلام شده باشد.`,
       imageUrl: '/images/1-15.jpg',
-      vocabularyIds: ['area_pedonale', 'segnali_di_inizio', 'segnali_di_fine', 'transito_pedoni', 'servizio_di_emergenza', 'luce_lampeggiante_blu', 'sirena', 'espressamente_indicato'],
+      vocabularyIds: [ 'area_pedonale', 'segnali_di_inizio', 'segnali_di_fine', 'transito_pedoni', 'servizio_di_emergenza', 'luce_lampeggiante_blu', 'sirena', 'espressamente_indicato', 'con', 'consentito', 'puo', 'una', 'del', 'dei', 'dal', 'segnale', 'segnali', 'stradali', 'circolare', 'luce', 'lampeggiante', 'blu', 'pedonale', 'polizia', 'persone', 'servizio', 'funzione', 'appositi', 'e_verb'],
       questionIds: ['q_15_1', 'q_15_2', 'q_15_3', 'q_15_4', 'q_15_5', 'q_15_6', 'q_15_7', 'q_15_8', 'q_15_9', 'q_15_10', 'q_15_11']
     },
     {
@@ -348,7 +300,7 @@ Può essere limitata ad ore prestabilite (fasce orarie) o solo a particolari cat
 محدودیت‌ها:
 می‌تواند به ساعت‌های از پیش تعیین‌شده (ساعات خاص) یا به دسته‌های خاصی از کاربران و وسایل نقلیه (مانند ساکنین، خودروهای الکتریکی، یا خودروهای دارای مجوز) محدود شود.`,
       imageUrl: '/images/1-16.jpg',
-      vocabularyIds: ['zona_a_traffico_limitato', 'ztl', 'accesso', 'limitati', 'ore_prestabilite', 'particolari_categorie', 'utenti'],
+      vocabularyIds: [ 'zona_a_traffico_limitato', 'ztl', 'accesso', 'limitati', 'ore_prestabilite', 'particolari_categorie', 'utenti', 'puo', 'un', 'dei', 'nella', 'quale', 'segnali', 'stradali', 'categorie', 'appositi', 'limitato', 'e_verb'],
       questionIds: ['q_16_1', 'q_16_2', 'q_16_3', 'q_16_4', 'q_16_5', 'q_16_6', 'q_16_7', 'q_16_8', 'q_16_9']
     },
     {
@@ -368,7 +320,7 @@ Non tutti i veicoli possono circolare in autostrada. Non possono circolare macch
 
 محدودیت‌ها:
 همه وسایل نقلیه اجازه حرکت در اتوبان را ندارند. ماشین‌های کشاورزی، موتورگازی‌ها و موتورسیکلت‌های تا ۱۲۵ سانتی‌متر مکعب نمی‌توانند در اتوبان حرکت کنند. موتورسیکلت باید حداقل ۱۵۰ سانتی‌متر مکعب حجم موتور داشته باشد.`,
-      vocabularyIds: ['autostrada', 'carreggiate_indipendenti', 'spartitraffico', 'incroci_a_raso', 'corsie_di_accelerazione', 'corsie_di_decelerazione', 'recintata', 'macchine_agricole', 'ciclomotori', 'motocicli'],
+      vocabularyIds: [ 'autostrada', 'carreggiate_indipendenti', 'spartitraffico', 'incroci_a_raso', 'corsie_di_accelerazione', 'corsie_di_decelerazione', 'recintata', 'macchine_agricole', 'ciclomotori', 'motocicli', 'non', 'con', 'tutti', 'devono', 'possono', 'una', 'dei', 'alla', 'cioè', 'circolare', 'avere', 'raso', 'motore', 'separate', 'categorie', 'agricole', 'cilindrata', 'alcune', 'e_verb'],
       questionIds: ['q_17_1', 'q_17_2', 'q_17_3', 'q_17_4', 'q_17_5', 'q_17_6', 'q_17_7', 'q_17_8', 'q_17_9', 'q_17_10', 'q_17_11', 'q_17_12', 'q_17_13', 'q_17_14']
     },
     {
@@ -388,7 +340,7 @@ Possono circolare solo alcune categorie di veicoli a motore. Non è contraddisti
 
 محدودیت‌ها:
 فقط بعضی دسته‌های وسایل نقلیه موتوری می‌توانند در آن حرکت کنند. با تابلوهای سبز مشخص نمی‌شود و حد سرعت آن با اتوبان یکسان نیست.`,
-      vocabularyIds: ['strada_extraurbana_principale', 'carreggiate_separate', 'cartelli_stradali', 'inizio', 'fine', 'intersezioni_a_livelli_sfalsati', 'aree_di_sosta', 'corsie_di_accelerazione', 'categorie_di_veicoli'],
+      vocabularyIds: [ 'strada_extraurbana_principale', 'carreggiate_separate', 'cartelli_stradali', 'inizio', 'fine', 'intersezioni_a_livelli_sfalsati', 'aree_di_sosta', 'corsie_di_accelerazione', 'categorie_di_veicoli', 'non', 'puo', 'possono', 'una', 'che', 'stradali', 'stesso', 'attraversano', 'circolare', 'avere', 'limite', 'massimo', 'verde', 'livelli', 'raso', 'sfalsati', 'motore', 'extraurbana', 'principale', 'separate', 'categorie', 'fuori', 'centri', 'abitati', 'appositi', 'alcune', 'e_verb'],
       questionIds: ['q_18_1', 'q_18_2', 'q_18_3', 'q_18_4', 'q_18_5', 'q_18_6', 'q_18_7', 'q_18_8', 'q_18_9', 'q_18_10', 'q_18_11', 'q_18_12', 'q_18_13', 'q_18_14', 'q_18_15', 'q_18_16']
     }
   ],

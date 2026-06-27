@@ -27,7 +27,7 @@ Non consente l'accesso per effettuare sosta o carico/scarico. Non indica senso u
 
 ورود برای پارک کردن (Sosta) یا تخلیه بار مجاز نیست. این تابلو نشانه جاده یک‌طرفه (Senso unico) نمی‌باشد.`,
       imageUrl: '/images/4-1.jpg',
-      vocabularyIds: ['divieto_di_transito', 'circolazione_nei_due_sensi', 'tutti_i_veicoli', 'accessi', 'pedoni', 'indica', 'non_indica', 'strada', 'per', 'veicoli', 'non_consente', 'accesso', 'sosta', 'senso_unico', 'vieta', 'circolazione', 'posto', 'ciclomotori', 'quadricicli', 'inclusi', 'entrambi', 'limitata', 'effettuare'],
+      vocabularyIds: [ 'divieto_di_transito', 'circolazione_nei_due_sensi', 'tutti_i_veicoli', 'accessi', 'pedoni', 'indica', 'non_indica', 'strada', 'per', 'veicoli', 'non_consente', 'accesso', 'sosta', 'senso_unico', 'vieta', 'circolazione', 'posto', 'ciclomotori', 'quadricicli', 'inclusi', 'entrambi', 'limitata', 'effettuare', 'non', 'con', 'tutti', 'puo', 'possono', 'della', 'alla', 'nel', 'nei', 'gli', 'segnale', 'segnali', 'senso', 'unico', 'due', 'divieto', 'avere', 'pannello', 'pannelli', 'motocicli', 'agricole', 'carico', 'parcheggio', 'imporre', 'genere', 'e_verb'],
       questionIds: Array.from({ length: 17 }, (_, i) => `q_4_1_${i + 1}`)
     },
     {
@@ -44,7 +44,7 @@ Non indica un parcheggio per autocarri né un itinerario obbligatorio.`,
 
 این تابلو پارکینگ کامیون‌ها یا مسیر اجباری (Itinerario obbligatorio) را نشان نمی‌دهد. همچنین ممنوعیت توقف (Divieto di sosta) نیست.`,
       imageUrl: '/images/4-2.jpg',
-      vocabularyIds: ['particolari_categorie', 'autotreni', 'autoarticolati', 'esclusi', 'indica', 'non_indica', 'per', 'veicoli', 'autocarri', 'obbligatorio', 'vieta', 'tutti_i_veicoli', 'rappresentate', 'figura', 'possono', 'transitare', 'quelli', 'raffigurati', 'itinerario'],
+      vocabularyIds: [ 'particolari_categorie', 'autotreni', 'autoarticolati', 'esclusi', 'indica', 'non_indica', 'per', 'veicoli', 'autocarri', 'obbligatorio', 'vieta', 'tutti_i_veicoli', 'rappresentate', 'figura', 'possono', 'transitare', 'quelli', 'raffigurati', 'itinerario', 'non', 'tutti', 'un', 'che', 'alle', 'categorie', 'parcheggio'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_4_2_${i + 1}`)
     },
     {
@@ -63,7 +63,7 @@ Non vieta la sosta, non vieta il sorpasso (se c'è spazio). Non consente l'acces
 
 این تابلو "توقف ممنوع" یا "سبقت ممنوع" نیست. به افراد محلی (Traffico locale) اجازه ورود استثنایی نمی‌دهد.`,
       imageUrl: '/images/4-3.jpg',
-      vocabularyIds: ['senso_vietato', 'accessibile', 'senso_unico', 'ore_notturne', 'strada', 'se', 'per', 'veicoli', 'spazio', 'entrare', 'non_consente', 'accesso', 'essere', 'anche', 'sorpasso', 'sosta', 'senza', 'vale', 'vieta', 'quadricicli', 'taxi', 'invece', 'altra', 'deve', 'rispettato', 'residenti', 'traffico', 'locale'],
+      vocabularyIds: [ 'senso_vietato', 'accessibile', 'senso_unico', 'ore_notturne', 'strada', 'se', 'per', 'veicoli', 'spazio', 'entrare', 'non_consente', 'accesso', 'essere', 'anche', 'sorpasso', 'sosta', 'senza', 'vale', 'vieta', 'quadricicli', 'taxi', 'invece', 'altra', 'deve', 'rispettato', 'residenti', 'traffico', 'locale', 'non', 'una', 'nelle', 'senso', 'unico', 'parte', 'divieto', 'motore', 'e_verb'],
       questionIds: Array.from({ length: 16 }, (_, i) => `q_4_3_${i + 1}`)
     },
     {
@@ -82,7 +82,7 @@ Non indica una distanza massima, non è un divieto di transito, non è un limite
 
 این عدد طول کابل بکسل، محدودیت سرعت (Velocità) یا حداکثر فاصله نیست.`,
       imageUrl: '/images/4-4.jpg',
-      vocabularyIds: ['distanziamento_minimo', 'obbligatorio', 'distanza', 'veicolo_che_precede', 'motocicli', 'indica', 'non_indica', 'almeno', 'per', 'mantenere', 'veicoli', 'veicolo', 'anche', 'quando', 'vale', 'obbliga', 'precede', 'massima', 'divieto_di_transito', 'tutti_i_veicoli', 'rispettato', 'compresi', 'bassa'],
+      vocabularyIds: [ 'distanziamento_minimo', 'obbligatorio', 'distanza', 'veicolo_che_precede', 'motocicli', 'indica', 'non_indica', 'almeno', 'per', 'mantenere', 'veicoli', 'veicolo', 'anche', 'quando', 'vale', 'obbliga', 'precede', 'massima', 'divieto_di_transito', 'tutti_i_veicoli', 'rispettato', 'compresi', 'bassa', 'non', 'tutti', 'una', 'un', 'che', 'dal', 'divieto', 'metri', 'limite', 'e_verb'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_4_4_${i + 1}`)
     },
     {
@@ -99,7 +99,7 @@ Non vale solo di notte, non consente l'uso per "richiamare l'attenzione" senza p
 
 این قانون محدود به ساعات شب (۸ شب تا ۸ صبح) نیست، بلکه همیشگی است. بوق زدن در ترافیک‌های عادی (Ingorgo) برای جلب توجه مجاز نیست.`,
       imageUrl: '/images/4-5.jpg',
-      vocabularyIds: ['segnalazioni_acustiche', 'clacson', 'pericolo_immediato', 'feriti', 'solo', 'pericolo', 'in_caso_di', 'per', 'non_consente', 'consentito', 'senza', 'vale', 'vieta', 'immediato'],
+      vocabularyIds: [ 'segnalazioni_acustiche', 'clacson', 'pericolo_immediato', 'feriti', 'solo', 'pericolo', 'in_caso_di', 'per', 'non_consente', 'consentito', 'senza', 'vale', 'vieta', 'immediato', 'non', 'del', 'trasporto', 'attenzione', 'notte'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_4_5_${i + 1}`)
     },
     {
@@ -120,7 +120,7 @@ Non si può sorpassare una macchina agricola o operatrice se si oltrepassano i l
 
 این تابلو به معنای ممنوعیت کامل سبقت از هر وسیله‌ای نیست. سبقت یک خودرو از موتور مجاز است، اما موتور نمی‌تواند از ماشین سبقت بگیرد.`,
       imageUrl: '/images/4-6.jpg',
-      vocabularyIds: ['divieto_di_sorpasso', 'veicoli_a_motore', 'autoveicoli', 'ciclomotori', 'macchine_agricole', 'trazione_animale', 'se', 'vietato', 'veicoli', 'veicolo', 'biciclette', 'anche', 'vietato_past', 'consentito', 'sorpasso', 'senza', 'vieta', 'motocicli', 'superare', 'diversi', 'autovettura', 'agricola', 'operatrice', 'previsti'],
+      vocabularyIds: [ 'divieto_di_sorpasso', 'veicoli_a_motore', 'autoveicoli', 'ciclomotori', 'macchine_agricole', 'trazione_animale', 'se', 'vietato', 'veicoli', 'veicolo', 'biciclette', 'anche', 'vietato_past', 'consentito', 'sorpasso', 'senza', 'vieta', 'motocicli', 'superare', 'diversi', 'autovettura', 'agricola', 'operatrice', 'previsti', 'non', 'puo', 'una', 'un', 'che', 'fra', 'limiti', 'striscia', 'continua', 'motore', 'braccia'],
       questionIds: Array.from({ length: 35 }, (_, i) => `q_4_6_${i + 1}`)
     },
     {
@@ -139,7 +139,7 @@ Non indica la fine del limite di velocità o del divieto di sosta.`,
 
 این تابلو مختص سواری‌ها نیست، نشان‌دهنده پایان محدودیت سرعت یا پایان توقف ممنوع نیز نمی‌باشد.`,
       imageUrl: '/images/4-7.jpg',
-      vocabularyIds: ['fine_divieto', 'precedente_imposto', 'fine_prescrizione', 'indica', 'non_indica', 'se', 'per', 'sorpasso', 'sosta', 'fine', 'prescrizione', 'divieto_di_sorpasso', 'divieto_di_sosta', 'deve'],
+      vocabularyIds: [ 'fine_divieto', 'precedente_imposto', 'fine_prescrizione', 'indica', 'non_indica', 'se', 'per', 'sorpasso', 'sosta', 'fine', 'prescrizione', 'divieto_di_sorpasso', 'divieto_di_sosta', 'deve', 'non', 'del', 'segnale', 'divieto', 'limite', 'striscia', 'continua'],
       questionIds: Array.from({ length: 14 }, (_, i) => `q_4_7_${i + 1}`)
     },
     {
@@ -156,7 +156,7 @@ Non è un segnale di pericolo, non vale per gli autobus (che non erano soggetti 
 
 این تابلو مربوط به اتوبوس‌ها نیست (چون محدودیت قبلی اصلاً شامل آنها نبود). عبور کامیون‌ها را ممنوع نمی‌کند.`,
       imageUrl: '/images/4-8.jpg',
-      vocabularyIds: ['veicoli_merci', 'massa_a_pieno_carico', 'autotreno', 'indica', 'pericolo', 'per', 'presenza', 'veicoli', 'manovre', 'sorpasso', 'vale', 'fine', 'divieto_di_sorpasso', 'autobus', 'effettuare'],
+      vocabularyIds: [ 'veicoli_merci', 'massa_a_pieno_carico', 'autotreno', 'indica', 'pericolo', 'per', 'presenza', 'veicoli', 'manovre', 'sorpasso', 'vale', 'fine', 'divieto_di_sorpasso', 'autobus', 'effettuare', 'non', 'puo', 'un', 'che', 'del', 'gli', 'segnale', 'divieto', 'merci', 'massa', 'carico', 'e_verb'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_8_${i + 1}`)
     },
     {
@@ -175,7 +175,7 @@ Non vieta il transito, non vale per veicoli merci leggeri (fino a 3,5t).`,
 
 کامیون‌های کمتر از ۳.۵ تن (سبک) از این قانون مستثنی هستند و می‌توانند سبقت بگیرند. این تابلو عبور را ممنوع نمی‌کند.`,
       imageUrl: '/images/4-9.jpg',
-      vocabularyIds: ['trasporto_cose', 'trasporto_persone', 'autocaravan', 'autobus', 'per', 'veicoli', 'destinati_pl', 'vale', 'vieta', 'veicoli_a_motore', 'veicoli_merci', 'autotreno'],
+      vocabularyIds: [ 'trasporto_cose', 'trasporto_persone', 'autocaravan', 'autobus', 'per', 'veicoli', 'destinati_pl', 'vale', 'vieta', 'veicoli_a_motore', 'veicoli_merci', 'autotreno', 'non', 'con', 'puo', 'un', 'perché', 'motore', 'merci', 'massa', 'trasporto', 'persone', 'adibiti'],
       questionIds: Array.from({ length: 16 }, (_, i) => `q_4_9_${i + 1}`)
     },
     {
@@ -194,7 +194,7 @@ Non indica una velocità consigliata, non è un limite minimo, non impone distan
 
 این تابلو سرعت توصیه‌شده (Velocità consigliata) یا حداقل سرعت (Limite minimo) نیست. همچنین نشانه فاصله ایمنی (Distanza di sicurezza) نیست.`,
       imageUrl: '/images/4-10.jpg',
-      vocabularyIds: ['limite_massimo', 'superare', 'velocita', 'inferiore_o_uguale', 'indica', 'non_indica', 'distanza_di_sicurezza', 'distanza', 'vale', 'impone', 'vieta', 'prescrizione'],
+      vocabularyIds: [ 'limite_massimo', 'superare', 'velocita', 'inferiore_o_uguale', 'indica', 'non_indica', 'distanza_di_sicurezza', 'distanza', 'vale', 'impone', 'vieta', 'prescrizione', 'non', 'dopo', 'una', 'un', 'segnale', 'divieto', 'circolare', 'limite', 'minimo', 'e_verb'],
       questionIds: Array.from({ length: 25 }, (_, i) => `q_4_10_${i + 1}`)
     },
     {
@@ -213,7 +213,7 @@ Non vieta di superare la velocità di 50 km/h. Non prescrive di marciare a destr
 
 این تابلو سرعت ۵۰ کیلومتر را اجباری یا ممنوع نمی‌کند. نشانگر پایان سایر ممنوعیت‌ها نیست.`,
       imageUrl: '/images/4-11.jpg',
-      vocabularyIds: ['fine_limite', 'limiti_vigenti', 'superiore', 'indica', 'strada', 'se', 'sempre', 'destra', 'prescrive', 'vieta', 'fine', 'prescrizione', 'fine_prescrizione', 'limite_massimo', 'superare'],
+      vocabularyIds: [ 'fine_limite', 'limiti_vigenti', 'superiore', 'indica', 'strada', 'se', 'sempre', 'destra', 'prescrive', 'vieta', 'fine', 'prescrizione', 'fine_prescrizione', 'limite_massimo', 'superare', 'non', 'un', 'della', 'del', 'segnale', 'circolare', 'marciare', 'limite', 'limiti', 'massimo', 'generali', 'e_verb'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_4_11_${i + 1}`)
     },
     {
@@ -230,7 +230,7 @@ Non vale solo in determinate fasce orarie. Non obbliga i pedoni a circolare sul 
 
 این تابلو ورود موتورگازی‌ها را ممنوع نمی‌کند. همچنین نشان‌دهنده پارک بازی یا مسیر ویژه پیاده‌روی (Percorso pedonale) نیست.`,
       imageUrl: '/images/4-12.jpg',
-      vocabularyIds: ['transito_vietato', 'pedoni', 'autoveicoli', 'solo', 'biciclette', 'vale', 'obbliga', 'vieta', 'motocicli', 'quadricicli'],
+      vocabularyIds: [ 'transito_vietato', 'pedoni', 'autoveicoli', 'solo', 'biciclette', 'vale', 'obbliga', 'vieta', 'motocicli', 'quadricicli', 'non', 'sul', 'circolare', 'margine', 'sinistro'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_12_${i + 1}`)
     },
     {
@@ -247,7 +247,7 @@ Non indica una strada per venditori ambulanti, né vieta il transito ai veicoli 
 
 این تابلو مربوط به دستفروشان (Venditori ambulanti) یا حیوانات بارکش (Trazione animale) نیست.`,
       imageUrl: '/images/4-13.jpg',
-      vocabularyIds: ['veicoli_a_braccia', 'carretti_a_mano', 'venditori_ambulanti', 'indica', 'non_indica', 'strada', 'per', 'veicoli', 'biciclette', 'vieta', 'veicoli_a_motore', 'ciclomotori'],
+      vocabularyIds: [ 'veicoli_a_braccia', 'carretti_a_mano', 'venditori_ambulanti', 'indica', 'non_indica', 'strada', 'per', 'veicoli', 'biciclette', 'vieta', 'veicoli_a_motore', 'ciclomotori', 'non', 'una', 'motore', 'autovetture', 'braccia'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_4_13_${i + 1}`)
     },
     {
@@ -264,7 +264,7 @@ Non vieta il transito ai veicoli a motore né ai veicoli a braccia. Non indica s
 
 ورود ماشین‌های کشاورزی (Carri agricoli) یا وسایل نقلیه بدون موتور (کلا) را ممنوع نمی‌کند.`,
       imageUrl: '/images/4-14.jpg',
-      vocabularyIds: ['trazione_animale', 'cavalli', 'asini', 'carrozze', 'carri_agricoli', 'indica', 'non_indica', 'strada', 'veicoli', 'vieta', 'motocicli', 'veicoli_a_motore', 'autoveicoli', 'veicoli_a_braccia'],
+      vocabularyIds: [ 'trazione_animale', 'cavalli', 'asini', 'carrozze', 'carri_agricoli', 'indica', 'non_indica', 'strada', 'veicoli', 'vieta', 'motocicli', 'veicoli_a_motore', 'autoveicoli', 'veicoli_a_braccia', 'non', 'motore', 'braccia'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_4_14_${i + 1}`)
     },
     {
@@ -281,7 +281,7 @@ Non consente il transito di notte, non indica un parcheggio per biciclette, non 
 
 این تابلو نشان‌دهنده مسیر ویژه دوچرخه یا پارکینگ دوچرخه نیست. عبور موتورگازی در این مسیر ممنوعیتی ندارد.`,
       imageUrl: '/images/4-15.jpg',
-      vocabularyIds: ['biciclette', 'tandem', 'quadricicli_a_pedale', 'ciclomotori', 'indica', 'non_indica', 'per', 'non_consente', 'pedoni', 'vieta', 'motocicli', 'quadricicli', 'inclusi'],
+      vocabularyIds: [ 'biciclette', 'tandem', 'quadricicli_a_pedale', 'ciclomotori', 'indica', 'non_indica', 'per', 'non_consente', 'pedoni', 'vieta', 'motocicli', 'quadricicli', 'inclusi', 'non', 'un', 'alle', 'motore', 'parcheggio', 'notte'],
       questionIds: Array.from({ length: 13 }, (_, i) => `q_4_15_${i + 1}`)
     },
     {
@@ -298,7 +298,7 @@ Non è limitato a cilindrate >125cc. Non vieta a tutti i veicoli a due ruote (bi
 
 این تابلو ورود همه وسایل دوچرخ را ممنوع نمی‌کند. ربطی به مسیر ویژه موتورها ندارد.`,
       imageUrl: '/images/4-16.jpg',
-      vocabularyIds: ['motocicli', 'qualsiasi_cilindrata', 'tricicli', 'quadricicli', 'veicoli', 'biciclette', 'vieta', 'tutti_i_veicoli', 'ciclomotori', 'possono'],
+      vocabularyIds: [ 'motocicli', 'qualsiasi_cilindrata', 'tricicli', 'quadricicli', 'veicoli', 'biciclette', 'vieta', 'tutti_i_veicoli', 'ciclomotori', 'possono', 'non', 'tutti', 'due', 'passare', 'motore', 'autovetture', 'cilindrata', 'limitato', 'e_verb'],
       questionIds: Array.from({ length: 13 }, (_, i) => `q_4_16_${i + 1}`)
     },
     {
@@ -317,7 +317,7 @@ Non vieta il transito ai trattori stradali per semirimorchi.`,
 
 این تابلو ورود کشنده‌های تریلی (Trattori stradali) را ممنوع نمی‌کند. مختص مسیرهای کشاورزی نیست و همیشه معتبر است.`,
       imageUrl: '/images/4-17.jpg',
-      vocabularyIds: ['macchine_agricole', 'trattrici', 'sgombraneve', 'macchine_operatrici', 'gommate', 'cingolate', 'per', 'vale', 'vieta', 'motocicli'],
+      vocabularyIds: [ 'macchine_agricole', 'trattrici', 'sgombraneve', 'macchine_operatrici', 'gommate', 'cingolate', 'per', 'vale', 'vieta', 'motocicli', 'non', 'alle', 'stradali', 'agricole', 'notte'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_4_17_${i + 1}`)
     },
     {
@@ -334,7 +334,7 @@ Non è permesso il transito ai taxi o alle auto non catalizzate: tutti gli autov
 
 تاکسی‌ها و ماشین‌های فاقد کاتالیزور هم اجازه ورود ندارند (قانون شامل همه خودروهاست).`,
       imageUrl: '/images/4-18.jpg',
-      vocabularyIds: ['tutti_gli_autoveicoli', 'sprovvisti_di_motore', 'taxi', 'non_catalizzate', 'veicoli', 'vietati', 'autocarri', 'sono', 'vietati_pl', 'senza', 'vieta', 'motocicli', 'autoveicoli', 'ciclomotori', 'autobus', 'tricicli', 'quadricicli', 'inclusi'],
+      vocabularyIds: [ 'tutti_gli_autoveicoli', 'sprovvisti_di_motore', 'taxi', 'non_catalizzate', 'veicoli', 'vietati', 'autocarri', 'sono', 'vietati_pl', 'senza', 'vieta', 'motocicli', 'autoveicoli', 'ciclomotori', 'autobus', 'tricicli', 'quadricicli', 'inclusi', 'non', 'tutti', 'alle', 'gli', 'motore', 'e_verb'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_4_18_${i + 1}`)
     },
     {
@@ -351,7 +351,7 @@ Non indica una corsia riservata o area di sosta per autobus. Valido tutti i gior
 
 این تابلو پارکینگ یا لاین ویژه اتوبوس را نشان نمی‌دهد. فقط مختص روزهای کاری نیست.`,
       imageUrl: '/images/4-19.jpg',
-      vocabularyIds: ['autobus', 'scuolabus', 'autocaravan', 'giorni_feriali', 'indica', 'non_indica', 'corsia', 'per', 'area_di_sosta', 'autocarri', 'anche', 'sosta', 'vieta', 'motocicli', 'corsia_riservata'],
+      vocabularyIds: [ 'autobus', 'scuolabus', 'autocaravan', 'giorni_feriali', 'indica', 'non_indica', 'corsia', 'per', 'area_di_sosta', 'autocarri', 'anche', 'sosta', 'vieta', 'motocicli', 'corsia_riservata', 'non', 'tutti', 'una', 'gli', 'autovetture'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_4_19_${i + 1}`)
     },
     {
@@ -368,7 +368,7 @@ Non preannuncia allagamenti e non vieta la sosta delle autocisterne o il transit
 
 این تابلو ربطی به سیلاب (Allagamento) یا جمع شدن آب در جاده ندارد. تانکرهای خالی می‌توانند عبور کنند.`,
       imageUrl: '/images/4-20.jpg',
-      vocabularyIds: ['contaminare_acqua', 'sostanze_inquinanti', 'autocisterne', 'innaffiatrici_stradali', 'per', 'veicoli', 'sosta', 'preannuncia', 'vieta'],
+      vocabularyIds: [ 'contaminare_acqua', 'sostanze_inquinanti', 'autocisterne', 'innaffiatrici_stradali', 'per', 'veicoli', 'sosta', 'preannuncia', 'vieta', 'non', 'che', 'delle', 'acqua', 'trasportano', 'sostanze'],
       questionIds: Array.from({ length: 9 }, (_, i) => `q_4_20_${i + 1}`)
     },
     {
@@ -387,7 +387,7 @@ Non vieta autocarri < 3,5t. Non vieta tutti gli autocarri carrozzati con furgone
 
 کامیون‌های سبک زیر ۳.۵ تن می‌توانند عبور کنند. این ممنوعیت هیچ ربطی به روباز یا روبسته بودن کابین ندارد.`,
       imageUrl: '/images/4-21.jpg',
-      vocabularyIds: ['massa_oltre_3_5t', 'trasporto_di_cose', 'furgone_chiuso', 'cassone_aperto', 'veicoli', 'autocarri', 'essere', 'diverso', 'vieta', 'veicoli_merci', 'massa_a_pieno_carico', 'autocaravan', 'autobus'],
+      vocabularyIds: [ 'massa_oltre_3_5t', 'trasporto_di_cose', 'furgone_chiuso', 'cassone_aperto', 'veicoli', 'autocarri', 'essere', 'diverso', 'vieta', 'veicoli_merci', 'massa_a_pieno_carico', 'autocaravan', 'autobus', 'non', 'con', 'tutti', 'puo', 'gli', 'pannello', 'merci', 'massa', 'carico', 'trasportano', 'persone'],
       questionIds: Array.from({ length: 9 }, (_, i) => `q_4_21_${i + 1}`)
     },
     {
@@ -404,7 +404,7 @@ Non preannuncia una pesa pubblica e non vieta il transito a veicoli adibiti al t
 
 کامیون ۷.۵ تنی نمی‌تواند عبور کند. این تابلو نشان‌دهنده باسکول عمومی (Pesa pubblica) نیست.`,
       imageUrl: '/images/4-22.jpg',
-      vocabularyIds: ['massa_oltre_6_5t', 'pesa_pubblica', 'veicoli_ad_uso_speciale', 'se', 'veicoli', 'autocarri', 'anche', 'preannuncia', 'vieta', 'veicoli_merci', 'massa_a_pieno_carico', 'autocaravan', 'autobus'],
+      vocabularyIds: [ 'massa_oltre_6_5t', 'pesa_pubblica', 'veicoli_ad_uso_speciale', 'se', 'veicoli', 'autocarri', 'anche', 'preannuncia', 'vieta', 'veicoli_merci', 'massa_a_pieno_carico', 'autocaravan', 'autobus', 'non', 'con', 'tutti', 'una', 'gli', 'merci', 'massa', 'carico', 'trasporto', 'persone', 'adibiti'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_22_${i + 1}`)
     },
     {
@@ -423,7 +423,7 @@ Non vale solo per veicoli trasporto merci. Non indica autocarri in rallentamento
 
 ماشین‌هایی که کاراوان یدک می‌کشند اجازه عبور ندارند. این تابلو مختص ماشین‌های باری نیست و قانون فاصله را وضع نمی‌کند.`,
       imageUrl: '/images/4-23.jpg',
-      vocabularyIds: ['trainanti', 'rimorchio', 'carrello_appendice', 'autosnodati', 'rallentamento', 'indica', 'non_indica', 'solo', 'per', 'veicoli', 'autocarri', 'essere', 'rimorchi', 'vale', 'vieta', 'autotreni', 'autobus'],
+      vocabularyIds: [ 'trainanti', 'rimorchio', 'carrello_appendice', 'autosnodati', 'rallentamento', 'indica', 'non_indica', 'solo', 'per', 'veicoli', 'autocarri', 'essere', 'rimorchi', 'vale', 'vieta', 'autotreni', 'autobus', 'non', 'con', 'puo', 'una', 'che', 'agli', 'pannello', 'integrato', 'merci', 'massa', 'trasporto'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_23_${i + 1}`)
     },
     {
@@ -440,7 +440,7 @@ Non vieta veicoli con carni macellate, deperibili o frigoriferi.`,
 
 خودروهایی که سوخت مصرفی خودشان گاز (GPL) است مشمول این قانون نیستند. ماشین‌های حمل گوشت یا یخچال‌دار آزادند.`,
       imageUrl: '/images/4-24.jpg',
-      vocabularyIds: ['merci_pericolose', 'benzina', 'gas_liquido', 'gpl', 'carni_macellate', 'deperibili', 'furgone_frigorifero', 'per', 'veicoli', 'vieta'],
+      vocabularyIds: [ 'merci_pericolose', 'benzina', 'gas_liquido', 'gpl', 'carni_macellate', 'deperibili', 'furgone_frigorifero', 'per', 'veicoli', 'vieta', 'non', 'con', 'che', 'pericolose', 'motore', 'merci', 'trasportano'],
       questionIds: Array.from({ length: 7 }, (_, i) => `q_4_24_${i + 1}`)
     },
     {
@@ -459,7 +459,7 @@ Non consente a questi veicoli di circolare, trainare o sorpassare. Non impone so
 
 هیچ تبصره‌ای برای احتیاط کردن یا یدک کشیدن این مواد وجود ندارد؛ ورود کاملاً ممنوع است.`,
       imageUrl: '/images/4-25.jpg',
-      vocabularyIds: ['esplosivi', 'facilmente_infiammabili', 'serbatoio', 'metano', 'solo', 'veicoli', 'veicolo', 'non_consente', 'consentito', 'impone', 'vieta', 'gpl'],
+      vocabularyIds: [ 'esplosivi', 'facilmente_infiammabili', 'serbatoio', 'metano', 'solo', 'veicoli', 'veicolo', 'non_consente', 'consentito', 'impone', 'vieta', 'gpl', 'non', 'che', 'del', 'come', 'circolare', 'trasporto', 'trasportano', 'infiammabili', 'attenzione'],
       questionIds: Array.from({ length: 8 }, (_, i) => `q_4_25_${i + 1}`)
     },
     {
@@ -478,7 +478,7 @@ Non indica la distanza minima di sicurezza. Riguarda sia la motrice che il rimor
 
 این تابلو عرض جاده را نشان نمی‌دهد، بلکه عرض مجاز ماشین را مشخص می‌کند. فاصله ایمنی بین خودروها نیست. اتوبوس‌ها و گاری‌ها نیز در صورت پهنای زیاد منع می‌شوند.`,
       imageUrl: '/images/4-26.jpg',
-      vocabularyIds: ['larghezza', 'superiore', 'veicoli_senza_motore', 'strettoia', 'distanza_minima', 'indica', 'non_indica', 'strade', 'veicoli', 'larghezza_massima', 'anche', 'consentito', 'extraurbane', 'distanza', 'strade_urbane', 'senza', 'massima', 'rimorchio'],
+      vocabularyIds: [ 'larghezza', 'superiore', 'veicoli_senza_motore', 'strettoia', 'distanza_minima', 'indica', 'non_indica', 'strade', 'veicoli', 'larghezza_massima', 'anche', 'consentito', 'extraurbane', 'distanza', 'strade_urbane', 'senza', 'massima', 'rimorchio', 'non', 'prima', 'puo', 'una', 'che', 'sia', 'minima', 'motore', 'carico'],
       questionIds: Array.from({ length: 12 }, (_, i) => `q_4_26_${i + 1}`)
     },
     {
@@ -497,7 +497,7 @@ Non indica lunghezza, né orari limitati, né altezza dal cassone (si misura da 
 
 این تابلو طول (Lunghezza) را نشان نمی‌دهد. اندازه‌گیری ارتفاع از کف فضای بار (Cassone) اشتباه است؛ مبدأ زمین است. محدود به روز نیست.`,
       imageUrl: '/images/4-27.jpg',
-      vocabularyIds: ['altezza', 'piano_stradale', 'sotto_un_ponte', 'lunghezza', 'dal_piano_del_cassone', 'indica', 'non_indica', 'strada', 'veicoli', 'centri_abitati', 'limitati', 'sotto', 'dove', 'consentito', 'vale', 'massima', 'ponte'],
+      vocabularyIds: [ 'altezza', 'piano_stradale', 'sotto_un_ponte', 'lunghezza', 'dal_piano_del_cassone', 'indica', 'non_indica', 'strada', 'veicoli', 'centri_abitati', 'limitati', 'sotto', 'dove', 'consentito', 'vale', 'massima', 'ponte', 'non', 'puo', 'un', 'che', 'dei', 'dal', 'nei', 'sia', 'stradale', 'piano', 'carico', 'fuori', 'centri', 'abitati'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_4_27_${i + 1}`)
     },
     {
@@ -516,7 +516,7 @@ Non indica un'area di parcheggio, non impone la distanza di sicurezza di 10m.`,
 
 این عدد فاصله ایمنی یا فاصله لازم برای سبقت نیست. نشان‌دهنده پارکینگ برای کامیون‌های زیر ۱۰ متر هم نمی‌باشد.`,
       imageUrl: '/images/4-28.jpg',
-      vocabularyIds: ['lunghezza_superiore', 'complessi_di_veicoli', 'autobus', 'distanziamento_minimo', 'indica', 'non_indica', 'veicoli', 'autocarri', 'anche', 'consentito', 'distanza_di_sicurezza', 'distanza', 'impone', 'vieta'],
+      vocabularyIds: [ 'lunghezza_superiore', 'complessi_di_veicoli', 'autobus', 'distanziamento_minimo', 'indica', 'non_indica', 'veicoli', 'autocarri', 'anche', 'consentito', 'distanza_di_sicurezza', 'distanza', 'impone', 'vieta', 'non', 'tutti', 'un', 'parcheggio', 'notte', 'più'],
       questionIds: Array.from({ length: 13 }, (_, i) => `q_4_28_${i + 1}`)
     },
     {
@@ -535,7 +535,7 @@ Non riguarda solo veicoli merci. Non vale "solo per veicoli >7m".`,
 
 این قانون مختص کامیون‌ها نیست (اتوبوس سنگین هم ممنوع است). ربطی به طول ۷ متری خودرو ندارد.`,
       imageUrl: '/images/4-29.jpg',
-      vocabularyIds: ['massa_effettiva', 'tara', 'transito_contemporaneo', 'ponte', 'asse_piu_caricato', 'solo', 'per', 'veicoli', 'autocarri', 'trova', 'vale', 'vieta', 'veicoli_merci'],
+      vocabularyIds: [ 'massa_effettiva', 'tara', 'transito_contemporaneo', 'ponte', 'asse_piu_caricato', 'solo', 'per', 'veicoli', 'autocarri', 'trova', 'vale', 'vieta', 'veicoli_merci', 'non', 'con', 'prima', 'puo', 'un', 'del', 'perché', 'vietare', 'già', 'pannello', 'merci', 'massa', 'più'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_29_${i + 1}`)
     },
     {
@@ -554,7 +554,7 @@ Non vieta a tutti i veicoli con massa complessiva > 2,5t (es. un'auto da 3t con 
 
 این تابلو وزن کل خودرو را محدود نمی‌کند. محدود به چرخ‌های جفت (Ruote gemellate) نیست و سرعت را به سرعت قدم زدن (Passo d'uomo) تقلیل نمی‌دهد.`,
       imageUrl: '/images/4-30.jpg',
-      vocabularyIds: ['massa_per_asse', 'asse_piu_caricato', 'massa_effettiva', 'passo_d_uomo', 'ruote_gemellate', 'se', 'per', 'veicoli', 'fa_verb', 'vieta', 'tutti_i_veicoli', 'ponte'],
+      vocabularyIds: [ 'massa_per_asse', 'asse_piu_caricato', 'massa_effettiva', 'passo_d_uomo', 'ruote_gemellate', 'se', 'per', 'veicoli', 'fa_verb', 'vieta', 'tutti_i_veicoli', 'ponte', 'non', 'con', 'prima', 'tutti', 'puo', 'un', 'del', 'alla', 'passare', 'massa', 'più'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_30_${i + 1}`)
     },
     {
@@ -571,7 +571,7 @@ Non indica la fine di un cantiere, la fine del pericolo o la fine del centro abi
 
 پایان منطقه مسکونی یا پایان کارگاه جاده‌ای را نشان نمی‌دهد. تابلوی راهنما نیست، بلکه تابلوی پایان دستور است.`,
       imageUrl: '/images/4-31.jpg',
-      vocabularyIds: ['via_libera', 'fine_prescrizione', 'divieti_imposti', 'centro_abitato', 'pericolo', 'indica', 'non_indica', 'fine', 'prescrizione'],
+      vocabularyIds: [ 'via_libera', 'fine_prescrizione', 'divieti_imposti', 'centro_abitato', 'pericolo', 'indica', 'non_indica', 'fine', 'prescrizione', 'non', 'un', 'del', 'dei', 'delle', 'segnale', 'divieti', 'cantiere', 'e_verb'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_31_${i + 1}`)
     },
     {
@@ -592,7 +592,7 @@ Non vieta la fermata. Non comporta sempre la rimozione coatta (se non c'è il pa
 
 توقف کوتاه را ممنوع نمی‌کند. همیشه با جرثقیل (Rimozione coatta) همراه نیست (مگر با تابلوی متمم). ربطی به پارکومتر یا رزرو برای افراد محلی ندارد.`,
       imageUrl: '/images/4-32.jpg',
-      vocabularyIds: ['divieto_di_sosta', 'consente_la_fermata', 'primo_incrocio', 'strade_urbane', 'strade_extraurbane', 'rimozione_coatta', 'parchimetro', 'strada', 'se', 'per', 'strade', 'sempre', 'dove', 'sosta', 'fermata', 'incrocio', 'extraurbane', 'vale', 'vieta', 'posto', 'residenti'],
+      vocabularyIds: [ 'divieto_di_sosta', 'consente_la_fermata', 'primo_incrocio', 'strade_urbane', 'strade_extraurbane', 'rimozione_coatta', 'parchimetro', 'strada', 'se', 'per', 'strade', 'sempre', 'dove', 'sosta', 'fermata', 'incrocio', 'extraurbane', 'vale', 'vieta', 'posto', 'residenti', 'non', 'dopo', 'della', 'alle', 'dalle', 'sul', 'salvo_word', 'pannello', 'pannelli', 'lato', 'e_verb'],
       questionIds: Array.from({ length: 43 }, (_, i) => `q_4_32_${i + 1}`)
     },
     {
@@ -609,7 +609,7 @@ Non si usa il disco orario. Non vieta la fermata. Non c'è rimozione se non indi
 
 این تابلو نیاز به دیسک ساعت (Disco orario) ندارد. توقف کوتاه (Fermata) در ساعات ممنوعه نیز مجاز است.`,
       imageUrl: '/images/4-33.jpg',
-      vocabularyIds: ['regolazione_flessibile', 'ore_vietate', 'disco_orario', 'fermata_del_veicolo', 'non_indica', 'se', 'consente_la_sosta', 'sosta', 'fermata', 'vieta'],
+      vocabularyIds: [ 'regolazione_flessibile', 'ore_vietate', 'disco_orario', 'fermata_del_veicolo', 'non_indica', 'se', 'consente_la_sosta', 'sosta', 'fermata', 'vieta', 'non', 'una', 'della', 'alcune', 'e_verb'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_4_33_${i + 1}`)
     },
     {
@@ -626,7 +626,7 @@ Non è per scuolabus, non è corsia riservata, non è per motocicli o parchimetr
 
 برای پارک اتوبوس مدرسه، موتورها یا پارکینگ پولی (Parchimetro) نیست. مسیر ویژه رانندگی را نشان نمی‌دهد.`,
       imageUrl: '/images/4-34.jpg',
-      vocabularyIds: ['sosta_consentita', 'persone_invalide', 'contrassegno', 'eccezione', 'corsia_riservata', 'corsia', 'per', 'vietato', 'veicoli', 'consente_la_sosta', 'vietato_past', 'sosta', 'scuolabus', 'prescrizione', 'motocicli'],
+      vocabularyIds: [ 'sosta_consentita', 'persone_invalide', 'contrassegno', 'eccezione', 'corsia_riservata', 'corsia', 'per', 'vietato', 'veicoli', 'consente_la_sosta', 'vietato_past', 'sosta', 'scuolabus', 'prescrizione', 'motocicli', 'non', 'con', 'tutti', 'gli', 'segnale', 'divieto', 'e_verb'],
       questionIds: Array.from({ length: 11 }, (_, i) => `q_4_34_${i + 1}`)
     },
     {
@@ -645,7 +645,7 @@ Non vale solo di giorno. Non consente sosta a veicoli di pronto soccorso "non in
 
 این تابلو فقط مختص روز نیست. هیچ خودرویی حتی آمبولانسِ خارج از شیفت کاری حق پارک در اینجا ندارد.`,
       imageUrl: '/images/4-35.jpg',
-      vocabularyIds: ['passo_carrabile', 'accesso', 'proprieta_laterali', 'ente', 'autorizzazione', 'intralcio', 'indica', 'se', 'solo', 'per', 'veicoli', 'non_consente', 'zona', 'garage', 'essere', 'sosta', 'fermata', 'vale', 'vieta', 'laterali', 'consente_la_fermata', 'pronto_soccorso', 'deve'],
+      vocabularyIds: [ 'passo_carrabile', 'accesso', 'proprieta_laterali', 'ente', 'autorizzazione', 'intralcio', 'indica', 'se', 'solo', 'per', 'veicoli', 'non_consente', 'zona', 'garage', 'essere', 'sosta', 'fermata', 'vale', 'vieta', 'laterali', 'consente_la_fermata', 'pronto_soccorso', 'deve', 'non', 'dei', 'alle', 'servizio'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_4_35_${i + 1}`)
     },
     {
@@ -662,7 +662,7 @@ Non indica sgombraneve, non vieta la sosta ai mezzi di pulizia, non indica un de
 
 ماشین روی تابلو جاروی خیابانی است، نه برف‌روب (Sgombraneve). این تابلو نشان‌دهنده گاراژ ماشین‌های شهرداری نیست.`,
       imageUrl: '/images/4-36.jpg',
-      vocabularyIds: ['divieto_di_sosta_temporaneo', 'pulizia_meccanica', 'mezzi_di_pulizia', 'deposito', 'indica', 'non_indica', 'per', 'strade', 'limitati', 'sosta', 'vieta', 'divieto_di_sosta'],
+      vocabularyIds: [ 'divieto_di_sosta_temporaneo', 'pulizia_meccanica', 'mezzi_di_pulizia', 'deposito', 'indica', 'non_indica', 'per', 'strade', 'limitati', 'sosta', 'vieta', 'divieto_di_sosta', 'non', 'un', 'delle', 'segnale', 'divieto'],
       questionIds: Array.from({ length: 8 }, (_, i) => `q_4_36_${i + 1}`)
     },
     {
@@ -681,7 +681,7 @@ Non consente fermata per far salire/scendere passeggeri. Non vale solo di giorno
 
 این تابلو به تاکسی‌ها یا اتوبوس‌ها اجازه توقف نمی‌دهد. پیش‌آگهی پارک ممنوع نیست.`,
       imageUrl: '/images/4-37.jpg',
-      vocabularyIds: ['divieto_di_fermata', 'volontaria_sospensione', 'rimozione_forzata', 'salita_e_discesa', 'se', 'solo', 'per', 'veicolo', 'sempre', 'centri_abitati', 'non_consente', 'vietata_la_fermata', 'anche', 'vietata_fem', 'sosta', 'fermata', 'vale', 'vieta', 'intralcio'],
+      vocabularyIds: [ 'divieto_di_fermata', 'volontaria_sospensione', 'rimozione_forzata', 'salita_e_discesa', 'se', 'solo', 'per', 'veicolo', 'sempre', 'centri_abitati', 'non_consente', 'vietata_la_fermata', 'anche', 'vietata_fem', 'sosta', 'fermata', 'vale', 'vieta', 'intralcio', 'non', 'un', 'della', 'nei', 'perché', 'centri', 'abitati', 'e_verb'],
       questionIds: Array.from({ length: 21 }, (_, i) => `q_4_37_${i + 1}`)
     },
     {
@@ -698,7 +698,7 @@ Non indica parcheggio per sola Polizia, né impone sosta libera ma divieto di fe
 
 این تابلو مساحت پارکینگ (Superficie) را نشان نمی‌دهد. قانون گذاشتن سوییچ روی ماشین غلط است. مختص پلیس نیست.`,
       imageUrl: '/images/4-38.jpg',
-      vocabularyIds: ['parcheggio_autorizzato', 'tempo_indeterminato', 'limitazione', 'disposizione_dei_veicoli', 'chiave_nel_quadro', 'indica', 'non_indica', 'per', 'riservate', 'essere', 'sosta', 'fermata', 'distanza', 'prescrive', 'impone', 'divieto_di_fermata'],
+      vocabularyIds: [ 'parcheggio_autorizzato', 'tempo_indeterminato', 'limitazione', 'disposizione_dei_veicoli', 'chiave_nel_quadro', 'indica', 'non_indica', 'per', 'riservate', 'essere', 'sosta', 'fermata', 'distanza', 'prescrive', 'impone', 'divieto_di_fermata', 'non', 'con', 'puo', 'un', 'nel', 'divieto', 'salvo_word', 'integrato', 'categorie', 'parcheggio', 'polizia'],
       questionIds: Array.from({ length: 15 }, (_, i) => `q_4_38_${i + 1}`)
     },
     {
@@ -713,7 +713,7 @@ Non preannuncia divieto di sosta o parcheggio vietato/riservato. Non è un pront
 
 این تابلو پارک ممنوع را نشان نمی‌دهد و بیمارستان یا اورژانس را اعلام نمی‌کند.`,
       imageUrl: '/images/4-39.jpg',
-      vocabularyIds: ['preavviso_di_parcheggio', 'direzione_della_freccia', 'pronto_soccorso', 'vietato', 'riservato', 'vietato_past', 'sosta', 'preannuncia', 'divieto_di_sosta'],
+      vocabularyIds: [ 'preavviso_di_parcheggio', 'direzione_della_freccia', 'pronto_soccorso', 'vietato', 'riservato', 'vietato_past', 'sosta', 'preannuncia', 'divieto_di_sosta', 'non', 'un', 'che', 'della', 'nella', 'direzione', 'divieto', 'parcheggio', 'e_verb'],
       questionIds: Array.from({ length: 7 }, (_, i) => `q_4_39_${i + 1}`)
     }
   ],

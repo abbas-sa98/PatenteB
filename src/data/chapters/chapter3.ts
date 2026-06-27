@@ -19,7 +19,7 @@ Sulle strade extraurbane è preceduto dal PREAVVISO DI DARE PRECEDENZA, non dal 
 
 در جاده‌های برون‌شهری، پیش از آن تابلوی «پیش‌آگهی رعایت حق تقدم» قرار می‌گیرد، نه پیش‌آگهی STOP. اگر تابلو همراه چراغ راهنمایی باشد، هنگامی که چراغ خاموش، خراب یا زرد چشمک‌زن است اعتبار دارد. باید سرعت را کاهش داد، با حداکثر احتیاط حرکت کرد و فقط هنگامی توقف کرد که برای دادن حق تقدم لازم باشد. این تابلو در طول بزرگراه نصب نمی‌شود، بلکه روی خط ورود قرار می‌گیرد.`,
       imageUrl: '/images/3-1.jpg',
-      vocabularyIds: ['dare_precedenza', 'destra_sinistra', 'corsie_accelerazione', 'immissione', 'semaforo_lampeggiante', 'arrestarsi', 'prescrive', 'provenienti', 'secondarie', 'autostrada', 'senza', 'preceduto', 'vale', 'obbliga', 'impegnare', 'arrivo', 'sufficiente', 'controllare'],
+      vocabularyIds: [ 'dare_precedenza', 'destra_sinistra', 'corsie_accelerazione', 'immissione', 'semaforo_lampeggiante', 'arrestarsi', 'prescrive', 'provenienti', 'secondarie', 'autostrada', 'senza', 'preceduto', 'vale', 'obbliga', 'impegnare', 'arrivo', 'sufficiente', 'controllare', 'non', 'quando', 'prima', 'mai', 'di_norma', 'possono', 'viene', 'una', 'un', 'che', 'del', 'dei', 'dal', 'dalla', 'sulla', 'sulle', 'sia', 'quale', 'oppure', 'precedenza', 'segnale', 'segnali', 'parte', 'usare', 'avere', 'metri', 'circa', 'luce', 'gialla', 'lampeggiante', 'spento', 'extraurbana', 'imporre', 'concedere', 'e_verb'],
       questionIds: ['q_3_1_1', 'q_3_1_2', 'q_3_1_3', 'q_3_1_4', 'q_3_1_5', 'q_3_1_6', 'q_3_1_7', 'q_3_1_8', 'q_3_1_9', 'q_3_1_10', 'q_3_1_11', 'q_3_1_12', 'q_3_1_13', 'q_3_1_14', 'q_3_1_15', 'q_3_1_16', 'q_3_1_17', 'q_3_1_18', 'q_3_1_19', 'q_3_1_20', 'q_3_1_21', 'q_3_1_22', 'q_3_1_23', 'q_3_1_24', 'q_3_1_25']
     },
     {
@@ -36,7 +36,7 @@ Se il semaforo è spento, guasto o funziona a luce gialla lampeggiante, bisogna 
 
 اگر چراغ راهنمایی خاموش، خراب یا زرد چشمک‌زن باشد، همچنان باید توقف کرد. اما با روشن بودن چراغ سبز می‌توان بدون اجرای الزام توقف تابلو عبور کرد. STOP نشان‌دهندهٔ گمرک، ایست بازرسی یا عبور نوبتی در مسیر باریک نیست.`,
       imageUrl: '/images/3-2.jpg',
-      vocabularyIds: ['fermarsi', 'striscia_trasversale', 'scarsa_visibilita', 'pericolosita', 'varco_doganale', 'posto_di_blocco', 'in_corrispondenza', 'impone', 'utilizzato', 'particolare', 'preannuncia', 'obbliga'],
+      vocabularyIds: [ 'fermarsi', 'striscia_trasversale', 'scarsa_visibilita', 'pericolosita', 'varco_doganale', 'posto_di_blocco', 'in_corrispondenza', 'impone', 'utilizzato', 'particolare', 'preannuncia', 'obbliga', 'non', 'con', 'quando', 'prima', 'dopo', 'di_norma', 'puo', 'posto', 'una', 'un', 'che', 'della', 'dal', 'sia', 'precedenza', 'segnale', 'senso', 'unico', 'passaggio', 'metri', 'circa', 'striscia', 'luce', 'gialla', 'verde', 'lampeggiante', 'spento', 'livello', 'corrispondenza', 'fuori', 'centri', 'abitati', 'soprattutto', 'blocco', 'doganale', 'e_verb'],
       questionIds: ['q_3_2_1', 'q_3_2_2', 'q_3_2_3', 'q_3_2_4', 'q_3_2_5', 'q_3_2_6', 'q_3_2_7', 'q_3_2_8', 'q_3_2_9', 'q_3_2_10', 'q_3_2_11', 'q_3_2_12', 'q_3_2_13', 'q_3_2_14', 'q_3_2_15', 'q_3_2_16', 'q_3_2_17', 'q_3_2_18']
     },
     {
@@ -53,7 +53,7 @@ Non è un preavviso di STOP e non impone di arrestarsi obbligatoriamente all'inc
 
 این تابلو پیش‌آگهی STOP نیست و اگر هیچ وسیله‌ای در حال نزدیک‌شدن نباشد، توقف اجباری در تقاطع را تحمیل نمی‌کند.`,
       imageUrl: '/images/3-3.jpg',
-      vocabularyIds: ['preavviso', 'rallentare', 'distanza', 'incrocio_a_t', 'successiva', 'bisogna', 'invita', 'scritta', 'prossimo', 'assenza'],
+      vocabularyIds: [ 'preavviso', 'rallentare', 'distanza', 'incrocio_a_t', 'successiva', 'bisogna', 'invita', 'scritta', 'prossimo', 'assenza', 'non', 'quando', 'prima', 'impone', 'puo', 'posto', 'un', 'che', 'del', 'nel', 'quale', 'quindi', 'precedenza', 'segnale', 'segnala', 'occorre', 'annuncia', 'concedere', 'e_verb'],
       questionIds: ['q_3_3_1', 'q_3_3_2', 'q_3_3_3', 'q_3_3_4', 'q_3_3_5', 'q_3_3_6', 'q_3_3_7', 'q_3_3_8', 'q_3_3_9', 'q_3_3_10', 'q_3_3_11', 'q_3_3_12', 'q_3_3_13']
     },
     {
@@ -70,7 +70,7 @@ Il preavviso non impone di fermarsi nel punto in cui è collocato e non annuncia
 
 این پیش‌آگهی راننده را ملزم نمی‌کند در همان محل نصب آن توقف کند و نشان‌دهندهٔ مانع گمرکی، باجهٔ عوارض بزرگراه یا ایست بازرسی پلیس نیست.`,
       imageUrl: '/images/3-4.jpg',
-      vocabularyIds: ['preavviso_di_fermarsi', 'rallentare', 'casello_autostradale', 'barriera_doganale', 'pannello_integrato', 'incontra', 'successivo', 'prossimo', 'invita', 'obbligo', 'destra_sinistra'],
+      vocabularyIds: [ 'preavviso_di_fermarsi', 'rallentare', 'casello_autostradale', 'barriera_doganale', 'pannello_integrato', 'incontra', 'successivo', 'prossimo', 'invita', 'obbligo', 'destra_sinistra', 'non', 'impone', 'posto', 'una', 'un', 'della', 'alla', 'dal', 'nel', 'sul', 'precedenza', 'segnale', 'metri', 'polizia', 'punto', 'annuncia', 'blocco', 'doganale', 'più', 'e_verb'],
       questionIds: ['q_3_4_1', 'q_3_4_2', 'q_3_4_3', 'q_3_4_4', 'q_3_4_5', 'q_3_4_6', 'q_3_4_7', 'q_3_4_8', 'q_3_4_9', 'q_3_4_10', 'q_3_4_11', 'q_3_4_12', 'q_3_4_13', 'q_3_4_14']
     },
     {
@@ -87,7 +87,7 @@ Il segnale non precede un DARE PRECEDENZA o uno STOP: in presenza di questi segn
 
 این تابلو پیش از تابلوی رعایت حق تقدم یا STOP قرار نمی‌گیرد؛ زیرا با وجود آن دو تابلو باید هم به راست و هم به چپ حق تقدم داد.`,
       imageUrl: '/images/3-5.jpg',
-      vocabularyIds: ['precedenza_a_destra', 'regola_generale', 'moderata', 'procedere', 'particolarmente', 'precede', 'preannuncia', 'vale', 'autostrada'],
+      vocabularyIds: [ 'precedenza_a_destra', 'regola_generale', 'moderata', 'procedere', 'particolarmente', 'precede', 'preannuncia', 'vale', 'autostrada', 'non', 'con', 'prima', 'di_norma', 'viene', 'un', 'che', 'del', 'nel', 'sulle', 'sia', 'quale', 'precedenza', 'segnale', 'segnali', 'occorre', 'metri', 'siano', 'disposti', 'concedere', 'e_verb'],
       questionIds: ['q_3_5_1', 'q_3_5_2', 'q_3_5_3', 'q_3_5_4', 'q_3_5_5', 'q_3_5_6', 'q_3_5_7', 'q_3_5_8', 'q_3_5_9', 'q_3_5_10', 'q_3_5_11']
     },
     {
@@ -104,7 +104,7 @@ Non indica un incrocio a T né una confluenza con corsia di accelerazione e non 
 
 این تابلو تقاطع T شکل یا محل ادغام مسیر با خط شتاب‌گیری را نشان نمی‌دهد و در بزرگراه نصب نمی‌شود. تابلو گردش‌کردن را ممنوع نمی‌کند.`,
       imageUrl: '/images/3-6.jpg',
-      vocabularyIds: ['strade_di_minore_importanza', 'diritto_di_precedenza', 'agente', 'svolta', 'perde', 'efficacia', 'regola', 'vieta', 'provenienti', 'preceduto', 'presenza', 'svolta_sinistra'],
+      vocabularyIds: [ 'strade_di_minore_importanza', 'diritto_di_precedenza', 'agente', 'svolta', 'perde', 'efficacia', 'regola', 'vieta', 'provenienti', 'preceduto', 'presenza', 'svolta_sinistra', 'non', 'con', 'quando', 'di_norma', 'puo', 'viene', 'posto', 'una', 'un', 'che', 'dal', 'dalle', 'nel', 'sulle', 'sui', 'sia', 'quale', 'precedenza', 'segnale', 'metri', 'autostrade', 'preannuncia', 'siano', 'disposti', 'e_verb'],
       questionIds: ['q_3_6_1', 'q_3_6_2', 'q_3_6_3', 'q_3_6_4', 'q_3_6_5', 'q_3_6_6', 'q_3_6_7', 'q_3_6_8', 'q_3_6_9', 'q_3_6_10', 'q_3_6_11', 'q_3_6_12', 'q_3_6_13', 'q_3_6_14', 'q_3_6_15']
     },
     {
@@ -121,7 +121,7 @@ Il segnale non indica una strada senza uscita, una confluenza o un'immissione co
 
 این تابلو بن‌بست، ادغام مسیر یا ورود همراه با خط شتاب‌گیری را نشان نمی‌دهد و روی رمپ‌های ورودی بزرگراه نصب نمی‌شود.`,
       imageUrl: '/images/3-7.jpg',
-      vocabularyIds: ['intersezione_a_t', 'strada_senza_uscita', 'piazzola_di_sosta', 'conducente', 'comunque', 'prudenza', 'avvicinandosi', 'minore_importanza'],
+      vocabularyIds: [ 'intersezione_a_t', 'strada_senza_uscita', 'piazzola_di_sosta', 'conducente', 'comunque', 'prudenza', 'avvicinandosi', 'minore_importanza', 'non', 'con', 'consentito', 'viene', 'una', 'un', 'che', 'alle', 'dalla', 'sulle', 'sui', 'mentre', 'precedenza', 'segnale', 'sostare', 'usare', 'autostrade', 'principale', 'corrispondenza', 'preannuncia', 'e_verb'],
       questionIds: ['q_3_7_1', 'q_3_7_2', 'q_3_7_3', 'q_3_7_4', 'q_3_7_5', 'q_3_7_6', 'q_3_7_7', 'q_3_7_8', 'q_3_7_9', 'q_3_7_10', 'q_3_7_11', 'q_3_7_12']
     },
     {
@@ -138,7 +138,7 @@ Il segnale non indica una strada senza uscita, una confluenza o un'immissione co
 
 این تابلو بن‌بست، ادغام مسیر یا ورود همراه با خط شتاب‌گیری را نشان نمی‌دهد و روی رمپ‌های ورودی بزرگراه نصب نمی‌شود.`,
       imageUrl: '/images/3-8.jpg',
-      vocabularyIds: ['minore_importanza', 'rampe_di_accesso', 'conducente', 'comunque', 'prudenza', 'procedere', 'svolta_sinistra'],
+      vocabularyIds: [ 'minore_importanza', 'rampe_di_accesso', 'conducente', 'comunque', 'prudenza', 'procedere', 'svolta_sinistra', 'non', 'con', 'consentito', 'viene', 'una', 'un', 'che', 'alle', 'dalla', 'sulle', 'sui', 'mentre', 'precedenza', 'segnale', 'sostare', 'usare', 'autostrade', 'principale', 'corrispondenza', 'preannuncia', 'e_verb'],
       questionIds: ['q_3_8_1', 'q_3_8_2', 'q_3_8_3', 'q_3_8_4', 'q_3_8_5', 'q_3_8_6', 'q_3_8_7', 'q_3_8_8', 'q_3_8_9', 'q_3_8_10', 'q_3_8_11', 'q_3_8_12']
     },
     {
@@ -155,7 +155,7 @@ Il segnale non prescrive di dare la precedenza ai veicoli provenienti da destra 
 
 تابلو رانندهٔ جادهٔ اصلی را ملزم نمی‌کند به خودروهای سمت راست حق تقدم بدهد و اجازهٔ گردش به راست نیز نمی‌دهد؛ خط شتاب‌گیری یک‌طرفه است و برای ورود خودروها به جادهٔ اصلی استفاده می‌شود.`,
       imageUrl: '/images/3-9.jpg',
-      vocabularyIds: ['confluenza', 'immissione', 'rampa_di_raccordo', 'immettono', 'massima', 'corsie_accelerazione', 'autostrada', 'prudenza'],
+      vocabularyIds: [ 'confluenza', 'immissione', 'rampa_di_raccordo', 'immettono', 'massima', 'corsie_accelerazione', 'autostrada', 'prudenza', 'non', 'prima', 'di_norma', 'una', 'che', 'della', 'dalla', 'nella', 'sulla', 'perché', 'precedenza', 'segnale', 'senso', 'unico', 'ridurre', 'usare', 'serve', 'metri', 'già', 'circa', 'principale', 'preannuncia', 'e_verb'],
       questionIds: ['q_3_9_1', 'q_3_9_2', 'q_3_9_3', 'q_3_9_4', 'q_3_9_5', 'q_3_9_6', 'q_3_9_7', 'q_3_9_8', 'q_3_9_9', 'q_3_9_10', 'q_3_9_11', 'q_3_9_12']
     },
     {
@@ -172,7 +172,7 @@ Il segnale non prescrive di dare la precedenza ai veicoli provenienti da sinistr
 
 تابلو رانندهٔ جادهٔ اصلی را ملزم نمی‌کند به خودروهای سمت چپ حق تقدم بدهد و اجازهٔ گردش به چپ نیز نمی‌دهد؛ خط شتاب‌گیری یک‌طرفه است و فقط برای ورود به جادهٔ اصلی استفاده می‌شود.`,
       imageUrl: '/images/3-10.jpg',
-      vocabularyIds: ['confluenza_sinistra', 'carreggiate_senso_unico', 'svolta_sinistra', 'laterale', 'carreggiate', 'circolazione', 'obbligo', 'corsie_accelerazione'],
+      vocabularyIds: [ 'confluenza_sinistra', 'carreggiate_senso_unico', 'svolta_sinistra', 'laterale', 'carreggiate', 'circolazione', 'obbligo', 'corsie_accelerazione', 'non', 'prima', 'soltanto', 'di_norma', 'posto', 'una', 'che', 'della', 'dalla', 'nella', 'sulla', 'sulle', 'perché', 'precedenza', 'segnale', 'senso', 'unico', 'ridurre', 'usare', 'serve', 'metri', 'già', 'circa', 'principale', 'principali', 'preannuncia', 'e_verb'],
       questionIds: ['q_3_10_1', 'q_3_10_2', 'q_3_10_3', 'q_3_10_4', 'q_3_10_5', 'q_3_10_6', 'q_3_10_7', 'q_3_10_8', 'q_3_10_9', 'q_3_10_10', 'q_3_10_11', 'q_3_10_12']
     },
     {
@@ -189,7 +189,7 @@ Il segnale consente di proseguire diritto, svoltare e sorpassare, quando le altr
 
 اگر سایر مقررات اجازه دهند، این تابلو ادامهٔ مستقیم، گردش و سبقت را مجاز می‌گذارد. راننده را ملزم به توقف در تقاطع‌ها نمی‌کند و در آغاز بزرگراه نصب نمی‌شود.`,
       imageUrl: '/images/3-11.jpg',
-      vocabularyIds: ['inizio_strada', 'diritto_di_precedenza', 'lampeggiante_blu', 'emergenza', 'strade_urbane', 'inizio', 'laterali', 'ci_saranno', 'assicurarsi', 'posto', 'autostrada'],
+      vocabularyIds: [ 'inizio_strada', 'diritto_di_precedenza', 'lampeggiante_blu', 'emergenza', 'strade_urbane', 'inizio', 'laterali', 'ci_saranno', 'assicurarsi', 'posto', 'autostrada', 'non', 'con', 'quando', 'prima', 'dopo', 'obbliga', 'puo', 'devono', 'viene', 'una', 'un', 'che', 'della', 'del', 'agli', 'dalle', 'sulle', 'gli', 'inoltre', 'precedenza', 'segnale', 'segnali', 'passare', 'occorre', 'pannello', 'integrato', 'lampeggiante', 'blu', 'extraurbana', 'principale', 'funzione', 'siano', 'disposti', 'concedere'],
       questionIds: ['q_3_11_1', 'q_3_11_2', 'q_3_11_3', 'q_3_11_4', 'q_3_11_5', 'q_3_11_6', 'q_3_11_7', 'q_3_11_8', 'q_3_11_9', 'q_3_11_10', 'q_3_11_11', 'q_3_11_12', 'q_3_11_13', 'q_3_11_14', 'q_3_11_15', 'q_3_11_16', 'q_3_11_17', 'q_3_11_18', 'q_3_11_19', 'q_3_11_20', 'q_3_11_21', 'q_3_11_22', 'q_3_11_23', 'q_3_11_24']
     },
     {
@@ -206,7 +206,7 @@ Il segnale non indica la fine di un obbligo, di un'autostrada, di una strada a s
 
 این تابلو پایان یک الزام، بزرگراه، جادهٔ یک‌طرفه یا دوطرفه، محدودیت سرعت یا همهٔ ممنوعیت‌ها را نشان نمی‌دهد و بن‌بست را نیز اعلام نمی‌کند.`,
       imageUrl: '/images/3-12.jpg',
-      vocabularyIds: ['fine_diritto', 'ripristino', 'norma_generale', 'maggiore_prudenza', 'fine_divieti', 'gode', 'più', 'salvo', 'fine', 'autostrada', 'doppio_senso', 'strada_senza_uscita'],
+      vocabularyIds: [ 'fine_diritto', 'ripristino', 'norma_generale', 'maggiore_prudenza', 'fine_divieti', 'gode', 'più', 'salvo', 'fine', 'autostrada', 'doppio_senso', 'strada_senza_uscita', 'non', 'dopo', 'tutti', 'di_norma', 'una', 'un', 'che', 'della', 'del', 'agli', 'sulle', 'sia', 'precedenza', 'segnale', 'senso', 'unico', 'doppio', 'divieti', 'richiede', 'limite', 'maggiore', 'annuncia', 'concedere'],
       questionIds: ['q_3_12_1', 'q_3_12_2', 'q_3_12_3', 'q_3_12_4', 'q_3_12_5', 'q_3_12_6', 'q_3_12_7', 'q_3_12_8', 'q_3_12_9', 'q_3_12_10', 'q_3_12_11', 'q_3_12_12', 'q_3_12_13', 'q_3_12_14', 'q_3_12_15', 'q_3_12_16', 'q_3_12_17', 'q_3_12_18', 'q_3_12_19', 'q_3_12_20', 'q_3_12_21', 'q_3_12_22']
     },
     {
@@ -223,7 +223,7 @@ Se è presente anche un semaforo, si deve dare la precedenza quando il semaforo 
 
 اگر چراغ راهنمایی نیز وجود داشته باشد، هنگام خاموش‌بودن چراغ یا زرد چشمک‌زن باید حق تقدم داد؛ با چراغ سبز حق تقدم با ماست. دستور مأمور همیشه بر چراغ و تابلو اولویت دارد.`,
       imageUrl: '/images/3-13.jpg',
-      vocabularyIds: ['sensi_unici_alternati', 'senso_opposto', 'strettoie', 'contemporaneamente', 'giorni_pari_dispari', 'fronte', 'svolgersi', 'restringimento', 'prescrizione', 'impone', 'fine'],
+      vocabularyIds: [ 'sensi_unici_alternati', 'senso_opposto', 'strettoie', 'contemporaneamente', 'giorni_pari_dispari', 'fronte', 'svolgersi', 'restringimento', 'prescrizione', 'impone', 'fine', 'non', 'con', 'quando', 'prima', 'soltanto', 'possono', 'viene', 'una', 'un', 'dei', 'dal', 'nella', 'nei', 'sul', 'quale', 'precedenza', 'segnale', 'senso', 'doppio', 'due', 'passaggio', 'passare', 'luce', 'giallo', 'verde', 'lampeggiante', 'spento', 'lavori', 'alternati', 'unici', 'e_verb'],
       questionIds: ['q_3_13_1', 'q_3_13_2', 'q_3_13_3', 'q_3_13_4', 'q_3_13_5', 'q_3_13_6', 'q_3_13_7', 'q_3_13_8', 'q_3_13_9', 'q_3_13_10', 'q_3_13_11', 'q_3_13_12', 'q_3_13_13', 'q_3_13_14', 'q_3_13_15', 'q_3_13_16', 'q_3_13_17', 'q_3_13_18', 'q_3_13_19', 'q_3_13_20', 'q_3_13_21', 'q_3_13_22', 'q_3_13_23', 'q_3_13_24', 'q_3_13_25']
     },
     {
@@ -240,7 +240,7 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
 
 با چراغ سبز، خاموش یا زرد چشمک‌زن حق تقدم با ماست، مگر آنکه مأمور دستور دیگری بدهد. حتی با چراغ قرمز نیز اگر مأمور دستور عبور دهد باید حرکت کرد؛ برعکس، هر زمان مأمور دستور توقف بدهد باید ایستاد.`,
       imageUrl: '/images/3-14.jpg',
-      vocabularyIds: ['diritto_di_precedenza', 'strettoia', 'cautela', 'accertarsi', 'senso_contrario', 'abbiamo', 'percorrere', 'effettivamente', 'dobbiamo', 'generale', 'inversione_marcia', 'esplicitamente'],
+      vocabularyIds: [ 'diritto_di_precedenza', 'strettoia', 'cautela', 'accertarsi', 'senso_contrario', 'abbiamo', 'percorrere', 'effettivamente', 'dobbiamo', 'generale', 'inversione_marcia', 'esplicitamente', 'non', 'con', 'quando', 'prima', 'impone', 'possono', 'una', 'un', 'che', 'dal', 'nella', 'nei', 'quale', 'perché', 'precedenza', 'segnale', 'senso', 'doppio', 'due', 'diversa', 'passare', 'tenere', 'possibile', 'salvo_word', 'giallo', 'verde', 'lampeggiante', 'spento', 'siano', 'disposti', 'alternati', 'unici', 'e_verb'],
       questionIds: ['q_3_14_1', 'q_3_14_2', 'q_3_14_3', 'q_3_14_4', 'q_3_14_5', 'q_3_14_6', 'q_3_14_7', 'q_3_14_8', 'q_3_14_9', 'q_3_14_10', 'q_3_14_11']
     }
   ],
