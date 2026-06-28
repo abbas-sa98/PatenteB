@@ -23,56 +23,68 @@ View your app in AI Studio: https://ai.studio/apps/080ff2f2-c026-4243-9afd-05311
 
 
 
+
+
+
+
+
+
+--------
+
+
 Please review the specified chapter file(s) and add vocabulary support for my Italian level, which is A0-A1.
 
 Goal:
-I want almost every Italian word or short phrase that may be difficult for an A0-A1 learner to become available as vocabulary. Do not only add technical driving words. Also include common but important words, connectors, verbs, prepositions/articles when they affect understanding, and repeated lesson words.
+I want vocabulary coverage for all meaningful Italian words and useful short phrases in the lesson text, except Italian articles and pronouns.
+
+My level:
+My Italian level is A0-A1, so be generous. If a word may be difficult for a beginner, add it.
+
+Important vocabulary rule:
+Consider ALL Italian words and short phrases, except:
+- definite articles: `il`, `lo`, `la`, `l’`, `i`, `gli`, `le`
+- indefinite articles: `un`, `uno`, `una`, `un’`
+- partitive articles when used only as articles: `del`, `dello`, `della`, `dei`, `degli`, `delle`
+- basic pronouns such as `io`, `tu`, `lui`, `lei`, `noi`, `voi`, `loro`, `mi`, `ti`, `si`, `ci`, `vi`, `lo`, `la`, `li`, `le`
+
+Do include:
+- nouns
+- verbs
+- adjectives
+- adverbs
+- prepositions and connectors if they help understanding
+- driving-license technical words
+- repeated common words that are useful for A0-A1
+- short phrases that carry meaning
+
+Examples of words/phrases to include:
+- `nella`, `parte`, `più`, `bassa`, `può`, `accumularsi`
+- `strada`, `veicolo`, `segnale`, `pericolo`
+- `vietato`, `obbligo`, `consentito`
+- `prima`, `dopo`, `quando`, `dove`, `senza`, `con`
+- `di norma`, `in caso di`, `dare precedenza`, `a destra`, `a sinistra`
 
 Tasks:
 1. Read the lesson `italianText` carefully.
-2. Find Italian words and short phrases that an A0-A1 learner may not know.
-3. Add missing vocabulary cards to `src/data/chapters.ts` inside `initialVocabulary`.
-   - Each card must have:
-     - `id`
-     - `italian`
-     - `farsi`
-   - Keep the Farsi meaning simple and learner-friendly.
-4. Add the correct `vocabularyIds` to each lesson where those words or phrases actually appear.
-5. Avoid duplicate IDs inside the same lesson.
-6. Reuse existing vocabulary IDs if a suitable card already exists.
-7. Do not create two IDs for the same Italian word unless the meaning is truly different.
-8. Keep useful short phrases too, for example:
-   - `di norma`
-   - `in caso di`
-   - `a destra`
-   - `a sinistra`
-   - `dare precedenza`
-9. Include important beginner words such as:
-   - `non`, `con`, `senza`, `prima`, `dopo`, `quando`, `dove`
-   - `è`, `sono`, `può`, `devono`, `viene`
-   - `parte`, `nella`, `del`, `della`, `sul`, `sulla`
-   - and other common words if they are needed to understand the lesson.
-10. After editing, verify:
+2. Extract all meaningful Italian words and short phrases suitable for A0-A1 vocabulary, excluding only articles and pronouns.
+3. Reuse existing vocabulary IDs from `src/data/chapters.ts` when a suitable card already exists.
+4. Add missing vocabulary cards to `src/data/chapters.ts` inside `initialVocabulary`.
+   Each card must include:
+   - `id`
+   - `italian`
+   - `farsi`
+5. Keep the Farsi meaning simple, clear, and learner-friendly.
+6. Add the correct `vocabularyIds` to each lesson where those words or phrases actually appear.
+7. Avoid duplicate IDs inside the same lesson.
+8. Do not create two IDs for the same Italian word unless the meaning is truly different.
+9. After editing, verify:
    - every `vocabularyIds` reference exists in `initialVocabulary`
    - no duplicate IDs exist inside a lesson’s `vocabularyIds`
    - the chapter still has valid TypeScript structure
-11. Do not run lint/build unless I explicitly ask.
+10. Do not run lint/build unless I explicitly ask.
 
 Important:
-My Italian level is A0-A1, so be generous with vocabulary. If a word seems obvious to an intermediate learner but may be hard for a beginner, add it.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Do not only add technical driving words. Add almost every meaningful word that an A0-A1 learner may not know, except articles and pronouns.
 
 -----------------------------------
 
