@@ -1650,26 +1650,3 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
   ]
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

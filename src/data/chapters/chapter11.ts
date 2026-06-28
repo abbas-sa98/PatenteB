@@ -8,7 +8,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_1',
       title: '11.1 Strisce longitudinali continue e discontinue',
-      imageUrl: '/images/11-1.jpg',
+      imageUrl: '/images/11-1.jpg',
+
       italianText: `La segnaletica orizzontale comprende i segni tracciati sulla carreggiata. Le strisce longitudinali lungo l'asse o ai margini possono essere continue o discontinue: quelle continue non si oltrepassano, quelle discontinue si possono superare rispettando le altre norme. È vietato marciare a cavallo delle strisce.`,
       farsiTranslation: `خط‌کشی افقی یعنی علامت‌هایی که روی سواره‌رو کشیده می‌شوند. خط‌های طولی می‌توانند ممتد یا بریده‌بریده باشند: از خط ممتد نباید عبور کرد، اما خط بریده‌بریده را با رعایت قوانین دیگر می‌توان رد کرد. حرکت روی خود خط ممنوع است.`,
       vocabularyIds: [
@@ -19,7 +20,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_2',
       title: '11.2 Striscia bianca continua di mezzeria',
-      imageUrl: '/images/11-2.jpg',
+      imageUrl: '/images/11-2.jpg',
+
       italianText: `La striscia bianca continua divide la carreggiata in due semicarreggiate o corsie e non può essere superata. Consente il sorpasso solo se non la si oltrepassa. Vietati inversione di marcia e marcia a cavallo.`,
       farsiTranslation: `خط سفید ممتد وسط، سواره‌رو را به دو نیمه یا دو لاین تقسیم می‌کند و نباید از آن عبور کرد. فقط اگر از روی خط رد نشوی، ممکن است سبقت مجاز باشد. دور زدن و حرکت روی خط ممنوع است.`,
       vocabularyIds: [
@@ -30,7 +32,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_3',
       title: '11.3 Doppia striscia bianca continua',
-      imageUrl: '/images/11-3.jpg',
+      imageUrl: '/images/11-3.jpg',
+
       italianText: `La doppia striscia continua si trova su strade a doppio senso e separa i sensi di marcia. Non si può mai oltrepassare, neppure per svoltare a sinistra o invertire la marcia.`,
       farsiTranslation: `دو خط سفید ممتد در جاده‌های دوطرفه جهت‌های حرکت را جدا می‌کند. هرگز نباید از آن عبور کرد، حتی برای پیچیدن به چپ یا دور زدن.`,
       vocabularyIds: [
@@ -41,7 +44,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_4',
       title: '11.4 Striscia bianca discontinua su strada a senso unico',
-      imageUrl: '/images/11-4.jpg',
+      imageUrl: '/images/11-4.jpg',
+
       italianText: `Nelle strade a senso unico la striscia bianca discontinua separa le corsie. Si può sorpassare anche superando la striscia, anche in curva o sui dossi, ma non si può invertire la marcia.`,
       farsiTranslation: `در جاده یک‌طرفه، خط سفید بریده‌بریده لاین‌ها را جدا می‌کند. می‌توان از روی آن برای سبقت عبور کرد، حتی در پیچ یا روی برآمدگی، اما دور زدن ممنوع است.`,
       vocabularyIds: [
@@ -52,7 +56,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_5',
       title: '11.5 Striscia bianca discontinua su strada a doppio senso',
-      imageUrl: '/images/11-5.jpg',
+      imageUrl: '/images/11-5.jpg',
+
       italianText: `Nelle strade a doppio senso la striscia discontinua divide i sensi di marcia e può essere superata per il sorpasso o per l'inversione, solo in condizioni di sicurezza. Per svoltare a sinistra ci si avvicina al centro restando nella propria semicarreggiata.`,
       farsiTranslation: `در جاده دوطرفه، خط بریده‌بریده جهت‌های حرکت را جدا می‌کند و فقط در شرایط ایمن می‌توان برای سبقت یا دور زدن از آن عبور کرد. برای پیچیدن به چپ باید به مرکز نزدیک شد ولی در نیمه خود باقی ماند.`,
       vocabularyIds: [
@@ -63,7 +68,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_6',
       title: '11.6 Striscia discontinua nelle carreggiate a senso unico',
-      imageUrl: '/images/11-6.jpg',
+      imageUrl: '/images/11-6.jpg',
+
       italianText: `In una carreggiata a senso unico la striscia bianca discontinua serve a delimitare le corsie. Non divide la strada in due carreggiate e non consente l'inversione di marcia.`,
       farsiTranslation: `در سواره‌روی یک‌طرفه، خط سفید بریده‌بریده فقط لاین‌ها را مشخص می‌کند. جاده را به دو سواره‌رو تقسیم نمی‌کند و اجازه دور زدن نمی‌دهد.`,
       vocabularyIds: [
@@ -74,7 +80,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_7',
       title: '11.7 Strisce di mezzo nelle carreggiate a doppio senso',
-      imageUrl: '/images/11-7.jpg',
+      imageUrl: '/images/11-7.jpg',
+
       italianText: `In carreggiata a doppio senso la linea di mezzo può essere continua, discontinua o doppia continua. Se è discontinua si può superare durante il sorpasso; se è continua non si può superare.`,
       farsiTranslation: `در سواره‌روی دوطرفه، خط وسط می‌تواند ممتد، بریده‌بریده یا دو خط ممتد باشد. اگر بریده‌بریده باشد هنگام سبقت می‌توان رد شد؛ اگر ممتد باشد نباید رد شد.`,
       vocabularyIds: [
@@ -85,7 +92,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_8',
       title: '11.8 Striscia bianca discontinua: regola generale',
-      imageUrl: '/images/11-8.jpg',
+      imageUrl: '/images/11-8.jpg',
+
       italianText: `La striscia bianca discontinua può essere superata se le condizioni lo permettono. Divide la carreggiata in corsie e, sulle strade a doppio senso, separa i sensi di marcia.`,
       farsiTranslation: `خط سفید بریده‌بریده اگر شرایط اجازه بدهد قابل عبور است. سواره‌رو را به لاین‌ها تقسیم می‌کند و در جاده دوطرفه جهت‌های حرکت را جدا می‌کند.`,
       vocabularyIds: [
@@ -96,7 +104,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_9',
       title: '11.9 Discontinua affiancata a continua',
-      imageUrl: '/images/11-9.jpg',
+      imageUrl: '/images/11-9.jpg',
+
       italianText: `Se dalla parte del veicolo c'è la striscia discontinua, il pericolo è già superato: si può sorpassare, svoltare a sinistra o invertire la marcia anche valicando entrambe le strisce.`,
       farsiTranslation: `اگر سمت خودروی ما خط بریده‌بریده باشد، یعنی خطر قبلی تمام شده است؛ می‌توان سبقت گرفت، به چپ پیچید یا دور زد، حتی با عبور از هر دو خط.`,
       vocabularyIds: [
@@ -107,7 +116,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_10',
       title: '11.10 Continua affiancata a discontinua',
-      imageUrl: '/images/11-10.jpg',
+      imageUrl: '/images/11-10.jpg',
+
       italianText: `Se dalla parte del veicolo c'è la striscia continua, il pericolo non è ancora superato. Non si può oltrepassare la linea continua per invertire, retrocedere o svoltare a sinistra.`,
       farsiTranslation: `اگر سمت خودروی ما خط ممتد باشد، یعنی هنوز خطر تمام نشده است. برای دور زدن، عقب رفتن یا پیچیدن به چپ نباید از خط ممتد عبور کرد.`,
       vocabularyIds: [
@@ -118,7 +128,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_11',
       title: '11.11 Corsia di emergenza e striscia laterale continua',
-      imageUrl: '/images/11-11.jpg',
+      imageUrl: '/images/11-11.jpg',
+
       italianText: `La striscia bianca continua laterale può separare la carreggiata dalla corsia di emergenza. Questa corsia si usa solo in caso di necessità, come guasto o malessere, e non per sorpassare.`,
       farsiTranslation: `خط سفید ممتد کناری می‌تواند سواره‌رو را از لاین اضطراری جدا کند. لاین اضطراری فقط در حالت نیاز مثل خرابی خودرو یا بدحالی استفاده می‌شود، نه برای سبقت.`,
       vocabularyIds: [
@@ -129,7 +140,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_12',
       title: '11.12 Strisce laterali discontinue e strisce di guida',
-      imageUrl: '/images/11-12.jpg',
+      imageUrl: '/images/11-12.jpg',
+
       italianText: `Le strisce laterali discontinue separano la carreggiata da piazzole, passi carrabili, corsie di accelerazione o decelerazione e strade secondarie. Le strisce di guida negli incroci aiutano a svoltare correttamente.`,
       farsiTranslation: `خط‌های کناری بریده‌بریده سواره‌رو را از محل توقف اضطراری، ورودی پارکینگ، لاین شتاب‌گیری یا کاهش سرعت و راه فرعی جدا می‌کنند. خط‌های راهنما در تقاطع کمک می‌کنند درست بپیچی.`,
       vocabularyIds: [
@@ -140,7 +152,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_13',
       title: '11.13 Isola di traffico',
-      imageUrl: '/images/11-13.jpg',
+      imageUrl: '/images/11-13.jpg',
+
       italianText: `L'isola di traffico è una zona con strisce bianche oblique, esclusa al transito e alla sosta dei veicoli. Non è una zona di parcheggio.`,
       farsiTranslation: `جزیره ترافیکی ناحیه‌ای با خط‌های سفید مورب است که عبور و پارک وسایل نقلیه در آن ممنوع است. محل پارک نیست.`,
       vocabularyIds: [
@@ -162,7 +175,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_15',
       title: '11.15 Strisce di guida negli incroci',
-      imageUrl: '/images/11-15.jpg',
+      imageUrl: '/images/11-15.jpg',
+
       italianText: `Le strisce di guida sono linee bianche curve e discontinue. Servono per effettuare correttamente la svolta, soprattutto a sinistra, evitando di prendere contromano la strada.`,
       farsiTranslation: `خط‌های راهنما در تقاطع، خط‌های سفید خمیده و بریده‌بریده هستند. برای پیچیدن درست، مخصوصا به چپ، استفاده می‌شوند تا وارد مسیر خلاف جهت نشوی.`,
       vocabularyIds: [
@@ -173,7 +187,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_16',
       title: '11.16 Comportamento sulle strisce di guida',
-      imageUrl: '/images/11-16.jpg',
+      imageUrl: '/images/11-16.jpg',
+
       italianText: `Le strisce di guida, essendo discontinue, possono essere valicate dai veicoli che proseguono diritto o svoltano secondo le direzioni consentite.`,
       farsiTranslation: `چون خط‌های راهنما بریده‌بریده هستند، وسایل نقلیه‌ای که مستقیم می‌روند یا طبق جهت‌های مجاز می‌پیچند می‌توانند از آن‌ها عبور کنند.`,
       vocabularyIds: [
@@ -184,7 +199,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_17',
       title: '11.17 Striscia bianca trasversale continua',
-      imageUrl: '/images/11-17.jpg',
+      imageUrl: '/images/11-17.jpg',
+
       italianText: `La striscia trasversale continua indica il punto di arresto. Si usa con semaforo rosso, vigile in posizione di alt o segnale di Stop, e può essere completata dalla scritta STOP.`,
       farsiTranslation: `خط سفید عرضی ممتد محل توقف را نشان می‌دهد. با چراغ قرمز، دستور توقف مأمور یا تابلوی ایست استفاده می‌شود و ممکن است با نوشته STOP کامل شود.`,
       vocabularyIds: [
@@ -195,7 +211,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_18',
       title: '11.18 Punto di arresto agli incroci',
-      imageUrl: '/images/11-18.jpg',
+      imageUrl: '/images/11-18.jpg',
+
       italianText: `La striscia trasversale indica dove bisogna fermarsi quando l'arresto è imposto da semaforo, vigile o segnale. Non significa sempre fermarsi se l'incrocio non è regolato.`,
       farsiTranslation: `خط عرضی نشان می‌دهد وقتی چراغ، مأمور یا تابلو دستور توقف می‌دهد کجا باید ایستاد. اگر تقاطع کنترل نشده باشد، همیشه به معنی توقف اجباری نیست.`,
       vocabularyIds: [
@@ -206,7 +223,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_19',
       title: '11.19 Attraversamento pedonale',
-      imageUrl: '/images/11-19.jpg',
+      imageUrl: '/images/11-19.jpg',
+
       italianText: `L'attraversamento pedonale è indicato da zebrature bianche sulla carreggiata. I pedoni che attraversano hanno precedenza e il conducente deve moderare la velocità e fermarsi quando necessario.`,
       farsiTranslation: `گذرگاه عابر پیاده با خط‌های سفید روی سواره‌رو مشخص می‌شود. عابرانی که عبور می‌کنند حق تقدم دارند و راننده باید سرعت را کم کند و در صورت نیاز توقف کند.`,
       vocabularyIds: [
@@ -217,7 +235,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_20',
       title: '11.20 Attraversamento pedonale e segnaletica verticale',
-      imageUrl: '/images/11-20.jpg',
+      imageUrl: '/images/11-20.jpg',
+
       italianText: `L'attraversamento pedonale può essere completato dal segnale verticale e, per migliorare la visibilità, preceduto da una striscia gialla a zig-zag dove la sosta è vietata.`,
       farsiTranslation: `گذرگاه عابر می‌تواند با تابلوی عمودی کامل شود و برای دید بهتر قبل از آن خط زرد زیگزاگ باشد که پارک روی آن ممنوع است.`,
       vocabularyIds: [
@@ -228,7 +247,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_21',
       title: '11.21 Frecce bianche direzionali',
-      imageUrl: '/images/11-21.jpg',
+      imageUrl: '/images/11-21.jpg',
+
       italianText: `Le frecce direzionali sono tracciate nelle corsie prima degli incroci e indicano le direzioni consentite. Se le strisce sono continue obbligano a seguire la direzione; se sono discontinue permettono di scegliere la corsia.`,
       farsiTranslation: `فلش‌های سفید جهت‌نما داخل لاین‌ها و قبل از تقاطع کشیده می‌شوند و جهت‌های مجاز را نشان می‌دهند. اگر خطوط ممتد باشند باید همان جهت را رفت؛ اگر بریده‌بریده باشند می‌توان لاین را انتخاب کرد.`,
       vocabularyIds: [
@@ -239,7 +259,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_22',
       title: '11.22 Corsie di canalizzazione su strada a senso unico',
-      imageUrl: '/images/11-22.jpg',
+      imageUrl: '/images/11-22.jpg',
+
       italianText: `Nelle corsie di canalizzazione su strada a senso unico le frecce indicano le direzioni possibili. Bisogna scegliere la corsia corretta prima dell'incrocio.`,
       farsiTranslation: `در لاین‌های کانالیزه در راه یک‌طرفه، فلش‌ها جهت‌های ممکن را نشان می‌دهند. باید قبل از تقاطع لاین درست را انتخاب کرد.`,
       vocabularyIds: [
@@ -250,7 +271,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_23',
       title: '11.23 Corsie di canalizzazione su strada a doppio senso',
-      imageUrl: '/images/11-23.jpg',
+      imageUrl: '/images/11-23.jpg',
+
       italianText: `Su strada a doppio senso le corsie di preselezione possono permettere diritto, destra o sinistra secondo la freccia. Si può cambiare corsia finché le strisce sono discontinue.`,
       farsiTranslation: `در راه دوطرفه، لاین‌های پیش‌انتخاب بسته به فلش ممکن است مستقیم، راست یا چپ را اجازه دهند. تا وقتی خطوط بریده‌بریده‌اند می‌توان لاین عوض کرد.`,
       vocabularyIds: [
@@ -261,7 +283,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_24',
       title: '11.24 Corsie di preselezione senza frecce',
-      imageUrl: '/images/11-24.jpg',
+      imageUrl: '/images/11-24.jpg',
+
       italianText: `In assenza di frecce direzionali, tutte le corsie consentono di proseguire diritto; quella di sinistra consente anche la svolta a sinistra e quella di destra anche la svolta a destra.`,
       farsiTranslation: `اگر فلش جهت‌نما نباشد، همه لاین‌ها اجازه مستقیم رفتن می‌دهند؛ لاین چپ همچنین برای پیچیدن به چپ و لاین راست همچنین برای پیچیدن به راست است.`,
       vocabularyIds: [
@@ -272,7 +295,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_25',
       title: '11.25 Segnaletica di fermata autobus',
-      imageUrl: '/images/11-25.jpg',
+      imageUrl: '/images/11-25.jpg',
+
       italianText: `La zona di fermata di autobus e filobus in servizio pubblico può essere indicata da strisce gialle a zig-zag. La sosta è vietata, ma il transito e la fermata breve possono essere consentiti.`,
       farsiTranslation: `محل توقف اتوبوس و اتوبوس برقی عمومی می‌تواند با خطوط زرد زیگزاگ مشخص شود. پارک ممنوع است، اما عبور و توقف کوتاه ممکن است مجاز باشد.`,
       vocabularyIds: [
@@ -283,7 +307,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_26',
       title: '11.26 Simbolo P e L per passaggio a livello',
-      imageUrl: '/images/11-26.jpg',
+      imageUrl: '/images/11-26.jpg',
+
       italianText: `Le lettere P e L con la Croce di Sant'Andrea sulla pavimentazione segnalano la vicinanza di un passaggio a livello e invitano alla massima prudenza.`,
       farsiTranslation: `حروف P و L همراه با صلیب سنت آندریا روی آسفالت، نزدیک بودن گذرگاه راه‌آهن را نشان می‌دهد و راننده را به احتیاط زیاد دعوت می‌کند.`,
       vocabularyIds: [
@@ -294,7 +319,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_27',
       title: '11.27 Segni gialli e neri sul marciapiede',
-      imageUrl: '/images/11-27.jpg',
+      imageUrl: '/images/11-27.jpg',
+
       italianText: `I segni gialli e neri sul bordo verticale del marciapiede indicano un tratto dove la sosta è vietata. La fermata è invece consentita.`,
       farsiTranslation: `نشانه‌های زرد و سیاه روی لبه عمودی پیاده‌رو یعنی در آن بخش پارک ممنوع است. اما توقف کوتاه مجاز است.`,
       vocabularyIds: [
@@ -305,7 +331,8 @@ export const chapter11: Chapter = {
     {
       id: 'topic_11_28',
       title: '11.28 Divieto di sosta indicato dal bordo dipinto',
-      imageUrl: '/images/11-28.jpg',
+      imageUrl: '/images/11-28.jpg',
+
       italianText: `Il bordo del marciapiede dipinto in giallo e nero vieta la sosta a tutti i veicoli, anche taxi. Non indica lavori, parcheggio a pagamento o strada con diritto di precedenza.`,
       farsiTranslation: `لبه پیاده‌رو که زرد و سیاه رنگ شده، پارک همه وسایل نقلیه حتی تاکسی را ممنوع می‌کند. معنی کارگاه، پارک پولی یا راه دارای حق تقدم ندارد.`,
       vocabularyIds: [

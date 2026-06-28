@@ -8,7 +8,8 @@ export const chapter7: Chapter = {
     {
       id: 'topic_7_1',
       title: '7.1 Lavori',
-      imageUrl: '/images/7-1.jpg',
+      imageUrl: '/images/7-1.jpg',
+
       italianText: `I segnali temporanei si riconoscono dal fondo giallo e vengono usati quando sulla strada ci sono lavori o cantieri. Il segnale Lavori avvisa che possono esserci operai, materiali depositati, sabbia, pietrisco o macchinari vicino alla carreggiata.
 
 Il comportamento corretto è moderare la velocità e tenersi pronti a fermarsi se necessario. Questo segnale non dà una precedenza speciale ai veicoli che escono dal cantiere e non obbliga a invertire la marcia: serve soprattutto a far capire che il tratto richiede prudenza. Può essere completato da un pannello integrativo, per esempio quello di Estesa, quando bisogna indicare la lunghezza del cantiere.`,
@@ -108,7 +109,8 @@ Il comportamento corretto è moderare la velocità e tenersi pronti a fermarsi s
     {
       id: 'topic_7_2',
       title: '7.2 Preavviso di semaforo temporaneo',
-      imageUrl: '/images/7-2.jpg',
+      imageUrl: '/images/7-2.jpg',
+
       italianText: `Questo segnale preavvisa la presenza successiva di un semaforo temporaneo, spesso installato per regolare il traffico vicino a un cantiere o prima di un restringimento provvisorio della carreggiata. Può trovarsi sia su strade urbane sia su strade extraurbane.
 
 Il punto importante è prepararsi a rallentare e a fermarsi se la luce è rossa. Il disco centrale è giallo e può essere lampeggiante. Non va confuso con i segnali dei ponti mobili, dei passaggi ferroviari o dell'imbarco dei traghetti: qui il motivo è un semaforo provvisorio legato ai lavori stradali.`,
@@ -194,7 +196,8 @@ Il punto importante è prepararsi a rallentare e a fermarsi se la luce è rossa.
     {
       id: 'topic_7_3',
       title: '7.3 Preavviso di deviazione temporanea',
-      imageUrl: '/images/7-3.jpg',
+      imageUrl: '/images/7-3.jpg',
+
       italianText: `Il preavviso di deviazione temporanea indica che il percorso normale è interrotto o modificato a causa di lavori. Il fondo resta giallo perché si tratta di segnaletica temporanea, anche quando il segnale si trova fuori città.
 
 Se è presente un pannello Estesa, il numero indica la lunghezza della deviazione o del tratto interessato, non la distanza dal segnale. La deviazione non significa che la località indicata sia irraggiungibile: significa che bisogna seguire un percorso alternativo fino a superare il tratto chiuso.`,
@@ -277,7 +280,8 @@ Se è presente un pannello Estesa, il numero indica la lunghezza della deviazion
     {
       id: 'topic_7_4',
       title: '7.4 Limitazione di transito per cantiere stradale',
-      imageUrl: '/images/7-4.jpg',
+      imageUrl: '/images/7-4.jpg',
+
       italianText: `Questo preavviso indica una limitazione temporanea di transito su un ramo della strada, normalmente vicino a un incrocio che precede un cantiere. La limitazione riguarda i veicoli indicati dal segnale, per esempio quelli con massa superiore a un certo valore.
 
 I veicoli che superano il limite devono cambiare itinerario e usare il percorso sostitutivo. I veicoli entro il limite possono invece proseguire secondo le direzioni consentite. La cosa da ricordare è che non vieta il passaggio a tutti: la regola dipende dalla categoria e dalla massa indicate.`,
@@ -389,7 +393,8 @@ I veicoli che superano il limite devono cambiare itinerario e usare il percorso 
     {
       id: 'topic_7_5',
       title: '7.5 Direzione obbligatoria per i veicoli indicati',
-      imageUrl: '/images/7-5.jpg',
+      imageUrl: '/images/7-5.jpg',
+
       italianText: `Questo segnale ha carattere temporaneo e indica una direzione obbligatoria solo per le categorie di veicoli raffigurate, come autotreni o autoarticolati. Si usa vicino ai cantieri stradali per il periodo in cui durano i lavori.
 
 Non è un consiglio facoltativo e non vale automaticamente per tutti i veicoli. Bisogna guardare bene il veicolo disegnato sul cartello: solo quella categoria deve seguire la direzione indicata.`,
@@ -465,7 +470,8 @@ Non è un consiglio facoltativo e non vale automaticamente per tutti i veicoli. 
     {
       id: 'topic_7_6',
       title: '7.6 Direzione consigliata agli autocarri',
-      imageUrl: '/images/7-6.jpg',
+      imageUrl: '/images/7-6.jpg',
+
       italianText: `La direzione consigliata agli autocarri indica un percorso raccomandato per gli autocarri, di solito quelli oltre 3,5 tonnellate, vicino a un cantiere o a una deviazione. È installata nel punto in cui conviene seguire la deviazione e può essere preceduta da un segnale di preavviso.
 
 La parola chiave è consigliata: non è un obbligo come nel segnale precedente. Inoltre non indica un parcheggio per camion, una stazione di rifornimento o una strada riservata soltanto agli autocarri.`,
@@ -548,7 +554,8 @@ La parola chiave è consigliata: non è un obbligo come nel segnale precedente. 
     {
       id: 'topic_7_7',
       title: '7.7 Cantiere mobile con restringimento della carreggiata',
-      imageUrl: '/images/7-7.jpg',
+      imageUrl: '/images/7-7.jpg',
+
       italianText: `Il cantiere mobile segnala lavori che si spostano lungo la strada, per esempio su un veicolo operativo. Il segnale può mostrare che la carreggiata si restringe e che le corsie disponibili diminuiscono, ad esempio da tre a due.
 
 Serve a far capire in anticipo come disporsi e quale parte della carreggiata resta utilizzabile. Può essere completato con luci gialle lampeggianti per renderlo più visibile. Non indica quanti veicoli possono passare contemporaneamente e non è una piazzola di sosta.`,
@@ -632,7 +639,8 @@ Serve a far capire in anticipo come disporsi e quale parte della carreggiata res
     {
       id: 'topic_7_8',
       title: '7.8 Corsia di destra chiusa',
-      imageUrl: '/images/7-8.jpg',
+      imageUrl: '/images/7-8.jpg',
+
       italianText: `Il segnale di corsia di destra chiusa avvisa che, per lavori in corso, la corsia di destra non è più utilizzabile e la carreggiata si restringe. Può indicare una riduzione delle corsie, ad esempio da due corsie a una sola corsia di marcia.
 
 Può essere accompagnato da un pannello Distanza, che dice quanto manca al punto di chiusura. Non obbliga a dare precedenza ai veicoli che arrivano dalla destra: serve a organizzare per tempo lo spostamento verso la corsia rimasta aperta.`,
