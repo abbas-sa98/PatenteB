@@ -40,7 +40,7 @@ Indica che possono transitare tutti i veicoli ESCLUSI quelli raffigurati.
 Non indica un parcheggio per autocarri né un itinerario obbligatorio.`,
       farsiTranslation: `عبور ممنوع برای دسته‌های خاصی از وسایل نقلیه (مانند تریلی‌ها و کامیون‌های مفصل‌دار).
 
-نشان می‌دهد که عبور وسایل نقلیه کشیده‌شده در تصویر ممنوع است، اما سایر خودروها (Veicoli) می‌توانند عبور کنند.
+نشان می‌دهد که عبور وسایل نقلیه نشان‌داده‌شده در تصویر ممنوع است، اما سایر خودروها (Veicoli) می‌توانند عبور کنند.
 
 این تابلو پارکینگ کامیون‌ها یا مسیر اجباری (Itinerario obbligatorio) را نشان نمی‌دهد. همچنین ممنوعیت توقف (Divieto di sosta) نیست.`,
       imageUrl: '/images/4-2.jpg',
@@ -176,7 +176,7 @@ Non vieta il transito, non vale per veicoli merci leggeri (fino a 3,5t).`,
 کامیون‌های کمتر از ۳.۵ تن (سبک) از این قانون مستثنی هستند و می‌توانند سبقت بگیرند. این تابلو عبور را ممنوع نمی‌کند.`,
       imageUrl: '/images/4-9.jpg',
       vocabularyIds: [ 'trasporto_cose', 'trasporto_persone', 'autocaravan', 'autobus', 'per', 'veicoli', 'destinati_pl', 'vale', 'vieta', 'veicoli_a_motore', 'veicoli_merci', 'autotreno', 'non', 'con', 'puo', 'un', 'perché', 'motore', 'merci', 'massa', 'trasporto', 'persone', 'adibiti'],
-      questionIds: Array.from({ length: 16 }, (_, i) => `q_4_9_${i + 1}`)
+      questionIds: [...Array.from({ length: 16 }, (_, i) => `q_4_9_${i + 1}`), 'q_4_missing_camper']
     },
     {
       id: 'topic_4_10',
@@ -1589,6 +1589,12 @@ Non preannuncia divieto di sosta o parcheggio vietato/riservato. Non è un pront
     },
 
     // 4.10 Limite massimo di velocità
+    {
+      id: 'q_4_missing_camper',
+      italianText: 'Il segnale raffigurato consente ad un’autocaravan di massa complessiva superiore a 3,5t di sorpassare.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به یک اتوکاروان (کمپر) با وزن کل بیش از ۳.۵ تن اجازه سبقت‌گرفتن می‌دهد.',
+      correctAnswer: 'Vero'
+    },
     {
       id: 'q_4_10_1',
       italianText: 'Il segnale raffigurato è un segnale di divieto',
@@ -3900,7 +3906,7 @@ Non preannuncia divieto di sosta o parcheggio vietato/riservato. Non è un pront
     {
       id: 'q_4_39_6',
       italianText: 'Il segnale raffigurato preannuncia che la sosta e il parcheggio sono vietati nel senso della freccia',
-      farsiTranslation: 'غلط: این تابلوی راهنماست و برعکس، محل پارک کردن را به شما پیشنهاد می‌دهد.',
+      farsiTranslation: 'غلط: این تابلوی پیش‌آگاهی پارکینگ است و نشان‌دهنده ممنوعیت توقف یا پارک نیست.',
       correctAnswer: 'Falso'
     },
     {

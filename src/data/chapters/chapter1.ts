@@ -19,7 +19,7 @@ Comprende:
 ✅ وسایل نقلیه (Veicoli)  ✅ عابران پیاده (Pedoni)  ✅ حیوانات (Animali)
 
 ویژگی‌ها:
-می‌آتواند یک‌طرفه (Senso unico) یا دوطرفه (Doppio senso) باشد و در صورت وجود جداکننده وسط جاده (Spartitraffico) به چند سواره‌رو (Carreggiate) تقسیم شود.
+می‌تواند یک‌طرفه (Senso unico) یا دوطرفه (Doppio senso) باشد و در صورت وجود جداکننده وسط جاده (Spartitraffico) به چند سواره‌رو (Carreggiate) تقسیم شود.
 
 شامل می‌شود:
 ✅ محوطه‌های سواره‌رو (Le carreggiate)  ✅ شانه‌های جاده (Le banchine)  ✅ پیاده‌روها (I marciapiedi)  ✅ مسیرهای ویژه دوچرخه (Le piste ciclabili)`,
@@ -43,13 +43,15 @@ Non fanno parte della carreggiata:
       farsiTranslation: `Carreggiata بخشی از جاده است که برای عبور وسایل نقلیه اختصاص یافته است.
 
 ویژگی‌ها:
-می‌آتواند دوطرفه یا یک‌طرفه باشد، به باندها (Corsie) تقسیم شود و در کنار مسیرهای دوچرخه قرار گیرد. شامل خط‌کشی‌های عابر پیاده و دوچرخه می‌شود اما پیاده‌روها و محل‌های توقف اضطراری را شامل نمی‌شود.
+می‌تواند دوطرفه یا یک‌طرفه باشد، به باندها (Corsie) تقسیم شود و در کنار مسیرهای دوچرخه قرار گیرد. شامل خط‌کشی‌های عابر پیاده و دوچرخه می‌شود اما پیاده‌روها و محل‌های توقف اضطراری را شامل نمی‌شود.
 
 جزء سواره‌رو هستند (Fanno parte):
 ✅ تمام باندها (به جز باند اضطراری)  ✅ خط‌کشی‌های عابر پیاده (نه بلوارهای پیاده‌رو)  ✅ خط‌کشی‌های عبور دوچرخه (نه مسیرهای دوچرخه)  ✅ باندهای حرکت عادی  ✅ باندهای سبقت
 
 جزء سواره‌رو نیستند (Non fanno parte):
-❌ پیاده‌روها  ❌ محل‌های توقف اضطراری  ❌ شانه‌های جاده  ❌ باندهای اضطراری اتوبان‌ها  ❌ مسیرهای ویژه دوچرخه`,
+❌ پیاده‌روها  ❌ محل‌های توقف اضطراری  ❌ شانه‌های جاده  ❌ باندهای اضطراری اتوبان‌ها  ❌ مسیرهای ویژه دوچرخه
+
+⚠️ نکته مهم امتحانی: Pista ciclabile یعنی مسیر طولی دوچرخه که معمولاً موازی جاده ادامه دارد و خارج از سواره‌رو است؛ اما Attraversamento ciclabile یعنی خط‌کشی/مربع‌های سفید عرضی روی خود جاده که دوچرخه‌ها از آن عبور می‌کنند و از نظر قانونی جزء سواره‌رو حساب می‌شود.`,
       imageUrl: '/images/1-2.jpg',
       vocabularyIds: [ 'carreggiata', 'transito', 'veicoli', 'doppio_senso', 'senso_unico', 'suddivisa', 'corsie', 'affiancata', 'piste_ciclabili', 'comprende', 'attraversamenti_pedonali', 'attraversamenti_ciclabili', 'marciapiedi', 'piazzole_di_sosta', 'fanno_parte', 'tranne', 'corsia_di_emergenza', 'viali_pedonali', 'non_comprendere', 'banchine', 'corsie_di_marcia', 'corsie_di_sorpasso', 'non', 'tutte', 'puo', 'della', 'dei', 'delle', 'gli', 'senso', 'unico', 'doppio', 'parte', 'attraversamenti', 'autostrade', 'pedonali', 'ciclabili', 'piste', 'e_verb'],
       questionIds: [
@@ -142,7 +144,7 @@ Può essere regolata da semaforo. Richiede di fare attenzione ai veicoli proveni
       farsiTranslation: `تقاطع همسطح، یک محوطه مشترک بین دو یا چند جاده است که در یک سطح یا طبقه قرار دارند و امکان هدایت جریان خودروها را از یک جاده به جاده دیگر فراهم می‌کند.
 
 قوانین اصلی:
-می‌آتواند توسط چراغ راهنمایی (Semaforo) کنترل شود. نیازمند توجه به وسایل نقلیه وارد شده از جاده‌های متقاطع است. ❌ شامل روگذر، زیرگذر یا رمپ نمی‌شود. تقاطع با ریل تراموا، درب پارکینگ (Passo carrabile) یا گذرگاه ریلی دارای مانع نیست.`,
+می‌تواند توسط چراغ راهنمایی (Semaforo) کنترل شود. نیازمند توجه به وسایل نقلیه وارد شده از جاده‌های متقاطع است. ❌ شامل روگذر، زیرگذر یا رمپ نمی‌شود. تقاطع با ریل تراموا، درب پارکینگ (Passo carrabile) یا گذرگاه ریلی دارای مانع نیست.`,
       imageUrl: '/images/1-7.jpg',
       vocabularyIds: [ 'intersezione', 'intersezione_a_raso', 'area_comune', 'stesso_piano', 'stesso_livello', 'smistamento', 'correnti_veicolari', 'braccio', 'regolata_da_semaforo', 'fare_attenzione', 'veicoli_provenienti', 'incrociarsi', 'non_comprendere', 'sovrappassi', 'sottopassi', 'rampe', 'binari_del_tram', 'passi_carrabili', 'passaggio_a_livello', 'barriere', 'non', 'con', 'puo', 'una', 'un', 'che', 'del', 'delle', 'dalle', 'due', 'stesso', 'passaggio', 'richiede', 'livello', 'raso', 'piano', 'correnti', 'principali', 'attenzione', 'allo', 'più', 'e_verb'],
       questionIds: ['q_7_1', 'q_7_2', 'q_7_3', 'q_7_4', 'q_7_5', 'q_7_6', 'q_7_7', 'q_7_8', 'q_7_9']
@@ -175,7 +177,6 @@ Deve essere corredato da un apposito segnale che riporti l'ente e il numero di a
 باید دارای تابلوی مخصوصی باشد که نام ارگان صادرکننده و شماره مجوز روی آن درج شده است. پارک کردن (Sosta) در مقابل آن ممنوع است، اما توقف کوتاه (Fermata) برای سوار و پیاده کردن سرنشین یا بارگیری مجاز است.
 
 اشتباهات رایج (رد گزینه‌های آزمون): این محل جاده‌ای برای گاری یا کامیون نیست، نشان‌دهنده میدان (Rotatoria) نیست، پارکینگ تعویضی (Parcheggio scambiatore) نیست و سکوی ایمنی عابر پیاده (Salvagente) هم نیست.`,
-      imageUrl: 'NULL',
       vocabularyIds: [ 'passo_carrabile', 'zona', 'accesso_veicoli', 'proprieta_private', 'laterali_alla_strada', 'garage', 'cortili', 'aree_di_sosta', 'corredato', 'apposito_segnale', 'riporti_ente', 'numero_di_autorizzazione', 'sosta_vietata', 'consentita_la_fermata', 'carri_trainati', 'circolazione_rotatoria', 'autocarri', 'parcheggio_scambiatore', 'salvagente_circolare', 'non', 'una', 'un', 'che', 'dei', 'alla', 'alle', 'come', 'mentre', 'segnale', 'parcheggio', 'corrispondenza', 'passo', 'carrabile', 'e_verb'],
       questionIds: [
         'q_9_1', 'q_9_2', 'q_9_3', 'q_9_4', 'q_9_5', 'q_9_6', 'q_9_7', 'q_9_8', 'q_9_9', 'q_9_10', 'q_9_11'
@@ -217,7 +218,8 @@ Regole e divieti:
       italianText: `Il salvagente è una parte della strada rialzata o opportunamente delimitata, destinata al riparo o alla sosta dei pedoni che attraversano la strada stessa.
 
 Caratteristiche:
-Si trova in corrispondenza di attraversamenti pedonali o di fermate dei trasporti pubblici. Agevola la salita e la discesa dei passeggeri da tram, filobus od autobus. Può essere segnalato con colonnine luminose a luce gialla fissa o lampeggiante.`,
+Si trova in corrispondenza di attraversamenti pedonali o di fermate dei trasporti pubblici. Agevola la salita e la discesa dei passeggeri da tram, filobus od autobus. Può essere segnalato con colonnine luminose a luce gialla fissa o lampeggiante.
+Nei quiz può comparire anche "luce gialla fissa" come Vero.`,
       farsiTranslation: `سکوی ایمنی (Salvagente) بخشی برجسته یا مرزبندی شده از جاده است که برای پناه گرفتن یا توقف عابران پیاده در حال عبور از عرض جاده اختصاص یافته است.
 
 ویژگی‌ها:
@@ -239,7 +241,7 @@ Regole principali:
       farsiTranslation: `جزیره ترافیکی (Isola di traffico) بخشی از جاده و سواره‌رو است که ترافیک خودرویی از آن حذف شده است.
 
 ویژگی‌ها:
-می‌آتواند برجسته (Rialzata) یا به صورت همسطح (A raso) روی کف جاده رنگ‌آمیزی شده باشد. با خطوط هاشور سفید (Zebrature) و خطوط ممتد رابط سفید مشخص می‌شود.
+می‌تواند برجسته (Rialzata) یا به صورت همسطح (A raso) روی کف جاده رنگ‌آمیزی شده باشد. با خطوط هاشور سفید (Zebrature) و خطوط ممتد رابط سفید مشخص می‌شود.
 
 قوانین اصلی:
 برای جداسازی و هدایت جریان‌های ترافیکی به سمت مسیرهای مختلف اختصاص یافته است. ❌ رانندگی، عبور و پارک کردن روی آن برای هر نوع وسیله نقلیه‌ای (شامل موتورسیکلت‌ها و موتورگازی‌ها) ممنوع است. برای عبور عابران پیاده یا محوطه پارک نیست.`,
@@ -254,13 +256,13 @@ Regole principali:
     {
       id: 'passaggio_livello_1_14',
       title: '1.14 Passaggio a livello',
-      italianText: `Il passaggio a livello è un attraversamento a raso (sullo stesso piano) tra una strada ed una linea ferroviaria o tranviaria.
+      italianText: `Il passaggio a livello è un attraversamento a raso (sullo stesso piano) tra una strada ed una linea ferroviaria.
 
 Attrezzature presenti:
 ✅ Barriere o semibarriere  ✅ Luci rosse  ✅ Dispositivo di segnalazione acustica (campana)  ✅ Croce di S. Andrea  ✅ Pannelli distanziometrici
 
 ❌ Errore comune: NON è un sottopassaggio o cavalcavia, né presenta corsie di accelerazione o attraversamenti autostradali.`,
-      farsiTranslation: `گذرگاه ریلی همسطح (Passaggio a livello) یک تقاطع همسطح (A raso / sullo stesso piano) بین یک جاده و خط راه‌آهن یا تراموا است.
+      farsiTranslation: `گذرگاه ریلی همسطح (Passaggio a livello) یک تقاطع همسطح (A raso / sullo stesso piano) بین یک جاده و خط راه‌آهن است.
 
 تجهیزات موجود:
 ✅ موانع (Barriere) یا نیم‌موانع (Semibarriere)  ✅ چراغ‌های قرمز  ✅ دستگاه صوتی زنگ‌دار  ✅ صلیب سنت آندریا (Croce di S. Andrea)  ✅ تابلوهای نشان‌دهنده فاصله (Pannelli distanziometrici)
@@ -283,7 +285,7 @@ Chi può circolare:
       farsiTranslation: `منطقه پیاده‌رو (Area pedonale) محدوده‌ای است که برای عبور عابران پیاده اختصاص یافته و با تابلوهای مخصوص شروع و پایان مرزبندی می‌شود.
 
 چه کسانی اجازه تردد دارند:
-✅ عابران پیاده و دوچرخه‌ها  ✅ وسایل نقلیه در خدمت افراد دارای معلولیت (Persone diversamente abili)  ✅ وسایل نقلیه امدادی (پلیس، آتش‌نشانی) تنها در صورت فعال بودن آژیر و چراغ چشمک‌زن آبی  ✅ خودروهای با آلایندگی صفر (برقی) در صورتی که صراحتاً مجاز اعلام شده باشد.`,
+✅ عابران پیاده و دوچرخه‌ها  ✅ وسایل نقلیه در خدمت افراد دارای معلولیت (Persone diversamente abili)  ✅ وسایل نقلیه امدادی (پلیس، آتش‌نشانی و آمبولانس‌ها) تنها در صورت فعال بودن آژیر و چراغ چشمک‌زن آبی  ✅ خودروهای با آلایندگی صفر (برقی) در صورتی که صراحتاً مجاز اعلام شده باشد.`,
       imageUrl: '/images/1-15.jpg',
       vocabularyIds: [ 'area_pedonale', 'segnali_di_inizio', 'segnali_di_fine', 'transito_pedoni', 'servizio_di_emergenza', 'luce_lampeggiante_blu', 'sirena', 'espressamente_indicato', 'con', 'consentito', 'puo', 'una', 'del', 'dei', 'dal', 'segnale', 'segnali', 'stradali', 'circolare', 'luce', 'lampeggiante', 'blu', 'pedonale', 'polizia', 'persone', 'servizio', 'funzione', 'appositi', 'e_verb'],
       questionIds: ['q_15_1', 'q_15_2', 'q_15_3', 'q_15_4', 'q_15_5', 'q_15_6', 'q_15_7', 'q_15_8', 'q_15_9', 'q_15_10', 'q_15_11']
@@ -854,7 +856,7 @@ Possono circolare solo alcune categorie di veicoli a motore. Non è contraddisti
     },
     {
       id: 'q_8_6',
-      italianText: 'Sulle banchine la sosta dei veicoli è consentita per un maximum di 5 ore.',
+      italianText: 'Sulle banchine la sosta dei veicoli è consentita per un massimo di 5 ore.',
       farsiTranslation: 'روی شانه‌های جاده پارک خودروها حداکثر تا ۵ ساعت مجاز است.',
       correctAnswer: 'Falso'
     },

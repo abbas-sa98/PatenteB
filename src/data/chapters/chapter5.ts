@@ -362,7 +362,7 @@ Non indica un divieto di sosta per le biciclette o la fine di un percorso pedona
     {
       id: 'topic_5_21',
       title: '5.21 Pista ciclabile contigua al marciapiede',
-      italianText: `Indica l'inizio di un percorso ciclabile affiancato و موازى با یک percorso pedonale (marciapiede).
+      italianText: `Indica l'inizio di un percorso ciclabile affiancato e parallelo ad un percorso pedonale (marciapiede).
 
 Vietata la circolazione ai veicoli a motore.
 
@@ -475,7 +475,7 @@ Non segnala un controllo doganale o una stazione autostradale.`,
 
 نشان‌دهنده یک ایست بازرسی رسمی (Posto di blocco) توسط نیروهای پلیس است که در آن توقف کامل کاملاً اجباری است. ابتدا در فاصله مناسب نصب شده و سپس دقیقاً در محل ایست تکرار می‌شود.
 
-این تابلو فقط برای کاهش سرعت نیست؛ توقف اجباری است حتی اگر مأمور تابلوی دست‌پایان (Paletta) را نشان ندهد. برای گمرک یا عوارضی اتوبان نیست.`,
+این تابلو فقط برای کاهش سرعت نیست؛ توقف اجباری است حتی اگر مأمور تابلوی ایست دستی (Paletta) را نشان ندهد. برای گمرک یا عوارضی اتوبان نیست.`,
       imageUrl: '/images/5-27.jpg',
       vocabularyIds: [ 'alt_polizia', 'posto_di_blocco', 'punto_di_arresto', 'paletta', 'controllo_doganale', 'non', 'obbliga', 'viene', 'posto', 'una', 'un', 'del', 'gli', 'quale', 'segnala', 'stradale', 'polizia', 'punto', 'blocco', 'doganale', 'e_verb'],
       questionIds: Array.from({ length: 10 }, (_, i) => `q_5_27_${i + 1}`)
@@ -554,7 +554,7 @@ Non obbliga ad arrestarsi per controlli doganali alla frontiera.`,
     {
       id: 'q_5_1_1',
       italianText: 'Il segnale raffigurato indica l’obbligo di proseguire diritto',
-      farsiTranslation: 'غلط: تکراری؛ رفتن مستقیم ممنوع است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده نشان‌دهنده اجبار به ادامه مسیر مستقیم است.',
       correctAnswer: 'Vero'
     },
     {

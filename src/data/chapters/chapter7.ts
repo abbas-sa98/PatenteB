@@ -395,12 +395,12 @@ I veicoli che superano il limite devono cambiare itinerario e usare il percorso 
       title: '7.5 Direzione obbligatoria per i veicoli indicati',
       imageUrl: '/images/7-5.jpg',
 
-      italianText: `Questo segnale ha carattere temporaneo e indica una direzione obbligatoria solo per le categorie di veicoli raffigurate, come autotreni o autoarticolati. Si usa vicino ai cantieri stradali per il periodo in cui durano i lavori.
+      italianText: `Questo segnale temporaneo preavvisa una direzione obbligatoria solo per le categorie di veicoli raffigurate, in particolare autotreni ed autoarticolati. Si usa in prossimita di cantieri stradali e vale per il periodo di durata dei lavori.
 
-Non è un consiglio facoltativo e non vale automaticamente per tutti i veicoli. Bisogna guardare bene il veicolo disegnato sul cartello: solo quella categoria deve seguire la direzione indicata.`,
-      farsiTranslation: `این تابلو موقت است و جهت اجباری را فقط برای دسته‌ای از وسایل نقلیه که روی تابلو تصویر شده‌اند نشان می‌دهد؛ مثل کامیون یدک‌دار یا کامیون مفصل‌دار. معمولا نزدیک کارگاه و فقط تا زمان انجام کارها استفاده می‌شود.
+La regola importante e che si tratta di un obbligo, non di un consiglio: i veicoli indicati devono seguire la direzione mostrata dalla freccia. Non vale automaticamente per tutti i veicoli e non indica un'area di rifornimento o sosta per mezzi pesanti.`,
+      farsiTranslation: `این تابلوی موقت از قبل یک جهت اجباری را فقط برای دسته خودروهایی که روی تابلو نشان داده شده‌اند اعلام می‌کند؛ به‌ویژه کامیون‌های یدک‌دار و کامیون‌های مفصل‌دار. این تابلو نزدیک کارگاه‌های راه‌سازی و برای مدت انجام کارها استفاده می‌شود.
 
-این تابلو پیشنهاد اختیاری نیست و برای همه وسایل نقلیه هم نیست. باید به شکل وسیله روی تابلو دقت کنی: فقط همان دسته باید جهت نشان‌داده‌شده را دنبال کند.`,
+نکته اصلی این است که این تابلو توصیه نیست، بلکه الزام است: خودروهای مشخص‌شده باید جهت فلش را دنبال کنند. این الزام خودکار برای همه خودروها نیست و محل سوخت‌گیری یا توقف وسایل سنگین را نشان نمی‌دهد.`,
       vocabularyIds: [
         'obbligo',
         'veicoli',
@@ -472,12 +472,12 @@ Non è un consiglio facoltativo e non vale automaticamente per tutti i veicoli. 
       title: '7.6 Direzione consigliata agli autocarri',
       imageUrl: '/images/7-6.jpg',
 
-      italianText: `La direzione consigliata agli autocarri indica un percorso raccomandato per gli autocarri, di solito quelli oltre 3,5 tonnellate, vicino a un cantiere o a una deviazione. È installata nel punto in cui conviene seguire la deviazione e può essere preceduta da un segnale di preavviso.
+      italianText: `La direzione consigliata agli autocarri indica un percorso raccomandato, non obbligatorio, per gli autocarri di massa complessiva a pieno carico superiore a 3,5 tonnellate. E installata nel punto della deviazione consigliata e puo essere preceduta da un segnale di preavviso.
 
-La parola chiave è consigliata: non è un obbligo come nel segnale precedente. Inoltre non indica un parcheggio per camion, una stazione di rifornimento o una strada riservata soltanto agli autocarri.`,
-      farsiTranslation: `جهت پیشنهادی برای کامیون‌ها مسیر مناسب‌تری را برای کامیون‌ها، معمولا بالای ۳٫۵ تن، نزدیک کارگاه یا انحراف مسیر نشان می‌دهد. این تابلو در جایی نصب می‌شود که بهتر است کامیون‌ها از مسیر پیشنهادی بروند و ممکن است قبل از آن هم پیش‌آگهی وجود داشته باشد.
+La parola chiave e consigliata: gli autocarri non sono obbligati a svoltare come nel segnale precedente. Inoltre non indica un divieto di svolta, un'area di sosta, una discarica o una strada riservata soltanto agli autocarri.`,
+      farsiTranslation: `جهت پیشنهادی برای کامیون‌ها یک مسیر توصیه‌شده، نه اجباری، برای کامیون‌های با وزن کل بارگیری‌شده بیش از ۳.۵ تن را نشان می‌دهد. این تابلو در نقطه انحراف پیشنهادی نصب می‌شود و ممکن است قبل از آن تابلوی پیش‌آگاهی وجود داشته باشد.
 
-کلمه مهم consigliata است: یعنی پیشنهادی، نه اجباری. همچنین معنی آن پارکینگ کامیون، پمپ‌بنزین یا جاده مخصوص کامیون‌ها نیست.`,
+کلمه کلیدی «پیشنهادی» است: کامیون‌ها مثل تابلوی قبلی مجبور به پیچیدن نیستند. همچنین این تابلو ممنوعیت گردش، محل توقف، محل دفع زباله یا راه مخصوص فقط کامیون‌ها را نشان نمی‌دهد.`,
       vocabularyIds: [
         'indica',
         'strada',
@@ -1775,61 +1775,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_1_1',
       italianText: 'Il segnale raffigurato preavvisa lavori in corso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از قبل وجود کارهای در حال انجام در جاده را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_1_2',
       italianText: 'Il segnale raffigurato preavvisa cantieri di lavoro',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از قبل وجود کارگاه‌های راه‌سازی را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_1_3',
       italianText: 'Il segnale raffigurato preavvisa eventuali depositi temporanei di materiali o macchinari',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از قبل احتمال وجود محل‌های موقت دپوی مصالح یا ماشین‌آلات را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_1_4',
       italianText: 'Il segnale raffigurato preavvisa la eventuale presenza di uomini che lavorano presso o sulla carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از قبل احتمال حضور کارگران در کنار یا روی سواره‌رو را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_1_5',
       italianText: 'Il segnale raffigurato può essere integrato da pannello che indica la lunghezza del cantiere',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند با پنلی تکمیل شود که طول کارگاه را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_1_6',
       italianText: 'Il segnale raffigurato impone di dare la precedenza ai veicoli che escono dal cantiere',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده شما را ملزم نمی‌کند به خودروهایی که از کارگاه خارج می‌شوند حق تقدم بدهید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_1_7',
       italianText: 'Il segnale raffigurato preavvisa l’obbligo di dare la precedenza ai veicoli che provengono in senso opposto',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده الزام دادن حق تقدم به خودروهای روبه‌رو را اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_1_8',
       italianText: 'Il segnale raffigurato obbliga a invertire il senso di marcia nelle ore di lavoro degli operai',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده الزام دور زدن در ساعات کار کارگران را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_1_9',
       italianText: 'Il segnale raffigurato obbliga a dare la precedenza agli addetti ai lavori',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده الزام دادن حق تقدم به کارکنان راه‌سازی را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_1_10',
       italianText: 'Il segnale raffigurato preavvisa un senso unico alternato',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Lavori» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده عبور یک‌طرفه نوبتی را از قبل اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -1837,49 +1837,49 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_2_1',
       italianText: 'Il segnale raffigurato preavvisa un impianto semaforico in presenza di un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از قبل وجود چراغ راهنمایی در محل کارگاه راه‌سازی را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_2_2',
       italianText: 'Il segnale raffigurato si può trovare sia su strade urbane che extraurbane',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده هم در راه‌های شهری و هم در راه‌های برون‌شهری می‌تواند نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_2_3',
       italianText: 'Il segnale raffigurato può essere posto prima del restringimento di carreggiata per lavori in corso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند پیش از باریک شدن سواره‌رو به علت کارهای راه‌سازی نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_2_4',
       italianText: 'Nel segnale raffigurato il disco al centro è a luce gialla lampeggiante',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: در تابلوی نشان‌داده‌شده، دایره وسط دارای چراغ زرد چشمک‌زن است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_2_5',
       italianText: 'Il segnale raffigurato preavvisa un semaforo che regola il traffico in transito su ponti mobili o girevoli',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده چراغ راهنمایی مربوط به عبور از پل‌های متحرک یا گردان را اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_2_6',
       italianText: 'Il segnale raffigurato preavvisa la presenza di un segnale di STOP',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده وجود تابلوی ایست STOP را از قبل اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_2_7',
       italianText: 'Il segnale raffigurato preavvisa l’accesso al pontile d’imbarco delle navi traghetto',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده دسترسی به اسکله سوار شدن به کشتی‌های ferry را اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_2_8',
       italianText: 'Il segnale raffigurato preavvisa un attraversamento ferroviario senza barriere',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di semaforo temporaneo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گذرگاه راه‌آهن بدون مانع را از قبل اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -1887,67 +1887,67 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_3_1',
       italianText: 'Il segnale raffigurato è un preavviso di deviazione temporanea',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده پیش‌آگاهی انحراف مسیر موقت است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_3_2',
       italianText: 'Il segnale raffigurato preavvisa l’interruzione di una strada per lavori in corso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده قطع شدن یک راه به علت کارهای در حال انجام را از قبل اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_3_3',
       italianText: 'Il segnale raffigurato fa parte dei segnali temporanei per lavori sulla strada',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده جزو تابلوهای موقت برای کارهای راه‌سازی است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_3_4',
       italianText: 'Il segnale raffigurato indica nella parte inferiore la lunghezza della deviazione',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در قسمت پایین طول مسیر انحرافی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_3_5',
       italianText: 'Il segnale raffigurato indica che non è assolutamente possibile raggiungere Novara',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده نمی‌گوید رسیدن به Novara کاملا غیرممکن است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_3_6',
       italianText: 'Il segnale raffigurato obbliga a tornare indietro',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده راننده را مجبور به برگشتن نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_3_7',
       italianText: 'Il segnale raffigurato indica una piazzola di sosta',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده توقفگاه کنار جاده را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_3_8',
       italianText: 'Il segnale raffigurato indica la distanza da un’area di servizio',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فاصله تا یک منطقه خدماتی را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_3_9',
       italianText: 'Il segnale raffigurato indica un cantiere di lavoro lungo 2 chilometri',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده کارگاه راه‌سازی به طول ۲ کیلومتر را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_3_10',
       italianText: 'Il segnale raffigurato è posto a 2 chilometri dal segnale di lavori in corso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در فاصله ۲ کیلومتری از تابلوی کارهای در حال انجام قرار ندارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_3_11',
       italianText: 'Il segnale raffigurato indica che la deviazione si trova a 2 chilometri di distanza dal segnale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Preavviso di deviazione temporanea» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده نمی‌گوید انحراف مسیر در فاصله ۲ کیلومتری از تابلو قرار دارد.',
       correctAnswer: 'Falso'
     },
 
@@ -1955,61 +1955,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_4_1',
       italianText: 'Il segnale raffigurato indica ai veicoli di massa effettiva superiore a 7 tonnellate diretti a Lucca di cambiare strada',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده به خودروهای با جرم واقعی بیش از ۷ تن که به Lucca می‌روند می‌گوید مسیر را عوض کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_4_2',
       italianText: 'Il segnale raffigurato consente agli autocarri di massa a pieno carico inferiore a 7 tonnellate di proseguire diritto',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده به کامیون‌های با وزن کامل کمتر از ۷ تن اجازه می‌دهد مستقیم ادامه دهند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_4_3',
       italianText: 'Il segnale raffigurato non consente ai veicoli di massa effettiva superiore a 7 tonnellate diretti a Lucca di proseguire diritto',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده به خودروهای با جرم واقعی بیش از ۷ تن که به Lucca می‌روند اجازه ادامه مستقیم نمی‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_4_4',
       italianText: 'Il segnale raffigurato indica una limitazione di transito su un tratto di strada per i veicoli di massa effettiva superiore a 7 tonnellate',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده محدودیت عبور در بخشی از راه برای خودروهای با جرم واقعی بیش از ۷ تن را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_4_5',
       italianText: 'Il segnale raffigurato viene posto in vicinanza di un incrocio che anticipa un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده نزدیک تقاطعی نصب می‌شود که پیش از یک کارگاه راه‌سازی قرار دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_4_6',
       italianText: 'Il segnale raffigurato fa parte dei segnali temporanei per cantieri di lavoro sulla strada',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده جزو تابلوهای موقت برای کارگاه‌های راه‌سازی است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_4_7',
       italianText: 'Il segnale raffigurato indica, a tutti i veicoli, che non è possibile proseguire diritto per Lucca',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده به همه خودروها نمی‌گوید ادامه مستقیم به سمت Lucca ممکن نیست.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_4_8',
       italianText: 'Il segnale raffigurato obbliga tutti i veicoli a svoltare a destra al bivio seguente',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده همه خودروها را مجبور نمی‌کند در دوراهی بعدی به راست بپیچند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_4_9',
       italianText: 'Il segnale raffigurato vieta il sorpasso agli autoveicoli di massa totale superiore a 7 tonnellate',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده سبقت را برای وسایل نقلیه با جرم کل بیش از ۷ تن ممنوع نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_4_10',
       italianText: 'Il segnale raffigurato vieta il transito ai veicoli che superano 7 metri di lunghezza',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Limitazione di transito per cantiere stradale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده عبور خودروهایی با طول بیش از ۷ متر را ممنوع نمی‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -2017,43 +2017,43 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_5_1',
       italianText: 'Il segnale raffigurato è posto in vicinanza di un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione obbligatoria per i veicoli indicati» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده نزدیک یک کارگاه راه‌سازی نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_5_2',
       italianText: 'Il segnale raffigurato preavvisa la direzione obbligatoria per autotreni ed autoarticolati',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione obbligatoria per i veicoli indicati» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده جهت اجباری برای کامیون‌های یدک‌دار و مفصل‌دار را از قبل اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_5_3',
       italianText: 'Il segnale raffigurato viene installato per il periodo di durata dei lavori stradali',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione obbligatoria per i veicoli indicati» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده برای مدت انجام کارهای راه‌سازی نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_5_4',
       italianText: 'Il segnale raffigurato preavvisa la direzione per un’area di rifornimento e sosta per mezzi pesanti',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione obbligatoria per i veicoli indicati» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده مسیر به سمت محل سوخت‌گیری و توقف وسایل سنگین را اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_5_5',
       italianText: 'Il segnale raffigurato obbliga tutti i veicoli a proseguire diritto',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione obbligatoria per i veicoli indicati» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده همه خودروها را مجبور به ادامه مستقیم نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_5_6',
       italianText: 'Il segnale raffigurato preavvisa una direzione consigliata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione obbligatoria per i veicoli indicati» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده جهت پیشنهادی را اعلام نمی‌کند؛ برای خودروهای مشخص الزام است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_5_7',
       italianText: 'Il segnale raffigurato consiglia a tutti i veicoli di seguire la direzione indicata dalla freccia',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione obbligatoria per i veicoli indicati» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده به همه خودروها توصیه نمی‌کند جهت فلش را دنبال کنند.',
       correctAnswer: 'Falso'
     },
 
@@ -2061,61 +2061,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_6_1',
       italianText: 'Il segnale raffigurato indica la direzione consigliata per gli autocarri di massa complessiva a pieno carico superiore a 3,5 tonnellate',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده جهت پیشنهادی برای کامیون‌های با وزن کل بارگیری‌شده بیش از ۳.۵ تن را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_6_2',
       italianText: 'Il segnale raffigurato indica la categoria di veicoli a cui è consigliata la svolta',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده دسته خودروهایی را نشان می‌دهد که پیچیدن برای آن‌ها توصیه شده است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_6_3',
       italianText: 'Il segnale raffigurato è installato nel punto della deviazione consigliata per autocarri che superano 3,5 tonnellate',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در نقطه انحراف پیشنهادی برای کامیون‌های بیش از ۳.۵ تن نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_6_4',
       italianText: 'Il segnale raffigurato può essere preceduto da un segnale di preavviso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند قبل از خود یک تابلوی پیش‌آگاهی داشته باشد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_6_5',
       italianText: 'Il segnale raffigurato si trova in vicinanza di un incrocio che precede un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده نزدیک تقاطعی است که پیش از یک کارگاه راه‌سازی قرار دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_6_6',
       italianText: 'Il segnale raffigurato indica che è vietato svoltare a sinistra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ممنوعیت گردش به چپ را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_6_7',
       italianText: 'Il segnale raffigurato indica un’area di sosta per gli autocarri',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده محل توقف کامیون‌ها را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_6_8',
       italianText: 'Il segnale raffigurato indica la direzione da seguire per arrivare in una discarica',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده مسیر رسیدن به محل دفع زباله را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_6_9',
       italianText: 'Il segnale raffigurato indica una strada a senso unico sulla destra, riservata solo agli autocarri',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده راه یک‌طرفه به سمت راست مخصوص فقط کامیون‌ها را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_6_10',
       italianText: 'Il segnale raffigurato obbliga gli autocarri a svoltare a destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Direzione consigliata agli autocarri» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده کامیون‌ها را مجبور به گردش به راست نمی‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -2123,43 +2123,43 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_7_1',
       italianText: 'Il segnale raffigurato preavvisa un cantiere mobile con strettoia a sinistra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cantiere mobile con restringimento della carreggiata» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از قبل وجود کارگاه متحرک با تنگی مسیر در سمت چپ را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_7_2',
       italianText: 'Il segnale raffigurato può essere installato su un veicolo per preavvisare un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cantiere mobile con restringimento della carreggiata» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند روی خودرو نصب شود تا کارگاه راه‌سازی را از قبل اعلام کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_7_3',
       italianText: 'Il segnale raffigurato indica le corsie disponibili per la circolazione',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cantiere mobile con restringimento della carreggiata» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده لاین‌های قابل استفاده برای عبور را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_7_4',
       italianText: 'Il segnale raffigurato indica una diminuzione da tre a due corsie',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cantiere mobile con restringimento della carreggiata» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده کاهش مسیر از سه لاین به دو لاین را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_7_5',
       italianText: 'Il segnale raffigurato può essere completato con luci gialle lampeggianti',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cantiere mobile con restringimento della carreggiata» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند با چراغ‌های زرد چشمک‌زن تکمیل شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_7_6',
       italianText: 'Il segnale raffigurato indica quanti veicoli possono transitare contemporaneamente',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cantiere mobile con restringimento della carreggiata» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تعداد خودروهایی را که هم‌زمان می‌توانند عبور کنند نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_7_7',
       italianText: 'Il segnale raffigurato indica una piazzola di sosta sul lato sinistro',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cantiere mobile con restringimento della carreggiata» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده توقفگاه کنار جاده در سمت چپ را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -2167,67 +2167,67 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_8_1',
       italianText: 'Il segnale raffigurato indica la chiusura della corsia di destra per lavori in corso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده بسته بودن لاین راست به علت کارهای در حال انجام را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_8_2',
       italianText: 'Il segnale raffigurato indica una diminuzione da due a una corsia di marcia',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده کاهش مسیر از دو لاین به یک لاین حرکت را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_8_3',
       italianText: 'Il segnale raffigurato è posto in vicinanza di un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده نزدیک یک کارگاه راه‌سازی نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_8_4',
       italianText: 'Il segnale raffigurato può essere completato con pannello che indica la distanza dal punto di chiusura della corsia',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند با پنلی تکمیل شود که فاصله تا نقطه بسته شدن لاین را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_8_5',
       italianText: 'Il segnale raffigurato indica restringimento della carreggiata per lavori in corso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده باریک شدن سواره‌رو به علت کارهای راه‌سازی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_8_6',
       italianText: 'Il segnale raffigurato indica la possibilità di sorpassare a destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده امکان سبقت از راست را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_8_7',
       italianText: 'Il segnale raffigurato preannuncia uno svincolo che consente l’inversione di marcia',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده خروجی‌ای را که امکان دور زدن می‌دهد اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_8_8',
       italianText: 'Il segnale raffigurato si trova in vicinanza di un incrocio',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده نزدیک تقاطع نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_8_9',
       italianText: 'Il segnale raffigurato indica una piazzola per la fermata degli autobus',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده جایگاه توقف اتوبوس‌ها را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_8_10',
       italianText: 'Il segnale raffigurato indica la chiusura della corsia per i veicoli lenti',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده بسته شدن لاین مخصوص خودروهای کندرو را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_8_11',
       italianText: 'Il segnale raffigurato obbliga a dare la precedenza ai veicoli provenienti da destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Corsia di destra chiusa» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده الزام دادن حق تقدم به خودروهای سمت راست را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -2235,55 +2235,55 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_9_1',
       italianText: 'Il segnale raffigurato, posto in presenza di lavori stradali, indica alle categorie di veicoli quali corsie possono occupare',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در حضور کارهای راه‌سازی به دسته‌های خودرو نشان می‌دهد کدام لاین‌ها را می‌توانند اشغال کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_9_2',
       italianText: 'Il segnale raffigurato viene utilizzato per indicare l’uso delle corsie',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده برای نشان دادن نحوه استفاده از لاین‌ها به کار می‌رود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_9_3',
       italianText: 'Il segnale raffigurato indica ai veicoli su quali corsie debbono circolare',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده به خودروها نشان می‌دهد در کدام لاین‌ها باید حرکت کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_9_4',
       italianText: 'Il segnale raffigurato indica agli autocarri di massa complessiva superiore a 3,5 tonnellate quale corsia debbono percorrere',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده به کامیون‌های با جرم کل بیش از ۳.۵ تن نشان می‌دهد کدام لاین را باید طی کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_9_5',
       italianText: 'Il segnale raffigurato indica che gli autocarri di massa complessiva superiore a 3,5 tonnellate possono percorrere solo la corsia di destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده نشان می‌دهد کامیون‌های با جرم کل بیش از ۳.۵ تن فقط می‌توانند از لاین راست عبور کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_9_6',
       italianText: 'Il segnale raffigurato indica l’avvicinarsi di un casello autostradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده نزدیک شدن به عوارضی آزادراه را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_9_7',
       italianText: 'Il segnale raffigurato obbliga gli autocarri a circolare per file parallele',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده کامیون‌ها را ملزم به حرکت در صف‌های موازی نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_9_8',
       italianText: 'Il segnale raffigurato indica che gli autocarri debbono solo sorpassare a destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده نمی‌گوید کامیون‌ها فقط باید از راست سبقت بگیرند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_9_9',
       italianText: 'Il segnale raffigurato vieta ai motocicli di circolare sulla corsia di sinistra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Uso delle corsie disponibili» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تردد موتورسیکلت‌ها در لاین چپ را ممنوع نمی‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -2291,55 +2291,55 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_10_1',
       italianText: 'Il segnale raffigurato può essere posto sui veicoli per lavori stradali, fermi o in lento movimento',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند روی خودروهای انجام کارهای راه‌سازی که متوقف یا کندرو هستند نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_10_2',
       italianText: 'Il segnale raffigurato indica il lato dal quale il veicolo su cui è posto deve essere sorpassato',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده سمتی را نشان می‌دهد که باید از آن طرف از خودروی حامل تابلو سبقت گرفت.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_10_3',
       italianText: 'Il segnale raffigurato può essere posto sui veicoli per la manutenzione stradale in sosta sulla carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند روی خودروهای نگهداری راه که در سواره‌رو توقف کرده‌اند نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_10_4',
       italianText: 'Il segnale raffigurato può essere posto su alcuni veicoli per lavori stradali, che procedono a bassa velocità',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده می‌تواند روی برخی خودروهای راه‌سازی که با سرعت کم حرکت می‌کنند نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_10_5',
       italianText: 'Il segnale raffigurato invita i conducenti a diminuire la velocità per la possibile presenza di veicoli fermi o in lento movimento',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده رانندگان را به کاهش سرعت دعوت می‌کند، چون ممکن است خودروهای متوقف یا کندرو وجود داشته باشند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_10_6',
       italianText: 'Il segnale raffigurato indica di sorpassare l’ostacolo sulla sinistra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده عبور از مانع از سمت چپ را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_10_7',
       italianText: 'Il segnale raffigurato indica di svoltare subito a destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گردش فوری به راست را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_10_8',
       italianText: 'Il segnale raffigurato indica corsia di destra chiusa per manutenzione stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده بسته بودن لاین راست برای نگهداری راه را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_10_9',
       italianText: 'Il segnale raffigurato obbliga a sostare a destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Passaggio obbligatorio per veicoli operativi» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده الزام توقف در سمت راست را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -2347,61 +2347,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_11_1',
       italianText: 'La barriera raffigurata segnala un’area occupata da un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مانع نشان‌داده‌شده محدوده‌ای را که توسط کارگاه راه‌سازی اشغال شده نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_11_2',
       italianText: 'La barriera raffigurata delimita un’area dove si stanno svolgendo lavori stradali',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مانع نشان‌داده‌شده محدوده‌ای را مشخص می‌کند که در آن کارهای راه‌سازی انجام می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_11_3',
       italianText: 'La barriera raffigurata è posta ai bordi di un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مانع نشان‌داده‌شده در کناره‌های یک کارگاه راه‌سازی قرار داده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_11_4',
       italianText: 'La barriera raffigurata può utilizzarsi nei passaggi a livello quando le sbarre sono guaste',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مانع نشان‌داده‌شده می‌تواند در گذرگاه هم‌سطح راه‌آهن هنگام خراب بودن میله‌های مانع استفاده شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_11_5',
       italianText: 'La barriera raffigurata può essere integrata da lanterna a luce rossa fissa in caso di scarsa visibilità',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مانع نشان‌داده‌شده در صورت دید کم می‌تواند با چراغ قرمز ثابت تکمیل شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_11_6',
       italianText: 'La barriera raffigurata si trova all’ingresso di un’autorimessa',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مانع نشان‌داده‌شده در ورودی پارکینگ سرپوشیده قرار ندارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_11_7',
       italianText: 'La barriera raffigurata segnala un parcheggio riservato ai veicoli per lavori stradali',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مانع نشان‌داده‌شده پارکینگ مخصوص خودروهای راه‌سازی را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_11_8',
       italianText: 'La barriera raffigurata si trova nei caselli autostradali per delimitare le corsie',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مانع نشان‌داده‌شده در عوارضی آزادراه برای جدا کردن لاین‌ها به کار نمی‌رود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_11_9',
       italianText: 'La barriera raffigurata segnala una curva pericolosa',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مانع نشان‌داده‌شده پیچ خطرناک را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_11_10',
       italianText: 'Le barriere segnalano un percorso ciclabile',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Barriera normale» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: این موانع مسیر دوچرخه را نشان نمی‌دهند.',
       correctAnswer: 'Falso'
     },
 
@@ -2409,55 +2409,55 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_12_1',
       italianText: 'Il cono raffigurato può delimitare zone di lavoro di breve durata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مخروط نشان‌داده‌شده می‌تواند محدوده‌های کار کوتاه‌مدت را مشخص کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_12_2',
       italianText: 'Il cono raffigurato si può usare per segnalare deviazioni provvisorie',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مخروط نشان‌داده‌شده می‌تواند برای نشان دادن انحراف‌های موقت مسیر استفاده شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_12_3',
       italianText: 'Il cono raffigurato si può usare per indicare aree interessate da incidenti',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مخروط نشان‌داده‌شده می‌تواند برای نشان دادن محدوده‌های مربوط به تصادف‌ها استفاده شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_12_4',
       italianText: 'Il cono raffigurato può indicare separazione provvisoria dei sensi di marcia',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: مخروط نشان‌داده‌شده می‌تواند جداسازی موقت جهت‌های حرکت را نشان دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_12_5',
       italianText: 'Il cono raffigurato si usa per indicare un parcheggio riservato',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مخروط نشان‌داده‌شده برای نشان دادن پارکینگ رزرو شده استفاده نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_12_6',
       italianText: 'Il cono raffigurato si può usare in presenza di lavori stradali superiori a 10 giorni',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مخروط نشان‌داده‌شده برای کارهای راه‌سازی بیش از ۱۰ روز استفاده نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_12_7',
       italianText: 'Il cono raffigurato si usa su strade dove avvengono abbondanti nevicate',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مخروط نشان‌داده‌شده برای راه‌هایی که برف فراوان در آن‌ها می‌بارد به کار نمی‌رود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_12_8',
       italianText: 'Il cono raffigurato separa la carreggiata dalla pista ciclabile',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مخروط نشان‌داده‌شده سواره‌رو را از مسیر دوچرخه جدا نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_12_9',
       italianText: 'Il cono raffigurato indica un ostacolo posto fuori della carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Cono» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: مخروط نشان‌داده‌شده مانعی خارج از سواره‌رو را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -2465,61 +2465,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_13_1',
       italianText: 'I delineatori raffigurati sono usati ai lati della carreggiata di strade a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده در دو طرف سواره‌روی راه‌های یک‌طرفه استفاده می‌شوند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_13_2',
       italianText: 'I delineatori raffigurati sono dei segnali complementari',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده تابلوهای تکمیلی هستند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_13_3',
       italianText: 'I delineatori raffigurati sono posti ai margini di una strada o di una carreggiata a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده در حاشیه راه یا سواره‌روی یک‌طرفه قرار می‌گیرند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_13_4',
       italianText: 'I delineatori raffigurati servono a visualizzare meglio l’andamento della strada',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده برای بهتر دیده شدن مسیر راه به کار می‌روند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_13_5',
       italianText: 'I delineatori raffigurati sono posti su strada a doppio senso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده روی راه دوطرفه نصب نمی‌شوند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_13_6',
       italianText: 'I delineatori raffigurati si trovano prima di un attraversamento pedonale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده قبل از گذرگاه عابر پیاده قرار ندارند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_13_7',
       italianText: 'I delineatori raffigurati sono posti al centro della carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده در مرکز سواره‌رو نصب نمی‌شوند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_13_8',
       italianText: 'I delineatori raffigurati dividono la carreggiata in corsie',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده سواره‌رو را به لاین‌ها تقسیم نمی‌کنند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_13_9',
       italianText: 'I delineatori raffigurati sono posti per indicare un’area di sosta riservata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده برای نشان دادن محل توقف رزرو شده نصب نمی‌شوند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_13_10',
       italianText: 'I delineatori raffigurati sono visibili solo di notte',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a senso unico» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده فقط شب‌ها قابل مشاهده نیستند.',
       correctAnswer: 'Falso'
     },
 
@@ -2527,55 +2527,55 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_14_1',
       italianText: 'I delineatori raffigurati sono utili soprattutto nei casi di scarsa visibilità',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده به‌ویژه در شرایط دید کم مفید هستند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_14_2',
       italianText: 'I delineatori raffigurati sono dei segnali complementari',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده تابلوهای تکمیلی هستند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_14_3',
       italianText: 'I delineatori raffigurati sono posti ai margini di una strada a doppio senso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده در حاشیه راه دوطرفه قرار می‌گیرند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_14_4',
       italianText: 'I delineatori raffigurati servono a visualizzare meglio l’andamento della strada',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگرهای کنار راهِ نشان‌داده‌شده برای بهتر دیده شدن مسیر راه به کار می‌روند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_14_5',
       italianText: 'I delineatori raffigurati sono utili solo nelle ore notturne',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده فقط در ساعات شب مفید نیستند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_14_6',
       italianText: 'I delineatori raffigurati vengono posti a distanza di almeno 100 metri l’uno dall’altro',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده با فاصله حداقل ۱۰۰ متر از یکدیگر نصب نمی‌شوند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_14_7',
       italianText: 'I delineatori raffigurati sono posti al centro della carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده در مرکز سواره‌رو نصب نمی‌شوند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_14_8',
       italianText: 'I delineatori raffigurati dividono la carreggiata in corsie',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده سواره‌رو را به لاین‌ها تقسیم نمی‌کنند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_14_9',
       italianText: 'I delineatori raffigurati sono posti ai lati della carreggiata nelle strade a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per strada a doppio senso» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگرهای کنار راهِ نشان‌داده‌شده در راه‌های یک‌طرفه در دو طرف سواره‌رو نصب نمی‌شوند.',
       correctAnswer: 'Falso'
     },
 
@@ -2583,61 +2583,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_15_1',
       italianText: 'Il delineatore raffigurato è posto ai lati delle gallerie a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده در دو طرف تونل‌های یک‌طرفه نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_15_2',
       italianText: 'Il delineatore raffigurato è un segnale complementare posto nelle gallerie a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده یک تابلوی تکمیلی است که در تونل‌های یک‌طرفه نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_15_3',
       italianText: 'Il delineatore raffigurato si può trovare anche per evidenziare deviazioni o strettoie della carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده می‌تواند برای مشخص کردن انحراف مسیرها یا تنگی‌های سواره‌رو نیز دیده شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_15_4',
       italianText: 'Il delineatore raffigurato è un segnale complementare',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده یک تابلوی تکمیلی است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_15_5',
       italianText: 'Il delineatore raffigurato è usato per indicare un incrocio a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده برای نشان دادن تقاطع یک‌طرفه استفاده نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_15_6',
       italianText: 'Il delineatore raffigurato indica una strada chiusa',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده راه بسته را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_15_7',
       italianText: 'Il delineatore raffigurato è posto al centro della carreggiata per indicare un ostacolo',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده در مرکز سواره‌رو برای نشان دادن مانع قرار نمی‌گیرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_15_8',
       italianText: 'Il delineatore raffigurato divide la carreggiata in corsie',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده سواره‌رو را به لاین‌ها تقسیم نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_15_9',
       italianText: 'Il delineatore raffigurato è un pannello distanziometrico posto vicino ad un passaggio a livello',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده پنل فاصله‌نما نزدیک گذرگاه هم‌سطح راه‌آهن نیست.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_15_10',
       italianText: 'Il delineatore raffigurato ha luce propria',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di margine per gallerie» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده چراغ داخلی یا نور مستقل ندارد.',
       correctAnswer: 'Falso'
     },
 
@@ -2645,61 +2645,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_16_1',
       italianText: 'Il delineatore raffigurato è posto ai lati della carreggiata nelle strade di montagna soggette ad innevamento',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده در دو طرف سواره‌روی راه‌های کوهستانی در معرض برف نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_16_2',
       italianText: 'Il delineatore raffigurato è un segnale complementare',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده یک تابلوی تکمیلی است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_16_3',
       italianText: 'Il delineatore raffigurato è posto ai lati della carreggiata su strade di montagna',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده در دو طرف سواره‌روی راه‌های کوهستانی نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_16_4',
       italianText: 'Il delineatore raffigurato viene utilizzato per rendere meglio visibili i bordi della carreggiata di una strada innevata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده برای بهتر دیده شدن لبه‌های سواره‌روی یک راه برفی استفاده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_16_5',
       italianText: 'Il delineatore raffigurato è posto alla fermata degli autobus',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده در ایستگاه اتوبوس نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_16_6',
       italianText: 'Il delineatore raffigurato è posto al centro della carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده در مرکز سواره‌رو نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_16_7',
       italianText: 'Il delineatore raffigurato si trova in vicinanza di un attraversamento pedonale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده نزدیک گذرگاه عابر پیاده قرار ندارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_16_8',
       italianText: 'Il delineatore raffigurato è usato come paletto di ancoraggio per lasciare in sosta le biciclette',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده به عنوان پایه قفل برای توقف دوچرخه‌ها استفاده نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_16_9',
       italianText: 'Il delineatore raffigurato è usato sulle strade sprovviste di barriere laterali (guardrails)',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده در راه‌های بدون حفاظ جانبی guardrail استفاده نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_16_10',
       italianText: 'Il delineatore raffigurato indica un divieto di sosta',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori per strade di montagna» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده ممنوعیت توقف را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -2707,67 +2707,67 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_17_1',
       italianText: 'Il delineatore raffigurato è posto nelle curve strette e con mancanza di visibilità',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده در پیچ‌های تند و دارای کمبود دید نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_17_2',
       italianText: 'Il delineatore raffigurato si trova, di norma, dopo il segnale CURVA PERICOLOSA A SINISTRA',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده معمولا پس از تابلوی پیچ خطرناک به چپ دیده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_17_3',
       italianText: 'Il delineatore raffigurato, se di colore bianco e rosso, indica una curva provvisoria a sinistra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده اگر سفید و قرمز باشد، پیچ موقت به چپ را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_17_4',
       italianText: 'Il delineatore raffigurato è usato per segnalare una curva pericolosa',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده برای نشان دادن پیچ خطرناک استفاده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_17_5',
       italianText: 'Il delineatore raffigurato invita il conducente a fare attenzione nel percorrere una curva',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده راننده را به دقت هنگام عبور از پیچ دعوت می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_17_6',
       italianText: 'Il delineatore raffigurato indica un cantiere stradale',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده کارگاه راه‌سازی را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_17_7',
       italianText: 'Il delineatore raffigurato segnala una strada dove si trovano salite e discese',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده راهی با سربالایی و سرازیری را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_17_8',
       italianText: 'Il delineatore raffigurato indica gli ostacoli sporgenti sulla carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده موانع بیرون‌زده روی سواره‌رو را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_17_9',
       italianText: 'Il delineatore raffigurato segnala una curva pericolosa a destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده پیچ خطرناک به راست را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_17_10',
       italianText: 'Il delineatore raffigurato indica che si è vicini ad un passaggio a livello',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده نزدیک بودن به گذرگاه هم‌سطح راه‌آهن را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_17_11',
       italianText: 'Il delineatore raffigurato viene posto solo su strade extraurbane principali',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di curve strette o tornanti» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده فقط در راه‌های برون‌شهری اصلی نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
 
@@ -2775,55 +2775,55 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_18_1',
       italianText: 'Il delineatore raffigurato si trova in serie di più elementi per evidenziare una curva pericolosa',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده به صورت چند قطعه پشت سر هم برای مشخص کردن پیچ خطرناک به کار می‌رود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_18_2',
       italianText: 'Il delineatore raffigurato è un segnale complementare',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده یک تابلوی تکمیلی است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_18_3',
       italianText: 'Il delineatore raffigurato è usato per migliorare la visibilità delle curve',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده برای بهتر کردن دید پیچ‌ها استفاده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_18_4',
       italianText: 'Il delineatore raffigurato indica una curva pericolosa a destra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده پیچ خطرناک به راست را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_18_5',
       italianText: 'Il delineatore raffigurato indica una curva pericolosa a sinistra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده پیچ خطرناک به چپ را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_18_6',
       italianText: 'Il delineatore raffigurato si trova 150 metri prima di una curva',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده ۱۵۰ متر قبل از پیچ نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_18_7',
       italianText: 'Il delineatore raffigurato è posto all’ingresso di una galleria',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده در ورودی تونل نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_18_8',
       italianText: 'Il delineatore raffigurato viene usato nei passaggi a livello, quando le barriere sono guaste',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده هنگام خرابی موانع در گذرگاه هم‌سطح راه‌آهن استفاده نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_18_9',
       italianText: 'Il delineatore raffigurato si trova solo se la curva è su strada a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori modulari di curva» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده فقط وقتی پیچ در راه یک‌طرفه باشد نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
 
@@ -2831,61 +2831,61 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_19_1',
       italianText: 'Il delineatore raffigurato indica di svoltare a destra o a sinistra',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده جهت گردش به راست یا چپ را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_19_2',
       italianText: 'Il delineatore raffigurato ha le punte delle frecce che segnalano le direzioni possibili',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده نوک فلش‌هایی دارد که جهت‌های ممکن را نشان می‌دهند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_19_3',
       italianText: 'Il delineatore raffigurato è installato ad un incrocio a forma di “T”',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده در تقاطعی به شکل T نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_19_4',
       italianText: 'Il delineatore raffigurato è posto in un incrocio dove non è possibile proseguire diritto',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده در تقاطعی نصب می‌شود که ادامه مستقیم ممکن نیست.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_19_5',
       italianText: 'Il delineatore raffigurato indica un passaggio a livello',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده گذرگاه هم‌سطح راه‌آهن را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_19_6',
       italianText: 'Il delineatore raffigurato indica un ponte mobile',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده پل متحرک را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_19_7',
       italianText: 'Il delineatore raffigurato indica una strada chiusa per lavori in corso',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده راه بسته به علت کارهای در حال انجام را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_19_8',
       italianText: 'Il delineatore raffigurato indica un aumento del numero di corsie della strada',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده افزایش تعداد لاین‌های راه را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_19_9',
       italianText: 'Il delineatore raffigurato indica una curva a senso unico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده پیچ یک‌طرفه را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_19_10',
       italianText: 'Il delineatore raffigurato indica l’ingresso di una galleria',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori di incroci a T» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده ورودی تونل را نشان نمی‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -2893,55 +2893,55 @@ Anche se contiene il colore giallo, non è un segnale temporaneo: è un segnale 
     {
       id: 'q_7_20_1',
       italianText: 'Il delineatore raffigurato viene utilizzato per segnalare un ostacolo',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده برای نشان دادن مانع استفاده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_20_2',
       italianText: 'Il delineatore raffigurato viene posto all’interno della carreggiata, in presenza di un ostacolo',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده در داخل سواره‌رو و در حضور مانع قرار داده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_20_3',
       italianText: 'Il delineatore raffigurato è rifrangente, per una migliore visibilità nelle ore notturne',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده بازتابنده است تا در ساعات شب بهتر دیده شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_20_4',
       italianText: 'Il delineatore raffigurato può segnalare l’inizio di un’isola di traffico',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره درست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'صحیح: نشانگر نشان‌داده‌شده می‌تواند ابتدای جزیره ترافیکی را نشان دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_7_20_5',
       italianText: 'Il delineatore raffigurato è dotato di luce propria',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده چراغ داخلی یا نور مستقل ندارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_20_6',
       italianText: 'Il delineatore raffigurato è posto ai lati della strada',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده در دو طرف راه نصب نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_20_7',
       italianText: 'Il delineatore raffigurato divide la carreggiata da una pista ciclabile',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده سواره‌رو را از مسیر دوچرخه جدا نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_20_8',
       italianText: 'Il delineatore raffigurato presegnala una corsia riservata agli autobus o taxi',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده لاین رزرو شده برای اتوبوس یا تاکسی را از قبل اعلام نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_7_20_9',
       italianText: 'Il delineatore raffigurato si trova fuori della carreggiata',
-      farsiTranslation: 'این پرسش رسمی مربوط به «Delineatori speciali di ostacolo» است. طبق پاسخ رسمی آزمون، گزاره نادرست است؛ دلیل و دام مربوط در تئوری همین درس آمده است.',
+      farsiTranslation: 'غلط: نشانگر نشان‌داده‌شده خارج از سواره‌رو قرار ندارد.',
       correctAnswer: 'Falso'
     }
   ]

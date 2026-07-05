@@ -248,151 +248,151 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_1_1',
       italianText: 'Il segnale raffigurato è un segnale di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_2',
       italianText: 'Il segnale raffigurato può essere preceduto dal segnale DIRITTO DI PRECEDENZA',
-      farsiTranslation: 'غلط: ممکن است پیش از تابلوی نشان‌داده‌شده، تابلوی «داشتن حق تقدم» نصب شده باشد.',
+      farsiTranslation: 'ممکن است پیش از تابلوی نشان‌داده‌شده، تابلوی «داشتن حق تقدم» نصب شده باشد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_3',
       italianText: 'Il segnale raffigurato obbliga a dare precedenza ai veicoli provenienti sia da destra che da sinistra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که هم از راست و هم از چپ می‌آیند حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که هم از راست و هم از چپ می‌آیند حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_4',
       italianText: 'Il segnale raffigurato è impiegato su strade che godono del diritto di precedenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در جاده‌هایی به کار می‌رود که دارای حق تقدم هستند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌هایی به کار می‌رود که دارای حق تقدم هستند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_5',
       italianText: 'Il segnale raffigurato comporta di dare la precedenza ai veicoli che circolano sulla strada che si incrocia',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده مستلزم دادن حق تقدم به وسایل نقلیه‌ای است که در جادهٔ متقاطع حرکت می‌کنند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مستلزم دادن حق تقدم به وسایل نقلیه‌ای است که در جادهٔ متقاطع حرکت می‌کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_6',
       italianText: 'Il segnale raffigurato è posto, di norma, 150 metri prima dell\'incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده معمولاً ۱۵۰ متر پیش از تقاطع نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده معمولاً ۱۵۰ متر پیش از تقاطع نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_7',
       italianText: 'Il segnale raffigurato viene posto su strada secondaria che non ha il diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در جادهٔ فرعیِ فاقد حق تقدم نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جادهٔ فرعیِ فاقد حق تقدم نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_8',
       italianText: 'Il segnale raffigurato obbliga a fermarsi prima di impegnare l\'incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ملزم می‌کند پیش از ورود به تقاطع توقف کنید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند پیش از ورود به تقاطع توقف کنید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_9',
       italianText: 'Il segnale raffigurato si trova sulle corsie di accelerazione per l\'immissione in autostrada',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در خطوط شتاب‌گیری برای ورود به آزادراه نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در خطوط شتاب‌گیری برای ورود به آزادراه نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_10',
       italianText: 'Il segnale raffigurato si trova solo su strade urbane',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فقط در جاده‌های شهری نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در جاده‌های شهری نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_11',
       italianText: 'Il segnale raffigurato su strade extraurbane è preceduto dal segnale PREAVVISO DI DARE PRECEDENZA',
-      farsiTranslation: 'صحیح: در جاده‌های برون‌شهری، پیش از تابلوی نشان‌داده‌شده تابلوی «پیش‌آگهی رعایت حق تقدم» نصب می‌شود.',
+      farsiTranslation: 'در جاده‌های برون‌شهری، پیش از تابلوی نشان‌داده‌شده تابلوی «پیش‌آگهی رعایت حق تقدم» نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_12',
       italianText: 'Il segnale raffigurato è un segnale generico di pericolo',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده یک تابلوی خطر عمومی است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی خطر عمومی است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_13',
       italianText: 'In presenza del segnale raffigurato non occorre fermarsi all\'incrocio se, rallentando, si ha modo di vedere che non vi sono veicoli in arrivo, sia da destra che da sinistra',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، اگر با کاهش سرعت بتوان دید که هیچ وسیله‌ای از راست یا چپ نزدیک نمی‌شود، توقف در تقاطع لازم نیست.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، اگر با کاهش سرعت بتوان دید که هیچ وسیله‌ای از راست یا چپ نزدیک نمی‌شود، توقف در تقاطع لازم نیست.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_14',
       italianText: 'In presenza del segnale raffigurato è obbligatorio dare la precedenza a sinistra solo ai tram e ai veicoli in servizio di emergenza',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده، فقط باید به ترامواها و وسایل نقلیهٔ امدادی که از چپ می‌آیند حق تقدم داد.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، فقط باید به ترامواها و وسایل نقلیهٔ امدادی که از چپ می‌آیند حق تقدم داد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_15',
       italianText: 'Il segnale raffigurato è un segnale di prescrizione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_16',
       italianText: 'Il segnale raffigurato può essere preceduto dal PREAVVISO DI FERMARSI E DARE PRECEDENZA',
-      farsiTranslation: 'غلط: ممکن است پیش از تابلوی نشان‌داده‌شده، تابلوی «پیش‌آگهی ایست و رعایت حق تقدم» نصب شده باشد.',
+      farsiTranslation: 'ممکن است پیش از تابلوی نشان‌داده‌شده، تابلوی «پیش‌آگهی ایست و رعایت حق تقدم» نصب شده باشد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_17',
       italianText: 'La prescrizione del segnale raffigurato, se abbinato ad un semaforo, vale quando il semaforo funziona a luce gialla lampeggiante',
-      farsiTranslation: 'صحیح: اگر تابلوی نشان‌داده‌شده همراه چراغ راهنمایی باشد، دستور آن هنگام کارکرد چراغ زرد چشمک‌زن معتبر است.',
+      farsiTranslation: 'اگر تابلوی نشان‌داده‌شده همراه چراغ راهنمایی باشد، دستور آن هنگام کارکرد چراغ زرد چشمک‌زن معتبر است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_18',
       italianText: 'Il segnale raffigurato preannuncia di arrestarsi prima di impegnare l\'incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که پیش از ورود به تقاطع باید توقف کرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که پیش از ورود به تقاطع باید توقف کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_19',
       italianText: 'Il segnale raffigurato si trova sulle rampe di raccordo per l\'immissione in autostrada',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در رمپ‌های اتصال برای ورود به آزادراه نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در رمپ‌های اتصال برای ورود به آزادراه نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_20',
       italianText: 'Il segnale raffigurato si trova solo su strade extraurbane',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فقط در جاده‌های برون‌شهری نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در جاده‌های برون‌شهری نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_21',
       italianText: 'Il segnale raffigurato impone l\'uso della massima prudenza al fine di evitare incidenti',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده برای جلوگیری از تصادف، رعایت نهایت احتیاط را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای جلوگیری از تصادف، رعایت نهایت احتیاط را الزامی می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_22',
       italianText: 'Il segnale raffigurato obbliga a dare precedenza ai veicoli che circolano sulla strada su cui ci si immette',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که در جادهٔ مقصد حرکت می‌کنند حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که در جادهٔ مقصد حرکت می‌کنند حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_23',
       italianText: 'Il segnale raffigurato preannuncia di moderare particolarmente la velocità e all\'occorrenza fermarsi',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید سرعت را به‌طور ویژه کاهش داد و در صورت لزوم توقف کرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید سرعت را به‌طور ویژه کاهش داد و در صورت لزوم توقف کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_1_24',
       italianText: 'Il segnale raffigurato, lungo le autostrade, viene posto a distanza maggiore di 150 m',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آزادراه‌ها در فاصله‌ای بیش از ۱۵۰ متر نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آزادراه‌ها در فاصله‌ای بیش از ۱۵۰ متر نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_1_25',
       italianText: 'Il segnale raffigurato lungo le autostrade viene posto a distanza di 150 metri dall\'area di servizio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آزادراه‌ها در فاصلهٔ ۱۵۰ متری از مجتمع خدماتی نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آزادراه‌ها در فاصلهٔ ۱۵۰ متری از مجتمع خدماتی نصب می‌شود.',
       correctAnswer: 'Falso'
     },
 
@@ -400,109 +400,109 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_2_1',
       italianText: 'Il segnale raffigurato obbliga a fermarsi in corrispondenza della striscia trasversale di arresto e a dare la precedenza agli altri veicoli',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ملزم می‌کند در محل خط عرضی ایست توقف کرده و به دیگر وسایل نقلیه حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند در محل خط عرضی ایست توقف کرده و به دیگر وسایل نقلیه حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_2',
       italianText: 'Il segnale raffigurato preannuncia l\'obbligo di fermarsi e di dare la precedenza nei sensi unici alternati',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش، الزام به توقف و دادن حق تقدم در مسیرهای باریک با عبور نوبتی را اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش، الزام به توقف و دادن حق تقدم در مسیرهای باریک با عبور نوبتی را اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_3',
       italianText: 'Il segnale raffigurato impone di arrestarsi e dare la precedenza prima di impegnare l\'incrocio',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ملزم می‌کند پیش از ورود به تقاطع توقف کرده و حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند پیش از ورود به تقاطع توقف کرده و حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_4',
       italianText: 'Il segnale raffigurato obbliga ad arrestarsi al varco doganale',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ملزم می‌کند در گذرگاه گمرکی توقف کنید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند در گذرگاه گمرکی توقف کنید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_5',
       italianText: 'Il segnale raffigurato obbliga ad arrestarsi all\'incrocio e a dare la precedenza a destra e a sinistra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ملزم می‌کند در تقاطع توقف کرده و به وسایل نقلیهٔ راست و چپ حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند در تقاطع توقف کرده و به وسایل نقلیهٔ راست و چپ حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_6',
       italianText: 'Il segnale raffigurato obbliga ad arrestarsi soltanto in caso di incrocio con altri veicoli',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فقط در صورت برخورد با وسایل نقلیهٔ دیگر، توقف را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در صورت برخورد با وسایل نقلیهٔ دیگر، توقف را الزامی می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_7',
       italianText: 'Il segnale raffigurato impone di fermarsi all\'incrocio anche in presenza di semaforo a luce lampeggiante gialla',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده حتی در حضور چراغ راهنمایی زرد چشمک‌زن، توقف در تقاطع را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حتی در حضور چراغ راهنمایی زرد چشمک‌زن، توقف در تقاطع را الزامی می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_8',
       italianText: 'Il segnale raffigurato obbliga ad arrestarsi per dare la precedenza solo ai veicoli provenienti da destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ملزم می‌کند فقط برای دادن حق تقدم به وسایل نقلیه‌ای که از راست می‌آیند توقف کنید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند فقط برای دادن حق تقدم به وسایل نقلیه‌ای که از راست می‌آیند توقف کنید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_9',
       italianText: 'Il segnale raffigurato si trova all\'incrocio con una strada con diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در محل تقاطع با جاده‌ای دارای حق تقدم نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در محل تقاطع با جاده‌ای دارای حق تقدم نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_10',
       italianText: 'Il segnale raffigurato è posto, di norma, 150 metri prima dell\'incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده معمولاً ۱۵۰ متر پیش از تقاطع نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده معمولاً ۱۵۰ متر پیش از تقاطع نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_11',
       italianText: 'Il segnale raffigurato si trova, in genere, negli incroci con scarsa visibilità',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده معمولاً در تقاطع‌هایی با دید محدود نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده معمولاً در تقاطع‌هایی با دید محدود نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_12',
       italianText: 'Il segnale raffigurato impone di arrestarsi perché il transito è vietato',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده به‌دلیل ممنوع‌بودن عبور، توقف را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به‌دلیل ممنوع‌بودن عبور، توقف را الزامی می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_13',
       italianText: 'Il segnale raffigurato, fuori dei centri abitati, è preceduto dal relativo segnale di preavviso',
-      farsiTranslation: 'صحیح: خارج از مناطق مسکونی، پیش از تابلوی نشان‌داده‌شده تابلوی پیش‌آگهی مربوط به آن نصب می‌شود.',
+      farsiTranslation: 'خارج از مناطق مسکونی، پیش از تابلوی نشان‌داده‌شده تابلوی پیش‌آگهی مربوط به آن نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_14',
       italianText: 'Il segnale raffigurato preannuncia di arrestarsi all\'incrocio anche se il semaforo emette luce verde',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که حتی اگر چراغ راهنمایی سبز باشد، باید در تقاطع توقف کرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که حتی اگر چراغ راهنمایی سبز باشد، باید در تقاطع توقف کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_15',
       italianText: 'Il segnale raffigurato è utilizzato, di norma, negli incroci di particolare pericolosità',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده معمولاً در تقاطع‌های بسیار خطرناک به کار می‌رود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده معمولاً در تقاطع‌های بسیار خطرناک به کار می‌رود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_16',
       italianText: 'Il segnale raffigurato preannuncia l\'obbligo di arresto ad un posto di blocco istituito dagli organi di polizia',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش، الزام به توقف در ایست بازرسی ایجادشده توسط پلیس را اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش، الزام به توقف در ایست بازرسی ایجادشده توسط پلیس را اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_2_17',
       italianText: 'Il segnale raffigurato può trovarsi in corrispondenza di un passaggio a livello',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است در محل یک گذرگاه راه‌آهن نصب شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است در محل یک گذرگاه راه‌آهن نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_2_18',
       italianText: 'Il segnale raffigurato obbliga ad arrestarsi solo se sopraggiungono altri veicoli',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فقط در صورت نزدیک‌شدن وسایل نقلیهٔ دیگر، توقف را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در صورت نزدیک‌شدن وسایل نقلیهٔ دیگر، توقف را الزامی می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -510,79 +510,79 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_3_1',
       italianText: 'Il segnale raffigurato è un segnale di prescrizione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_3_2',
       italianText: 'Il segnale raffigurato è un preavviso di fermarsi e dare precedenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده، پیش‌آگهی «ایست و رعایت حق تقدم» است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده، پیش‌آگهی «ایست و رعایت حق تقدم» است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_3_3',
       italianText: 'Il segnale raffigurato è un preavviso di dare precedenza sia a destra che a sinistra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید هم به راست و هم به چپ حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید هم به راست و هم به چپ حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_3_4',
       italianText: 'Il segnale raffigurato preannuncia la distanza dal prossimo segnale di STOP',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فاصله تا تابلوی بعدی STOP را اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فاصله تا تابلوی بعدی STOP را اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_3_5',
       italianText: 'Il segnale raffigurato preannuncia la successiva presenza di un segnale di DARE PRECEDENZA',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده وجود تابلوی «رعایت حق تقدم» در ادامهٔ مسیر را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود تابلوی «رعایت حق تقدم» در ادامهٔ مسیر را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_3_6',
       italianText: 'Il segnale raffigurato indica la distanza dall\'incrocio in cui dovremo obbligatoriamente fermarci',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فاصله تا تقاطعی را مشخص می‌کند که در آن باید حتماً توقف کنیم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فاصله تا تقاطعی را مشخص می‌کند که در آن باید حتماً توقف کنیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_3_7',
       italianText: 'Il segnale raffigurato indica la distanza dall\'incrocio in cui dobbiamo dare precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده فاصله تا تقاطعی را مشخص می‌کند که در آن باید حق تقدم بدهیم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فاصله تا تقاطعی را مشخص می‌کند که در آن باید حق تقدم بدهیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_3_8',
       italianText: 'In presenza del segnale raffigurato è obbligatorio fermarsi al prossimo incrocio',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده، توقف در تقاطع بعدی اجباری است.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، توقف در تقاطع بعدی اجباری است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_3_9',
       italianText: 'Il segnale raffigurato preannuncia di rallentare per potersi fermare se ci sono veicoli cui bisogna dare precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید سرعت را کاهش داد تا در صورت وجود وسایل نقلیه‌ای که باید به آن‌ها حق تقدم داد، بتوان توقف کرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید سرعت را کاهش داد تا در صورت وجود وسایل نقلیه‌ای که باید به آن‌ها حق تقدم داد، بتوان توقف کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_3_10',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui vale la regola di dare la precedenza solo a destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن فقط قانون حق تقدم از راست اجرا می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن فقط قانون حق تقدم از راست اجرا می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_3_11',
       italianText: 'Il segnale raffigurato può preannunciare un incrocio a T, in cui bisogna dare la precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است تقاطعی T‌شکل را از پیش اعلام کند که در آن باید حق تقدم داد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است تقاطعی T‌شکل را از پیش اعلام کند که در آن باید حق تقدم داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_3_12',
       italianText: 'Il segnale raffigurato preannuncia la presenza di un semaforo a tre luci a 320 metri',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده وجود یک چراغ راهنمایی سه‌چراغه در فاصلهٔ ۳۲۰ متری را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود یک چراغ راهنمایی سه‌چراغه در فاصلهٔ ۳۲۰ متری را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_3_13',
       italianText: 'Il segnale raffigurato è posto su una strada che non ha diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در جاده‌ای نصب می‌شود که حق تقدم ندارد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌ای نصب می‌شود که حق تقدم ندارد.',
       correctAnswer: 'Vero'
     },
 
@@ -590,115 +590,115 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_4_1',
       italianText: 'Il segnale raffigurato è un segnale di preavviso di fermarsi e dare precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده، تابلوی پیش‌آگهی «ایست و رعایت حق تقدم» است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده، تابلوی پیش‌آگهی «ایست و رعایت حق تقدم» است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_4_2',
       italianText: 'Il segnale raffigurato obbliga solo a rallentare e, se necessario, a dare la precedenza all\'incrocio a 320 metri',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فقط ملزم می‌کند سرعت را کاهش دهید و در صورت لزوم، در تقاطع ۳۲۰ متر جلوتر حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط ملزم می‌کند سرعت را کاهش دهید و در صورت لزوم، در تقاطع ۳۲۰ متر جلوتر حق تقدم بدهید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_4_3',
       italianText: 'Il segnale raffigurato preannuncia un segnale di STOP a 320 metri',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده وجود تابلوی STOP در فاصلهٔ ۳۲۰ متری را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود تابلوی STOP در فاصلهٔ ۳۲۰ متری را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_4_4',
       italianText: 'Il segnale raffigurato è posto a 320 metri dal segnale DARE PRECEDENZA',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در فاصلهٔ ۳۲۰ متری از تابلوی «رعایت حق تقدم» نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در فاصلهٔ ۳۲۰ متری از تابلوی «رعایت حق تقدم» نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_4_5',
       italianText: 'Il segnale raffigurato preannuncia di arrestarsi al prossimo incrocio e dare la precedenza a destra ed a sinistra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که در تقاطع بعدی باید توقف کرده و به راست و چپ حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که در تقاطع بعدی باید توقف کرده و به راست و چپ حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_4_6',
       italianText: 'Il segnale raffigurato si trova solo nelle strade urbane',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده فقط در جاده‌های شهری نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در جاده‌های شهری نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_4_7',
       italianText: 'Il segnale raffigurato preannuncia di fermarsi 320 metri dopo il segnale e dare la precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که ۳۲۰ متر پس از تابلو باید توقف کرده و حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که ۳۲۰ متر پس از تابلو باید توقف کرده و حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_4_8',
       italianText: 'Il segnale raffigurato preannuncia la presenza di una barriera doganale',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده وجود یک مانع گمرکی را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود یک مانع گمرکی را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_4_9',
       italianText: 'Il segnale raffigurato invita a rallentare perché è prossimo un incrocio in cui bisogna fermarsi e dare la precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده توصیه می‌کند سرعت را کاهش دهید، زیرا به تقاطعی نزدیک می‌شوید که در آن باید توقف کرده و حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده توصیه می‌کند سرعت را کاهش دهید، زیرا به تقاطعی نزدیک می‌شوید که در آن باید توقف کرده و حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_4_10',
       italianText: 'Il segnale raffigurato può presegnalare un casello autostradale',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ممکن است باجهٔ عوارضی آزادراه را از پیش اعلام کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است باجهٔ عوارضی آزادراه را از پیش اعلام کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_4_11',
       italianText: 'Il segnale raffigurato è un segnale di prescrizione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_4_12',
       italianText: 'Il segnale raffigurato è posto prima del segnale ALT-POLIZIA',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پیش از تابلوی «ایست پلیس» نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش از تابلوی «ایست پلیس» نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_4_13',
       italianText: 'Incontrando il segnale raffigurato occorre fermarsi e poi arrestarsi nuovamente dopo 320 metri',
-      farsiTranslation: 'غلط: هنگام روبه‌روشدن با تابلوی نشان‌داده‌شده باید توقف کرد و سپس ۳۲۰ متر جلوتر دوباره ایستاد.',
+      farsiTranslation: 'هنگام روبه‌روشدن با تابلوی نشان‌داده‌شده باید توقف کرد و سپس ۳۲۰ متر جلوتر دوباره ایستاد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_4_14',
       italianText: 'Il segnale raffigurato è un segnale di pericolo',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده یک تابلوی خطر است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی خطر است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_5_1',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui vale la regola generale di dare la precedenza a destra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن قانون عمومیِ دادن حق تقدم به راست اجرا می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن قانون عمومیِ دادن حق تقدم به راست اجرا می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_5_2',
       italianText: 'Il segnale raffigurato prescrive di procedere a velocità particolarmente moderata',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده حرکت با سرعت بسیار کم را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حرکت با سرعت بسیار کم را الزامی می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_5_3',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui si deve dare precedenza a destra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن باید به راست حق تقدم داد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن باید به راست حق تقدم داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_5_4',
       italianText: 'Il segnale raffigurato è un segnale di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_5_5',
       italianText: 'Il segnale raffigurato non si trova sul tratto di strada con diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در بخشی از جاده که دارای حق تقدم است نصب نمی‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در بخشی از جاده که دارای حق تقدم است نصب نمی‌شود.',
       correctAnswer: 'Vero'
     },
 
@@ -706,37 +706,37 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_6_1',
       italianText: 'Il segnale raffigurato preannuncia un incrocio con strade di minore importanza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطعی با جاده‌های کم‌اهمیت‌تر را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی با جاده‌های کم‌اهمیت‌تر را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_6_2',
-      italianText: 'Il segnale raffigurato preannuncia che si ha la precedenza sui veicoli provenienti dalle strade secondarie',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که نسبت به وسایل نقلیهٔ جاده‌های فرعی حق تقدم دارید.',
+      italianText: 'Il segnale raffigurato preannuncia un incrocio in cui si ha la precedenza sui veicoli provenienti dalle strade secondarie',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که نسبت به وسایل نقلیهٔ جاده‌های فرعی حق تقدم دارید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_6_3',
       italianText: 'Il segnale raffigurato preannuncia l’incrocio con una strada senza diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فاقد حق تقدم را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فاقد حق تقدم را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_6_4',
       italianText: 'Il segnale raffigurato, all’incrocio, ci dà la precedenza sui veicoli provenienti sia da destra che da sinistra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در تقاطع، نسبت به وسایل نقلیه‌ای که هم از راست و هم از چپ می‌آیند به ما حق تقدم می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در تقاطع، نسبت به وسایل نقلیه‌ای که هم از راست و هم از چپ می‌آیند به ما حق تقدم می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_6_5',
       italianText: 'Il segnale raffigurato perde la sua efficacia in presenza di agente che regola il traffico',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در حضور مأموری که ترافیک را تنظیم می‌کند، اعتبار خود را از دست می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در حضور مأموری که ترافیک را تنظیم می‌کند، اعتبار خود را از دست می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_6_6',
       italianText: 'Il segnale raffigurato può essere preceduto dal segnale DIRITTO DI PRECEDENZA',
-      farsiTranslation: 'صحیح: ممکن است پیش از تابلوی نشان‌داده‌شده، تابلوی «داشتن حق تقدم» نصب شده باشد.',
+      farsiTranslation: 'ممکن است پیش از تابلوی نشان‌داده‌شده، تابلوی «داشتن حق تقدم» نصب شده باشد.',
       correctAnswer: 'Vero'
     },
 
@@ -744,125 +744,125 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_7_1',
       italianText: 'Il segnale raffigurato preannuncia che si incrocia a destra una strada di minore importanza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که از سمت راست با جاده‌ای کم‌اهمیت‌تر تقاطع خواهید داشت.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که از سمت راست با جاده‌ای کم‌اهمیت‌تر تقاطع خواهید داشت.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_7_2',
       italianText: 'Il segnale raffigurato preannuncia un incrocio con una strada secondaria che si immette da destra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فرعی را از پیش اعلام می‌کند که از سمت راست وارد می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فرعی را از پیش اعلام می‌کند که از سمت راست وارد می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_7_3',
       italianText: 'In presenza del segnale raffigurato bisogna usare prudenza perché ci si sta avvicinando ad un incrocio',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده باید احتیاط کرد، زیرا به یک تقاطع نزدیک می‌شویم.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده باید احتیاط کرد، زیرا به یک تقاطع نزدیک می‌شویم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_7_4',
       italianText: 'Il segnale raffigurato è un segnale di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_7_5',
       italianText: 'Il segnale raffigurato preannuncia l’incrocio con una strada senza diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فاقد حق تقدم را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فاقد حق تقدم را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
 
     // Topic 3.8: Intersezione a T con diritto di precedenza a sinistra
     {
       id: 'q_3_8_1',
-      italianText: 'Il segnale raffigurato preannuncia che si incrocia a sinistra una strada di minore importanza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که از سمت چپ با جاده‌ای کم‌اهمیت‌تر تقاطع خواهید داشت.',
+      italianText: 'Il segnale raffigurato preannuncia che si incrocia sulla sinistra una strada di minore importanza',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که از سمت چپ با جاده‌ای کم‌اهمیت‌تر تقاطع خواهید داشت.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_8_2',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui si ha la precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن حق تقدم دارید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن حق تقدم دارید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_8_3',
       italianText: 'Il segnale raffigurato prescrive di usare prudenza perché ci si sta avvicinando ad un incrocio',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده رعایت احتیاط را الزامی می‌کند، زیرا به یک تقاطع نزدیک می‌شویم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده رعایت احتیاط را الزامی می‌کند، زیرا به یک تقاطع نزدیک می‌شویم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_8_4',
       italianText: 'Il segnale raffigurato è un segnale di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_8_5',
       italianText: 'Il segnale raffigurato preannuncia l’incrocio con una strada senza diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فاقد حق تقدم را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطع با جاده‌ای فاقد حق تقدم را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
 
     // Topic 3.9: Confluenza a destra
     {
       id: 'q_3_9_1',
-      italianText: 'Il segnale raffigurato preannuncia un\'immissione da destra con corsia di accelerazione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ورود یک مسیر از سمت راست با خط شتاب‌گیری را از پیش اعلام می‌کند.',
+      italianText: 'Il segnale raffigurato preannuncia una immissione da destra con corsia di accelerazione',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ورود یک مسیر از سمت راست با خط شتاب‌گیری را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_9_2',
-      italianText: 'Il segnale raffigurato indica che si ha la precedenza sui veicoli che si immettono da destra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده بیان می‌کند که نسبت به وسایل نقلیه‌ای که از سمت راست وارد می‌شوند حق تقدم دارید.',
+      italianText: 'Il segnale raffigurato indica che abbiamo la precedenza sui veicoli che si immettono da destra',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بیان می‌کند که نسبت به وسایل نقلیه‌ای که از سمت راست وارد می‌شوند حق تقدم دارید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_9_3',
       italianText: 'Il segnale raffigurato invita ad usare la massima prudenza al fine di evitare incidenti',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده برای جلوگیری از تصادف، رعایت نهایت احتیاط را توصیه می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای جلوگیری از تصادف، رعایت نهایت احتیاط را توصیه می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_9_4',
       italianText: 'Il segnale raffigurato preannuncia una confluenza sul lato destro',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ادغام مسیر از سمت راست را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ادغام مسیر از سمت راست را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_9_5',
       italianText: 'Il segnale raffigurato può trovarsi sulle autostrade',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است در آزادراه‌ها نصب شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است در آزادراه‌ها نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_10_1',
       italianText: 'Il segnale raffigurato preannuncia un’immissione stradale con corsia di accelerazione posta sulla sinistra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ورود یک مسیر با خط شتاب‌گیری در سمت چپ را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ورود یک مسیر با خط شتاب‌گیری در سمت چپ را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_10_2',
       italianText: 'Il segnale raffigurato preannuncia una confluenza sul lato sinistro della carreggiata',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ادغام مسیر در سمت چپ سواره‌رو را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ادغام مسیر در سمت چپ سواره‌رو را از پیش اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_10_3',
       italianText: 'Il segnale raffigurato si trova su carreggiate a senso unico di circolazione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در سواره‌روهای یک‌طرفه نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در سواره‌روهای یک‌طرفه نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_10_4',
       italianText: 'Il segnale raffigurato invita ad usare prudenza perché altri veicoli potrebbero immettersi nel flusso della circolazione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده رعایت احتیاط را توصیه می‌کند، زیرا ممکن است وسایل نقلیهٔ دیگری وارد جریان ترافیک شوند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده رعایت احتیاط را توصیه می‌کند، زیرا ممکن است وسایل نقلیهٔ دیگری وارد جریان ترافیک شوند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_10_5',
       italianText: 'Il segnale raffigurato è usato su strade con diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در جاده‌های دارای حق تقدم به کار می‌رود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های دارای حق تقدم به کار می‌رود.',
       correctAnswer: 'Vero'
     },
 
@@ -870,37 +870,37 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_11_1',
       italianText: 'Il segnale raffigurato indica l’inizio di una strada in cui i veicoli hanno diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده آغاز جاده‌ای را نشان می‌دهد که وسایل نقلیه در آن دارای حق تقدم هستند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز جاده‌ای را نشان می‌دهد که وسایل نقلیه در آن دارای حق تقدم هستند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_2',
       italianText: 'Il segnale raffigurato può essere posto su una strada statale',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است در یک جادهٔ دولتی نصب شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است در یک جادهٔ دولتی نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_3',
       italianText: 'In presenza del segnale raffigurato bisogna comunque dare la precedenza ai veicoli che hanno in funzione il lampeggiante blu e sirena',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، همچنان باید به وسایل نقلیه‌ای که چراغ آبی گردان و آژیر آن‌ها فعال است حق تقدم داد.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، همچنان باید به وسایل نقلیه‌ای که چراغ آبی گردان و آژیر آن‌ها فعال است حق تقدم داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_4',
       italianText: 'Il segnale raffigurato è un segnale di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_5',
       italianText: 'In presenza del segnale raffigurato bisogna comunque assicurarsi che i veicoli provenienti dalle strade laterali diano la precedenza',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده باید همچنان اطمینان حاصل کرد که وسایل نقلیهٔ جاده‌های جانبی به ما حق تقدم می‌دهند.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده باید همچنان اطمینان حاصل کرد که وسایل نقلیهٔ جاده‌های جانبی به ما حق تقدم می‌دهند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_6',
       italianText: 'Il segnale raffigurato è un segnale di prescrizione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
       correctAnswer: 'Vero'
     },
 
@@ -908,75 +908,75 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_12_1',
       italianText: 'Il segnale raffigurato indica che la strada non gode più del diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده بیان می‌کند که جاده دیگر دارای حق تقدم نیست.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بیان می‌کند که جاده دیگر دارای حق تقدم نیست.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_2',
       italianText: 'Il segnale raffigurato indica il ripristino della norma generale sulla precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده برقراری دوبارهٔ قانون عمومی حق تقدم را اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برقراری دوبارهٔ قانون عمومی حق تقدم را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_3',
       italianText: 'Il segnale raffigurato invita a maggiore prudenza perché non si ha più diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده رعایت احتیاط بیشتر را توصیه می‌کند، زیرا دیگر حق تقدم نداریم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده رعایت احتیاط بیشتر را توصیه می‌کند، زیرا دیگر حق تقدم نداریم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_4',
       italianText: 'In presenza del segnale raffigurato il conducente, salvo diverso ulteriore segnale, deve dare precedenza ai veicoli provenienti da destra',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، راننده در صورت نبودن تابلوی دیگری باید به وسایل نقلیه‌ای که از راست می‌آیند حق تقدم بدهد.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، راننده در صورت نبودن تابلوی دیگری باید به وسایل نقلیه‌ای که از راست می‌آیند حق تقدم بدهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_5',
       italianText: 'Il segnale raffigurato è un segnale di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی حق تقدم است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_6',
       italianText: 'Il segnale raffigurato può essere seguito dal segnale FERMARSI E DARE PRECEDENZA',
-      farsiTranslation: 'صحیح: ممکن است پس از تابلوی نشان‌داده‌شده، تابلوی «ایست و رعایت حق تقدم» نصب شود.',
+      farsiTranslation: 'ممکن است پس از تابلوی نشان‌داده‌شده، تابلوی «ایست و رعایت حق تقدم» نصب شود.',
       correctAnswer: 'Vero'
     },
 
     // Topic 3.13: Dare precedenza nei sensi unici alternati
     {
       id: 'q_3_13_1',
-      italianText: 'Il segnale raffigurato impone, nelle strettoie, di dare la precedenza ai veicoli provenienti dal senso opposto',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در باریک‌شدگی‌ها ملزم می‌کند به وسایل نقلیه‌ای که از جهت مقابل می‌آیند حق تقدم بدهید.',
+      italianText: 'Il segnale raffigurato impone, nelle strettoie, di dare precedenza ai veicoli provenienti dal senso opposto',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در باریک‌شدگی‌ها ملزم می‌کند به وسایل نقلیه‌ای که از جهت مقابل می‌آیند حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_2',
       italianText: 'Il segnale raffigurato preannuncia, in presenza di lavori, di dare precedenza ai veicoli provenienti dal senso opposto',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در حضور عملیات جاده‌ای، از پیش اعلام می‌کند که باید به وسایل نقلیهٔ جهت مقابل حق تقدم داد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در حضور عملیات جاده‌ای، از پیش اعلام می‌کند که باید به وسایل نقلیهٔ جهت مقابل حق تقدم داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_3',
       italianText: 'Il segnale raffigurato preannuncia che bisogna dare la precedenza ai veicoli provenienti di fronte',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید به وسایل نقلیه‌ای که از روبه‌رو می‌آیند حق تقدم داد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید به وسایل نقلیه‌ای که از روبه‌رو می‌آیند حق تقدم داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_4',
       italianText: 'Il segnale raffigurato obbliga a dare la precedenza ai veicoli provenienti dal senso contrario',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که از جهت مخالف می‌آیند حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که از جهت مخالف می‌آیند حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_5',
       italianText: 'Il segnale raffigurato impone di dare la precedenza nei sensi unici alternati',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده دادن حق تقدم در مسیرهای باریک با عبور نوبتی را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دادن حق تقدم در مسیرهای باریک با عبور نوبتی را الزامی می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_6',
       italianText: 'Il segnale raffigurato, in una strada a doppio senso, precede una strettoia che permette il transito di una sola fila di veicoli',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده در یک جادهٔ دوطرفه، پیش از باریک‌شدگی‌ای قرار می‌گیرد که فقط عبور یک ردیف وسیلهٔ نقلیه را ممکن می‌سازد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در یک جادهٔ دوطرفه، پیش از باریک‌شدگی‌ای قرار می‌گیرد که فقط عبور یک ردیف وسیلهٔ نقلیه را ممکن می‌سازد.',
       correctAnswer: 'Vero'
     },
 
@@ -984,37 +984,37 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_14_1',
       italianText: 'In presenza del segnale raffigurato dobbiamo accertarci che i veicoli provenienti dal senso contrario ci diano la precedenza',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده باید اطمینان حاصل کنیم که وسایل نقلیهٔ جهت مقابل به ما حق تقدم می‌دهند.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده باید اطمینان حاصل کنیم که وسایل نقلیهٔ جهت مقابل به ما حق تقدم می‌دهند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_14_2',
       italianText: 'In presenza del segnale raffigurato possiamo percorrere la strettoia, dopo esserci assicurati di aver ottenuto la precedenza',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، پس از اطمینان از اینکه حق تقدم به ما داده شده است می‌توانیم از بخش باریک عبور کنیم.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، پس از اطمینان از اینکه حق تقدم به ما داده شده است می‌توانیم از بخش باریک عبور کنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_14_3',
       italianText: 'In presenza del segnale raffigurato dobbiamo procedere con cautela, anche se abbiamo la precedenza',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، با وجود داشتن حق تقدم باید با احتیاط حرکت کنیم.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، با وجود داشتن حق تقدم باید با احتیاط حرکت کنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_14_4',
       italianText: 'In presenza del segnale raffigurato si può percorrere la strettoia accertandosi di aver avuto la precedenza dai veicoli provenienti di fronte',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، پس از اطمینان از اینکه وسایل نقلیهٔ روبه‌رو به ما حق تقدم داده‌اند می‌توان از بخش باریک عبور کرد.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، پس از اطمینان از اینکه وسایل نقلیهٔ روبه‌رو به ما حق تقدم داده‌اند می‌توان از بخش باریک عبور کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_14_5',
       italianText: 'In presenza del segnale raffigurato si deve dare la precedenza ai veicoli che provengono dal senso opposto',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده باید به وسایل نقلیه‌ای که از جهت مقابل می‌آیند حق تقدم داد.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده باید به وسایل نقلیه‌ای که از جهت مقابل می‌آیند حق تقدم داد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_14_6',
       italianText: 'In presenza del segnale raffigurato possiamo procedere senza cautela, dato che abbiamo il diritto di precedenza',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده، چون حق تقدم داریم می‌توانیم بدون احتیاط حرکت کنیم.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، چون حق تقدم داریم می‌توانیم بدون احتیاط حرکت کنیم.',
       correctAnswer: 'Falso'
     },
 
@@ -1023,37 +1023,37 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_5_6',
       italianText: 'Il segnale raffigurato presegnala un passaggio a livello custodito con barriere',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گذرگاه راه‌آهنِ دارای نگهبان و راه‌بند را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده گذرگاه راه‌آهنِ دارای نگهبان و راه‌بند را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_5_7',
       italianText: 'Il segnale raffigurato precede il segnale DARE PRECEDENZA',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پیش از تابلوی «رعایت حق تقدم» قرار می‌گیرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش از تابلوی «رعایت حق تقدم» قرار می‌گیرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_5_8',
       italianText: 'Il segnale raffigurato precede il segnale di STOP',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پیش از تابلوی STOP قرار می‌گیرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش از تابلوی STOP قرار می‌گیرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_5_9',
       italianText: 'Il segnale raffigurato si trova, di norma, a non più di 50 metri dall’incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده معمولاً در فاصله‌ای حداکثر ۵۰ متر از تقاطع نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده معمولاً در فاصله‌ای حداکثر ۵۰ متر از تقاطع نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_5_10',
       italianText: 'Il segnale raffigurato, in autostrada, viene posto a una distanza maggiore di 250 metri',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آزادراه در فاصله‌ای بیش از ۲۵۰ متر نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آزادراه در فاصله‌ای بیش از ۲۵۰ متر نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_5_11',
       italianText: 'Il segnale raffigurato preannuncia la presenza del segnale CROCE DI S. ANDREA',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده وجود تابلوی «صلیب سنت آندره» را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود تابلوی «صلیب سنت آندره» را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -1061,55 +1061,55 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_6_7',
       italianText: 'Il segnale raffigurato preannuncia che bisogna rallentare per accertare che ci venga data la precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید سرعت را کاهش داد تا اطمینان حاصل کنیم حق تقدم به ما داده می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید سرعت را کاهش داد تا اطمینان حاصل کنیم حق تقدم به ما داده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_6_8',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui si ha la precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن حق تقدم داریم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن حق تقدم داریم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_6_9',
       italianText: 'Il segnale raffigurato preannuncia una confluenza sia da destra che da sinistra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ادغام مسیر از هر دو سمت راست و چپ را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ادغام مسیر از هر دو سمت راست و چپ را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_6_10',
       italianText: 'Il segnale raffigurato vieta la svolta a sinistra all’incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گردش به چپ در تقاطع را ممنوع می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده گردش به چپ در تقاطع را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_6_11',
       italianText: 'Il segnale raffigurato preannuncia un incrocio con precedenza rispetto ai veicoli provenienti da sinistra mentre si deve dare la precedenza a quelli provenienti da destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن نسبت به وسایل نقلیهٔ سمت چپ حق تقدم داریم، اما باید به وسایل نقلیهٔ سمت راست حق تقدم بدهیم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن نسبت به وسایل نقلیهٔ سمت چپ حق تقدم داریم، اما باید به وسایل نقلیهٔ سمت راست حق تقدم بدهیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_6_12',
       italianText: 'Il segnale raffigurato è posto sulle autostrade',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آزادراه‌ها نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آزادراه‌ها نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_6_13',
       italianText: 'Il segnale raffigurato è posto a non più di 25 metri dall’incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در فاصله‌ای حداکثر ۲۵ متر از تقاطع نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در فاصله‌ای حداکثر ۲۵ متر از تقاطع نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_6_14',
       italianText: 'Il segnale raffigurato preannuncia un incrocio nel quale bisogna dare la precedenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن باید حق تقدم بدهیم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن باید حق تقدم بدهیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_6_15',
       italianText: 'Il segnale raffigurato preannuncia corsie di accelerazione a destra e a sinistra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده خطوط شتاب‌گیری در سمت راست و چپ را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده خطوط شتاب‌گیری در سمت راست و چپ را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -1117,43 +1117,43 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_7_6',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui il conducente ha la precedenza sui veicoli provenienti da destra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن راننده نسبت به وسایل نقلیه‌ای که از راست می‌آیند حق تقدم دارد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن راننده نسبت به وسایل نقلیه‌ای که از راست می‌آیند حق تقدم دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_7_7',
       italianText: 'Il segnale raffigurato preannuncia, sulla destra, una strada senza uscita',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده وجود یک جادهٔ بن‌بست در سمت راست را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود یک جادهٔ بن‌بست در سمت راست را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_7_8',
       italianText: 'Il segnale raffigurato vieta la svolta a destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گردش به راست را ممنوع می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده گردش به راست را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_7_9',
       italianText: 'Il segnale raffigurato è posto sulle corsie di accelerazione delle autostrade',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در خطوط شتاب‌گیری آزادراه‌ها نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در خطوط شتاب‌گیری آزادراه‌ها نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_7_10',
       italianText: 'Il segnale raffigurato preannuncia un’immissione stradale con corsia di accelerazione',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ورود یک مسیر جاده‌ای با خط شتاب‌گیری را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ورود یک مسیر جاده‌ای با خط شتاب‌گیری را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_7_11',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui il conducente ha l’obbligo di fermarsi e dare precedenza ai veicoli provenienti da destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن راننده باید توقف کرده و به وسایل نقلیهٔ سمت راست حق تقدم بدهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن راننده باید توقف کرده و به وسایل نقلیهٔ سمت راست حق تقدم بدهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_7_12',
       italianText: 'Il segnale raffigurato indica una piazzola di sosta a destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده یک محل توقف در سمت راست را نشان می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک محل توقف در سمت راست را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -1161,43 +1161,43 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_8_6',
       italianText: 'Il segnale raffigurato preannuncia un incrocio in cui si ha la precedenza sui veicoli provenienti da sinistra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن نسبت به وسایل نقلیهٔ سمت چپ حق تقدم داریم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که در آن نسبت به وسایل نقلیهٔ سمت چپ حق تقدم داریم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_8_7',
       italianText: 'Il segnale raffigurato preannuncia sulla sinistra una strada senza uscita',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده وجود یک جادهٔ بن‌بست در سمت چپ را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود یک جادهٔ بن‌بست در سمت چپ را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_8_8',
       italianText: 'Il segnale raffigurato vieta la svolta a sinistra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گردش به چپ را ممنوع می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده گردش به چپ را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_8_9',
       italianText: 'Il segnale raffigurato preannuncia una confluenza in autostrada',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ادغام مسیر در آزادراه را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ادغام مسیر در آزادراه را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_8_10',
       italianText: 'Il segnale raffigurato preannuncia una confluenza a destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ادغام مسیر از سمت راست را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ادغام مسیر از سمت راست را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_8_11',
       italianText: 'Il segnale raffigurato è posto sulle rampe di accesso alle autostrade',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در رمپ‌های ورودی آزادراه‌ها نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در رمپ‌های ورودی آزادراه‌ها نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_8_12',
       italianText: 'Il segnale raffigurato preannuncia l’incrocio con un binario morto',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تقاطع با یک خط راه‌آهن بن‌بست را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطع با یک خط راه‌آهن بن‌بست را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -1205,43 +1205,43 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_9_6',
       italianText: 'In presenza del segnale raffigurato, sulla rampa di raccordo è posto il segnale di DARE PRECEDENZA',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، تابلوی «رعایت حق تقدم» در رمپ اتصال نصب می‌شود.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، تابلوی «رعایت حق تقدم» در رمپ اتصال نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_9_7',
       italianText: 'Il segnale raffigurato è posto a non più di 25 metri dall’incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در فاصله‌ای حداکثر ۲۵ متر از تقاطع نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در فاصله‌ای حداکثر ۲۵ متر از تقاطع نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_9_8',
       italianText: 'Il segnale raffigurato preannuncia di dare precedenza ai veicoli provenienti da destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید به وسایل نقلیه‌ای که از راست می‌آیند حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که باید به وسایل نقلیه‌ای که از راست می‌آیند حق تقدم بدهید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_9_9',
       italianText: 'Il segnale raffigurato viene posto su strada secondaria che non gode del diritto di precedenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در جادهٔ فرعیِ فاقد حق تقدم نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جادهٔ فرعیِ فاقد حق تقدم نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_9_10',
       italianText: 'Il segnale raffigurato può precedere il segnale DARE PRECEDENZA',
-      farsiTranslation: 'غلط: ممکن است پس از تابلوی نشان‌داده‌شده، تابلوی «رعایت حق تقدم» قرار گیرد.',
+      farsiTranslation: 'ممکن است پس از تابلوی نشان‌داده‌شده، تابلوی «رعایت حق تقدم» قرار گیرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_9_11',
       italianText: 'Il segnale raffigurato, su autostrada, non comporta una riduzione della velocità',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آزادراه موجب کاهش سرعت نمی‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آزادراه موجب کاهش سرعت نمی‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_9_12',
       italianText: 'Il segnale raffigurato consente la svolta a destra al prossimo incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گردش به راست در تقاطع بعدی را مجاز می‌داند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده گردش به راست در تقاطع بعدی را مجاز می‌داند.',
       correctAnswer: 'Falso'
     },
 
@@ -1249,43 +1249,43 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_10_6',
       italianText: 'Il segnale raffigurato comporta la presenza del segnale DARE PRECEDENZA sulla strada di immissione laterale',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده مستلزم وجود تابلوی «رعایت حق تقدم» در جادهٔ ورودی جانبی است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مستلزم وجود تابلوی «رعایت حق تقدم» در جادهٔ ورودی جانبی است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_10_7',
       italianText: 'Il segnale raffigurato è posto a non più di 25 metri dall’incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در فاصله‌ای حداکثر ۲۵ متر از تقاطع نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در فاصله‌ای حداکثر ۲۵ متر از تقاطع نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_10_8',
       italianText: 'Il segnale raffigurato prescrive di dare la precedenza ai veicoli provenienti da sinistra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که از چپ می‌آیند حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که از چپ می‌آیند حق تقدم بدهید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_10_9',
       italianText: 'Il segnale raffigurato preannuncia che non si ha diritto di precedenza nella confluenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که در محل ادغام حق تقدم نداریم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که در محل ادغام حق تقدم نداریم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_10_10',
       italianText: 'Il segnale raffigurato precede il segnale di DARE PRECEDENZA',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پیش از تابلوی «رعایت حق تقدم» قرار می‌گیرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش از تابلوی «رعایت حق تقدم» قرار می‌گیرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_10_11',
       italianText: 'Il segnale raffigurato, posto sulle autostrade, precede il segnale d’obbligo di svolta a sinistra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آزادراه‌ها پیش از تابلوی الزام به گردش به چپ قرار می‌گیرد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آزادراه‌ها پیش از تابلوی الزام به گردش به چپ قرار می‌گیرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_10_12',
       italianText: 'Il segnale raffigurato consente la svolta a sinistra al prossimo incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده گردش به چپ در تقاطع بعدی را مجاز می‌داند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده گردش به چپ در تقاطع بعدی را مجاز می‌داند.',
       correctAnswer: 'Falso'
     },
 
@@ -1293,109 +1293,109 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_11_7',
       italianText: 'Il segnale raffigurato obbliga ad arrestarsi all’incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده توقف در تقاطع را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده توقف در تقاطع را الزامی می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_8',
       italianText: 'Il segnale raffigurato può essere posto a protezione di attraversamenti pedonali pericolosi',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ممکن است برای حفاظت از گذرگاه‌های خطرناک عابر پیاده نصب شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است برای حفاظت از گذرگاه‌های خطرناک عابر پیاده نصب شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_9',
       italianText: 'Il segnale raffigurato è posto esclusivamente su strade extraurbane ad intenso traffico',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده منحصراً در جاده‌های برون‌شهری پرترافیک نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده منحصراً در جاده‌های برون‌شهری پرترافیک نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_10',
       italianText: 'Il segnale raffigurato preannuncia incrocio con precedenza rispetto ai soli veicoli provenienti da destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که فقط نسبت به وسایل نقلیهٔ سمت راست حق تقدم داریم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تقاطعی را از پیش اعلام می‌کند که فقط نسبت به وسایل نقلیهٔ سمت راست حق تقدم داریم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_11',
       italianText: 'Il segnale raffigurato preannuncia le corsie riservate agli autobus in servizio pubblico',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده خطوط مخصوص اتوبوس‌های خدمات عمومی را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده خطوط مخصوص اتوبوس‌های خدمات عمومی را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_12',
       italianText: 'Il segnale raffigurato preannuncia l’inizio di un cantiere stradale',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده آغاز یک کارگاه جاده‌ای را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک کارگاه جاده‌ای را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_13',
       italianText: 'Il segnale raffigurato si può trovare all’inizio di una strada urbana o extraurbana che gode del diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است در آغاز یک جادهٔ شهری یا برون‌شهریِ دارای حق تقدم نصب شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است در آغاز یک جادهٔ شهری یا برون‌شهریِ دارای حق تقدم نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_14',
       italianText: 'Il segnale raffigurato può essere ripetuto in formato piccolo prima e dopo ogni incrocio',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است با اندازهٔ کوچک، پیش و پس از هر تقاطع تکرار شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است با اندازهٔ کوچک، پیش و پس از هر تقاطع تکرار شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_15',
       italianText: 'Il segnale di figura (A) può essere ripetuto in formato piccolo e integrato con il pannello in figura (B) (FIG 972)',
-      farsiTranslation: 'صحیح: تابلوی شکل (A) ممکن است با اندازهٔ کوچک تکرار و با تابلوی تکمیلی شکل (B) همراه شود (شکل ۹۷۲).',
+      farsiTranslation: 'تابلوی شکل (A) ممکن است با اندازهٔ کوچک تکرار و با تابلوی تکمیلی شکل (B) همراه شود (شکل ۹۷۲).',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_16',
       italianText: 'Il segnale raffigurato comporta la presenza sulle strade che si incrociano del segnale DARE PRECEDENZA o STOP',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده مستلزم وجود تابلوی «رعایت حق تقدم» یا STOP در جاده‌های متقاطع است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مستلزم وجود تابلوی «رعایت حق تقدم» یا STOP در جاده‌های متقاطع است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_17',
       italianText: 'In presenza del segnale raffigurato è comunque necessario moderare la velocità in prossimità degli incroci',
-      farsiTranslation: 'صحیح: در حضور تابلوی نشان‌داده‌شده، همچنان لازم است در نزدیکی تقاطع‌ها سرعت را کاهش داد.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، همچنان لازم است در نزدیکی تقاطع‌ها سرعت را کاهش داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_11_18',
       italianText: 'Il segnale raffigurato si trova all’inizio di una strada senza diritto di precedenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آغاز جاده‌ای فاقد حق تقدم نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز جاده‌ای فاقد حق تقدم نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_19',
       italianText: 'Il segnale raffigurato si trova all’inizio di un’autostrada',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آغاز یک آزادراه نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز یک آزادراه نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_20',
       italianText: 'Il segnale raffigurato si trova esclusivamente all’inizio di una strada statale',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده منحصراً در آغاز یک جادهٔ دولتی نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده منحصراً در آغاز یک جادهٔ دولتی نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_21',
       italianText: 'In presenza del segnale raffigurato non occorrono particolari cautele perché si ha la precedenza',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده، چون حق تقدم داریم احتیاط خاصی لازم نیست.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، چون حق تقدم داریم احتیاط خاصی لازم نیست.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_22',
       italianText: 'Il segnale raffigurato si trova alla fine di una strada con diritto di precedenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در پایان جاده‌ای دارای حق تقدم نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در پایان جاده‌ای دارای حق تقدم نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_23',
       italianText: 'Il segnale raffigurato si trova alla fine di una strada statale',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در پایان یک جادهٔ دولتی نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در پایان یک جادهٔ دولتی نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_11_24',
       italianText: 'Il segnale raffigurato indica che si ha la precedenza fino all’uscita del centro abitato',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده بیان می‌کند که تا خروج از منطقهٔ مسکونی حق تقدم داریم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بیان می‌کند که تا خروج از منطقهٔ مسکونی حق تقدم داریم.',
       correctAnswer: 'Falso'
     },
 
@@ -1403,97 +1403,97 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_12_7',
       italianText: 'Il segnale raffigurato è un segnale di indicazione',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده یک تابلوی راهنما است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی راهنما است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_8',
       italianText: 'Il segnale raffigurato preannuncia che si sta percorrendo una strada con diritto di precedenza',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که در جاده‌ای دارای حق تقدم حرکت می‌کنیم.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که در جاده‌ای دارای حق تقدم حرکت می‌کنیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_9',
       italianText: 'Il segnale raffigurato obbliga ad arrestarsi all’incrocio',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده توقف در تقاطع را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده توقف در تقاطع را الزامی می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_10',
       italianText: 'Il segnale raffigurato indica l’andamento della strada principale',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده مسیر جادهٔ اصلی را نشان می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیر جادهٔ اصلی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_11',
       italianText: 'Il segnale raffigurato preannuncia sempre un incrocio con precedenza a destra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده همیشه تقاطعی با حق تقدم از راست را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده همیشه تقاطعی با حق تقدم از راست را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_12',
       italianText: 'Il segnale raffigurato preannuncia la fine dell’obbligo precedentemente imposto',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان الزام قبلی را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان الزام قبلی را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_13',
       italianText: 'Il segnale raffigurato preannuncia una strada senza uscita',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده یک جادهٔ بن‌بست را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک جادهٔ بن‌بست را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_14',
       italianText: 'Il segnale raffigurato modifica le precedenti norme sulla precedenza agli incroci',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده مقررات قبلی مربوط به حق تقدم در تقاطع‌ها را تغییر می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مقررات قبلی مربوط به حق تقدم در تقاطع‌ها را تغییر می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_15',
       italianText: 'Il segnale raffigurato indica che termina una strada con diritto di precedenza',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده بیان می‌کند که جادهٔ دارای حق تقدم پایان می‌یابد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بیان می‌کند که جادهٔ دارای حق تقدم پایان می‌یابد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_16',
       italianText: 'Il segnale raffigurato indica che dopo di esso si dovrà, di norma, dare la precedenza a destra',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده بیان می‌کند که پس از آن معمولاً باید به راست حق تقدم داد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بیان می‌کند که پس از آن معمولاً باید به راست حق تقدم داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_17',
       italianText: 'Il segnale raffigurato indica la fine del diritto di precedenza anche sulle strade urbane',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده پایان حق تقدم را در جاده‌های شهری نیز اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان حق تقدم را در جاده‌های شهری نیز اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_12_18',
       italianText: 'Il segnale raffigurato indica la fine di un’autostrada',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان یک آزادراه را نشان می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان یک آزادراه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_19',
       italianText: 'Il segnale raffigurato indica la fine di una strada a senso unico',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان یک جادهٔ یک‌طرفه را نشان می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان یک جادهٔ یک‌طرفه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_20',
       italianText: 'Il segnale raffigurato indica la fine di una strada a doppio senso di circolazione',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان یک جادهٔ دوطرفه را نشان می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان یک جادهٔ دوطرفه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_21',
       italianText: 'Il segnale raffigurato indica fine del limite di velocità',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان محدودیت سرعت را نشان می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان محدودیت سرعت را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_12_22',
       italianText: 'Il segnale raffigurato indica la fine di tutti i divieti',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان همهٔ ممنوعیت‌ها را نشان می‌دهد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان همهٔ ممنوعیت‌ها را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -1501,115 +1501,115 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_13_7',
       italianText: 'Il segnale raffigurato preannuncia che la circolazione non può svolgersi contemporaneamente nei due sensi',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که رفت‌وآمد نمی‌تواند هم‌زمان در هر دو جهت انجام شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که رفت‌وآمد نمی‌تواند هم‌زمان در هر دو جهت انجام شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_8',
       italianText: 'Il segnale raffigurato preannuncia che la circolazione è ammessa nei giorni pari in un senso e nei giorni dispari nell’altro',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که عبور در روزهای زوج در یک جهت و در روزهای فرد در جهت دیگر مجاز است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پیش اعلام می‌کند که عبور در روزهای زوج در یک جهت و در روزهای فرد در جهت دیگر مجاز است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_9',
       italianText: 'Il segnale raffigurato preannuncia il diritto di precedenza nei sensi unici alternati',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده داشتن حق تقدم در مسیرهای باریک با عبور نوبتی را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده داشتن حق تقدم در مسیرهای باریک با عبور نوبتی را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_10',
       italianText: 'Il segnale raffigurato, su una carreggiata a senso unico, preannuncia l’inizio del doppio senso di circolazione',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در یک سواره‌روی یک‌طرفه، آغاز رفت‌وآمد دوطرفه را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در یک سواره‌روی یک‌طرفه، آغاز رفت‌وآمد دوطرفه را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_11',
       italianText: 'Il segnale raffigurato preannuncia la fine del senso unico di circolazione',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان حرکت یک‌طرفه را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان حرکت یک‌طرفه را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_12',
       italianText: 'Il segnale raffigurato preannuncia la fine del diritto di precedenza nei sensi unici alternati',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پایان حق تقدم در مسیرهای باریک با عبور نوبتی را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان حق تقدم در مسیرهای باریک با عبور نوبتی را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_13',
       italianText: 'Il segnale raffigurato si trova su strade a senso unico di circolazione',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در جاده‌های یک‌طرفه نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های یک‌طرفه نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_14',
       italianText: 'Il segnale raffigurato è un segnale di prescrizione',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی دستوری است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_15',
       italianText: 'Il segnale raffigurato può essere posto in una strada in cui una parte della carreggiata è sbarrata',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است در جاده‌ای نصب شود که بخشی از سواره‌روی آن مسدود شده است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است در جاده‌ای نصب شود که بخشی از سواره‌روی آن مسدود شده است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_16',
       italianText: 'Il segnale raffigurato può essere posto in una strada con strettoia',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ممکن است در جاده‌ای دارای باریک‌شدگی نصب شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممکن است در جاده‌ای دارای باریک‌شدگی نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_17',
       italianText: 'Il segnale raffigurato impone di dare la precedenza ai veicoli provenienti dal senso opposto',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که از جهت مقابل می‌آیند حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند به وسایل نقلیه‌ای که از جهت مقابل می‌آیند حق تقدم بدهید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_18',
       italianText: 'Il segnale raffigurato prescrive di dare la precedenza nei sensi unici alternati',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده دادن حق تقدم در مسیرهای باریک با عبور نوبتی را الزامی می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دادن حق تقدم در مسیرهای باریک با عبور نوبتی را الزامی می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_19',
       italianText: 'Il segnale raffigurato si incontra prima di una strettoia che, di norma, consente il passaggio di una sola fila di veicoli',
-      farsiTranslation: 'صحیح: تابلوی نشان‌داده‌شده پیش از باریک‌شدگی‌ای دیده می‌شود که معمولاً فقط عبور یک ردیف وسیلهٔ نقلیه را ممکن می‌سازد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش از باریک‌شدگی‌ای دیده می‌شود که معمولاً فقط عبور یک ردیف وسیلهٔ نقلیه را ممکن می‌سازد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_3_13_20',
       italianText: 'Il segnale raffigurato si incontra prima di un qualsiasi restringimento della carreggiata',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده پیش از هر نوع باریک‌شدن سواره‌رو نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش از هر نوع باریک‌شدن سواره‌رو نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_21',
       italianText: 'Il segnale raffigurato è un segnale di divieto',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده یک تابلوی ممنوعیت است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی ممنوعیت است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_22',
       italianText: 'Il segnale raffigurato è posto all’inizio di una strada a senso unico',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده در آغاز یک جادهٔ یک‌طرفه نصب می‌شود.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز یک جادهٔ یک‌طرفه نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_23',
       italianText: 'Il segnale raffigurato obbliga a dare la precedenza, negli incroci, ai veicoli provenienti sia da destra che da sinistra',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ملزم می‌کند در تقاطع‌ها به وسایل نقلیه‌ای که هم از راست و هم از چپ می‌آیند حق تقدم بدهید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ملزم می‌کند در تقاطع‌ها به وسایل نقلیه‌ای که هم از راست و هم از چپ می‌آیند حق تقدم بدهید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_24',
       italianText: 'Il segnale raffigurato è un segnale di pericolo',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده یک تابلوی خطر است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تابلوی خطر است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_13_25',
       italianText: 'Il segnale raffigurato preannuncia il diritto di precedenza nei sensi unici alternati',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده داشتن حق تقدم در مسیرهای باریک با عبور نوبتی را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده داشتن حق تقدم در مسیرهای باریک با عبور نوبتی را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -1617,31 +1617,31 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
     {
       id: 'q_3_14_7',
       italianText: 'In presenza del segnale raffigurato non vi sono particolari obblighi perché siamo su una strada a senso unico',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده، چون در جاده‌ای یک‌طرفه هستیم الزام خاصی وجود ندارد.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، چون در جاده‌ای یک‌طرفه هستیم الزام خاصی وجود ندارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_14_8',
       italianText: 'In presenza del segnale raffigurato inizia il doppio senso di circolazione',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده، رفت‌وآمد دوطرفه آغاز می‌شود.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده، رفت‌وآمد دوطرفه آغاز می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_14_9',
       italianText: 'In presenza del segnale raffigurato si deve usare prudenza nella strettoia perché la circolazione si svolge a doppio senso',
-      farsiTranslation: 'غلط: در حضور تابلوی نشان‌داده‌شده باید در بخش باریک احتیاط کرد، زیرا رفت‌وآمد دوطرفه است.',
+      farsiTranslation: 'در حضور تابلوی نشان‌داده‌شده باید در بخش باریک احتیاط کرد، زیرا رفت‌وآمد دوطرفه است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_14_10',
       italianText: 'Il segnale raffigurato preannuncia il divieto d’inversione di marcia',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ممنوعیت دورزدن را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممنوعیت دورزدن را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_3_14_11',
       italianText: 'Il segnale raffigurato preannuncia il divieto di svolta',
-      farsiTranslation: 'غلط: تابلوی نشان‌داده‌شده ممنوعیت گردش را از پیش اعلام می‌کند.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممنوعیت گردش را از پیش اعلام می‌کند.',
       correctAnswer: 'Falso'
     }
 
@@ -1649,4 +1649,3 @@ Con un semaforo verde, spento o giallo lampeggiante si ha la precedenza, salvo d
 
   ]
 };
-

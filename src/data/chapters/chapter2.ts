@@ -34,14 +34,14 @@ Bisogna rallentare, tenere saldamente il volante ed evitare sbandamenti e sollec
       italianText: `Il segnale Dosso indica una salita seguita da una discesa, con una variazione di pendenza che normalmente limita la visibilità.
 
 Divieti:
-Sul tratto in salita sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è possibile se la strada è a senso unico oppure a doppio senso con almeno due corsie per ogni direzione.
+Sul tratto in salita sono vietati il sorpasso, la fermata, la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è possibile se la strada è a senso unico oppure a doppio senso con almeno due corsie per ogni direzione.
 
 Comportamento:
 Ridurre la velocità e, sulle strade a doppio senso con due sole corsie, tenersi il più possibile vicino al margine destro.`,
       farsiTranslation: `تابلوی Dosso سربالایی‌ای را نشان می‌دهد که پس از آن سراشیبی قرار دارد و تغییر شیب معمولاً دید را محدود می‌کند.
 
 ممنوعیت‌ها:
-در بخش سربالایی، سبقت، پارک، دورزدن و دنده‌عقب ممنوع است. اگر جاده یک‌طرفه باشد یا در جاده دوطرفه برای هر جهت حداقل دو باند وجود داشته باشد، سبقت ممکن است.
+در بخش سربالایی، سبقت، توقف کوتاه، پارک، دورزدن و دنده‌عقب ممنوع است. اگر جاده یک‌طرفه باشد یا در جاده دوطرفه برای هر جهت حداقل دو باند وجود داشته باشد، سبقت ممکن است.
 
 رفتار:
 سرعت را کاهش دهید و در جاده دوطرفه دو بانده تا حد ممکن نزدیک حاشیه راست حرکت کنید.`,
@@ -76,14 +76,14 @@ Moderare la velocità, tenere saldamente il volante e mantenere il controllo del
       italianText: `Indica una curva pericolosa a destra, cioè un tratto non rettilineo nel quale la visibilità è normalmente limitata.
 
 Divieti:
-Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è consentito su strada a senso unico o a doppio senso con almeno due corsie per ogni direzione.
+Sono vietati il sorpasso, la fermata, la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è consentito su strada a senso unico o a doppio senso con almeno due corsie per ogni direzione.
 
 Comportamento:
 Ridurre la velocità in base alla visibilità, al raggio della curva e allo stato degli pneumatici. Su strada a doppio senso con due corsie bisogna tenersi vicino al margine destro. Può essere integrato dal pannello Tornante.`,
       farsiTranslation: `پیچ خطرناک به راست، یعنی بخش غیرمستقیمی از جاده با دید معمولاً محدود را نشان می‌دهد.
 
 ممنوعیت‌ها:
-سبقت، پارک، دورزدن و دنده‌عقب ممنوع است. در جاده یک‌طرفه یا جاده دوطرفه دارای حداقل دو باند برای هر جهت، سبقت مجاز است.
+سبقت، توقف کوتاه، پارک، دورزدن و دنده‌عقب ممنوع است. در جاده یک‌طرفه یا جاده دوطرفه دارای حداقل دو باند برای هر جهت، سبقت مجاز است.
 
 رفتار:
 سرعت را متناسب با دید، شعاع پیچ و وضعیت لاستیک‌ها کاهش دهید. در جاده دوطرفه دو بانده نزدیک حاشیه راست بمانید. ممکن است با پنل Tornante تکمیل شود.`,
@@ -97,14 +97,14 @@ Ridurre la velocità in base alla visibilità, al raggio della curva e allo stat
       italianText: `Indica una curva pericolosa a sinistra, cioè un tratto non rettilineo nel quale la visibilità è normalmente limitata.
 
 Divieti:
-Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è consentito su strada a senso unico o a doppio senso con almeno due corsie per ogni direzione.
+Sono vietati il sorpasso, la fermata, la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è consentito su strada a senso unico o a doppio senso con almeno due corsie per ogni direzione.
 
 Comportamento:
 Ridurre la velocità in base alla visibilità, al raggio della curva e allo stato degli pneumatici e tenersi vicino al margine destro. Non indica una deviazione o un ostacolo da aggirare.`,
       farsiTranslation: `پیچ خطرناک به چپ، یعنی بخش غیرمستقیمی از جاده با دید معمولاً محدود را نشان می‌دهد.
 
 ممنوعیت‌ها:
-سبقت، پارک، دورزدن و دنده‌عقب ممنوع است. در جاده یک‌طرفه یا جاده دوطرفه دارای حداقل دو باند برای هر جهت، سبقت مجاز است.
+سبقت، توقف کوتاه، پارک، دورزدن و دنده‌عقب ممنوع است. در جاده یک‌طرفه یا جاده دوطرفه دارای حداقل دو باند برای هر جهت، سبقت مجاز است.
 
 رفتار:
 سرعت را متناسب با دید، شعاع پیچ و وضعیت لاستیک‌ها کاهش دهید و نزدیک حاشیه راست بمانید. این تابلو انحراف مسیر یا مانعی برای دورزدن را نشان نمی‌دهد.`,
@@ -118,13 +118,13 @@ Ridurre la velocità in base alla visibilità, al raggio della curva e allo stat
       italianText: `Indica una successione di curve pericolose, la prima delle quali è a destra. La visibilità è normalmente limitata.
 
 Divieti e comportamento:
-Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia, salvo il caso di strada a senso unico o con almeno due corsie per ogni senso. Bisogna ridurre la velocità in relazione alla visibilità, al raggio delle curve e al carico del veicolo e tenersi a destra.
+Sono vietati il sorpasso, la fermata, la sosta, l'inversione di marcia e la retromarcia, salvo il caso di strada a senso unico o con almeno due corsie per ogni senso. Bisogna ridurre la velocità in relazione alla visibilità, al raggio delle curve e al carico del veicolo e tenersi a destra.
 
 Può essere integrato dai pannelli Tornanti o Estesa.`,
       farsiTranslation: `مجموعه‌ای از پیچ‌های خطرناک را نشان می‌دهد که اولین پیچ به راست است. دید معمولاً محدود است.
 
 ممنوعیت‌ها و رفتار:
-سبقت، پارک، دورزدن و دنده‌عقب ممنوع است، مگر در جاده یک‌طرفه یا دارای حداقل دو باند برای هر جهت. سرعت را متناسب با دید، شعاع پیچ‌ها و بار خودرو کم کنید و سمت راست بمانید.
+سبقت، توقف کوتاه، پارک، دورزدن و دنده‌عقب ممنوع است، مگر در جاده یک‌طرفه یا دارای حداقل دو باند برای هر جهت. سرعت را متناسب با دید، شعاع پیچ‌ها و بار خودرو کم کنید و سمت راست بمانید.
 
 ممکن است با پنل‌های Tornanti یا Estesa تکمیل شود.`,
       imageUrl: '/images/2-6.jpg',
@@ -137,13 +137,13 @@ Può essere integrato dai pannelli Tornanti o Estesa.`,
       italianText: `Indica una successione di curve pericolose, la prima delle quali è a sinistra. La visibilità è normalmente limitata.
 
 Divieti e comportamento:
-Sono vietati il sorpasso, la sosta, l'inversione di marcia e la retromarcia, salvo il caso di strada a senso unico o con almeno due corsie per ogni senso. Bisogna ridurre la velocità in relazione alla visibilità, al raggio delle curve e al carico del veicolo e tenersi a destra.
+Sono vietati il sorpasso, la fermata, la sosta, l'inversione di marcia e la retromarcia, salvo il caso di strada a senso unico o con almeno due corsie per ogni senso. Bisogna ridurre la velocità in relazione alla visibilità, al raggio delle curve e al carico del veicolo e tenersi a destra.
 
 Può essere integrato dai pannelli Tornanti o Estesa.`,
       farsiTranslation: `مجموعه‌ای از پیچ‌های خطرناک را نشان می‌دهد که اولین پیچ به چپ است. دید معمولاً محدود است.
 
 ممنوعیت‌ها و رفتار:
-سبقت، پارک، دورزدن و دنده‌عقب ممنوع است، مگر در جاده یک‌طرفه یا دارای حداقل دو باند برای هر جهت. سرعت را متناسب با دید، شعاع پیچ‌ها و بار خودرو کم کنید و سمت راست بمانید.
+سبقت، توقف کوتاه، پارک، دورزدن و دنده‌عقب ممنوع است، مگر در جاده یک‌طرفه یا دارای حداقل دو باند برای هر جهت. سرعت را متناسب با دید، شعاع پیچ‌ها و بار خودرو کم کنید و سمت راست بمانید.
 
 ممکن است با پنل‌های Tornanti یا Estesa تکمیل شود.`,
       imageUrl: '/images/2-7.jpg',
@@ -167,7 +167,7 @@ Sono vietati la sosta, l'inversione di marcia e la retromarcia. Il sorpasso è a
 پارک، دورزدن و دنده‌عقب ممنوع است. سبقت فقط با ماندن در نیمه خودِ جاده مجاز است. صلیب سنت آندره مربوط به این نوع گذرگاه نیست.`,
       imageUrl: '/images/2-8.jpg',
       vocabularyIds: [ 'barriere', 'binari', 'consentito', 'corsia', 'dispositivo_acustico', 'fermata', 'indica', 'linea_tranviaria', 'luci_rosse', 'luci_rosse_lampeggianti', 'moderare', 'passaggio_a_livello', 'passaggio_la_livello', 'per', 'puo', 'se', 'semibarriere', 'sono', 'sorpasso', 'sosta', 'velocita', 'vietate', 'vietate_pl', 'non', 'con', 'soltanto', 'un', 'che', 'nella', 'segnalazione', 'passaggio', 'metri', 'normalmente', 'luce', 'luci', 'rosse', 'lampeggianti', 'livello', 'funzione', 'andrea', 'croce', 'e_verb'],
-      questionIds: ['q_2_8_1', 'q_2_8_2', 'q_2_8_3', 'q_2_8_4', 'q_2_8_5', 'q_2_8_6', 'q_2_8_7', 'q_2_8_8', 'q_2_8_9', 'q_2_8_10', 'q_2_8_11', 'q_2_8_12', 'q_2_8_13', 'q_2_8_14', 'q_2_8_15', 'q_2_8_16', 'q_2_8_17', 'q_2_8_18', 'q_2_8_19', 'q_2_8_20', 'q_2_8_21', 'q_2_8_22', 'q_2_8_23', 'q_2_8_24', 'q_2_8_25', 'q_2_8_26', 'q_2_8_27']
+      questionIds: ['q_2_8_1', 'q_2_8_2', 'q_2_8_3', 'q_2_8_4', 'q_2_8_5', 'q_2_8_6', 'q_2_8_7', 'q_2_8_8', 'q_2_8_9', 'q_2_8_10', 'q_2_8_11', 'q_2_8_12', 'q_2_8_13', 'q_2_8_14', 'q_2_8_15', 'q_2_8_16', 'q_2_8_17', 'q_2_8_18', 'q_2_8_19', 'q_2_8_20', 'q_2_8_21', 'q_2_8_22', 'q_2_8_23', 'q_2_8_24', 'q_2_8_25', 'q_2_8_26', 'q_2_8_27', 'q_2_8_28']
     },
     {
       id: 'topic_2_9',
@@ -311,7 +311,7 @@ In discesa aumenta lo spazio di frenatura; bisogna quindi aumentare la distanza 
 در سراشیبی فاصله ترمز افزایش می‌یابد؛ بنابراین فاصله ایمنی را بیشتر کنید.`,
       imageUrl: '/images/2-16.jpg',
       vocabularyIds: [ 'comportamento', 'discesa', 'discesa_pericolosa', 'evitare', 'freno_motore', 'frizione', 'marcia_bassa', 'pendenza', 'per', 'salita', 'spazio', 'spazio_di_frenatura', 'surriscaldamento', 'non', 'con', 'possono', 'una', 'perché', 'quindi', 'bassa', 'pericolosa', 'usare', 'tenere', 'motore', 'bagnata', 'frenatura', 'freni', 'soprattutto'],
-      questionIds: ['q_2_16_1', 'q_2_16_2', 'q_2_16_3', 'q_2_16_4', 'q_2_16_5', 'q_2_16_6', 'q_2_16_7', 'q_2_16_8', 'q_2_16_9', 'q_2_16_10', 'q_2_16_11', 'q_2_16_12', 'q_2_16_13', 'q_2_16_14', 'q_2_16_15', 'q_2_16_16', 'q_2_16_17', 'q_2_16_18', 'q_2_16_19', 'q_2_16_20', 'q_2_16_21', 'q_2_16_22']
+      questionIds: ['q_2_16_1', 'q_2_16_2', 'q_2_16_3', 'q_2_16_4', 'q_2_16_5', 'q_2_16_6', 'q_2_16_7', 'q_2_16_8', 'q_2_16_9', 'q_2_16_10', 'q_2_16_11', 'q_2_16_12', 'q_2_16_13', 'q_2_16_14', 'q_2_16_15', 'q_2_16_16', 'q_2_16_17', 'q_2_16_18', 'q_2_16_19', 'q_2_16_20', 'q_2_16_21', 'q_2_16_22', 'q_2_16_23']
     },
     {
       id: 'topic_2_17',
@@ -1915,7 +1915,7 @@ Il segnale deve essere accompagnato da un pannello integrativo che precisa la na
   },
   {
     id: 'q_2_8_20',
-    italianText: 'In presenza del segnale raffigurato è consentito sostare in corrispondenza o in prossimità dei passaggi a livelli',
+    italianText: 'In presenza del segnale raffigurato è consentito sostare in corrispondenza o in prossimità dei passaggi a livello',
     farsiTranslation: `در حضور تابلوی نشان‌داده‌شده پارک‌کردن در محل یا نزدیکی گذرگاه راه‌آهن مجاز است.`,
     correctAnswer: 'Falso'
   },
@@ -1960,6 +1960,12 @@ Il segnale deve essere accompagnato da un pannello integrativo che precisa la na
     italianText: 'In presenza del segnale raffigurato, se il veicolo si ferma per avaria sui binari, il conducente deve adottare ogni iniziativa utile al fine di evitare incidenti',
     farsiTranslation: `در حضور تابلوی نشان‌داده‌شده، اگر وسیلهٔ نقلیه بر اثر خرابی روی ریل متوقف شود راننده باید هر اقدام مفیدی را برای جلوگیری از تصادف انجام دهد.`,
     correctAnswer: 'Vero'
+  },
+  {
+    id: 'q_2_8_28',
+    italianText: 'Il segnale raffigurato è integrato con il segnale DOPPIA CROCE DI S. ANDREA.',
+    farsiTranslation: 'تابلوی نشان‌داده‌شده با تابلوی دوگانه صلیب سنت آندره ادغام شده است.',
+    correctAnswer: 'Falso'
   },
 
   // Topic 2.9: Passaggio a livello senza barriere
@@ -2903,6 +2909,12 @@ Il segnale deve essere accompagnato da un pannello integrativo che precisa la na
     id: 'q_2_16_22',
     italianText: 'In presenza del segnale raffigurato il conducente deve diminuire la distanza di sicurezza dal veicolo che lo precede',
     farsiTranslation: `در حضور تابلوی نشان‌داده‌شده راننده باید فاصلهٔ ایمنی با خودروی جلو را کاهش دهد.`,
+    correctAnswer: 'Falso'
+  },
+  {
+    id: 'q_2_16_23',
+    italianText: 'In presenza del segnale raffigurato, lo spazio di frenatura del veicolo diminuisce.',
+    farsiTranslation: 'در حضور این تابلو، مسافت ترمزگیری خودرو کاهش می‌یابد.',
     correctAnswer: 'Falso'
   },// Topic 2.17: Salita ripida
   {
@@ -4478,7 +4490,7 @@ Il segnale deve essere accompagnato da un pannello integrativo che precisa la na
   },
   {
     id: 'q_2_36_3',
-    italianText: 'Il segnale raffigurato può trovarsi viadotti esposti ad improvvise raffiche di vento laterale',
+    italianText: 'Il segnale raffigurato può trovarsi su viadotti esposti ad improvvise raffiche di vento laterale',
     farsiTranslation: `تابلوی نشان‌داده‌شده ممکن است روی پل‌های بلند در معرض تندباد جانبی نصب شود.`,
     correctAnswer: 'Vero'
   },
@@ -4516,7 +4528,7 @@ Il segnale deve essere accompagnato da un pannello integrativo che precisa la na
     id: 'q_2_36_9',
     italianText: 'Il segnale raffigurato indica la direzione e l\'intensità del vento',
     farsiTranslation: `تابلوی نشان‌داده‌شده جهت و شدت باد را نشان می‌دهد.`,
-    correctAnswer: 'Falso'
+    correctAnswer: 'Vero'
   },
   {
     id: 'q_2_36_10',

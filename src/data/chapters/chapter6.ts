@@ -2796,12 +2796,12 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'topic_6_45',
       title: '6.45 Uso corsie extraurbane',
-      italianText: `✅ Indica le modalità di utilizzo delle corsie.
-✅ Ad esempio: divieto per gli autocarri >3,5t di occupare la corsia di sinistra, oppure limiti MINIMI di velocità per le corsie di sorpasso.
-❌ Non impone limiti massimi (se sono blu rotondi).`,
-      farsiTranslation: `ویژگی‌ها: نحوه استفاده از لاین‌ها (Uso delle corsie).
-قوانین و ویژگی‌ها: این تابلوها مشخص می‌کنند که هر لاین برای چه ماشینی مجاز یا ممنوع است. مثلاً ممکن است نشان دهد لاین سمت چپ برای کامیون‌ها ممنوع است، یا حداقل سرعت در لاین سبقت چقدر است.
-اشتباهات رایج (رد گزینه‌های آزمون): اگر دایره آبی روی آن‌ها کشیده شده باشد، یعنی حداقل سرعت؛ نباید با حداکثر سرعت اشتباه گرفته شود.`,
+      italianText: `✅ Indica come utilizzare le corsie di una carreggiata extraurbana a senso unico.
+✅ Consente motocicli e autovetture su entrambe le corsie, ma vieta la corsia di sinistra agli autocarri oltre 3,5 t.
+❌ Non vieta il transito a tutti gli autocarri, agli autobus o a tutti i veicoli oltre 3,5 t.`,
+      farsiTranslation: `ویژگی‌ها: نحوه استفاده از لاین‌ها در یک سواره‌روی برون‌شهری یک‌طرفه را نشان می‌دهد.
+قوانین و ویژگی‌ها: موتورسیکلت‌ها و خودروهای سواری می‌توانند از هر دو لاین استفاده کنند، اما کامیون‌های با جرم بیش از ۳.۵ تن حق استفاده از لاین چپ را ندارند.
+اشتباهات رایج (رد گزینه‌های آزمون): این تابلو عبور همه کامیون‌ها، اتوبوس‌ها یا همه وسایل نقلیه بالای ۳.۵ تن را ممنوع نمی‌کند؛ ممنوعیت فقط برای کامیون‌های بالای ۳.۵ تن در لاین چپ است.`,
       imageUrl: '/images/6-45.jpg',
       vocabularyIds: [
         'occupare',
@@ -2876,12 +2876,12 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'topic_6_46',
       title: '6.46 Uso corsie autostradali con velocità minime',
-      italianText: `✅ Indica le modalità di utilizzo delle corsie.
-✅ Ad esempio: divieto per gli autocarri >3,5t di occupare la corsia di sinistra, oppure limiti MINIMI di velocità per le corsie di sorpasso.
-❌ Non impone limiti massimi (se sono blu rotondi).`,
-      farsiTranslation: `ویژگی‌ها: نحوه استفاده از لاین‌ها (Uso delle corsie).
-قوانین و ویژگی‌ها: این تابلوها مشخص می‌کنند که هر لاین برای چه ماشینی مجاز یا ممنوع است. مثلاً ممکن است نشان دهد لاین سمت چپ برای کامیون‌ها ممنوع است، یا حداقل سرعت در لاین سبقت چقدر است.
-اشتباهات رایج (رد گزینه‌های آزمون): اگر دایره آبی روی آن‌ها کشیده شده باشد، یعنی حداقل سرعت؛ نباید با حداکثر سرعت اشتباه گرفته شود.`,
+      italianText: `✅ Indica le velocità minime obbligatorie da mantenere sulle corsie indicate.
+✅ I veicoli che non raggiungono quelle velocità devono spostarsi sulle corsie più a destra; ad esempio a 80 km/h non si usa la corsia di sinistra.
+❌ Non indica velocità massime o velocità consigliate: le velocità indicate sono minime obbligatorie.`,
+      farsiTranslation: `ویژگی‌ها: حداقل سرعت‌های اجباری را برای لاین‌های مشخص‌شده نشان می‌دهد.
+قوانین و ویژگی‌ها: وسیله‌ای که به آن حداقل سرعت نمی‌رسد باید به لاین‌های سمت راست برود؛ مثلاً با سرعت ۸۰ کیلومتر بر ساعت نمی‌توان در لاین چپ ماند.
+اشتباهات رایج (رد گزینه‌های آزمون): این عددها حداکثر سرعت یا سرعت پیشنهادی نیستند؛ حداقل سرعت اجباری هر لاین هستند.`,
       imageUrl: '/images/6-46.jpg',
       vocabularyIds: [
         'occupare',
@@ -2952,12 +2952,12 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'topic_6_47',
       title: '6.47 Uso corsie urbane per categorie di veicoli',
-      italianText: `✅ Indica le modalità di utilizzo delle corsie.
-✅ Ad esempio: divieto per gli autocarri >3,5t di occupare la corsia di sinistra, oppure limiti MINIMI di velocità per le corsie di sorpasso.
-❌ Non impone limiti massimi (se sono blu rotondi).`,
-      farsiTranslation: `ویژگی‌ها: نحوه استفاده از لاین‌ها (Uso delle corsie).
-قوانین و ویژگی‌ها: این تابلوها مشخص می‌کنند که هر لاین برای چه ماشینی مجاز یا ممنوع است. مثلاً ممکن است نشان دهد لاین سمت چپ برای کامیون‌ها ممنوع است، یا حداقل سرعت در لاین سبقت چقدر است.
-اشتباهات رایج (رد گزینه‌های آزمون): اگر دایره آبی روی آن‌ها کشیده شده باشد، یعنی حداقل سرعت؛ نباید با حداکثر سرعت اشتباه گرفته شود.`,
+      italianText: `✅ Indica come devono essere utilizzate le corsie su strada urbana a senso unico.
+✅ La corsia di destra è riservata esclusivamente agli autobus dei servizi pubblici urbani; le corsie di sinistra sono per il traffico normale.
+❌ Non può essere posto in autostrada, non consente ai taxi la corsia di destra e non indica una pista ciclabile.`,
+      farsiTranslation: `ویژگی‌ها: نحوه استفاده از لاین‌ها را در یک راه شهری یک‌طرفه نشان می‌دهد.
+قوانین و ویژگی‌ها: لاین راست فقط مخصوص اتوبوس‌های خدمات عمومی شهری است و لاین‌های سمت چپ برای تردد عادی وسایل نقلیه هستند.
+اشتباهات رایج (رد گزینه‌های آزمون): این تابلو در اتوبان نصب نمی‌شود، به تاکسی‌ها اجازه استفاده از لاین راست نمی‌دهد و نشان‌دهنده مسیر دوچرخه نیست.`,
       imageUrl: '/images/6-47.jpg',
       vocabularyIds: [
         'occupare',
@@ -3916,67 +3916,67 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_1_1',
       italianText: 'Il segnale raffigurato preavvisa un incrocio urbano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش‌آگهی یک تقاطع شهری است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_1_2',
       italianText: 'Il segnale raffigurato riporta i nomi dei luoghi raggiungibili dall’incrocio urbano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نام مکان‌هایی را نشان می‌دهد که از تقاطع شهری می‌توان به آن‌ها رسید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_1_3',
       italianText: 'Il segnale raffigurato preavvisa la svolta a destra per raggiungere la stazione ferroviaria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای رسیدن به ایستگاه راه‌آهن باید به راست پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_1_4',
       italianText: 'Il segnale raffigurato preavvisa la svolta a destra per raggiungere il centro della città',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای رسیدن به مرکز شهر باید به راست پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_1_5',
       italianText: 'Il segnale raffigurato indica di proseguire diritto per raggiungere Sora',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به سورا باید مستقیم ادامه داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_1_6',
       italianText: 'Il segnale raffigurato preavvisa di proseguire diritto per raggiungere Napoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای رسیدن به ناپل باید مستقیم ادامه داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_1_7',
       italianText: 'Il segnale raffigurato si trova su strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_1_8',
       italianText: 'Il segnale raffigurato indica di svoltare a destra per uscire dal centro abitato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای خارج شدن از منطقه مسکونی باید به راست پیچید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_1_9',
       italianText: 'Il segnale raffigurato indica che per raggiungere il centro della città bisogna tornare indietro',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به مرکز شهر باید برگردید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_1_10',
       italianText: 'Il segnale raffigurato preavvisa un’area di sosta a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از وجود یک محل توقف در سمت راست خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_1_11',
       italianText: 'Il segnale raffigurato preavvisa a destra un passaggio a livello senza barriere',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از وجود یک گذرگاه راه‌آهن بدون مانع در سمت راست خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -3984,85 +3984,85 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_2_1',
       italianText: 'Il segnale raffigurato preavvisa due incroci vicini',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از وجود دو تقاطع نزدیک به هم خبر می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_2',
       italianText: 'Il segnale raffigurato indica che non è possibile svoltare a sinistra al primo incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در تقاطع اول امکان پیچیدن به چپ وجود ندارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_3',
       italianText: 'Il segnale raffigurato preavvisa di svoltare a sinistra per l’ospedale al secondo incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای بیمارستان باید در تقاطع دوم به چپ پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_4',
       italianText: 'Il segnale raffigurato preavvisa di svoltare a destra per via Gemona al primo incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای خیابان جمونا باید در تقاطع اول به راست پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_5',
       italianText: 'Il segnale raffigurato preavvisa di svoltare a destra per il centro della città al secondo incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای مرکز شهر باید در تقاطع دوم به راست پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_6',
       italianText: 'Il segnale raffigurato preavvisa di svoltare a destra in direzione Trieste al secondo incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای مسیر تریسته باید در تقاطع دوم به راست پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_7',
       italianText: 'Il segnale raffigurato indica che bisogna svoltare a sinistra al secondo incrocio per raggiungere l’Austria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به اتریش باید در تقاطع دوم به چپ پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_8',
       italianText: 'Il segnale raffigurato indica due incroci vicini su strada urbana',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دو تقاطع نزدیک به هم را در یک راه شهری نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_2_9',
       italianText: 'Il segnale raffigurato si trova su strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_2_10',
       italianText: 'Il segnale raffigurato indica come lasciare in sosta i veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد خودروها چگونه باید پارک شوند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_2_11',
       italianText: 'Il segnale raffigurato indica ai veicoli diretti in Austria di tornare indietro',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به وسایل نقلیه‌ای که به سمت اتریش می‌روند می‌گوید برگردند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_2_12',
       italianText: 'Il segnale raffigurato consente di svoltare a sinistra al primo incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه می‌دهد در تقاطع اول به چپ پیچید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_2_13',
       italianText: 'Il segnale raffigurato indica come uscire da un centro commerciale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد چگونه باید از یک مرکز خرید خارج شد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_2_14',
       italianText: 'Il segnale raffigurato preannuncia le direzioni per l’ingresso in autostrada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incroci ravvicinati urbani» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیرهای ورود به اتوبان را از قبل اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -4070,61 +4070,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_3_1',
       italianText: 'Il segnale raffigurato è un preavviso di incrocio urbano con circolazione rotatoria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش‌آگهی یک تقاطع شهری با گردش دور میدان است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_3_2',
       italianText: 'Il segnale raffigurato preavvisa di svoltare alla prima traversa a destra per andare a Forlì',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای رفتن به فورلی باید از اولین شاخه سمت راست خارج شد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_3_3',
       italianText: 'Il segnale raffigurato preavvisa di svoltare alla seconda traversa per raggiungere la tangenziale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای رسیدن به کمربندی باید از شاخه دوم خارج شد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_3_4',
       italianText: 'Il segnale raffigurato contiene lo schema della rotatoria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نقشه میدان را در خود دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_3_5',
       italianText: 'Il segnale raffigurato riporta i nomi delle località raggiungibili',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نام شهرها یا محل‌هایی را که می‌توان به آن‌ها رسید نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_3_6',
       italianText: 'Il segnale raffigurato indica una strada interrotta',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه بسته را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_3_7',
       italianText: 'Il segnale raffigurato preavvisa un’area pedonale con verde pubblico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از وجود یک منطقه پیاده‌رو با فضای سبز خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_3_8',
       italianText: 'Il segnale raffigurato preavvisa un divieto di transito agli autoveicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از ممنوعیت عبور وسایل نقلیه موتوری خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_3_9',
       italianText: 'Il segnale raffigurato si trova su strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_3_10',
       italianText: 'Il segnale raffigurato vale solo nelle ore notturne',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con circolazione rotatoria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در ساعت‌های شب اعتبار دارد.',
       correctAnswer: 'Falso'
     },
 
@@ -4132,61 +4132,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_4_1',
       italianText: 'Il segnale raffigurato è un preavviso di incrocio urbano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیش‌آگهی یک تقاطع شهری است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_4_2',
       italianText: 'Il segnale raffigurato vieta agli autocarri di massa a pieno carico superiore a 3,5 tonnellate di proseguire diritto per Avezzano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به کامیون‌های با وزن کامل بیش از ۳.۵ تن ممنوع می‌کند که برای رفتن به آوتزانو مستقیم ادامه دهند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_4_3',
       italianText: 'Il segnale raffigurato consente alle autovetture di proseguire diritto per Pescara',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به خودروهای سواری اجازه می‌دهد برای پسکارا مستقیم ادامه دهند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_4_4',
       italianText: 'Il segnale raffigurato preavvisa di svoltare a sinistra per raggiungere l’autostrada Roma-L’Aquila',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای رسیدن به اتوبان رم-لاکویلا باید به چپ پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_4_5',
       italianText: 'Il segnale raffigurato vieta agli autocarri di massa a pieno carico superiore a 3,5 tonnellate di continuare diritto per rag- giungere il centro urbano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به کامیون‌های با وزن کامل بیش از ۳.۵ تن ممنوع می‌کند که برای رسیدن به مرکز شهر مستقیم ادامه دهند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_4_6',
       italianText: 'Il segnale raffigurato vieta anche agli autobus di raggiungere Avezzano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حتی به اتوبوس‌ها نیز ممنوع می‌کند که به آوتزانو برسند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_4_7',
       italianText: 'Il segnale raffigurato si trova solo su strade a senso unico di circolazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در راه‌های یک‌طرفه قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_4_8',
       italianText: 'Il segnale raffigurato si trova all’ingresso di un’autostrada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در ورودی یک اتوبان قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_4_9',
       italianText: 'Il segnale raffigurato indica che la corsia centrale è chiusa',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد لاین وسط بسته است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_4_10',
       italianText: 'Il segnale raffigurato fa parte dei segnali di precedenza',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio urbano con limitazione di transito per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جزو تابلوهای حق تقدم است.',
       correctAnswer: 'Falso'
     },
 
@@ -4194,67 +4194,67 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_5_1',
       italianText: 'Il segnale raffigurato preavvisa un incrocio su strada extraurbana',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک تقاطع در جاده برون‌شهری خبر می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_5_2',
       italianText: 'Il segnale raffigurato indica la presenza di un passaggio a livello svoltando a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد با پیچیدن به راست، گذرگاه راه‌آهن وجود دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_5_3',
       italianText: 'Il segnale raffigurato preavvisa di proseguire diritto per raggiungere Porto T orres',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای رسیدن به پورتو تورس باید مستقیم ادامه داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_5_4',
       italianText: 'Il segnale raffigurato preavvisa di svoltare a sinistra per una località turistica',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای یک محل گردشگری باید به چپ پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_5_5',
       italianText: 'Il segnale raffigurato preavvisa di svoltare a destra per S. Giovanni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که برای سن جووانی باید به راست پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_5_6',
       italianText: 'Il segnale raffigurato preannuncia un pericolo per chi svolta a destra per il possibile attraversamento di treni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای کسی که به راست می‌پیچد، خطر احتمالی عبور قطارها را از قبل اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_5_7',
       italianText: 'Il segnale raffigurato si trova dopo un incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بعد از یک تقاطع قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_5_8',
       italianText: 'Il segnale raffigurato indica una stazione balneare a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک ایستگاه ساحلی را در سمت چپ نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_5_9',
       italianText: 'Il segnale raffigurato fa parte dei segnali di obbligo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جزو تابلوهای الزامی است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_5_10',
       italianText: 'Il segnale raffigurato indica che non è possibile raggiungere S. Giovanni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد رسیدن به سن جووانی ممکن نیست.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_5_11',
       italianText: 'Il segnale raffigurato preavvisa un incrocio urbano con zona residenziale a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di incrocio extraurbano con passaggio a livello» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک تقاطع شهری با منطقه مسکونی در سمت چپ خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -4262,19 +4262,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_6_1',
       italianText: 'Il segnale raffigurato indica che per raggiungere Bologna bisogna proseguire diritto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به بولونیا باید مستقیم ادامه داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_6_2',
       italianText: 'Il segnale raffigurato preavvisa due determinate destinazioni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دو مقصد مشخص را از قبل اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_6_3',
       italianText: 'Il segnale raffigurato preavvisa uno svincolo con svolta a sinistra per l’aeroporto di Linate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک خروجی خبر می‌دهد که برای فرودگاه لیناته باید در آن به چپ پیچید.',
       correctAnswer: 'Vero'
     },
     {
@@ -4286,43 +4286,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_6_5',
       italianText: 'Il segnale raffigurato preavvisa uno svincolo in cui si deve proseguire diritto per andare a Bologna',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از خروجی‌ای خبر می‌دهد که در آن برای رفتن به بولونیا باید مستقیم ادامه داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_6_6',
       italianText: 'Il segnale raffigurato si trova su strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری عادی قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_6_7',
       italianText: 'Il segnale raffigurato vieta la svolta a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیچیدن به چپ را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_6_8',
       italianText: 'Il segnale raffigurato indica che manca un chilometro per arrivare a Bologna',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا رسیدن به بولونیا یک کیلومتر باقی مانده است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_6_9',
       italianText: 'Il segnale raffigurato obbliga a cambiare corsia per raggiungere Bologna',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای رسیدن به بولونیا تغییر لاین را اجباری می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_6_10',
       italianText: 'Il segnale raffigurato è posto all’ingresso di un aeroporto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در ورودی یک فرودگاه نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_6_11',
       italianText: 'Il segnale raffigurato indica un parco giochi sulla sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک پارک بازی را در سمت چپ نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -4330,31 +4330,31 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_7_1',
       italianText: 'Il segnale raffigurato indica che per raggiungere Milano bisogna proseguire diritto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به میلان باید مستقیم ادامه داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_7_2',
       italianText: 'Il segnale raffigurato indica due determinate destinazioni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دو مقصد مشخص را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_7_3',
       italianText: 'Il segnale raffigurato preavvisa un incrocio con svolta a destra per il centro cittadino',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از تقاطعی خبر می‌دهد که برای مرکز شهر باید در آن به راست پیچید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_7_4',
       italianText: 'Il segnale raffigurato si può trovare su strade urbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند در خیابان‌های شهری نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_7_5',
       italianText: 'Il segnale raffigurato preavvisa un incrocio in cui si deve proseguire diritto per andare a Milano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از تقاطعی خبر می‌دهد که برای رفتن به میلان باید در آن مستقیم ادامه داد.',
       correctAnswer: 'Vero'
     },
     {
@@ -4366,25 +4366,25 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_7_7',
       italianText: 'Il segnale raffigurato preavvisa un incrocio per il poligono di tiro a segno',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از تقاطعی برای رفتن به میدان تیراندازی خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_7_8',
       italianText: 'Il segnale raffigurato indica che svoltando a destra si incontra una strada secondaria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید با پیچیدن به راست، به یک راه فرعی می‌رسید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_7_9',
       italianText: 'Il segnale raffigurato preavvisa la fine del doppio senso di circolazione e l’inizio del senso unico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان مسیر دوطرفه و شروع مسیر یک‌طرفه را از قبل اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_7_10',
       italianText: 'Il segnale raffigurato indica di svoltare a destra per raggiungere un centro commerciale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di diramazione urbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به یک مرکز خرید باید به راست پیچید.',
       correctAnswer: 'Falso'
     },
 
@@ -4392,31 +4392,31 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_8_1',
       italianText: 'Il segnale raffigurato è posto su strade extraurbane suddivise in due corsie',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهریِ تقسیم‌شده به دو لاین نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_8_2',
       italianText: 'Il segnale raffigurato preavvisa una zona di preselezione con due destinazioni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک منطقه پیش‌انتخاب مسیر با دو مقصد خبر می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_8_3',
       italianText: 'Il segnale raffigurato indica al conducente diretto a Bari di spostarsi sulla corsia di sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به راننده‌ای که به سمت باری می‌رود می‌گوید به لاین چپ برود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_8_4',
       italianText: 'Il segnale raffigurato indica al conducente diretto a Pescara di spostarsi sulla corsia di destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به راننده‌ای که به سمت پسکارا می‌رود می‌گوید به لاین راست برود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_8_5',
       italianText: 'Il segnale raffigurato è posto dove è ancora possibile cambiare la corsia di canalizzazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جایی نصب می‌شود که هنوز امکان تغییر لاینِ هدایت‌کننده وجود دارد.',
       correctAnswer: 'Vero'
     },
     {
@@ -4428,31 +4428,31 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_8_7',
       italianText: 'Il segnale raffigurato indica che la strada per Bari è interrotta',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راه باری بسته است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_8_8',
       italianText: 'Il segnale raffigurato preavvisa a destra un lungo rettilineo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک مسیر مستقیم طولانی در سمت راست خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_8_9',
       italianText: 'Il segnale raffigurato preavvisa a sinistra una curva pericolosa',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک پیچ خطرناک در سمت چپ خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_8_10',
       italianText: 'Il segnale raffigurato preavvisa un obbligo di invertire il senso di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از الزام به دور زدن و تغییر جهت کامل خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_8_11',
       italianText: 'Il segnale raffigurato preavvisa a sinistra un cavalcavia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione extraurbana» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک پل هوایی در سمت چپ خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -4466,61 +4466,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_9_2',
       italianText: 'Il segnale raffigurato nelle strade urbane a più corsie consente di immettersi nelle corsie di canalizzazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در خیابان‌های شهری چندلاینه اجازه می‌دهد وارد لاین‌های هدایت‌کننده شوید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_9_3',
       italianText: 'Il segnale raffigurato indica ai conducenti diretti alla località turistica di immettersi nella corsia di mezzo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به رانندگانی که به سمت محل گردشگری می‌روند می‌گوید وارد لاین وسط شوند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_9_4',
       italianText: 'Il segnale raffigurato indica ai conducenti diretti a T erni di mettersi nella corsia di sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به رانندگانی که به سمت ترنی می‌روند می‌گوید در لاین چپ قرار بگیرند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_9_5',
       italianText: 'Il segnale raffigurato indica ai conducenti diretti al centro della città di occupare la corsia di destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به رانندگانی که به سمت مرکز شهر می‌روند می‌گوید لاین راست را بگیرند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_9_6',
       italianText: 'Il segnale raffigurato preavvisa un incrocio autostradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک تقاطع اتوبانی خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_9_7',
       italianText: 'Il segnale raffigurato indica come raggiungere un parcheggio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد چگونه به یک پارکینگ برسید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_9_8',
       italianText: 'Il segnale raffigurato indica che T erni si trova 500 metri dopo aver effettuato la svolta',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید ترنی ۵۰۰ متر بعد از پیچ قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_9_9',
       italianText: 'Il segnale raffigurato indica nelle corsie laterali di invertire il senso di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در لاین‌های کناری باید دور زد و جهت حرکت را عوض کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_9_10',
       italianText: 'Il segnale raffigurato indica che la strada per T erni è interrotta',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راه ترنی بسته است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_9_11',
       italianText: 'Il segnale raffigurato indica che non è più possibile cambiare corsia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preselezione urbana su strada a tre corsie» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید دیگر امکان تغییر لاین وجود ندارد.',
       correctAnswer: 'Falso'
     },
 
@@ -4528,7 +4528,7 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_10_1',
       italianText: 'Il segnale raffigurato indica un itinerario di strada internazionale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک مسیر جاده‌ای بین‌المللی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
@@ -4540,43 +4540,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_10_3',
       italianText: 'Il segnale raffigurato è posto su strade di importanza internazionale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های دارای اهمیت بین‌المللی نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_10_4',
       italianText: 'Il segnale raffigurato indica l’itinerario internazionale n. 55',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیر بین‌المللی شماره ۵۵ را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_10_5',
       italianText: 'Il segnale raffigurato si può trovare all’interno di un segnale di preavviso di bivio stradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند داخل یک تابلوی پیش‌آگهی دو راهی جاده‌ای قرار بگیرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_10_6',
       italianText: 'Il segnale raffigurato identifica le strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جاده‌های برون‌شهری را شناسایی می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_10_7',
       italianText: 'Il segnale raffigurato indica l’uscita autostradale n. 55',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده خروجی شماره ۵۵ اتوبان را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_10_8',
       italianText: 'Il segnale raffigurato indica che mancano 55 chilometri al confine di Stato con l’estero',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا مرز کشور خارجی ۵۵ کیلومتر باقی مانده است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_10_9',
       italianText: 'Il segnale raffigurato indica la velocità massima da tenere su quella strada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حداکثر سرعت مجاز در آن جاده را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
@@ -4588,7 +4588,7 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_10_11',
       italianText: 'Il segnale raffigurato indica che sono stati percorsi 55 chilometri dal punto di origine dell’autostrada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario internazionale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید از نقطه شروع اتوبان ۵۵ کیلومتر طی شده است.',
       correctAnswer: 'Falso'
     },
 
@@ -4596,31 +4596,31 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_11_1',
       italianText: 'Il segnale raffigurato indica il numero dell’autostrada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده شماره اتوبان را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_11_2',
       italianText: 'Il segnale raffigurato si può trovare all’interno di un segnale di preavviso di svincolo autostradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند داخل یک تابلوی پیش‌آگهی خروجی اتوبان قرار بگیرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_11_3',
       italianText: 'Il segnale raffigurato abbinato ad una freccia, indica la direzione per un casello autostradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وقتی با فلش همراه باشد، جهت رسیدن به عوارضی اتوبان را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_11_4',
       italianText: 'Il segnale raffigurato identifica l’autostrada n. 25',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اتوبان شماره ۲۵ را مشخص می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_11_5',
       italianText: 'Il segnale raffigurato si trova al confine con l’Austria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در مرز اتریش قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
@@ -4632,25 +4632,25 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_11_7',
       italianText: 'Il segnale raffigurato indica la distanza di sicurezza da mantenere dal veicolo che sta davanti',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فاصله ایمنی لازم با وسیله جلویی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_11_8',
       italianText: 'Il segnale raffigurato indica un centro di assistenza a 25 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک مرکز امداد یا خدمات را در ۲۵ کیلومتری نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_11_9',
       italianText: 'Il segnale raffigurato indica che il prossimo svincolo autostradale si trova a 25 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید خروجی بعدی اتوبان ۲۵ کیلومتر جلوتر است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_11_10',
       italianText: 'Il segnale raffigurato indica il limite minimo di velocità che si consiglia di non superare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione autostrada» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حداقل سرعتی را نشان می‌دهد که توصیه می‌شود از آن بیشتر نروید.',
       correctAnswer: 'Falso'
     },
 
@@ -4658,61 +4658,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_12_1',
       italianText: 'Il segnale raffigurato indica il tipo ed il numero di strada percorsa',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نوع و شماره راهی را که در آن حرکت می‌کنیم نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_12_2',
       italianText: 'Il segnale raffigurato si può trovare all’interno di un segnale di direzione o di bivio stradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند داخل تابلوی جهت‌نما یا تابلوی دو راهی جاده‌ای قرار بگیرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_12_3',
       italianText: 'Il segnale raffigurato indica che la strada su cui viaggiamo è una strada statale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راهی که در آن حرکت می‌کنیم یک جاده دولتی است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_12_4',
       italianText: 'Il segnale raffigurato indica che stiamo percorrendo la strada statale n. 2',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در جاده دولتی شماره ۲ حرکت می‌کنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_12_5',
       italianText: 'Il segnale raffigurato indica il numero di piazzole di sosta',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تعداد محل‌های توقف کنار جاده را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_12_6',
       italianText: 'Il segnale raffigurato indica una strada sdrucciolevole per 2 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه لغزنده به طول ۲ کیلومتر را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_12_7',
       italianText: 'Il segnale raffigurato indica una strada stretta per 2 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه باریک به طول ۲ کیلومتر را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_12_8',
       italianText: 'Il segnale raffigurato indica una strada senza uscita a 2 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه بن‌بست در فاصله ۲ کیلومتری را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_12_9',
       italianText: 'Il segnale raffigurato indica una strada senza segnaletica per 2 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی بدون علائم راهنمایی به طول ۲ کیلومتر را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_12_10',
       italianText: 'Il segnale raffigurato indica una strada sterrata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada statale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه خاکی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -4720,7 +4720,7 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_13_1',
       italianText: 'Il segnale raffigurato si può trovare all’inizio di una strada comunale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada comunale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند در آغاز یک جاده شهرداری نصب شود.',
       correctAnswer: 'Vero'
     },
     {
@@ -4738,37 +4738,37 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_13_4',
       italianText: 'Il segnale raffigurato si può trovare lungo la strada comunale n. 19',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada comunale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند در طول جاده شهرداری شماره ۱۹ دیده شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_13_5',
       italianText: 'Il segnale raffigurato si trova a diciannove chilometri dalla più vicina Stazione dei Carabinieri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada comunale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در فاصله نوزده کیلومتری نزدیک‌ترین ایستگاه کارابینیری قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_13_6',
       italianText: 'Il segnale raffigurato si trova all’inizio di una strada di campagna',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada comunale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز یک راه روستایی یا مزرعه‌ای قرار دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_13_7',
       italianText: 'Il segnale raffigurato si trova dove la strada è percorribile solo con catene da neve',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada comunale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌هایی قرار دارد که فقط با زنجیر چرخ قابل عبور هستند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_13_8',
       italianText: 'Il segnale raffigurato si trova su strade dove la sosta è consentita dopo le ore 19.00',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada comunale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌هایی قرار دارد که پارک کردن بعد از ساعت ۱۹ مجاز است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_13_9',
       italianText: 'Il segnale raffigurato indica, su strada urbana, il numero del cavalcavia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Identificazione strada comunale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در راه شهری، شماره پل هوایی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -4776,7 +4776,7 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_14_1',
       italianText: 'Il segnale raffigurato indica la distanza dallo svincolo d’uscita per la località indicata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فاصله تا خروجیِ محل نوشته‌شده را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
@@ -4788,49 +4788,49 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_14_3',
       italianText: 'Il segnale raffigurato indica a sinistra la distanza progressiva e a destra quella dal casello d’uscita per Piacenza',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در سمت چپ فاصله پیشرونده و در سمت راست فاصله تا عوارضی خروجی پیاچنزا را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_14_4',
       italianText: 'Il segnale raffigurato nella parte sinistra indica la distanza progressiva dal luogo di origine dell’autostrada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در قسمت چپ، فاصله پیشرونده از محل شروع اتوبان را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_14_5',
       italianText: 'Il segnale raffigurato indica che mancano 4 chilometri dal casello d’uscita per Piacenza',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا عوارضی خروجی پیاچنزا ۴ کیلومتر باقی مانده است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_14_6',
       italianText: 'Il segnale raffigurato fa parte dei segnali di indicazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جزو تابلوهای راهنما و اطلاعات است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_14_7',
       italianText: 'Il segnale raffigurato indica cha mancano 54 chilometri dallo svincolo d’uscita per Piacenza',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا خروجی پیاچنزا ۵۴ کیلومتر باقی مانده است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_14_8',
       italianText: 'Il segnale raffigurato indica che si sta percorrendo l’autostrada n. 54',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در اتوبان شماره ۵۴ حرکت می‌کنیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_14_9',
       italianText: 'Il segnale raffigurato indica a sinistra la velocità consigliata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در سمت چپ سرعت توصیه‌شده را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_14_10',
       italianText: 'Il segnale raffigurato indica che sono stati già percorsi 4 chilometri da Piacenza',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Progressiva distanziometrica autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید از پیاچنزا ۴ کیلومتر طی شده است.',
       correctAnswer: 'Falso'
     },
     {
@@ -4844,55 +4844,55 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_15_1',
       italianText: 'Il segnale raffigurato si trova sulle strade extraurbane principali',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در راه‌های برون‌شهری اصلی قرار دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_15_2',
       italianText: 'Il segnale raffigurato indica che lo svincolo di uscita per Frosinone è a 500 metri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید خروجی فروزینونه ۵۰۰ متر جلوتر است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_15_3',
       italianText: 'Il segnale raffigurato riporta i nomi delle località raggiungibili uscendo dalla strada extraurbana principale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نام محل‌هایی را نشان می‌دهد که با خروج از راه برون‌شهری اصلی می‌توان به آن‌ها رسید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_15_4',
       italianText: 'Il segnale raffigurato indica, con la scritta su fondo marrone, le località turistiche',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده با نوشته روی زمینه قهوه‌ای، محل‌های گردشگری را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_15_5',
       italianText: 'Il segnale raffigurato indica la distanza che c’è tra il segnale e il prossimo svincolo d’uscita',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فاصله بین تابلو و خروجی بعدی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_15_6',
       italianText: 'Il segnale raffigurato si trova uscendo dal comune di Frosinone',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده هنگام خروج از شهر فروزینونه نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_15_7',
       italianText: 'Il segnale raffigurato indica che a 500 metri si arriva al comune di Frosinone',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در ۵۰۰ متری به شهر فروزینونه می‌رسیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_15_8',
       italianText: 'Il segnale raffigurato indica che tutte le località riportate nel cartello sono distanti 500 metri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید همه محل‌های نوشته‌شده روی تابلو ۵۰۰ متر فاصله دارند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_15_9',
       italianText: 'Il segnale raffigurato indica che la strada non è più percorribile e che l’ultima uscita è quella di Frosinone',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Itinerario extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راه دیگر قابل عبور نیست و آخرین خروجی، فروزینونه است.',
       correctAnswer: 'Falso'
     },
     {
@@ -4906,19 +4906,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_16_1',
       italianText: 'Il segnale raffigurato è di conferma autostradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تابلوی تأیید مسیر در اتوبان است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_16_2',
       italianText: 'Il segnale raffigurato riporta le località con le relative distanze in chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نام محل‌ها را همراه با فاصله آن‌ها به کیلومتر نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_16_3',
       italianText: 'Il segnale raffigurato se di colore blu, si trova su strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'اگر تابلوی نشان‌داده‌شده آبی باشد، در جاده‌های برون‌شهری نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
@@ -4930,49 +4930,49 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_16_5',
       italianText: 'Il segnale raffigurato indica che mancano 180 chilometri per Firenze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا فلورانس ۱۸۰ کیلومتر باقی مانده است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_16_6',
       italianText: 'Il segnale raffigurato indica in autostrada la distanza delle località raggiungibili',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در اتوبان، فاصله محل‌هایی را که می‌توان به آن‌ها رسید نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_16_7',
       italianText: 'Il segnale raffigurato indica che uscendo dal primo casello autostradale è possibile raggiungere tutte le località indicate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید با خروج از اولین عوارضی اتوبان می‌توان به همه محل‌های نوشته‌شده رسید.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_16_8',
       italianText: 'Il segnale raffigurato indica che per raggiungere Milano bisogna percorrere l’autostrada n. 472',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به میلان باید اتوبان شماره ۴۷۲ را طی کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_16_9',
       italianText: 'Il segnale raffigurato indica che mancano 180 chilometri per l’area di servizio di Firenze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا محوطه خدماتی فلورانس ۱۸۰ کیلومتر باقی مانده است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_16_10',
       italianText: 'Il segnale raffigurato indica, per ogni località, il numero della strada da percorrere',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای هر محل، شماره جاده‌ای را که باید طی شود نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_16_11',
       italianText: 'Il segnale raffigurato indica i chilometri già fatti dalle località indicate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کیلومترهایی را که از محل‌های نوشته‌شده طی شده است نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_16_12',
       italianText: 'Il segnale raffigurato è posto sulle strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Conferma autostradale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری نصب می‌شود.',
       correctAnswer: 'Falso'
     },
 
@@ -4980,7 +4980,7 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_17_1',
       italianText: 'Il segnale raffigurato indica l’inizio di un centro abitato',
-      farsiTranslation: 'غلط: ورودی شهر تابلو سفید دارد.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک مرکز مسکونی یا شهر را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
@@ -4992,13 +4992,13 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_17_3',
       italianText: 'Il segnale raffigurato è posto all’inizio del centro abitato, su tutte le strade d’ingresso alla località indicata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio centro abitato» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز مرکز مسکونی، روی همه راه‌های ورودی به محل نوشته‌شده نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_17_4',
       italianText: 'Il segnale raffigurato se barrato da una striscia rossa indica la fine del centro abitato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio centro abitato» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'اگر روی تابلوی نشان‌داده‌شده یک خط قرمز کشیده شود، پایان مرکز مسکونی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
@@ -5010,19 +5010,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_17_6',
       italianText: 'Il segnale raffigurato è posto per indicare la fine di una provincia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio centro abitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای نشان دادن پایان یک استان نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_17_7',
       italianText: 'Il segnale raffigurato indica la direzione da seguire per raggiungere T aranto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio centro abitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جهتی را نشان می‌دهد که برای رسیدن به تارانتو باید طی کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_17_8',
       italianText: 'Il segnale raffigurato identifica un viadotto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio centro abitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک پل دره‌ای یا ویاداکت را مشخص می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -5030,73 +5030,73 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_18_1',
       italianText: 'Il segnale raffigurato indica la fine del centro abitato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان مرکز مسکونی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_18_2',
       italianText: 'Il segnale raffigurato nella prima riga in alto del pannello blu indica il prossimo centro abitato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'در تابلوی نشان‌داده‌شده، ردیف اول بالای صفحه آبی، مرکز مسکونی بعدی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_18_3',
       italianText: 'Il segnale raffigurato indica la fine del centro abitato e le località successive',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پایان مرکز مسکونی و محل‌های بعدی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_18_4',
       italianText: 'Il segnale raffigurato nel pannello blu indica, per ogni località, la rispettiva distanza chilometrica',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'در تابلوی نشان‌داده‌شده، صفحه آبی برای هر محل فاصله کیلومتری آن را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_18_5',
       italianText: 'Il segnale raffigurato indica che per Napoli mancano 190 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا ناپل ۱۹۰ کیلومتر باقی مانده است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_18_6',
       italianText: 'Il segnale raffigurato indica che per S. Cesareo mancano 7 chilometri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تا سن چزارئو ۷ کیلومتر باقی مانده است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_18_7',
       italianText: 'Il segnale raffigurato indica l’inizio di un tratto di strada in salita per raggiungere Montecompatri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک مسیر سربالایی برای رسیدن به مونته‌کومپاتری را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_18_8',
       italianText: 'Il segnale raffigurato indica che non è possibile raggiungere Montecompatri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید رسیدن به مونته‌کومپاتری ممکن نیست.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_18_9',
       italianText: 'Il segnale raffigurato indica che per raggiungere Napoli bisogna percorrere la strada statale n. 190',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید برای رسیدن به ناپل باید جاده دولتی شماره ۱۹۰ را طی کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_18_10',
       italianText: 'Il segnale raffigurato indica una strada chiusa al traffico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی را نشان می‌دهد که برای ترافیک بسته است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_18_11',
       italianText: 'Il segnale raffigurato si trova su strade extraurbane principali',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در راه‌های برون‌شهری اصلی نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_18_12',
       italianText: 'Il segnale raffigurato indica l’inizio del centro abitato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fine centro abitato con segnale di conferma» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز مرکز مسکونی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -5104,19 +5104,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_19_1',
       italianText: 'Il segnale raffigurato indica l’ingresso di un pronto soccorso medico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione pronto soccorso» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ورودی اورژانس پزشکی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_19_2',
       italianText: 'Il segnale raffigurato indica la direzione per entrare nel pronto soccorso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione pronto soccorso» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیر ورود به اورژانس را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_19_3',
       italianText: 'Il segnale raffigurato è posto in corrispondenza di un pronto soccorso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione pronto soccorso» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در محل اورژانس نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
@@ -5134,13 +5134,13 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_19_6',
       italianText: 'Il segnale raffigurato indica la strada da seguire per raggiungere il cimitero',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione pronto soccorso» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی را نشان می‌دهد که باید برای رسیدن به قبرستان طی کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_19_7',
       italianText: 'Il segnale raffigurato preavvisa un incrocio a quattro strade',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione pronto soccorso» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک چهارراه خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
@@ -5154,37 +5154,37 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_20_1',
       italianText: 'Il segnale raffigurato indica l’ingresso di un ospedale',
-      farsiTranslation: 'غلط: نماد اورژانس و بیمارستان صلیب/تخت است، نه i.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ورودی بیمارستان را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_20_2',
       italianText: 'Il segnale raffigurato, che indica la vicinanza di un ospedale, invita a non fare rumori molesti nelle sue vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione ospedale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده، چون نزدیکی بیمارستان را نشان می‌دهد، یادآوری می‌کند که در اطراف آن صدای آزاردهنده ایجاد نکنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_20_3',
       italianText: 'Il segnale raffigurato indica la direzione per entrare nell’ospedale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione ospedale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیر ورود به بیمارستان را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_20_4',
       italianText: 'Il segnale raffigurato è posto in corrispondenza di un ospedale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione ospedale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در محل بیمارستان نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_20_5',
       italianText: 'Il segnale raffigurato indica la vicinanza di un hotel',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione ospedale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیکی یک هتل را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_20_6',
       italianText: 'Il segnale raffigurato indica la vicinanza di una stazione ferroviaria con vagoni letto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione ospedale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیکی یک ایستگاه راه‌آهن با واگن خواب را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
@@ -5204,25 +5204,25 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_21_1',
       italianText: 'Il segnale raffigurato si trova in vicinanza di un ponte che attraversa il fiume Arno',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione territoriale: fiume Arno» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیک پلی قرار دارد که از رود آرنو عبور می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_21_2',
       italianText: 'Il segnale raffigurato indica il nome del fiume in vicinanza del ponte che lo attraversa',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione territoriale: fiume Arno» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نام رودخانه‌ای را که پل از روی آن عبور می‌کند نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_21_3',
       italianText: 'Il segnale raffigurato fa parte dei segnali di indicazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione territoriale: fiume Arno» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جزو تابلوهای راهنما و اطلاعات است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_21_4',
       italianText: 'Il segnale raffigurato è posto dove in caso di pioggia la strada si può allagare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione territoriale: fiume Arno» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جایی نصب می‌شود که هنگام باران ممکن است راه آب بگیرد.',
       correctAnswer: 'Falso'
     },
     {
@@ -5234,13 +5234,13 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_21_6',
       italianText: 'Il segnale raffigurato indica la possibilità di effettuare sci nautico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione territoriale: fiume Arno» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان انجام اسکی روی آب را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_21_7',
       italianText: 'Il segnale raffigurato indica una strada con curve in successione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Localizzazione territoriale: fiume Arno» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی با پیچ‌های پشت سر هم را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -5254,37 +5254,37 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_22_2',
       italianText: 'Il segnale raffigurato indica la possibilità di avere informazioni su alberghi e motel',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di informazioni turistico-alberghiere» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان گرفتن اطلاعات درباره هتل‌ها و متل‌ها را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_22_3',
       italianText: 'Il segnale raffigurato indica un posto dove si possono richiedere informazioni sugli alberghi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di informazioni turistico-alberghiere» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جایی را نشان می‌دهد که می‌توان درباره هتل‌ها اطلاعات گرفت.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_22_4',
       italianText: 'Il segnale raffigurato indica il numero di alberghi che si trovano nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di informazioni turistico-alberghiere» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تعداد هتل‌های موجود در اطراف را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_22_5',
       italianText: 'Il segnale raffigurato indica, a 150 metri, l’ingresso di un ospedale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di informazioni turistico-alberghiere» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ورودی یک بیمارستان را در فاصله ۱۵۰ متری نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_22_6',
       italianText: 'Il segnale raffigurato indica l’ufficio accettazione dell’ospedale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di informazioni turistico-alberghiere» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دفتر پذیرش بیمارستان را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_22_7',
       italianText: 'Il segnale raffigurato indica che a 150 metri vi è un albergo con personale interprete per clienti stranieri',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di informazioni turistico-alberghiere» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در ۱۵۰ متری هتلی وجود دارد که برای مشتریان خارجی مترجم دارد.',
       correctAnswer: 'Falso'
     },
 
@@ -5292,55 +5292,55 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_23_1',
       italianText: 'Il segnale raffigurato indica un attraversamento pedonale non regolato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک گذرگاه عابر پیاده بدون چراغ یا مأمور را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_23_2',
       italianText: 'Il segnale raffigurato fuori dei centri abitati si trova dopo il segnale di pericolo ATTRAVERSAMENTO PEDONALE',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بیرون از شهرها بعد از تابلوی خطر «گذرگاه عابر پیاده» قرار می‌گیرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_23_3',
       italianText: 'Il segnale raffigurato si trova direttamente in corrispondenza delle strisce dell’attraversamento pedonale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دقیقا در محل خط‌کشی گذرگاه عابر پیاده نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_23_4',
       italianText: 'Il segnale raffigurato obbliga i conducenti a fermarsi quando i pedoni transitano sugli attraversamenti pedonali',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده رانندگان را موظف می‌کند وقتی عابران روی گذرگاه عبور می‌کنند، توقف کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_23_5',
       italianText: 'Il segnale raffigurato indica un sottopassaggio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده زیرگذر را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_23_6',
       italianText: 'Il segnale raffigurato è posto 150 metri prima di un attraversamento pedonale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ۱۵۰ متر قبل از گذرگاه عابر پیاده نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_23_7',
       italianText: 'Il segnale raffigurato se di colore verde è posto in autostrada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'اگر تابلوی نشان‌داده‌شده سبز باشد، در اتوبان نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_23_8',
       italianText: 'Il segnale raffigurato preavvisa una scuola elementare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک دبستان خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_23_9',
       italianText: 'Il segnale raffigurato consente di sorpassare un veicolo che si è arrestato per dare la precedenza ai pedoni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه می‌دهد از وسیله‌ای که برای دادن حق تقدم به عابران توقف کرده سبقت بگیریم.',
       correctAnswer: 'Falso'
     },
 
@@ -5360,25 +5360,25 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_24_3',
       italianText: 'Il segnale raffigurato indica che bisogna dare la precedenza ai ciclisti che attraversano sulle strisce',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento ciclabile» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید باید به دوچرخه‌سوارانی که از روی خط‌کشی عبور می‌کنند حق تقدم داد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_24_4',
       italianText: 'Il segnale raffigurato è abbinato alle strisce di attraversamento ciclabile',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento ciclabile» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده همراه با خط‌کشی گذرگاه دوچرخه نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_24_5',
       italianText: 'Il segnale raffigurato invita ad usare prudenza perché possiamo trovare ciclisti che attraversano la carreggiata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento ciclabile» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دعوت به احتیاط می‌کند، چون ممکن است دوچرخه‌سواران از سواره‌رو عبور کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_24_6',
       italianText: 'Il segnale raffigurato vieta il transito ai veicoli senza motore',
-      farsiTranslation: 'صحیح: چون جاده "اختصاصی" وسایل موتوری است، دوچرخه و گاری اجازه ورود ندارند.',
+      farsiTranslation: 'غلط: این تابلو عبور وسایل بدون موتور را ممنوع نمی‌کند؛ فقط محل عبور دوچرخه‌سواران را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
@@ -5390,19 +5390,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_24_8',
       italianText: 'Il segnale raffigurato indica una pista ciclabile',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento ciclabile» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک مسیر ویژه دوچرخه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_24_9',
       italianText: 'Il segnale raffigurato indica ai ciclisti di svoltare a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento ciclabile» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به دوچرخه‌سواران می‌گوید به چپ بپیچند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_24_10',
       italianText: 'Il segnale raffigurato obbliga i ciclisti a dare la precedenza ai veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Attraversamento ciclabile» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دوچرخه‌سواران را مجبور می‌کند به وسایل نقلیه حق تقدم بدهند.',
       correctAnswer: 'Falso'
     },
 
@@ -5410,49 +5410,49 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_25_1',
       italianText: 'Il segnale raffigurato, se posto sul bordo del marciapiede, indica la fermata di uno scuolabus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'اگر تابلوی نشان‌داده‌شده کنار جدول پیاده‌رو نصب شود، محل توقف سرویس مدرسه را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_25_2',
       italianText: 'Il segnale raffigurato, se posto all’esterno di un autobus, segnala che esso trasporta scolari',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'اگر تابلوی نشان‌داده‌شده بیرون اتوبوس نصب شود، نشان می‌دهد آن اتوبوس دانش‌آموزان را حمل می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_25_3',
       italianText: 'Il segnale raffigurato può indicare la fermata di un autobus per trasporto scolari',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند محل توقف اتوبوس حمل دانش‌آموزان را نشان دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_25_4',
       italianText: 'Il segnale raffigurato invita a fare attenzione ai bambini che possono attraversare improvvisamente la strada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دعوت می‌کند مراقب کودکانی باشیم که ممکن است ناگهان از راه عبور کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_25_5',
       italianText: 'Il segnale raffigurato invita a fare attenzione perché possono esserci bambini discesi dallo scuolabus che possono attra- versare improvvisamente la strada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دعوت به احتیاط می‌کند، چون ممکن است کودکانی که از سرویس مدرسه پیاده شده‌اند ناگهان از راه عبور کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_25_6',
       italianText: 'Il segnale raffigurato vieta il transito ai bambini non accompagnati',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور کودکان بدون همراه را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_25_7',
       italianText: 'Il segnale raffigurato indica la presenza di giardini pubblici',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود باغ یا پارک عمومی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_25_8',
       italianText: 'Il segnale raffigurato indica che bisogna obbligatoriamente dare precedenza ai bambini che attraversano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Scuolabus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید باید حتما به کودکانی که عبور می‌کنند حق تقدم داد.',
       correctAnswer: 'Falso'
     },
 
@@ -5460,19 +5460,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_26_1',
       italianText: 'Il segnale raffigurato indica la presenza di un dispositivo da utilizzare in caso di richiesta di soccorso stradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «SOS» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود دستگاهی را نشان می‌دهد که هنگام درخواست امداد جاده‌ای باید از آن استفاده کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_26_2',
       italianText: 'Il segnale raffigurato è posto su un dispositivo di chiamata per assistenza stradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «SOS» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده روی دستگاه تماس برای کمک و امداد جاده‌ای نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_26_3',
       italianText: 'Il segnale raffigurato indica la presenza di un apparecchio per chiamare il soccorso stradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «SOS» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود دستگاهی برای تماس با امداد جاده‌ای را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
@@ -5484,19 +5484,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_26_5',
       italianText: 'Il segnale raffigurato indica la presenza di un telefono pubblico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «SOS» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود تلفن عمومی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_26_6',
       italianText: 'Il segnale raffigurato indica un’area di sosta per ambulanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «SOS» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محل توقف آمبولانس‌ها را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_26_7',
       italianText: 'Il segnale raffigurato preavvisa una scuola secondaria statale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «SOS» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک مدرسه متوسطه دولتی خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -5504,13 +5504,13 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_27_1',
       italianText: 'Il segnale raffigurato è posto all’inizio di una strada senza uscita per i veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز راهی نصب می‌شود که برای وسایل نقلیه خروجی ندارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_27_2',
       italianText: 'Il segnale raffigurato vale anche per i motocicli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای موتورسیکلت‌ها هم اعتبار دارد.',
       correctAnswer: 'Vero'
     },
     {
@@ -5522,37 +5522,37 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_27_4',
       italianText: 'Il segnale raffigurato vieta la sosta',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پارک کردن را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_27_5',
       italianText: 'Il segnale raffigurato preavvisa un incrocio a forma di “T”',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک تقاطع به شکل T خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_27_6',
       italianText: 'Il segnale raffigurato è posto in vicinanza di una tabaccheria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیک یک دخانیات‌فروشی نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_27_7',
       italianText: 'Il segnale raffigurato indica lavori in corso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کارهای جاده‌ای را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_27_8',
       italianText: 'Il segnale raffigurato vieta l’inversione di marcia',
-      farsiTranslation: 'صحیح: دور زدن در خیابان یک‌طرفه ممنوع است.',
+      farsiTranslation: 'غلط: این تابلو بن‌بست بودن راه را نشان می‌دهد، اما به‌خودی‌خود دور زدن را ممنوع نمی‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_27_9',
       italianText: 'Il segnale raffigurato vieta di entrare anche ai pedoni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حتی ورود عابران پیاده را هم ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -5560,13 +5560,13 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_28_1',
       italianText: 'Il segnale raffigurato preavvisa che la strada di destra è senza uscita per i veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل خبر می‌دهد که راه سمت راست برای وسایل نقلیه بن‌بست است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_28_2',
       italianText: 'Il segnale raffigurato consente la svolta a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه پیچیدن به راست را می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
@@ -5578,43 +5578,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_28_4',
       italianText: 'Il segnale raffigurato vale anche per i motocicli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای موتورسیکلت‌ها هم اعتبار دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_28_5',
       italianText: 'Il segnale raffigurato fa parte dei segnali di indicazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جزو تابلوهای راهنما و اطلاعات است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_28_6',
       italianText: 'Il segnale raffigurato vieta la manovra di inversione di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مانور دور زدن و تغییر جهت کامل را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_28_7',
       italianText: 'Il segnale raffigurato vieta la svolta a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیچیدن به راست را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_28_8',
       italianText: 'Il segnale raffigurato indica una piazzola di sosta sulla destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک محل توقف کوتاه در سمت راست را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_28_9',
       italianText: 'Il segnale raffigurato preavvisa un’area di parcheggio sulla destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک پارکینگ در سمت راست خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_28_10',
       italianText: 'Il segnale raffigurato vale anche per i pedoni',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di strada senza uscita» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای عابران پیاده هم اعتبار دارد.',
       correctAnswer: 'Falso'
     },
 
@@ -5622,19 +5622,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_29_1',
       italianText: 'Il segnale raffigurato indica la velocità che si consiglia di non superare in condizioni ottimali di traffico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده سرعتی را نشان می‌دهد که در شرایط خوب ترافیک توصیه می‌شود از آن بیشتر نرویم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_29_2',
       italianText: 'Il segnale raffigurato consente di viaggiare a 50 km/h',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه می‌دهد با سرعت ۵۰ کیلومتر بر ساعت حرکت کنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_29_3',
       italianText: 'Il segnale raffigurato può essere abbinato con un pannello che indica la lunghezza del tratto di strada dove si consiglia di non superare la velocità indicata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند با تابلوی متممی همراه شود که طول مسیری را نشان می‌دهد که در آن توصیه می‌شود از سرعت نوشته‌شده بیشتر نرویم.',
       correctAnswer: 'Vero'
     },
     {
@@ -5646,43 +5646,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_29_5',
       italianText: 'Il segnale raffigurato consente, sulle strade extraurbane, di viaggiare a 70 km/h',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری اجازه می‌دهد با سرعت ۷۰ کیلومتر بر ساعت حرکت کنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_29_6',
       italianText: 'Il segnale raffigurato vieta il transito ai veicoli che superano a pieno carico 60 tonnellate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور وسایلی را که وزن کاملشان بیش از ۶۰ تن است ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_29_7',
       italianText: 'Il segnale raffigurato indica un limite minimo di velocità',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حداقل سرعت مجاز را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_29_8',
       italianText: 'Il segnale raffigurato vieta di superare la velocità indicata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده بیشتر رفتن از سرعت نوشته‌شده را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_29_9',
       italianText: 'Il segnale raffigurato indica la distanza di sicurezza da mantenere dal veicolo che sta davanti',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فاصله ایمنی لازم با وسیله جلویی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_29_10',
       italianText: 'Il segnale raffigurato indica che non è possibile viaggiare ad una velocità più bassa di quella indicata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید حرکت با سرعت کمتر از عدد نوشته‌شده ممکن نیست.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_29_11',
       italianText: 'Il segnale raffigurato indica i chilometri già fatti dal punto di origine della strada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Velocità consigliata» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کیلومترهای طی‌شده از نقطه شروع راه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -5690,7 +5690,7 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_30_1',
       italianText: 'Il segnale raffigurato indica una strada riservata alla circolazione dei soli veicoli a motore',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada riservata ai veicoli a motore» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی را نشان می‌دهد که فقط برای حرکت وسایل نقلیه موتوری اختصاص دارد.',
       correctAnswer: 'Vero'
     },
     {
@@ -5702,7 +5702,7 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_30_3',
       italianText: 'Il segnale raffigurato viene posto all’inizio di una strada riservata alla circolazione dei veicoli a motore',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada riservata ai veicoli a motore» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز راهی نصب می‌شود که مخصوص حرکت وسایل نقلیه موتوری است.',
       correctAnswer: 'Vero'
     },
     {
@@ -5720,31 +5720,31 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_30_6',
       italianText: 'Il segnale raffigurato se barrato da una striscia rossa indica la fine della sua validità',
-      farsiTranslation: 'صحیح: خط قرمز روی آن یعنی پایان این توصیه.',
+      farsiTranslation: 'اگر روی تابلوی نشان‌داده‌شده خط قرمز کشیده شود، پایان اعتبار آن را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_30_7',
       italianText: 'Il segnale raffigurato indica una strada riservata solo ai taxi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada riservata ai veicoli a motore» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی را نشان می‌دهد که فقط مخصوص تاکسی‌هاست.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_30_8',
       italianText: 'Il segnale raffigurato indica un parcheggio per le sole autovetture',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada riservata ai veicoli a motore» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پارکینگی را نشان می‌دهد که فقط مخصوص خودروهای سواری است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_30_9',
       italianText: 'Il segnale raffigurato consente ad una bicicletta di percorrere quella strada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada riservata ai veicoli a motore» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه می‌دهد دوچرخه در آن راه حرکت کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_30_10',
       italianText: 'Il segnale raffigurato vieta il transito ad un autocarro',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Strada riservata ai veicoli a motore» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور کامیون را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -5752,67 +5752,67 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_31_1',
       italianText: 'Il segnale raffigurato è posto all’inizio di una galleria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز یک تونل نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_31_2',
       italianText: 'Il segnale raffigurato preavvisa una galleria autostradale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک تونل اتوبانی خبر می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_31_3',
       italianText: 'Il segnale raffigurato ricorda di spegnere il motore in caso di arresto prolungato in galleria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یادآوری می‌کند که در صورت توقف طولانی در تونل باید موتور را خاموش کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_31_4',
       italianText: 'Il segnale raffigurato ricorda di non sostare e di non fermarsi in galleria, salvo diversa segnalazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یادآوری می‌کند که در تونل، مگر با علامت متفاوت، نباید توقف یا پارک کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_31_5',
       italianText: 'Il segnale raffigurato invita a tenere ben saldo lo sterzo per fronteggiare eventuali colpi di vento all’uscita della galleria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده توصیه می‌کند هنگام خروج از تونل، برای مقابله با وزش ناگهانی باد فرمان را محکم نگه داریم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_31_6',
       italianText: 'Il segnale raffigurato indica una strada chiusa',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راه بسته را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_31_7',
       italianText: 'Il segnale raffigurato indica lavori in corso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کارهای جاده‌ای را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_31_8',
       italianText: 'Il segnale raffigurato indica una galleria non illuminata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک تونل بدون روشنایی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_31_9',
       italianText: 'Il segnale raffigurato vieta il transito ai veicoli che superano 3,5 metri di altezza',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور وسایلی را که ارتفاعشان بیش از ۳.۵ متر است ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_31_10',
       italianText: 'Il segnale raffigurato indica l’inizio di un ponte',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک پل را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_31_11',
       italianText: 'Il segnale raffigurato vieta il sorpasso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Galleria» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده سبقت گرفتن را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -5820,43 +5820,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_32_1',
       italianText: 'Percorrendo un lungo tunnel o traforo, in caso di formazione di lunghe file di veicoli, è opportuno aumentare la distanza di sicurezza, per scongiurare, in caso d’incendio, il rapido propagarsi delle fiamme',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Comportamento nei tunnel e nei trafori» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'هنگام حرکت در تونل یا گذرگاه طولانی، اگر صف طولانی وسایل نقلیه تشکیل شود، بهتر است فاصله ایمنی را بیشتر کنیم تا در صورت آتش‌سوزی، شعله‌ها سریع گسترش پیدا نکنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_32_2',
       italianText: 'Percorrendo un lungo tunnel o traforo, in caso d’incendio, bisogna abbandonare velocemente il veicolo, seguendo la segnaletica che porta alle vie di fuga o ai luoghi sicuri protetti da porte tagliafuoco',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Comportamento nei tunnel e nei trafori» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'هنگام حرکت در تونل یا گذرگاه طولانی، در صورت آتش‌سوزی باید سریع وسیله نقلیه را ترک کرد و از علائمی پیروی کرد که به راه‌های فرار یا محل‌های امن پشت درهای ضدحریق می‌برند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_32_3',
       italianText: 'Percorrendo un lungo tunnel o traforo, in caso d’incendio, bisogna attenersi alle istruzioni vocali del personale di servizio o dei vigili del fuoco, per evitare di incamminarsi nella direzione sbagliata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Comportamento nei tunnel e nei trafori» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'هنگام حرکت در تونل یا گذرگاه طولانی، در صورت آتش‌سوزی باید از دستورهای صوتی کارکنان یا آتش‌نشانان پیروی کرد تا به مسیر اشتباه نرویم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_32_4',
       italianText: 'Il pannello in figura, posto all’interno di una galleria, indica la presenza di una via di fuga (FIG 334)',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Comportamento nei tunnel e nei trafori» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی داخل شکل، وقتی داخل تونل نصب شده باشد، وجود راه خروج اضطراری را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_32_5',
       italianText: 'Il pannello in figura, posto all’interno di una galleria, indica la presenza di un estintore (FIG 335)',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Comportamento nei tunnel e nei trafori» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی داخل شکل، وقتی داخل تونل نصب شده باشد، وجود کپسول آتش‌نشانی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_32_6',
       italianText: 'Il pannello in figura obbliga a tornare indietro all’imbocco della galleria (FIG 334)',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Comportamento nei tunnel e nei trafori» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی داخل شکل راننده را مجبور می‌کند به دهانه ورودی تونل برگردد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_32_7',
       italianText: 'Percorrendo un lungo tunnel o traforo, in caso d’incendio, bisogna seguire la segnaletica di emergenza, anche se in netto contrasto con gli ordini vocali impartiti dai vigili del fuoco',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Comportamento nei tunnel e nei trafori» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'هنگام حرکت در تونل یا گذرگاه طولانی، در صورت آتش‌سوزی باید علائم اضطراری را دنبال کرد، حتی اگر کاملا مخالف دستورهای صوتی آتش‌نشانان باشد.',
       correctAnswer: 'Falso'
     },
 
@@ -5864,43 +5864,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_33_1',
       italianText: 'Il segnale raffigurato si può trovare all’inizio di un ponte, di un viadotto o di un cavalcavia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Ponte, viadotto o cavalcavia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند در آغاز پل، پل دره‌ای یا پل هوایی نصب شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_33_2',
       italianText: 'Il segnale raffigurato può essere abbinato ad un pannello che indica la lunghezza del cavalcavia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Ponte, viadotto o cavalcavia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند با تابلوی متممی همراه شود که طول پل هوایی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_33_3',
       italianText: 'Il segnale raffigurato invita a fare particolare attenzione in caso di forte vento',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Ponte, viadotto o cavalcavia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دعوت می‌کند هنگام باد شدید، توجه ویژه داشته باشیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_33_4',
       italianText: 'Il segnale raffigurato invita a tenere ben saldo lo sterzo per fronteggiare eventuali colpi di vento laterale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Ponte, viadotto o cavalcavia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده توصیه می‌کند برای مقابله با وزش ناگهانی باد جانبی، فرمان را محکم نگه داریم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_33_5',
       italianText: 'Il segnale raffigurato prescrive il divieto di sorpasso tra autoveicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Ponte, viadotto o cavalcavia» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممنوعیت سبقت بین وسایل نقلیه موتوری را مقرر می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_33_6',
       italianText: 'Il segnale raffigurato indica l’inizio di una galleria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Ponte, viadotto o cavalcavia» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک تونل را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_33_7',
       italianText: 'Il segnale raffigurato indica che si sta per transitare sotto un ponte',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Ponte, viadotto o cavalcavia» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید قرار است از زیر یک پل عبور کنیم.',
       correctAnswer: 'Falso'
     },
 
@@ -5908,13 +5908,13 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_34_1',
       italianText: 'Il segnale raffigurato indica il percorso da fare per prendere la strada di sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیری را نشان می‌دهد که برای رفتن به راه سمت چپ باید طی کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_34_2',
       italianText: 'Il segnale raffigurato indica che non è possibile svoltare a sinistra in modo diretto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید امکان پیچیدن مستقیم به چپ وجود ندارد.',
       correctAnswer: 'Vero'
     },
     {
@@ -5926,43 +5926,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_34_4',
       italianText: 'Il segnale raffigurato consente la svolta a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه پیچیدن به راست را می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_34_5',
       italianText: 'Il segnale raffigurato interessa i conducenti che intendono prendere la strada di sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مربوط به رانندگانی است که قصد دارند وارد راه سمت چپ شوند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_34_6',
       italianText: 'Il segnale raffigurato obbliga a svoltare a sinistra al prossimo incrocio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مجبور می‌کند در تقاطع بعدی به چپ بپیچیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_34_7',
       italianText: 'Il segnale raffigurato indica un parcheggio a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پارکینگ سمت چپ را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_34_8',
       italianText: 'Il segnale raffigurato non vale per le biciclette ed i ciclomotori',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده برای دوچرخه‌ها و موتورسیکلت‌های سبک اعتبار ندارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_34_9',
       italianText: 'Il segnale raffigurato vieta la svolta a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیچیدن به راست را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_34_10',
       italianText: 'Il segnale raffigurato indica il percorso degli autobus che hanno fermate nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Svolta a sinistra indiretta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیر اتوبوس‌هایی را نشان می‌دهد که در نزدیکی ایستگاه دارند.',
       correctAnswer: 'Falso'
     },
 
@@ -5970,61 +5970,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_35_1',
       italianText: 'Il segnale raffigurato indica, su strade a carreggiate separate, la presenza di un cavalcavia per effettuare l’inversione di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در راه‌های دارای سواره‌روهای جدا، وجود یک پل هوایی برای دور زدن و تغییر جهت کامل را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_35_2',
       italianText: 'Il segnale raffigurato indica, su strade a carreggiate separate, un sottopassaggio per invertire il senso di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در راه‌های دارای سواره‌روهای جدا، وجود یک زیرگذر برای تغییر جهت حرکت را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_35_3',
       italianText: 'Il segnale raffigurato è posto su una strada a carreggiate separate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در راهی با سواره‌روهای جدا نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_35_4',
       italianText: 'Il segnale raffigurato indica la presenza di una struttura (cavalcavia o sottopassaggio) che consente di tornare indietro',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود یک سازه، مانند پل هوایی یا زیرگذر، را نشان می‌دهد که امکان برگشتن به مسیر مقابل را می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_35_5',
       italianText: 'Il segnale raffigurato, se su fondo verde, indica, su un’autostrada, la presenza di un cavalcavia per effettuare l’inversio- ne di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'اگر تابلوی نشان‌داده‌شده زمینه سبز داشته باشد، در اتوبان وجود پل هوایی برای دور زدن و تغییر جهت کامل را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_35_6',
       italianText: 'Il segnale raffigurato indica che la strada è interrotta a causa di lavori in corso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راه به علت کارهای جاده‌ای بسته است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_35_7',
       italianText: 'Il segnale raffigurato indica l’inizio di un lungo rettilineo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک مسیر مستقیم طولانی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_35_8',
       italianText: 'Il segnale raffigurato indica l’inizio di una strada extraurbana principale',
-      farsiTranslation: 'صحیح: این تابلو (آبی رنگ) شروع جاده اصلی برون‌شهری است.',
+      farsiTranslation: 'غلط: این تابلو محل امکان دور زدن با پل یا زیرگذر را نشان می‌دهد، نه آغاز جاده اصلی برون‌شهری.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_35_9',
       italianText: 'Il segnale raffigurato indica la vicinanza di un incrocio a raso (allo stesso livello del piano stradale)',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیکی یک تقاطع هم‌سطح را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_35_10',
       italianText: 'Il segnale raffigurato obbliga ad invertire il senso di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inversione di marcia» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مجبور می‌کند دور بزنیم و جهت حرکت را عوض کنیم.',
       correctAnswer: 'Falso'
     },
 
@@ -6032,55 +6032,55 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_36_1',
       italianText: 'Il segnale raffigurato indica un senso unico frontale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مسیر یک‌طرفه روبه‌رو را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_36_2',
       italianText: 'Il segnale raffigurato indica che la circolazione su quel tratto di strada è a senso unico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید تردد در آن بخش از راه یک‌طرفه است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_36_3',
       italianText: 'Il segnale raffigurato indica che dopo di esso è vietata l’inversione di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید بعد از آن، دور زدن و تغییر جهت کامل ممنوع است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_36_4',
       italianText: 'Il segnale raffigurato indica l’inizio di una strada a senso unico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک راه یک‌طرفه را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_36_5',
       italianText: 'Il segnale raffigurato indica l’obbligo di proseguire diritto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده الزام به مستقیم ادامه دادن را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_36_6',
       italianText: 'Il segnale raffigurato indica il divieto di svoltare a destra o a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممنوعیت پیچیدن به راست یا چپ را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_36_7',
       italianText: 'Il segnale raffigurato indica di circolare su una sola corsia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید باید فقط در یک لاین حرکت کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_36_8',
       italianText: 'Il segnale raffigurato indica un restringimento della carreggiata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده باریک شدن سواره‌رو را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_36_9',
       italianText: 'Il segnale raffigurato indica che si viaggia per file parallele',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico frontale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید حرکت در صف‌های موازی انجام می‌شود.',
       correctAnswer: 'Falso'
     },
 
@@ -6088,61 +6088,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_37_1',
       italianText: 'Il segnale raffigurato indica che la strada su cui è posto è a senso unico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راهی که تابلو در آن نصب شده یک‌طرفه است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_37_2',
       italianText: 'Il segnale A di figura indica che svoltando a sinistra la strada è a senso unico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی A در شکل نشان می‌دهد که با پیچیدن به چپ، راه یک‌طرفه است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_37_3',
       italianText: 'Il segnale raffigurato indica che svoltando nel senso della freccia non si incrociano veicoli provenienti dal senso opposto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید اگر در جهت فلش بپیچیم، با وسایل نقلیه‌ای که از روبه‌رو می‌آیند برخورد نخواهیم کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_37_4',
       italianText: 'Il segnale raffigurato indica che una volta svoltato nel senso della freccia è vietata l’inversione di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید بعد از پیچیدن در جهت فلش، دور زدن و تغییر جهت کامل ممنوع است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_37_5',
       italianText: 'Il segnale raffigurato indica che nel tratto di strada in cui è posto si deve sorpassare a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در آن بخش از راه باید از سمت راست سبقت گرفت.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_37_6',
       italianText: 'Il segnale A di figura indica che è obbligatorio svoltare a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی A در شکل می‌گوید پیچیدن به چپ اجباری است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_37_7',
       italianText: 'Il segnale raffigurato indica che è vietato proseguire diritto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید مستقیم ادامه دادن ممنوع است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_37_8',
       italianText: 'Il segnale raffigurato indica che si deve marciare per file parallele',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید باید در صف‌های موازی حرکت کرد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_37_9',
       italianText: 'Il segnale raffigurato indica che svoltando nel senso della freccia la sosta è consentita solo a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید با پیچیدن در جهت فلش، پارک فقط در سمت چپ مجاز است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_37_10',
       italianText: 'Il segnale raffigurato indica un parcheggio libero nel senso della freccia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Senso unico parallelo» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پارکینگ آزاد در جهت فلش را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6150,67 +6150,67 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_38_1',
       italianText: 'Il segnale raffigurato consiglia ai veicoli rappresentati nel pannello di seguire la direzione indicata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به وسایل نقلیه‌ای که در صفحه نمایش داده شده‌اند توصیه می‌کند جهت مشخص‌شده را دنبال کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_38_2',
       italianText: 'Il segnale raffigurato preavvisa una deviazione consigliata per gli autotreni ed autoarticolati in transito',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از قبل یک مسیر انحرافی پیشنهادی برای تریلی‌ها و کامیون‌های مفصل‌دار در حال عبور را اعلام می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_38_3',
       italianText: 'Il segnale raffigurato consiglia di svoltare a destra alle categorie dei veicoli rappresentati',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به دسته‌های وسایل نقلیه نمایش‌داده‌شده توصیه می‌کند به راست بپیچند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_38_4',
       italianText: 'Il segnale raffigurato non è un segnale di obbligo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تابلوی الزام نیست.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_38_5',
       italianText: 'Il segnale raffigurato consiglia agli autotreni e agli autoarticolati la direzione per non attraversare il centro abitato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به تریلی‌ها و کامیون‌های مفصل‌دار مسیری را پیشنهاد می‌کند تا از مرکز شهر عبور نکنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_38_6',
       italianText: 'Il segnale raffigurato vieta la svolta a destra agli autotreni ed autoarticolati',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پیچیدن به راست را برای تریلی‌ها و کامیون‌های مفصل‌دار ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_38_7',
       italianText: 'Il segnale raffigurato indica agli autocarri di sorpassare a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به کامیون‌ها می‌گوید از سمت راست سبقت بگیرند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_38_8',
       italianText: 'Il segnale raffigurato indica agli autocarri la direzione per il centro cittadino',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به کامیون‌ها مسیر رسیدن به مرکز شهر را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_38_9',
       italianText: 'Il segnale raffigurato preannuncia l’obbligo di svoltare subito a destra per i veicoli rappresentati',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از الزام پیچیدن فوری به راست برای وسایل نقلیه نمایش‌داده‌شده خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_38_10',
       italianText: 'Il segnale raffigurato indica che i veicoli rappresentati nel pannello devono immediatamente svoltare a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید وسایل نقلیه نمایش‌داده‌شده باید فورا به راست بپیچند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_38_11',
       italianText: 'Il segnale raffigurato preavvisa agli autocarri di spostarsi sulla corsia di destra per superare un ostacolo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Preavviso di deviazione consigliata per autocarri» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به کامیون‌ها از قبل اعلام می‌کند برای عبور از مانع به لاین راست بروند.',
       correctAnswer: 'Falso'
     },
 
@@ -6218,61 +6218,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_39_1',
       italianText: 'Il segnale raffigurato indica una piazzola a lato della carreggiata per effettuare la fermata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک محل توقف کنار سواره‌رو را برای توقف کوتاه نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_39_2',
       italianText: 'Il segnale raffigurato è posto in vicinanza di una piazzola per effettuare una fermata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیک محلی نصب می‌شود که می‌توان در آن توقف کوتاه کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_39_3',
       italianText: 'Il segnale raffigurato si trova su strada extraurbana',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده برون‌شهری دیده می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_39_4',
       italianText: 'Il segnale raffigurato può essere abbinato ad un pannello che indica la distanza che c’è tra il segnale e la piazzola',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند با تابلوی متممی همراه شود که فاصله بین تابلو و محل توقف را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_39_5',
       italianText: 'Il segnale raffigurato preavvisa un allargamento della carreggiata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پهن‌تر شدن سواره‌رو خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_39_6',
       italianText: 'Il segnale raffigurato indica che la sosta è consentita solo per 3 ore',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید توقف فقط برای ۳ ساعت مجاز است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_39_7',
       italianText: 'Il segnale raffigurato indica un’area di campeggio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محل کمپینگ را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_39_8',
       italianText: 'Il segnale raffigurato indica la fermata di un autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ایستگاه اتوبوس را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_39_9',
       italianText: 'Il segnale raffigurato indica un’area di parcheggio per caravan',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پارکینگ کاروان را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_39_10',
       italianText: 'Il segnale raffigurato è posto solo sulle autostrade',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Piazzola di sosta» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در اتوبان‌ها نصب می‌شود.',
       correctAnswer: 'Falso'
     },
 
@@ -6280,49 +6280,49 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_40_1',
       italianText: 'Il segnale raffigurato indica l’inizio di un’area pedonale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز منطقه پیاده‌رو را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_40_2',
       italianText: 'Il segnale raffigurato indica, nel pannello aggiuntivo, i veicoli che possono entrare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در صفحه متمم، وسایلی را که اجازه ورود دارند نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_40_3',
       italianText: 'Il segnale raffigurato consente la circolazione dei veicoli per il carico e lo scarico merci',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه تردد وسایل نقلیه برای بارگیری و تخلیه کالا را می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_40_4',
       italianText: 'Il segnale raffigurato consente la circolazione dei veicoli per persone diversamente abili',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه تردد وسایل نقلیه ویژه افراد دارای معلولیت را می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_40_5',
       italianText: 'Il segnale raffigurato indica una stazione di polizia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ایستگاه پلیس را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_40_6',
       italianText: 'Il segnale raffigurato indica un’area riservata solo alle persone diversamente abili',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده منطقه‌ای را نشان می‌دهد که فقط مخصوص افراد دارای معلولیت است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_40_7',
       italianText: 'Il segnale raffigurato indica la presenza di polizia a piedi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حضور پلیس پیاده را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_40_8',
       italianText: 'Il segnale raffigurato indica la presenza di venditori ambulanti',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Area pedonale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حضور دستفروشان را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6330,61 +6330,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_41_1',
       italianText: 'Il segnale raffigurato indica l’inizio di una zona a traffico limitato',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک منطقه با ترافیک محدود را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_41_2',
       italianText: 'Il segnale raffigurato indica l’inizio dell’area dove il traffico è consentito solo ad alcune categorie di veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز منطقه‌ای را نشان می‌دهد که تردد در آن فقط برای بعضی دسته‌های وسایل نقلیه مجاز است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_41_3',
       italianText: 'Il segnale raffigurato riporta quali sono i veicoli che possono entrare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مشخص می‌کند کدام وسایل نقلیه می‌توانند وارد شوند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_41_4',
       italianText: 'Il segnale raffigurato riporta le categorie di veicoli ammessi al transito',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دسته‌های وسایل نقلیه‌ای را که اجازه عبور دارند نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_41_5',
       italianText: 'Il segnale raffigurato indica una strada a senso unico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه یک‌طرفه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_41_6',
       italianText: 'Il segnale raffigurato vieta il transito di tutti i veicoli',
-      farsiTranslation: 'غلط: شما حق دارید وارد این خیابان شوید (عبور ممنوع نیست)، فقط نمی‌توانید از سمت دیگرش خارج شوید.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور همه وسایل نقلیه را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_41_7',
       italianText: 'Il segnale raffigurato indica una zona militare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده منطقه نظامی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_41_8',
       italianText: 'Il segnale raffigurato indica che la strada è chiusa per l’intenso traffico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راه به علت ترافیک سنگین بسته است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_41_9',
       italianText: 'Il segnale raffigurato consente il transito solo ai residenti',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور را فقط برای ساکنان مجاز می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_41_10',
       italianText: 'Il segnale raffigurato indica l’inizio di un’area pedonale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Zona a traffico limitato» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده آغاز یک منطقه پیاده‌رو را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6392,61 +6392,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_42_1',
       italianText: 'Il segnale raffigurato permette di conoscere le condizioni di transitabilità del passo dello Stelvio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان فهمیدن وضعیت قابل‌عبور بودن گردنه استلویو را می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_42_2',
       italianText: 'Il segnale raffigurato indica che è necessario transitare solo con catene o pneumatici invernali',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید عبور فقط با زنجیر چرخ یا لاستیک زمستانی لازم است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_42_3',
       italianText: 'Il segnale raffigurato indica che la strada è aperta, ma solo ai veicoli che sono equipaggiati con catene o pneumatici invernali',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راه باز است، اما فقط برای وسایلی که زنجیر چرخ یا لاستیک زمستانی دارند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_42_4',
       italianText: 'Il segnale raffigurato è posto su strade di montagna',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های کوهستانی نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_42_5',
       italianText: 'Il segnale raffigurato indica che è possibile raggiungere il passo dello Stelvio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید رسیدن به گردنه استلویو ممکن است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_42_6',
       italianText: 'Il segnale raffigurato indica strada aperta solo ai veicoli con pneumatici nuovi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راه را فقط برای وسایلی که لاستیک نو دارند باز اعلام می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_42_7',
       italianText: 'Il segnale raffigurato consiglia di montare le catene',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط توصیه می‌کند زنجیر چرخ نصب شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_42_8',
       italianText: 'Il segnale raffigurato obbliga a montare le catene su tutte le quattro ruote',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مجبور می‌کند زنجیر چرخ روی هر چهار چرخ نصب شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_42_9',
       italianText: 'Il segnale raffigurato obbliga a togliere le catene per non rovinare l’asfalto',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده مجبور می‌کند برای خراب نشدن آسفالت، زنجیر چرخ باز شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_42_10',
       italianText: 'Il segnale raffigurato indica l’apertura di un impianto sciistico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: passo aperto con catene o pneumatici da neve» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده باز بودن یک پیست یا تأسیسات اسکی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6454,49 +6454,49 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_43_1',
       italianText: 'Il segnale raffigurato consiglia di procedere con particolare prudenza e attenzione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده توصیه می‌کند با احتیاط و توجه ویژه حرکت کنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_43_2',
       italianText: 'Il segnale raffigurato indica che il passo dello Stelvio non è raggiungibile',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید گردنه استلویو قابل دسترسی نیست.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_43_3',
       italianText: 'Il segnale raffigurato raccomanda l’uso delle catene o di pneumatici invernali fino a Trafoi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده استفاده از زنجیر چرخ یا لاستیک زمستانی را تا ترافوی توصیه می‌کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_43_4',
       italianText: 'Il segnale raffigurato indica che è possibile arrivare fino a Trafoi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید می‌توان تا ترافوی رسید.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_43_5',
       italianText: 'Il segnale raffigurato indica che le stazioni di servizio sono chiuse',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید جایگاه‌های سوخت یا خدمات بسته هستند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_43_6',
       italianText: 'Il segnale raffigurato indica che è obbligatorio montare gli pneumatici invernali',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نصب لاستیک زمستانی را اجباری می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_43_7',
       italianText: 'Il segnale raffigurato vieta il transito ai veicoli che non hanno le catene da neve',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور وسایلی را که زنجیر چرخ ندارند ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_43_8',
       italianText: 'Il segnale raffigurato indica che i veicoli per poter transitare debbono avere a bordo le catene',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Transitabilità: tratto terminale o passo chiuso» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید وسایل نقلیه برای عبور باید زنجیر چرخ همراه داشته باشند.',
       correctAnswer: 'Falso'
     },
 
@@ -6510,55 +6510,55 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_44_2',
       italianText: 'Il segnale raffigurato, se barrato, da una striscia rossa indica la fine di una strada extraurbana principale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'اگر روی تابلوی نشان‌داده‌شده خط قرمز کشیده شود، پایان یک جاده اصلی برون‌شهری را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_44_3',
       italianText: 'Il segnale raffigurato è posto all’inizio di una strada extraurbana principale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در آغاز یک جاده اصلی برون‌شهری نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_44_4',
       italianText: 'Il segnale raffigurato indica una strada a carreggiate separate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه با سواره‌روهای جدا را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_44_5',
       italianText: 'Il segnale raffigurato indica la presenza di un cavalcavia che consente l’inversione di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود یک پل هوایی را نشان می‌دهد که امکان دور زدن و تغییر جهت کامل را می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_44_6',
       italianText: 'Il segnale raffigurato preavvisa un tratto di strada in salita',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک بخش سربالایی راه خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_44_7',
       italianText: 'Il segnale raffigurato indica la vicinanza di un sottopassaggio per i veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیکی یک زیرگذر برای وسایل نقلیه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_44_8',
       italianText: 'Il segnale raffigurato indica che la strada è interrotta',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید راه بسته است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_44_9',
       italianText: 'Il segnale raffigurato prescrive la circolazione per file parallele',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حرکت در صف‌های موازی را مقرر می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_44_10',
       italianText: 'Il segnale raffigurato preavvisa l’inizio di un lungo rettilineo Inizio strada extraurbana principale',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Inizio strada extraurbana principale» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از آغاز یک مسیر مستقیم طولانی خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6566,61 +6566,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_45_1',
       italianText: 'Il segnale raffigurato indica come utilizzare le corsie di una carreggiata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد لاین‌های یک سواره‌رو چگونه باید استفاده شوند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_45_2',
       italianText: 'Il segnale raffigurato consente la circolazione dei motocicli su tutte e due le corsie',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه می‌دهد موتورسیکلت‌ها در هر دو لاین حرکت کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_45_3',
       italianText: 'Il segnale raffigurato indica che la corsia di sinistra è vietata agli autocarri che superano la massa a pieno carico di 3,5 tonnellate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید لاین چپ برای کامیون‌هایی که وزن کاملشان بیش از ۳.۵ تن است ممنوع است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_45_4',
       italianText: 'Il segnale raffigurato è installato sulle strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_45_5',
       italianText: 'Il segnale raffigurato consente la circolazione delle autovetture su tutte e due le corsie',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه می‌دهد خودروهای سواری در هر دو لاین حرکت کنند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_45_6',
       italianText: 'Il segnale raffigurato consente a tutti gli autocarri di sorpassare a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به همه کامیون‌ها اجازه می‌دهد از سمت راست سبقت بگیرند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_45_7',
       italianText: 'Il segnale raffigurato indica che gli autocarri che superano 3,5 tonnellate possono circolare solo sulla corsia di sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید کامیون‌های بالای ۳.۵ تن فقط می‌توانند در لاین چپ حرکت کنند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_45_8',
       italianText: 'Il segnale raffigurato vieta a tutti gli autocarri di circolare sulla corsia di sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حرکت همه کامیون‌ها را در لاین چپ ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_45_9',
       italianText: 'Il segnale raffigurato vieta il transito anche agli autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور اتوبوس‌ها را هم ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_45_10',
       italianText: 'Il segnale raffigurato si trova solo su strade a doppio senso di circolazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie extraurbane» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده فقط در راه‌های دوطرفه نصب می‌شود.',
       correctAnswer: 'Falso'
     },
 
@@ -6628,55 +6628,55 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_46_1',
       italianText: 'Il segnale raffigurato indica le velocità minime obbligatorie da mantenere sulle corsie indicate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حداقل سرعت‌های اجباری را که باید در لاین‌های مشخص‌شده رعایت شوند نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_46_2',
       italianText: 'Il segnale raffigurato è posto sulle autostrade',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در اتوبان‌ها نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_46_3',
       italianText: 'Il segnale raffigurato consente ad un veicolo che viaggia a 100 km/h di percorrere la corsia di mezzo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به وسیله‌ای که با سرعت ۱۰۰ کیلومتر بر ساعت حرکت می‌کند اجازه می‌دهد از لاین وسط استفاده کند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_46_4',
       italianText: 'Il segnale raffigurato obbliga i veicoli che viaggiano alla velocità di 50 km/h di stare sulla prima corsia di destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وسایلی را که با سرعت ۵۰ کیلومتر بر ساعت حرکت می‌کنند مجبور می‌کند در اولین لاین سمت راست بمانند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_46_5',
       italianText: 'Il segnale raffigurato consente di circolare a 160 km/h in tutte e tre le corsie',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده اجازه می‌دهد در هر سه لاین با سرعت ۱۶۰ کیلومتر بر ساعت حرکت کنیم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_46_6',
       italianText: 'Il segnale raffigurato riporta le velocità che si consiglia di non superare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده سرعت‌هایی را نشان می‌دهد که توصیه می‌شود از آن‌ها بیشتر نرویم.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_46_7',
       italianText: 'Il segnale raffigurato consente ad un veicolo che viaggia alla velocità di 80 km/h di stare sulla corsia di sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به وسیله‌ای که با سرعت ۸۰ کیلومتر بر ساعت حرکت می‌کند اجازه می‌دهد در لاین چپ بماند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_46_8',
       italianText: 'Il segnale raffigurato indica una strada a doppio senso di circolazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک راه دوطرفه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_46_9',
       italianText: 'Il segnale raffigurato indica le velocità consigliate',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie autostradali con velocità minime» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده سرعت‌های توصیه‌شده را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6684,19 +6684,19 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_47_1',
       italianText: 'Il segnale raffigurato indica come devono essere utilizzate le corsie',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie urbane per categorie di veicoli» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد لاین‌ها چگونه باید استفاده شوند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_47_2',
       italianText: 'Il segnale raffigurato indica che la corsia di destra è riservata agli autobus dei servizi pubblici urbani',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie urbane per categorie di veicoli» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید لاین راست مخصوص اتوبوس‌های خدمات عمومی شهری است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_47_3',
       italianText: 'Il segnale raffigurato indica che le corsie di sinistra sono destinate al transito normale di tutti i veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie urbane per categorie di veicoli» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید لاین‌های چپ برای تردد عادی همه وسایل نقلیه هستند.',
       correctAnswer: 'Vero'
     },
     {
@@ -6708,25 +6708,25 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_47_5',
       italianText: 'Il segnale raffigurato consente ai taxi di stare sulla corsia di destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie urbane per categorie di veicoli» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به تاکسی‌ها اجازه می‌دهد در لاین راست حرکت کنند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_47_6',
       italianText: 'Il segnale raffigurato indica una pista ciclabile sulla destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie urbane per categorie di veicoli» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک مسیر دوچرخه در سمت راست را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_47_7',
       italianText: 'Il segnale raffigurato si può trovare sulle autostrade',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie urbane per categorie di veicoli» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند در اتوبان‌ها نصب شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_47_8',
       italianText: 'Il segnale raffigurato indica che gli autobus possono sorpassare a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Uso corsie urbane per categorie di veicoli» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید اتوبوس‌ها می‌توانند از سمت راست سبقت بگیرند.',
       correctAnswer: 'Falso'
     },
 
@@ -6734,61 +6734,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_48_1',
       italianText: 'Il segnale raffigurato indica un cambiamento del numero di corsie disponibili',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تغییر تعداد لاین‌های موجود را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_48_2',
       italianText: 'Il segnale raffigurato indica un aumento da una a due corsie',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده افزایش لاین از یک به دو را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_48_3',
       italianText: 'Il segnale raffigurato può essere abbinato ad un pannello che indica la distanza dal punto in cui si ha l’aumento di corsia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند با تابلوی متممی همراه شود که فاصله تا نقطه افزایش لاین را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_48_4',
       italianText: 'Il segnale raffigurato è posto sulle strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در جاده‌های برون‌شهری نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_48_5',
       italianText: 'Il segnale raffigurato indica che si è vicini ad un cavalcavia che consente di invertire il senso di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید به پل هوایی‌ای نزدیک هستیم که امکان دور زدن و تغییر جهت کامل را می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_48_6',
       italianText: 'Il segnale raffigurato preavvisa l’obbligo di svolta a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از الزام به پیچیدن به راست خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_48_7',
       italianText: 'Il segnale raffigurato indica la possibilità di passare a destra o a sinistra di un ostacolo',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان عبور از سمت راست یا چپ یک مانع را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_48_8',
       italianText: 'Il segnale raffigurato indica che è possibile sorpassare a destra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید سبقت گرفتن از سمت راست ممکن است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_48_9',
       italianText: 'Il segnale raffigurato preannuncia una zona di preselezione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک منطقه پیش‌انتخاب لاین خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_48_10',
       italianText: 'Il segnale raffigurato preannuncia una corsia di decelerazione',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie extraurbane in aumento» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از یک لاین کاهش سرعت خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6796,55 +6796,55 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_49_1',
       italianText: 'Il segnale raffigurato indica una diminuzione del numero di corsie disponibili',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کاهش تعداد لاین‌های موجود را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_49_2',
       italianText: 'Il segnale raffigurato indica una riduzione da tre a due corsie',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کاهش لاین از سه به دو را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_49_3',
       italianText: 'Il segnale raffigurato consiglia di rallentare per restringimento della carreggiata',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده به علت باریک شدن سواره‌رو توصیه می‌کند سرعت را کم کنیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_49_4',
       italianText: 'Il segnale raffigurato può essere abbinato ad un pannello che indica la distanza dal restringimento di corsia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند با تابلوی متممی همراه شود که فاصله تا باریک شدن لاین را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_49_5',
       italianText: 'Il segnale raffigurato è installato sulle autostrade',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده در اتوبان‌ها نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_49_6',
       italianText: 'Il segnale raffigurato indica lavori in corso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کارهای جاده‌ای را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_49_7',
       italianText: 'Il segnale raffigurato preavvisa l’obbligo di svoltare a sinistra',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از الزام به پیچیدن به چپ خبر می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_49_8',
       italianText: 'Il segnale raffigurato preavvisa un cavalcavia che consente l’inversione di marcia',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده از پل هوایی‌ای خبر می‌دهد که امکان دور زدن و تغییر جهت کامل را می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_49_9',
       italianText: 'Il segnale raffigurato indica che bisogna dare la precedenza ai veicoli che entrano in autostrada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Variazione corsie autostradali in diminuzione» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید باید به وسایلی که وارد اتوبان می‌شوند حق تقدم داد.',
       correctAnswer: 'Falso'
     },
 
@@ -6852,49 +6852,49 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_50_1',
       italianText: 'Il segnale raffigurato indica un’officina meccanica per veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تعمیرگاه مکانیکی وسایل نقلیه را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_50_2',
       italianText: 'Il segnale raffigurato indica che nelle vicinanze c’è un’officina meccanica per veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در نزدیکی یک تعمیرگاه مکانیکی وسایل نقلیه وجود دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_50_3',
       italianText: 'Il segnale raffigurato indica officina di riparazione veicoli nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تعمیرگاه وسایل نقلیه در نزدیکی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_50_4',
       italianText: 'Il segnale raffigurato indica che a breve distanza è possibile trovare un’officina meccanica per veicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در فاصله کوتاه می‌توان یک تعمیرگاه مکانیکی وسایل نقلیه پیدا کرد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_50_5',
       italianText: 'Il segnale raffigurato indica di fare attenzione agli operai che escono da una fabbrica',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید مراقب کارگرانی باشیم که از کارخانه خارج می‌شوند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_50_6',
       italianText: 'Il segnale raffigurato indica un distributore di carburante',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جایگاه سوخت را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_50_7',
       italianText: 'Il segnale raffigurato indica un’area di sosta nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده یک محل توقف در نزدیکی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_50_8',
       italianText: 'Il segnale raffigurato indica cantonieri al lavoro sulla strada',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Assistenza meccanica» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده کارگران راهدار در حال کار روی جاده را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -6902,61 +6902,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_51_1',
       italianText: 'Il segnale raffigurato indica un posto di telefono pubblico nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود تلفن عمومی در نزدیکی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_51_2',
       italianText: 'Il segnale raffigurato indica che siamo in vicinanza di un apparecchio telefonico pubblico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید نزدیک یک دستگاه تلفن عمومی هستیم.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_51_3',
       italianText: 'Il segnale raffigurato indica la possibilità, a breve distanza, di poter telefonare da un telefono pubblico',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان تماس گرفتن از تلفن عمومی در فاصله کوتاه را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_51_4',
       italianText: 'Il segnale raffigurato indica un apparecchio telefonico pubblico posto su strade extraurbane',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده دستگاه تلفن عمومی در جاده‌های برون‌شهری را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_51_5',
       italianText: 'Il segnale raffigurato indica la vicinanza di un negozio di telefonia mobile',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیکی یک فروشگاه تلفن همراه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_51_6',
       italianText: 'Il segnale raffigurato indica un posto di pronto soccorso raggiungibile per telefono',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محل کمک‌های اولیه را نشان می‌دهد که از راه تلفن قابل دسترسی است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_51_7',
       italianText: 'Il segnale raffigurato indica la possibilità di ricaricare i telefoni cellulari',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان شارژ تلفن‌های همراه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_51_8',
       italianText: 'Il segnale raffigurato indica che è vietato usare i telefoni cellulari',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید استفاده از تلفن همراه ممنوع است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_51_9',
       italianText: 'Il segnale raffigurato indica una zona sufficientemente coperta dal segnale per telefonia mobile',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده منطقه‌ای را نشان می‌دهد که پوشش آنتن موبایل کافی دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_51_10',
       italianText: 'Il segnale raffigurato indica che è consentito telefonare solo con cellulari a viva voce',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Telefono pubblico» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید فقط با تلفن همراه هندزفری می‌توان تماس گرفت.',
       correctAnswer: 'Falso'
     },
 
@@ -6964,67 +6964,67 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_52_1',
       italianText: 'Il segnale raffigurato indica un posto di rifornimento carburante',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جایگاه سوخت را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_52_2',
       italianText: 'Il segnale raffigurato indica che nelle vicinanze vi è un posto di distribuzione carburante',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در نزدیکی جایگاه توزیع سوخت وجود دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_52_3',
       italianText: 'Il segnale raffigurato indica la possibilità di rifornimento carburante a breve distanza',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان سوخت‌گیری در فاصله کوتاه را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_52_4',
       italianText: 'Il segnale raffigurato indica che a breve distanza vi è una stazione di rifornimento carburante',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در فاصله کوتاه یک جایگاه سوخت وجود دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_52_5',
       italianText: 'Il segnale raffigurato indica che lungo la strada, a breve distanza, vi è un distributore di carburante',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در امتداد راه و در فاصله کوتاه، پمپ بنزین وجود دارد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_52_6',
       italianText: 'Il segnale raffigurato indica un’officina di assistenza meccanica nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تعمیرگاه مکانیکی در نزدیکی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_52_7',
       italianText: 'Il segnale raffigurato indica un posto telefonico pubblico nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده تلفن عمومی در نزدیکی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_52_8',
       italianText: 'Il segnale raffigurato indica che nelle vicinanze vi è un’area di sosta per autoveicoli',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید در نزدیکی یک محل توقف برای وسایل نقلیه وجود دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_52_9',
       italianText: 'Il segnale raffigurato indica un distributore di carburante riservato solo ai veicoli alimentati a GPL',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده جایگاه سوختی را نشان می‌دهد که فقط مخصوص وسایل نقلیه گازسوز GPL است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_52_10',
       italianText: 'Il segnale raffigurato indica una raffineria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پالایشگاه را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_52_11',
       italianText: 'Il segnale raffigurato vieta il transito ai veicoli che trasportano carburante',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Rifornimento carburante» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده عبور وسایلی را که سوخت حمل می‌کنند ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
 
@@ -7032,61 +7032,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_53_1',
       italianText: 'Il segnale raffigurato indica un’area di sosta per i taxi in servizio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محل توقف تاکسی‌های در حال خدمت را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_53_2',
       italianText: 'Il segnale raffigurato indica un’area di sosta ad uso esclusivo dei taxi in servizio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محل توقفی را نشان می‌دهد که استفاده از آن فقط برای تاکسی‌های در حال خدمت است.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_53_3',
       italianText: 'Il segnale raffigurato indica un parcheggio riservato ai taxi in servizio',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پارکینگ مخصوص تاکسی‌های در حال خدمت را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_53_4',
       italianText: 'Il segnale raffigurato indica un’area contrassegnata da strisce gialle con la scritta TAXI',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محدوده‌ای با خط‌های زرد و نوشته TAXI را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_53_5',
       italianText: 'Il segnale raffigurato indica un divieto di sorpasso ai taxi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده سبقت گرفتن تاکسی‌ها را ممنوع می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_53_6',
       italianText: 'Il segnale raffigurato indica una strada vietata ai taxi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی را نشان می‌دهد که ورود تاکسی‌ها به آن ممنوع است.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_53_7',
       italianText: 'Il segnale raffigurato indica la presenza nelle vicinanze di un apparecchio per chiamare un taxi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود دستگاهی در نزدیکی برای صدا کردن تاکسی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_53_8',
       italianText: 'Il segnale raffigurato indica la presenza di una stazione radio per taxi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده وجود ایستگاه رادیویی تاکسی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_53_9',
       italianText: 'Il segnale raffigurato è dotato di luce propria',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده چراغ داخلی یا نور مخصوص خودش را دارد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_53_10',
       italianText: 'Il segnale raffigurato indica un garage riservato ai taxi',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Posteggio per taxi» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده گاراژ مخصوص تاکسی‌ها را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
 
@@ -7094,43 +7094,43 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_54_1',
       italianText: 'Il segnale raffigurato indica una fermata di autobus di pubblico trasporto extraurbani',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fermata autobus extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ایستگاه اتوبوس‌های حمل‌ونقل عمومی برون‌شهری را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_54_2',
       italianText: 'Il segnale raffigurato può essere abbinato ad un pannello che riporta gli orari di partenza degli autobus extraurbani',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fermata autobus extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌تواند با تابلویی همراه شود که ساعت حرکت اتوبوس‌های برون‌شهری را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_54_3',
       italianText: 'Il segnale raffigurato indica il luogo dove aspettare un autobus di pubblico trasporto extraurbano',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fermata autobus extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محلی را نشان می‌دهد که باید برای اتوبوس حمل‌ونقل عمومی برون‌شهری منتظر ماند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_54_4',
       italianText: 'Il segnale raffigurato indica un divieto di transito agli autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fermata autobus extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده ممنوعیت عبور اتوبوس‌ها را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_54_5',
       italianText: 'Il segnale raffigurato indica una corsia riservata agli autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fermata autobus extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده لاین مخصوص اتوبوس‌ها را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_54_6',
       italianText: 'Il segnale raffigurato indica un’area di sosta per autobus e filobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fermata autobus extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محل توقف اتوبوس و اتوبوس برقی را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_54_7',
       italianText: 'Il segnale raffigurato indica una strada riservata agli autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Fermata autobus extraurbano» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده راهی را نشان می‌دهد که مخصوص اتوبوس‌هاست.',
       correctAnswer: 'Falso'
     },
 
@@ -7138,61 +7138,61 @@ Studia con attenzione la forma, il colore, la posizione e le categorie di utenti
     {
       id: 'q_6_55_1',
       italianText: 'Il segnale raffigurato indica un parcheggio per veicoli e fermata di autobus nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده پارکینگ خودروها و ایستگاه اتوبوس در نزدیکی را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_55_2',
       italianText: 'Il segnale raffigurato è posto vicino ad una fermata di autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیک یک ایستگاه اتوبوس نصب می‌شود.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_55_3',
       italianText: 'Il segnale raffigurato indica che dopo aver parcheggiato l’autovettura è possibile prendere l’autobus n. 8 o n. 45',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید بعد از پارک کردن خودرو می‌توان اتوبوس شماره ۸ یا ۴۵ را سوار شد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_55_4',
       italianText: 'Il segnale raffigurato indica il numero (8 e 45) degli autobus pubblici che hanno fermate nelle vicinanze',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده شماره اتوبوس‌های عمومی، یعنی ۸ و ۴۵، را نشان می‌دهد که در نزدیکی ایستگاه دارند.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_55_5',
       italianText: 'Il segnale raffigurato indica la possibilità di parcheggiare l’autovettura e di prendere l’autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره درست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده امکان پارک کردن خودرو و سپس استفاده از اتوبوس را نشان می‌دهد.',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_6_55_6',
       italianText: 'Il segnale raffigurato indica una piazzola di sosta per autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده محل توقف کوتاه اتوبوس را نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_55_7',
       italianText: 'Il segnale raffigurato è posto nelle vicinanze di un pronto soccorso',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نزدیک اورژانس نصب می‌شود.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_55_8',
       italianText: 'Il segnale raffigurato indica il numero massimo di autobus che possono parcheggiare',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده حداکثر تعداد اتوبوس‌هایی را که می‌توانند پارک کنند نشان می‌دهد.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_55_9',
       italianText: 'Il segnale raffigurato indica per quanti minuti resta fermo un autobus',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده نشان می‌دهد اتوبوس چند دقیقه توقف می‌کند.',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_6_55_10',
       italianText: 'Il segnale raffigurato indica che è possibile iniziare a sostare dalle ore 8.45',
-      farsiTranslation: 'این یک پرسش رسمی درباره «Parcheggio di scambio con linee autobus» است. طبق پاسخ رسمی آزمون، این گزاره نادرست است.',
+      farsiTranslation: 'تابلوی نشان‌داده‌شده می‌گوید می‌توان از ساعت ۸:۴۵ شروع به پارک کرد.',
       correctAnswer: 'Falso'
     },
 

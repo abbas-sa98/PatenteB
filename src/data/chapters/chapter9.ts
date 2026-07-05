@@ -1835,1400 +1835,1448 @@ Serve soprattutto per lasciare libero il passaggio ai veicoli di soccorso, come 
         'suono_prolungato',
         'ambulanza'
       ],
-      questionIds: []
+      questionIds: Array.from({ length: 8 }, (_, i) => `q_9_25_${i + 1}`)
     }
   ],
   questions: [
     {
       id: 'q_9_1_1',
       italianText: 'Il segnale luminoso in figura è un semaforo per i veicoli',
-      farsiTranslation: 'علامت نوری داخل شکل است un semaforo per i وسایل نقلیه',
+      farsiTranslation: 'علامت نوری شکل، چراغ راهنمایی مخصوص وسایل نقلیه است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_1_2',
       italianText: 'Il semaforo in figura è posto, di norma, in un incrocio',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل است posto, di معمولا, in un تقاطع',
+      farsiTranslation: 'چراغ راهنمایی شکل معمولا در تقاطع نصب می‌شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_1_3',
       italianText: 'Il semaforo in figura serve, di norma, a regolare il passaggio dei veicoli in un incrocio',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل به کار می‌رود, di معمولا, a تنظیم می‌کندre il عبور dei وسایل نقلیه in un تقاطع',
+      farsiTranslation: 'چراغ راهنمایی شکل معمولا عبور وسایل نقلیه را در تقاطع تنظیم می‌کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_1_4',
       italianText: 'Il semaforo in figura, con luce gialla fissa accesa, consente l’attraversamento dell’incrocio, se lo si è già impegnato',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con چراغ زرد ثابت روشن, اجازه می‌دهد l’عبور dell’تقاطع, se lo si است già impegnato',
+      farsiTranslation: 'اگر چراغ زرد ثابت در چراغ راهنمایی شکل روشن باشد و راننده از قبل وارد تقاطع شده باشد، می‌تواند تقاطع را خالی کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_1_5',
       italianText: 'Il semaforo in figura non vale per i veicoli in servizio di linea per trasporto di persone',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل non vale per i وسایل نقلیه in سرویس خطی per trasporto di persone',
+      farsiTranslation: 'چراغ راهنمایی شکل برای وسایل نقلیه خطی حمل مسافر معتبر نیست',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_1_6',
       italianText: 'Il segnale luminoso in figura è un semaforo che non vale per le biciclette',
-      farsiTranslation: 'علامت نوری داخل شکل است un semaforo che non vale per le دوچرخه‌ها',
+      farsiTranslation: 'علامت نوری شکل چراغی است که برای دوچرخه‌ها معتبر نیست',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_1_7',
       italianText: 'Il semaforo in figura si trova in tutti i caselli autostradali',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل قرار دارد in همه i گیت‌های عوارض اتوبان',
+      farsiTranslation: 'چراغ راهنمایی شکل در همه گیت‌های عوارضی آزادراه‌ها وجود دارد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_1_8',
       italianText: 'Il semaforo in figura si trova in vicinanza dei binari ferroviari',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل قرار دارد in vicinanza dei binari ferroviari',
+      farsiTranslation: 'چراغ راهنمایی شکل در نزدیکی ریل‌های راه‌آهن قرار دارد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_1_9',
       italianText: 'Il semaforo in figura, con luce gialla lampeggiante accesa, non consente il transito dei veicoli',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con چراغ زرد چشمک‌زن روشن, non اجازه می‌دهد il عبور و مرور dei وسایل نقلیه',
+      farsiTranslation: 'اگر چراغ زرد چشمک‌زن در چراغ راهنمایی شکل روشن باشد، عبور وسایل نقلیه مجاز نیست',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_2_1',
       italianText: 'In presenza della luce semaforica rossa i veicoli devono arrestarsi',
-      farsiTranslation: 'در حضور چراغ قرمز راهنمایی i وسایل نقلیه devono توقف کردن',
+      farsiTranslation: 'هنگام روشن بودن چراغ قرمز راهنمایی وسایل نقلیه باید توقف کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_2_2',
       italianText: 'Nei semafori sistemati in verticale la luce rossa si trova in alto, in quelli posti in orizzontale si trova a sinistra',
-      farsiTranslation: 'Nei semafori sistemati in verticale la چراغ قرمز قرار دارد in alto, in quelli posti in orizzontale قرار دارد a چپ',
+      farsiTranslation: 'در چراغ‌های عمودی، چراغ قرمز در بالا قرار دارد و در چراغ‌های افقی در سمت چپ است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_2_3',
       italianText: 'Nel semaforo la luce rossa può essere di dimensioni più grandi delle altre',
-      farsiTranslation: 'Nel semaforo la چراغ قرمز می‌تواند essere di dimensioni più grandi delle altre',
+      farsiTranslation: 'در چراغ راهنمایی، چراغ قرمز ممکن است از چراغ‌های دیگر بزرگ‌تر باشد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_2_4',
       italianText: 'Quando è accesa la luce rossa del semaforo bisogna arrestarsi prima della striscia trasversale d’arresto',
-      farsiTranslation: 'Quando است روشن la چراغ قرمز del semaforo bisogna توقف کردن prima della خط عرضی d’توقف',
+      farsiTranslation: 'وقتی چراغ قرمز روشن است، باید قبل از خط عرضی توقف ایستاد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_2_5',
       italianText: 'Durante il periodo di accensione della luce rossa i veicoli non devono superare la striscia di arresto',
-      farsiTranslation: 'Durante il periodo di accensione della چراغ قرمز i وسایل نقلیه non devono superare la striscia di توقف',
+      farsiTranslation: 'در مدت روشن بودن چراغ قرمز i وسایل نقلیه نباید از خط توقف عبور کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_2_6',
       italianText: 'La luce rossa accesa del semaforo consente di svoltare a destra con prudenza, dando precedenza ai pedoni che attra- versano la strada',
-      farsiTranslation: 'چراغ قرمز روشن چراغ راهنمایی اجازه می‌دهد di پیچیدن a راست con احتیاط, dando حق تقدم ai عابران پیاده che attra- versano la strada',
+      farsiTranslation: 'چراغ قرمز روشن اجازه می‌دهد با احتیاط به راست پیچید و به عابران در حال عبور حق تقدم داد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_2_7',
       italianText: 'La luce rossa accesa del semaforo consente di ripartire lentamente quando appare il giallo per gli altri veicoli',
-      farsiTranslation: 'چراغ قرمز روشن چراغ راهنمایی اجازه می‌دهد di ripartire lentamente quando appare il زرد per gli altri وسایل نقلیه',
+      farsiTranslation: 'چراغ قرمز روشن راهنمایی اجازه می‌دهد وقتی برای وسایل دیگر چراغ زرد ظاهر شد، آهسته حرکت را شروع کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_2_8',
       italianText: 'La luce rossa accesa del semaforo consente di impegnare l’incrocio con molta prudenza a condizione che non ci siano altri veicoli o pedoni',
-      farsiTranslation: 'چراغ قرمز روشن چراغ راهنمایی اجازه می‌دهد di impegnare l’تقاطع con molta احتیاط a condizione che non ci siano altri وسایل نقلیه o عابران پیاده',
+      farsiTranslation: 'چراغ قرمز روشن راهنمایی اجازه می‌دهد با احتیاط زیاد وارد تقاطع شد، به شرط اینکه وسیله یا عابر دیگری نباشد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_2_9',
       italianText: 'La luce rossa accesa del semaforo consente l’attraversamento dell’incrocio, purché sia libero',
-      farsiTranslation: 'چراغ قرمز روشن چراغ راهنمایی اجازه می‌دهد l’عبور dell’تقاطع, purché sia libero',
+      farsiTranslation: 'چراغ قرمز روشن راهنمایی اجازه عبور از تقاطع را می‌دهد، به شرط اینکه آزاد باشد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_2_10',
       italianText: 'La luce rossa accesa del semaforo obbliga ad affrettarsi per liberare velocemente l’incrocio',
-      farsiTranslation: 'چراغ قرمز روشن چراغ راهنمایی مجبور می‌کند ad affrettarsi per خالی کردن velocemente l’تقاطع',
+      farsiTranslation: 'چراغ قرمز روشن راهنمایی مجبور می‌کند برای خالی کردن سریع تقاطع عجله کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_3_1',
       italianText: 'Quando è accesa la luce verde del semaforo in figura è possibile svoltare a sinistra, dando la precedenza ai veicoli che arrivano di fronte',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است است possibile پیچیدن a چپ, dando la حق تقدم ai وسایل نقلیه che arrivano از روبه‌رو',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است می‌توان به چپ پیچید، اما باید به وسایل روبه‌رو حق تقدم داد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_3_2',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si può svoltare a destra',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si می‌تواند پیچیدن a راست',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است می‌توان به راست پیچید',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_3_3',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si può proseguire diritto',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si می‌تواند ادامه دادن diritto',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است می‌توان مستقیم رفت',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_3_4',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si può impegnare l’incrocio, soltanto avendo la certezza di poterlo sgomberare prima dell’accensione della luce rossa',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si می‌تواند impegnare l’تقاطع, soltanto avendo la certezza di poterlo خالی کردن prima dell’accensione della چراغ قرمز',
+      farsiTranslation: 'وقتی چراغ سبز روشن است، فقط اگر مطمئن باشیم قبل از قرمز شدن تقاطع را خالی می‌کنیم می‌توانیم وارد تقاطع شویم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_3_5',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si può attraversare l’incrocio, usando prudenza',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si می‌تواند عبور کردن l’تقاطع, usando احتیاط',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است می‌توان با احتیاط از تقاطع عبور کرد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_3_6',
       italianText: 'Avvicinandosi ad un semaforo, che già da molto tempo ha la luce verde accesa, occorre proseguire con prudenza, pron- ti eventualmente a fermarsi se, quando si accende la luce gialla, non si è ancora impegnato l’incrocio',
-      farsiTranslation: 'Avvicinandosi ad un semaforo, che già da molto tempo ha la چراغ سبز روشن, occorre ادامه دادن con احتیاط, pron- ti eventualmente a توقف کردن se, quando si accende la luce gialla, non si است ancora impegnato l’تقاطع',
+      farsiTranslation: 'وقتی به چراغی نزدیک می‌شویم که مدت زیادی سبز بوده، باید با احتیاط حرکت کنیم و اگر هنگام زرد شدن هنوز وارد تقاطع نشده‌ایم آماده توقف باشیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_3_7',
       italianText: 'Avvicinandosi ad un semaforo, che già da molto tempo ha la luce verde accesa, occorre accelerare, senza che vi sia necessità di guardare la luce del semaforo',
-      farsiTranslation: 'Avvicinandosi ad un semaforo, che già da molto tempo ha la چراغ سبز روشن, occorre سرعت گرفتن, senza che vi sia necessità di guardare la luce del semaforo',
+      farsiTranslation: 'وقتی به چراغی نزدیک می‌شویم که مدت زیادی سبز بوده، باید بدون توجه به چراغ سرعت بگیریم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_3_8',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si può svoltare a sinistra, ma solo quando si accende anche la luce gialla',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si می‌تواند پیچیدن a چپ, ma فقط quando si accende anche la luce gialla',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است فقط وقتی چراغ زرد هم روشن شود می‌توان به چپ پیچید',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_3_9',
       italianText: 'Quando è accesa la luce verde del semaforo in figura, il conducente che svolta a sinistra ha la precedenza sui veicoli che provengono di fronte',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است, il conducente che svolta a چپ ha la حق تقدم sui وسایل نقلیه che provengono از روبه‌رو',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است, راننده‌ای که به چپ می‌پیچد نسبت به وسایل روبه‌رو حق تقدم دارد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_3_10',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si può svoltare solo se la carreggiata è divisa in corsie',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si می‌تواند پیچیدن فقط se la carreggiata است divisa in لاین‌ها',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است فقط اگر سواره‌رو خط‌کشی لاین داشته باشد می‌توان پیچید',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_3_11',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si deve proseguire diritto',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si deve ادامه دادن diritto',
+      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی شکل روشن است باید مستقیم رفت',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_3_12',
       italianText: 'Quando è accesa la luce verde del semaforo in figura si può proseguire diritto, dando però la precedenza ai pedoni',
-      farsiTranslation: 'وقتی چراغ سبز چراغ راهنمایی داخل شکل روشن است si می‌تواند ادامه دادن diritto, dando però la حق تقدم ai عابران پیاده',
+      farsiTranslation: 'وقتی چراغ سبز روشن است می‌توان مستقیم رفت، اما باید به عابران حق تقدم داد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_4_1',
       italianText: 'La luce gialla fissa si accende appena si spegne il verde',
-      farsiTranslation: 'چراغ زرد ثابت si accende appena si spegne il سبز',
+      farsiTranslation: 'چراغ زرد ثابت به محض خاموش شدن سبز روشن می‌شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_4_2',
       italianText: 'La luce gialla fissa si spegne prima che si accenda il rosso',
-      farsiTranslation: 'چراغ زرد ثابت si spegne prima che si accenda il قرمز',
+      farsiTranslation: 'چراغ زرد ثابت قبل از روشن شدن قرمز خاموش می‌شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_4_3',
       italianText: 'La luce gialla fissa obbliga chi ha già impegnato l’incrocio a liberarlo al più presto',
-      farsiTranslation: 'چراغ زرد ثابت مجبور می‌کند chi ha già impegnato l’تقاطع a liberarlo al più presto',
+      farsiTranslation: 'چراغ زرد ثابت کسی را که وارد تقاطع شده مجبور می‌کند هرچه زودتر آن را خالی کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_4_4',
       italianText: 'La luce gialla fissa obbliga a fermarsi prima del punto di arresto, purché lo si possa fare senza creare pericolo',
-      farsiTranslation: 'چراغ زرد ثابت مجبور می‌کند a توقف کردن prima del punto di توقف, purché lo si possa fare senza creare pericolo',
+      farsiTranslation: 'چراغ زرد ثابت مجبور می‌کند قبل از محل توقف بایستیم، اگر این کار بدون ایجاد خطر ممکن باشد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_4_5',
       italianText: 'La luce gialla fissa si accende quando il verde e il rosso sono spenti',
-      farsiTranslation: 'چراغ زرد ثابت si accende quando il سبز e il قرمز هستند spenti',
+      farsiTranslation: 'چراغ زرد ثابت وقتی سبز و قرمز خاموش هستند روشن می‌شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_4_6',
       italianText: 'La luce gialla fissa consente in ogni caso di proseguire impegnando l’incrocio',
-      farsiTranslation: 'چراغ زرد ثابت اجازه می‌دهد in ogni caso di ادامه دادن impegnando l’تقاطع',
+      farsiTranslation: 'چراغ زرد ثابت در هر حال اجازه می‌دهد وارد تقاطع شویم و ادامه دهیم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_4_7',
       italianText: 'La luce gialla fissa obbliga il conducente a tornare indietro se ha già superato la striscia trasversale di arresto',
-      farsiTranslation: 'چراغ زرد ثابت مجبور می‌کند il conducente a tornare indietro se ha già superato la خط عرضی di توقف',
+      farsiTranslation: 'چراغ زرد ثابت اگر راننده از خط توقف گذشته باشد او را مجبور می‌کند برگردد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_4_8',
       italianText: 'La luce gialla fissa ci obbliga ad arrestarci in ogni caso, senza impegnare l’incrocio',
-      farsiTranslation: 'چراغ زرد ثابت ci مجبور می‌کند ad arrestarci in ogni caso, senza impegnare l’تقاطع',
+      farsiTranslation: 'چراغ زرد ثابت در هر حالت ما را مجبور می‌کند بدون ورود به تقاطع بایستیم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_4_9',
       italianText: 'La luce gialla fissa si accende quando è ancora accesa quella rossa',
-      farsiTranslation: 'چراغ زرد ثابت si accende quando است ancora روشن quella rossa',
+      farsiTranslation: 'چراغ زرد ثابت وقتی چراغ قرمز هنوز روشن است روشن می‌شود',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_4_10',
       italianText: 'La luce gialla fissa si spegne insieme con il verde',
-      farsiTranslation: 'چراغ زرد ثابت si spegne insieme con il سبز',
+      farsiTranslation: 'چراغ زرد ثابت هم‌زمان با سبز خاموش می‌شود',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_4_11',
       italianText: 'La luce gialla fissa si accende insieme con il rosso',
-      farsiTranslation: 'چراغ زرد ثابت si accende insieme con il قرمز',
+      farsiTranslation: 'چراغ زرد ثابت هم‌زمان با قرمز روشن می‌شود',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_5_1',
       italianText: 'Incontrando il semaforo in figura è consentito il passaggio quando è accesa la luce verde',
-      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی داخل شکل است consentito il عبور quando است روشن la چراغ سبز',
+      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی شکل، عبور وقتی مجاز است که چراغ سبز روشن باشد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_5_2',
       italianText: 'Incontrando il semaforo in figura è consentito il passaggio quando si accende la luce gialla fissa, solo se non ci si può arrestare in condizioni di sicurezza prima dell’incrocio',
-      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی داخل شکل است consentito il عبور quando si accende la چراغ زرد ثابت, فقط se non ci si می‌تواند arrestare in condizioni di ایمنی prima dell’تقاطع',
+      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی شکل، عبور با زرد ثابت فقط وقتی مجاز است که نتوانیم با ایمنی قبل از تقاطع توقف کنیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_5_3',
       italianText: 'Incontrando il semaforo in figura è consentito il passaggio quando è accesa la luce gialla lampeggiante, usando però la massima prudenza e moderando la velocità',
-      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی داخل شکل است consentito il عبور quando است روشن la چراغ زرد چشمک‌زن, usando però la massima احتیاط e با کم کردن سرعت',
+      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی شکل، عبور با چراغ زرد چشمک‌زن مجاز است، اما باید با نهایت احتیاط و سرعت کم باشد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_5_4',
       italianText: 'Incontrando il semaforo in figura è consentito il passaggio quando esso è spento, usando però la massima prudenza',
-      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی داخل شکل است consentito il عبور quando esso است خاموش, usando però la massima احتیاط',
+      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی شکل، اگر چراغ خاموش باشد عبور مجاز است، اما باید با نهایت احتیاط انجام شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_5_5',
       italianText: 'Incontrando il segnale luminoso in figura è consentito il passaggio in caso di semaforo guasto, usando però la massima prudenza',
-      farsiTranslation: 'Incontrando il segnale luminoso in figura است consentito il عبور in caso di semaforo خراب, usando però la massima احتیاط',
+      farsiTranslation: 'هنگام روبه‌رو شدن با علامت نوری شکل در صورت خرابی چراغ راهنمایی، عبور با نهایت احتیاط مجاز است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_5_6',
       italianText: 'Incontrando il semaforo in figura è consentito il passaggio poco prima che si accenda la luce verde, purché sia già acce- sa quella rossa per gli altri veicoli',
-      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی داخل شکل است consentito il عبور poco prima che si accenda la چراغ سبز, purché sia già acce- sa quella rossa per gli altri وسایل نقلیه',
+      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی شکل، کمی قبل از سبز شدن می‌توان عبور کرد، به شرط اینکه چراغ قرمز برای وسایل دیگر روشن شده باشد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_5_7',
       italianText: 'Incontrando il semaforo in figura è consentito il passaggio quando si accende la luce rossa, usando la massima prudenza',
-      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی داخل شکل است consentito il عبور quando si accende la چراغ قرمز, usando la massima احتیاط',
+      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی شکل، وقتی چراغ قرمز روشن می‌شود می‌توان با نهایت احتیاط عبور کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_5_8',
       italianText: 'Incontrando il semaforo in figura è consentito il passaggio quando, pur essendo accesa la luce rossa, non vengono veicoli dalle altre direzioni',
-      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی داخل شکل است consentito il عبور quando, pur essendo روشن la چراغ قرمز, non vengono وسایل نقلیه dalle altre جهت‌ها',
+      farsiTranslation: 'هنگام روبه‌رو شدن با چراغ راهنمایی شکل، با وجود چراغ قرمز اگر از جهت‌های دیگر وسیله‌ای نیاید عبور مجاز است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_6_1',
       italianText: 'Nei semafori in figura le frecce verdi accese indicano le direzioni verso le quali si può proseguire',
-      farsiTranslation: 'Nei semafori in figura le فلش‌های سبز accese نشان می‌دهدno le جهت‌ها verso le quali si می‌تواند ادامه دادن',
+      farsiTranslation: 'در چراغ‌های راهنمایی شکل فلش‌های سبز روشن جهت‌هایی را نشان می‌دهند که می‌توان به آن سمت حرکت کرد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_6_2',
       italianText: 'Nei semafori in figura le frecce rosse accese indicano che non si può proseguire nelle direzioni indicate',
-      farsiTranslation: 'Nei semafori in figura le فلش‌های قرمز accese نشان می‌دهدno che non si می‌تواند ادامه دادن nelle جهت‌ها نشان می‌دهدte',
+      farsiTranslation: 'در چراغ‌های راهنمایی شکل فلش‌های قرمز روشن نشان می‌دهند که حرکت در جهت‌های نشان‌داده‌شده ممنوع است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_6_3',
       italianText: 'Nei semafori in figura le frecce gialle fisse accese indicano di liberare l’incrocio, qualora sia stato già impegnato, o di arrestarsi in condizioni di sicurezza',
-      farsiTranslation: 'Nei semafori in figura le فلش‌های زرد fisse accese نشان می‌دهدno di خالی کردن l’تقاطع, qualora sia stato già impegnato, o di توقف کردن in condizioni di ایمنی',
+      farsiTranslation: 'در چراغ‌های راهنمایی شکل فلش‌های زرد ثابت روشن می‌گویند اگر وارد تقاطع شده‌ای باید آن را خالی کنی، وگرنه اگر امن است توقف کنی',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_6_4',
       italianText: 'Nel semaforo in figura le frecce gialle lampeggianti accese indicano di attraversare l’incrocio con particolare prudenza',
-      farsiTranslation: 'Nel semaforo in figura le فلش‌های زرد lampeggianti accese نشان می‌دهدno di عبور کردن l’تقاطع con particolare احتیاط',
+      farsiTranslation: 'در چراغ راهنمایی شکل فلش‌های زرد چشمک‌زن روشن یعنی باید با احتیاط ویژه از تقاطع عبور کرد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_6_5',
       italianText: 'Nel semaforo in figura le frecce verdi accese, rivolte verso l’alto, indicano che si può proseguire in tutte le direzioni',
-      farsiTranslation: 'Nel semaforo in figura le فلش‌های سبز accese, rivolte verso l’alto, نشان می‌دهدno che si می‌تواند ادامه دادن in tutte le جهت‌ها',
+      farsiTranslation: 'در چراغ راهنمایی شکل فلش‌های سبز رو به بالا نشان می‌دهند که می‌توان در همه جهت‌ها حرکت کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_6_6',
       italianText: 'Nel semaforo in figura le frecce rosse accese indicano di proseguire con prudenza',
-      farsiTranslation: 'Nel semaforo in figura le فلش‌های قرمز accese نشان می‌دهدno di ادامه دادن con احتیاط',
+      farsiTranslation: 'در چراغ راهنمایی شکل فلش‌های قرمز روشن می‌گویند با احتیاط حرکت کنید',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_7_1',
       italianText: 'I segnali luminosi in figura sono semafori di corsia',
-      farsiTranslation: 'علامت‌های نوری داخل شکل هستند semafori di لاین',
+      farsiTranslation: 'علامت‌های نوری شکل چراغ‌های راهنمایی لاین هستند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_7_2',
       italianText: 'Il semaforo in figura riguarda i veicoli che devono proseguire nella direzione della freccia',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل riguarda i وسایل نقلیه che devono ادامه دادن nella جهت della freccia',
+      farsiTranslation: 'چراغ راهنمایی شکل مربوط به وسایلی است که باید در جهت فلش حرکت کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_7_3',
       italianText: 'Il semaforo in figura consente di proseguire nella sola direzione della freccia verde',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل اجازه می‌دهد di ادامه دادن nella تنها جهت della فلش سبز',
+      farsiTranslation: 'چراغ راهنمایی شکل فقط اجازه حرکت در جهت فلش سبز را می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_7_4',
       italianText: 'I semafori in figura, se spenti consentono di passare con particolare prudenza',
-      farsiTranslation: 'چراغ‌های راهنمایی داخل شکل, se spenti اجازه می‌دهند di passare con particolare احتیاط',
+      farsiTranslation: 'اگر چراغ‌های راهنمایی شکل خاموش باشند، عبور با احتیاط ویژه مجاز است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_7_5',
       italianText: 'I semafori di corsia in figura, con freccia rossa accesa impongono l’arresto dei veicoli diretti nel senso della freccia',
-      farsiTranslation: 'I semafori di لاین in figura, con فلش قرمز روشن الزام می‌کنند l’توقف dei وسایل نقلیه diretti nel senso della freccia',
+      farsiTranslation: 'چراغ‌های لاین شکل با فلش قرمز روشن، وسایلی را که در جهت فلش می‌روند مجبور به توقف می‌کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_7_6',
       italianText: 'I semafori in figura, con freccia gialla fissa accesa, impongono di liberare immediatamente l’incrocio, se lo si è già impe- gnato',
-      farsiTranslation: 'چراغ‌های راهنمایی داخل شکل, con فلش زرد fissa روشن, الزام می‌کنند di خالی کردن immediatamente l’تقاطع, se lo si است già impe- gnato',
+      farsiTranslation: 'چراغ‌های شکل با فلش زرد ثابت روشن، اگر راننده از قبل وارد تقاطع شده باشد او را مجبور می‌کنند فورا تقاطع را خالی کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_7_7',
       italianText: 'I segnali luminosi in figura valgono anche per le biciclette',
-      farsiTranslation: 'علامت‌های نوری داخل شکل valgono anche per le دوچرخه‌ها',
+      farsiTranslation: 'علامت‌های نوری شکل برای دوچرخه‌ها هم معتبر هستند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_7_8',
       italianText: 'I segnali luminosi in figura sono semafori per i veicoli in servizio di linea per trasporto di persone',
-      farsiTranslation: 'علامت‌های نوری داخل شکل هستند semafori per i وسایل نقلیه in سرویس خطی per trasporto di persone',
+      farsiTranslation: 'علامت‌های نوری شکل چراغ‌های مخصوص وسایل نقلیه خطی حمل مسافر هستند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_7_9',
       italianText: 'I segnali luminosi in figura sono semafori per i veicoli su rotaie (tram, treni)',
-      farsiTranslation: 'علامت‌های نوری داخل شکل هستند semafori per i وسایل نقلیه su rotaie (tram, treni)',
+      farsiTranslation: 'علامت‌های نوری شکل چراغ‌های مخصوص وسایل نقلیه ریلی، مثل ترام و قطار، هستند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_7_10',
       italianText: 'I segnali luminosi in figura sono posti all’inizio di una galleria',
-      farsiTranslation: 'علامت‌های نوری داخل شکل هستند posti all’inizio di una تونل',
+      farsiTranslation: 'علامت‌های نوری شکل در ابتدای تونل نصب می‌شوند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_7_11',
       italianText: 'I semafori in figura vengono utilizzati negli accessi ai ponti mobili',
-      farsiTranslation: 'چراغ‌های راهنمایی داخل شکل vengono utilizzati negli accessi ai پل‌های متحرک',
+      farsiTranslation: 'چراغ‌های شکل در ورودی پل‌های متحرک استفاده می‌شوند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_7_12',
       italianText: 'I semafori in figura regolano l’ingresso sul pontile d’imbarco di navi traghetto',
-      farsiTranslation: 'چراغ‌های راهنمایی داخل شکل تنظیم می‌کندno l’ingresso sul pontile d’imbarco di کشتی‌های فری',
+      farsiTranslation: 'چراغ‌های شکل ورود به اسکله سوار شدن به کشتی را تنظیم می‌کنند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_7_13',
       italianText: 'I semafori in figura regolano l’attraversamento di un passaggio a livello',
-      farsiTranslation: 'چراغ‌های راهنمایی داخل شکل تنظیم می‌کندno l’عبور di un عبور a livello',
+      farsiTranslation: 'چراغ‌های شکل عبور از گذرگاه راه‌آهن را تنظیم می‌کنند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_7_14',
       italianText: 'I segnali luminosi in figura sono semafori per corsie reversibili',
-      farsiTranslation: 'علامت‌های نوری داخل شکل هستند semafori per لاین‌ها reversibili',
+      farsiTranslation: 'علامت‌های نوری شکل چراغ‌های مخصوص لاین‌های برگشت‌پذیر هستند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_8_1',
       italianText: 'Il semaforo in figura può avere la luce bianca orizzontale accesa',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل می‌تواند avere la luce bianca orizzontale روشن',
+      farsiTranslation: 'چراغ راهنمایی شکل می‌تواند نوار سفید افقی روشن داشته باشد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_8_2',
       italianText: 'Il semaforo in figura può avere la luce bianca verticale accesa',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل می‌تواند avere la luce bianca verticale روشن',
+      farsiTranslation: 'چراغ راهنمایی شکل می‌تواند نوار سفید عمودی روشن داشته باشد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_8_3',
       italianText: 'Il segnale luminoso in figura indica un semaforo per i veicoli di trasporto pubblico',
-      farsiTranslation: 'علامت نوری داخل شکل نشان می‌دهد un semaforo per i وسایل نقلیه di حمل‌ونقل عمومی',
+      farsiTranslation: 'علامت نوری شکل چراغ مخصوص وسایل حمل‌ونقل عمومی را نشان می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_8_4',
       italianText: 'Il semaforo in figura è un semaforo pedonale',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل است un semaforo pedonale',
+      farsiTranslation: 'چراغ راهنمایی شکل یک چراغ عابر پیاده است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_8_5',
       italianText: 'Il semaforo in figura preannuncia lavori in corso',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل preannuncia lavori in corso',
+      farsiTranslation: 'چراغ راهنمایی شکل از قبل وجود کارگاه راه‌سازی را اعلام می‌کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_8_6',
       italianText: 'Il semaforo in figura indica i possibili scambi dei binari tranviari',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد i possibili scambi dei binari tranviari',
+      farsiTranslation: 'چراغ راهنمایی شکل جابه‌جایی‌های ممکن ریل‌های ترام را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_8_7',
       italianText: 'Il semaforo in figura impone ai motocicli di rallentare quando è acceso il triangolo giallo',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل الزام می‌کند ai motocicli di کم کردن سرعت quando است acceso il مثلث زرد',
+      farsiTranslation: 'چراغ راهنمایی شکل وقتی مثلث زرد روشن است موتورسیکلت‌ها را مجبور به کم کردن سرعت می‌کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_8_8',
       italianText: 'Il semaforo in figura vale per i veicoli con targa militare',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل vale per i وسایل نقلیه con targa militare',
+      farsiTranslation: 'چراغ راهنمایی شکل برای وسایل نقلیه با پلاک نظامی معتبر است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_9_1',
       italianText: 'Il semaforo in figura vale per i veicoli in servizio di linea per trasporto di persone',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل vale per i وسایل نقلیه in سرویس خطی per trasporto di persone',
+      farsiTranslation: 'چراغ راهنمایی شکل برای وسایل نقلیه خطی حمل مسافر معتبر است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_9_2',
       italianText: 'Il semaforo in figura impone l’arresto ai veicoli in servizio di linea per trasporto di persone quando è accesa la barra bianca in alto',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل الزام می‌کند l’توقف ai وسایل نقلیه in سرویس خطی per trasporto di persone quando است روشن la نوار سفید in alto',
+      farsiTranslation: 'چراغ راهنمایی شکل وقتی نوار سفید بالا روشن است وسایل نقلیه خطی حمل مسافر را مجبور به توقف می‌کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_9_3',
       italianText: 'Il semaforo in figura consente ai veicoli di trasporto pubblico di persone di proseguire quando in basso è accesa la barra bianca',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل اجازه می‌دهد ai وسایل نقلیه di حمل‌ونقل عمومی di persone di ادامه دادن quando in basso است روشن la نوار سفید',
+      farsiTranslation: 'چراغ راهنمایی شکل وقتی نوار سفید پایین روشن است به وسایل حمل‌ونقل عمومی اجازه حرکت می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_9_4',
       italianText: 'Il semaforo in figura è valido solo per i veicoli che marciano su rotaie (tram, treni)',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل است valido فقط per i وسایل نقلیه che marciano su rotaie (tram, treni)',
+      farsiTranslation: 'چراغ راهنمایی شکل فقط برای وسایل نقلیه‌ای که روی ریل حرکت می‌کنند، مثل ترام و قطار، معتبر است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_9_5',
       italianText: 'Il semaforo in figura regola il transito dei pedoni',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل تنظیم می‌کند il عبور و مرور dei عابران پیاده',
+      farsiTranslation: 'چراغ راهنمایی شکل عبور عابران را تنظیم می‌کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_9_6',
       italianText: 'Il semaforo in figura indica un passaggio a livello senza barriere',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد un عبور a livello senza موانع',
+      farsiTranslation: 'چراغ راهنمایی شکل گذرگاه راه‌آهن بدون مانع را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_9_7',
       italianText: 'Il semaforo in figura regola il transito nei pontili per l’imbarco sulle navi traghetto',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل تنظیم می‌کند il عبور و مرور nei pontili per l’imbarco sulle کشتی‌های فری',
+      farsiTranslation: 'چراغ راهنمایی شکل عبور در اسکله‌های سوار شدن به کشتی را تنظیم می‌کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_9_8',
       italianText: 'Il semaforo in figura indica la vicinanza di una stazione ferroviaria',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد la vicinanza di una stazione ferroviaria',
+      farsiTranslation: 'چراغ راهنمایی شکل نزدیکی یک ایستگاه راه‌آهن را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_9_9',
       italianText: 'Il semaforo in figura, con il triangolo giallo acceso, preavvisa lavori in corso',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con il مثلث زرد acceso, از قبل هشدار می‌دهد lavori in corso',
+      farsiTranslation: 'چراغ راهنمایی شکل با مثلث زرد روشن، از قبل وجود کارگاه راه‌سازی را اعلام می‌کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_10_1',
       italianText: 'La luce verde accesa del semaforo in figura permette ai pedoni l’attraversamento',
-      farsiTranslation: 'La چراغ سبز روشن del semaforo in figura permette ai عابران پیاده l’عبور',
+      farsiTranslation: 'چراغ سبز روشن چراغ عابر پیاده شکل به عابران اجازه عبور می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_10_2',
       italianText: 'La luce verde accesa del semaforo in figura consente ai pedoni di attraversare la strada',
-      farsiTranslation: 'La چراغ سبز روشن del semaforo in figura اجازه می‌دهد ai عابران پیاده di عبور کردن la strada',
+      farsiTranslation: 'چراغ سبز روشن چراغ عابر پیاده شکل به عابران اجازه می‌دهد از راه عبور کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_10_3',
       italianText: 'La luce verde accesa del semaforo in figura consente ai pedoni di impegnare la carreggiata per attraversarla',
-      farsiTranslation: 'La چراغ سبز روشن del semaforo in figura اجازه می‌دهد ai عابران پیاده di impegnare la carreggiata per attraversarla',
+      farsiTranslation: 'چراغ سبز روشن چراغ عابر پیاده شکل به عابران اجازه می‌دهد برای عبور وارد سواره‌رو شوند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_10_4',
       italianText: 'Il semaforo in figura indica una scala mobile in funzione',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد una scala mobile in funzione',
+      farsiTranslation: 'چراغ راهنمایی شکل پله برقی در حال کار را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_10_5',
       italianText: 'La luce verde accesa del semaforo in figura consente il passaggio solo dei veicoli',
-      farsiTranslation: 'La چراغ سبز روشن del semaforo in figura اجازه می‌دهد il عبور فقط dei وسایل نقلیه',
+      farsiTranslation: 'چراغ سبز روشن چراغ عابر پیاده شکل فقط عبور وسایل نقلیه را مجاز می‌کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_10_6',
       italianText: 'La luce verde accesa del semaforo in figura obbliga i pedoni a dare la precedenza ai veicoli che svoltano',
-      farsiTranslation: 'La چراغ سبز روشن del semaforo in figura مجبور می‌کند i عابران پیاده a dare la حق تقدم ai وسایل نقلیه che svoltano',
+      farsiTranslation: 'چراغ سبز روشن چراغ عابر پیاده شکل عابران را مجبور می‌کند به وسایلی که می‌پیچند حق تقدم بدهند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_10_7',
       italianText: 'Il semaforo in figura segnala un ascensore pubblico',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل segnala un ascensore pubblico',
+      farsiTranslation: 'چراغ راهنمایی شکل آسانسور عمومی را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_10_8',
       italianText: 'Il semaforo in figura segnala la presenza di una scuola elementare, per cui bisogna rallentare',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل segnala la presenza di una scuola elementare, per cui bisogna کم کردن سرعت',
+      farsiTranslation: 'چراغ راهنمایی شکل وجود مدرسه ابتدایی را نشان می‌دهد و به همین دلیل باید سرعت را کم کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_10_9',
       italianText: 'La luce verde del semaforo in figura è sempre accesa durante l’uscita degli studenti dalla scuola',
-      farsiTranslation: 'La چراغ سبز del semaforo in figura است sempre روشن durante l’uscita degli studenti dalla scuola',
+      farsiTranslation: 'چراغ سبز چراغ راهنمایی شکل هنگام خروج دانش‌آموزان از مدرسه همیشه روشن است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_11_1',
       italianText: 'Il semaforo in figura regola il passaggio dei pedoni negli incroci',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل تنظیم می‌کند il عبور dei عابران پیاده negli incroci',
+      farsiTranslation: 'چراغ راهنمایی شکل عبور عابران را در تقاطع‌ها تنظیم می‌کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_11_2',
       italianText: 'Il segnale luminoso in figura è un semaforo per i pedoni',
-      farsiTranslation: 'علامت نوری داخل شکل است un semaforo per i عابران پیاده',
+      farsiTranslation: 'علامت نوری شکل چراغ مخصوص عابران است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_11_3',
       italianText: 'Il semaforo in figura, con luce gialla fissa accesa, impone ai pedoni che hanno già occupato l’attraversamento pedonale di liberarlo rapidamente',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con چراغ زرد ثابت روشن, الزام می‌کند ai عابران پیاده che hanno già occupato l’عبور pedonale di liberarlo rapidamente',
+      farsiTranslation: 'چراغ راهنمایی شکل با زرد ثابت روشن، عابرانی را که وارد محل عبور شده‌اند مجبور می‌کند سریع آن را خالی کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_11_4',
       italianText: 'Il semaforo in figura, con luce rossa accesa impone ai pedoni di non attraversare',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con چراغ قرمز روشن الزام می‌کند ai عابران پیاده di non عبور کردن',
+      farsiTranslation: 'چراغ راهنمایی شکل با قرمز روشن، عابران را مجبور می‌کند عبور نکنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_11_5',
       italianText: 'Il segnale luminoso in figura indica la presenza di una scuola',
-      farsiTranslation: 'علامت نوری داخل شکل نشان می‌دهد la presenza di una scuola',
+      farsiTranslation: 'علامت نوری شکل وجود مدرسه را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_11_6',
       italianText: 'Il semaforo in figura indica lo svolgimento di una gara podistica',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد lo svolgimento di una gara podistica',
+      farsiTranslation: 'چراغ راهنمایی شکل برگزاری مسابقه دو را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_11_7',
       italianText: 'Nelle aree di servizio autostradali il semaforo in figura indica i sottopassaggi pedonali',
-      farsiTranslation: 'Nelle aree di servizio autostradali il semaforo in figura نشان می‌دهد i sottopassaggi pedonali',
+      farsiTranslation: 'در محوطه‌های خدماتی آزادراه، چراغ راهنمایی شکل زیرگذرهای عابر پیاده را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_11_8',
       italianText: 'Il semaforo in figura si trova all’ingresso della metropolitana',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل قرار دارد all’ingresso della metropolitana',
+      farsiTranslation: 'چراغ راهنمایی شکل در ورودی مترو قرار دارد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_11_9',
       italianText: 'Il semaforo in figura indica i cancelli di imbarco nelle aree portuali',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد i cancelli di imbarco nelle aree portuali',
+      farsiTranslation: 'چراغ راهنمایی شکل گیت‌های سوار شدن در محوطه‌های بندری را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_11_10',
       italianText: 'Il semaforo in figura indica l’entrata di una struttura sportiva',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد l’entrata di una struttura sportiva',
+      farsiTranslation: 'چراغ راهنمایی شکل ورودی یک مجموعه ورزشی را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_12_1',
       italianText: 'Il semaforo in figura si trova all’uscita di una pista ciclabile, per regolare l’attraversamento della strada',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل قرار دارد all’uscita di una pista ciclabile, per تنظیم می‌کندre l’عبور della strada',
+      farsiTranslation: 'چراغ راهنمایی شکل در خروجی مسیر دوچرخه قرار دارد تا عبور از راه را تنظیم کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_12_2',
       italianText: 'Il segnale luminoso in figura è un semaforo riservato ai conducenti di biciclette',
-      farsiTranslation: 'علامت نوری داخل شکل است un semaforo riservato ai conducenti di دوچرخه‌ها',
+      farsiTranslation: 'علامت نوری شکل چراغی مخصوص دوچرخه‌سواران است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_12_3',
       italianText: 'Il semaforo in figura, con luce rossa accesa, impone l’arresto alle biciclette',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con چراغ قرمز روشن, الزام می‌کند l’توقف alle دوچرخه‌ها',
+      farsiTranslation: 'چراغ راهنمایی شکل با قرمز روشن دوچرخه‌ها را مجبور به توقف می‌کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_12_4',
       italianText: 'Il semaforo in figura, con luce gialla fissa accesa, impone ai conducenti di biciclette di liberare velocemente l’incrocio se lo hanno già impegnato',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con چراغ زرد ثابت روشن, الزام می‌کند ai conducenti di دوچرخه‌ها di خالی کردن velocemente l’تقاطع se lo hanno già impegnato',
+      farsiTranslation: 'چراغ راهنمایی شکل با زرد ثابت روشن، دوچرخه‌سوارانی را که وارد تقاطع شده‌اند مجبور می‌کند سریع آن را خالی کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_12_5',
       italianText: 'Il semaforo in figura, con luce verde accesa, consente soltanto ai conducenti di biciclette di attraversare l’incrocio',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, con چراغ سبز روشن, اجازه می‌دهد soltanto ai conducenti di دوچرخه‌ها di عبور کردن l’تقاطع',
+      farsiTranslation: 'چراغ راهنمایی شکل با سبز روشن فقط به دوچرخه‌سواران اجازه عبور از تقاطع را می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_12_6',
       italianText: 'Il semaforo in figura indica una corsia riservata alle biciclette e ai ciclomotori',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد una لاین riservata alle دوچرخه‌ها e ai ciclomotori',
+      farsiTranslation: 'چراغ راهنمایی شکل لاین مخصوص دوچرخه‌ها و موتورگازی‌ها را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_12_7',
       italianText: 'Il semaforo in figura indica lo svolgimento di una gara ciclistica',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد lo svolgimento di una gara دوچرخه‌سوارانca',
+      farsiTranslation: 'چراغ راهنمایی شکل برگزاری مسابقه دوچرخه‌سواری را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_12_8',
       italianText: 'Il semaforo in figura indica che ci sono lavori in corso per la costruzione di una pista ciclabile',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد که ci هستند lavori in corso per la costruzione di una pista ciclabile',
+      farsiTranslation: 'چراغ راهنمایی شکل نشان می‌دهد برای ساخت مسیر دوچرخه کارگاه راه‌سازی وجود دارد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_12_9',
       italianText: 'Il semaforo in figura indica una corsia riservata ai motocicli',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد una لاین riservata ai motocicli',
+      farsiTranslation: 'چراغ راهنمایی شکل لاین مخصوص موتورسیکلت‌ها را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_12_10',
       italianText: 'Il semaforo in figura indica il divieto di transito per le biciclette',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد il divieto di عبور و مرور per le دوچرخه‌ها',
+      farsiTranslation: 'چراغ راهنمایی شکل ممنوعیت عبور دوچرخه‌ها را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_12_11',
       italianText: 'Il semaforo in figura vale per tutti i veicoli a due ruote',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل vale per همه i وسایل نقلیه a due ruote',
+      farsiTranslation: 'چراغ راهنمایی شکل برای همه وسایل نقلیه دوچرخ معتبر است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_13_1',
       italianText: 'Il semaforo di corsie reversibili in figura è posto su una carreggiata con almeno tre corsie',
-      farsiTranslation: 'Il semaforo di لاین‌ها reversibili in figura است posto su una carreggiata con almeno tre لاین‌ها',
+      farsiTranslation: 'چراغ مسیر برگشت‌پذیر شکل روی سواره‌رویی با حداقل سه لاین نصب می‌شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_13_2',
       italianText: 'Il semaforo di corsie reversibili in figura consente il transito nella corsia indicata dalla freccia verde',
-      farsiTranslation: 'Il semaforo di لاین‌ها reversibili in figura اجازه می‌دهد il عبور و مرور nella لاین نشان می‌دهدta dalla فلش سبز',
+      farsiTranslation: 'چراغ مسیر برگشت‌پذیر شکل اجازه عبور در لاینی را می‌دهد که فلش سبز نشان داده است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_13_3',
       italianText: 'Il semaforo di corsie reversibili in figura, con freccia gialla lampeggiante impone al conducente di abbandonare quella corsia e di spostarsi in quella indicata',
-      farsiTranslation: 'Il semaforo di لاین‌ها reversibili in figura, con فلش زرد lampeggiante الزام می‌کند al conducente di abbandonare quella لاین e di spostarsi in quella نشان می‌دهدta',
+      farsiTranslation: 'چراغ مسیر برگشت‌پذیر شکل با فلش زرد چشمک‌زن راننده را مجبور می‌کند آن لاین را ترک کند و به لاین نشان‌داده‌شده برود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_13_4',
       italianText: 'Il semaforo di corsie reversibili in figura indica la corsia per i veicoli lenti',
-      farsiTranslation: 'Il semaforo di لاین‌ها reversibili in figura نشان می‌دهد la لاین per i وسایل نقلیه lenti',
+      farsiTranslation: 'چراغ مسیر برگشت‌پذیر شکل لاین مخصوص وسایل کندرو را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_13_5',
       italianText: 'Il semaforo di corsie reversibili in figura indica la corsia per la sosta di emergenza',
-      farsiTranslation: 'Il semaforo di لاین‌ها reversibili in figura نشان می‌دهد la لاین per la sosta di emergenza',
+      farsiTranslation: 'چراغ مسیر برگشت‌پذیر شکل لاین توقف اضطراری را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_13_6',
       italianText: 'Il semaforo di corsie reversibili in figura indica la corsia riservata al sorpasso',
-      farsiTranslation: 'Il semaforo di لاین‌ها reversibili in figura نشان می‌دهد la لاین riservata al sorpasso',
+      farsiTranslation: 'چراغ مسیر برگشت‌پذیر شکل لاین مخصوص سبقت را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_13_7',
       italianText: 'Il semaforo di corsie reversibili in figura è posto solo su carreggiate a senso unico di circolazione',
-      farsiTranslation: 'Il semaforo di لاین‌ها reversibili in figura است posto فقط su carreggiate a senso unico di circolazione',
+      farsiTranslation: 'چراغ مسیر برگشت‌پذیر شکل فقط روی سواره‌روهای یک‌طرفه نصب می‌شود',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_14_1',
       italianText: 'I segnali luminosi in figura sono semafori per corsie reversibili',
-      farsiTranslation: 'علامت‌های نوری داخل شکل هستند semafori per لاین‌ها reversibili',
+      farsiTranslation: 'علامت‌های نوری شکل چراغ‌های مخصوص لاین‌های برگشت‌پذیر هستند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_14_2',
       italianText: 'Il semaforo in figura non consente di occupare la corsia indicata con luce rossa a forma di X',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل non اجازه می‌دهد di occupare la لاین نشان می‌دهدta con چراغ قرمز a forma di X',
+      farsiTranslation: 'چراغ راهنمایی شکل اجازه اشغال لاینی را که با چراغ قرمز X شکل مشخص شده نمی‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_14_3',
       italianText: 'Il semaforo in figura consente di impegnare la corsia indicata dalla freccia verde',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل اجازه می‌دهد di impegnare la لاین نشان می‌دهدta dalla فلش سبز',
+      farsiTranslation: 'چراغ راهنمایی شکل اجازه استفاده از لاینی را می‌دهد که با فلش سبز مشخص شده است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_14_4',
       italianText: 'Nei semafori in figura la luce gialla lampeggiante obbliga il conducente a spostarsi nella corsia indicata dalla freccia',
-      farsiTranslation: 'Nei semafori in figura la چراغ زرد چشمک‌زن مجبور می‌کند il conducente a spostarsi nella لاین نشان می‌دهدta dalla freccia',
+      farsiTranslation: 'در چراغ‌های راهنمایی شکل چراغ زرد چشمک‌زن راننده را مجبور می‌کند به لاین نشان‌داده‌شده با فلش برود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_14_5',
       italianText: 'Il semaforo in figura non consente di occupare le corsie indicate dalle frecce verdi',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل non اجازه می‌دهد di occupare le لاین‌ها نشان می‌دهدte dalle فلش‌های سبز',
+      farsiTranslation: 'چراغ راهنمایی شکل اجازه استفاده از لاین‌هایی را که با فلش‌های سبز مشخص شده‌اند نمی‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_14_6',
       italianText: 'Il semaforo in figura vale anche per i pedoni',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل vale anche per i عابران پیاده',
+      farsiTranslation: 'چراغ راهنمایی شکل برای عابران هم معتبر است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_14_7',
       italianText: 'Nei semafori in figura, la luce rossa a forma di X impone di arrestarsi ed attendere la luce gialla',
-      farsiTranslation: 'Nei semafori in figura, la چراغ قرمز a forma di X الزام می‌کند di توقف کردن ed attendere la luce gialla',
+      farsiTranslation: 'در چراغ‌های راهنمایی شکل، چراغ قرمز X شکل راننده را مجبور می‌کند بایستد و منتظر چراغ زرد شود',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_14_8',
       italianText: 'Il semaforo in figura non vale per le biciclette',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل non vale per le دوچرخه‌ها',
+      farsiTranslation: 'چراغ راهنمایی شکل برای دوچرخه‌ها معتبر نیست',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_15_1',
       italianText: 'È possibile trovare la luce gialla lampeggiante quando le altre sono spente (FIG 154)',
-      farsiTranslation: 'È possibile trovare la چراغ زرد چشمک‌زن quando le altre هستند spente ((FIG 154))',
+      farsiTranslation: 'ممکن است چراغ زرد چشمک‌زن را وقتی چراغ‌های دیگر خاموش هستند ببینیم (شکل 154)',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_15_2',
       italianText: 'La luce circolare gialla lampeggiante (tipo A di figura) è un segnale di pericolo generico (FIG 160)',
-      farsiTranslation: 'La luce circolare gialla lampeggiante (tipo A di figura) است un segnale di pericolo generico ((FIG 160))',
+      farsiTranslation: 'چراغ گرد زرد چشمک‌زن نوع A در شکل، علامت خطر عمومی است (شکل 160)',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_15_3',
       italianText: 'La luce circolare gialla lampeggiante (tipo A di figura) invita a moderare la velocità (FIG 160)',
-      farsiTranslation: 'La luce circolare gialla lampeggiante (tipo A di figura) invita a moderare la velocità ((FIG 160))',
+      farsiTranslation: 'چراغ گرد زرد چشمک‌زن نوع A در شکل، راننده را به کم کردن سرعت دعوت می‌کند (شکل 160)',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_15_4',
       italianText: 'La luce circolare gialla lampeggiante (tipo A di figura) invita a procedere con particolare prudenza (FIG 160)',
-      farsiTranslation: 'La luce circolare gialla lampeggiante (tipo A di figura) invita a procedere con particolare احتیاط ((FIG 160))',
+      farsiTranslation: 'چراغ گرد زرد چشمک‌زن نوع A در شکل، راننده را به حرکت با احتیاط ویژه دعوت می‌کند (شکل 160)',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_15_5',
       italianText: 'Nel semaforo la luce gialla lampeggiante impone l’arresto sempre prima dell’incrocio (FIG 154)',
-      farsiTranslation: 'Nel semaforo la چراغ زرد چشمک‌زن الزام می‌کند l’توقف sempre prima dell’تقاطع ((FIG 154))',
+      farsiTranslation: 'در چراغ راهنمایی، چراغ زرد چشمک‌زن همیشه قبل از تقاطع مجبور به توقف می‌کند (شکل 154)',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_15_6',
       italianText: 'La luce circolare gialla lampeggiante (tipo A di figura) può essere posta prima di un ponte mobile (FIG 160)',
-      farsiTranslation: 'La luce circolare gialla lampeggiante (tipo A di figura) می‌تواند essere posta prima di un ponte mobile ((FIG 160))',
+      farsiTranslation: 'چراغ گرد زرد چشمک‌زن نوع A در شکل می‌تواند قبل از پل متحرک نصب شود (شکل 160)',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_15_7',
       italianText: 'La luce circolare gialla lampeggiante (tipo A di figura) può essere posta prima di un pontile d’imbarco di navi traghetto (FIG 160)',
-      farsiTranslation: 'La luce circolare gialla lampeggiante (tipo A di figura) می‌تواند essere posta prima di un pontile d’imbarco di کشتی‌های فری ((FIG 160))',
+      farsiTranslation: 'چراغ گرد زرد چشمک‌زن نوع A در شکل می‌تواند قبل از اسکله سوار شدن به کشتی نصب شود (شکل 160)',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_15_8',
       italianText: 'La luce gialla lampeggiante insieme a quella rossa in figura indica pericolo (FIG 154)',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن insieme a quella rossa in figura نشان می‌دهد pericolo ((FIG 154))',
+      farsiTranslation: 'چراغ زرد چشمک‌زن همراه با چراغ قرمز در شکل، خطر را نشان می‌دهد (شکل 154)',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_16_1',
       italianText: 'La luce gialla lampeggiante, del tipo B o C in figura, è affiancata al semaforo veicolare',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo B o C in figura, است affiancata al semaforo veicolare',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع B یا C در شکل کنار چراغ راهنمایی خودرو نصب می‌شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_16_2',
       italianText: 'La luce gialla lampeggiante, del tipo C in figura, indica che svoltando a destra i veicoli devono dare la precedenza alle biciclette',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo C in figura, نشان می‌دهد که svoltando a راست i وسایل نقلیه devono dare la حق تقدم alle دوچرخه‌ها',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع C در شکل نشان می‌دهد هنگام پیچیدن به راست باید به دوچرخه‌ها حق تقدم داد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_16_3',
       italianText: 'La luce gialla lampeggiante, del tipo B in figura, indica che nello svoltare a destra i veicoli debbono dare la precedenza ai pedoni',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo B in figura, نشان می‌دهد که nello پیچیدن a راست i وسایل نقلیه debbono dare la حق تقدم ai عابران پیاده',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع B در شکل نشان می‌دهد هنگام پیچیدن به راست باید به عابران حق تقدم داد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_16_4',
       italianText: 'La luce gialla lampeggiante, del tipo A in figura, può essere posta in punti pericolosi della strada',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo A in figura, می‌تواند essere posta in punti pericolosi della strada',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع A در شکل می‌تواند در نقاط خطرناک راه نصب شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_16_5',
       italianText: 'La luce gialla lampeggiante, del tipo C in figura, indica una corsia riservata a tutti i veicoli a due ruote',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo C in figura, نشان می‌دهد una لاین riservata a همه i وسایل نقلیه a due ruote',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع C در شکل لاین مخصوص همه وسایل دوچرخ را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_16_6',
       italianText: 'La luce gialla lampeggiante, del tipo B in figura, indica la presenza di un viale pedonale',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo B in figura, نشان می‌دهد la presenza di un viale pedonale',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع B در شکل وجود خیابان مخصوص عابر را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_16_7',
       italianText: 'La luce gialla lampeggiante, del tipo A in figura, è un semaforo per i veicoli in servizio di linea per trasporto di persone',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo A in figura, است un semaforo per i وسایل نقلیه in سرویس خطی per trasporto di persone',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع A در شکل، چراغ مخصوص وسایل نقلیه خطی حمل مسافر است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_16_8',
       italianText: 'La luce gialla lampeggiante, del tipo C in figura, indica una corsia riservata ai ciclomotori',
-      farsiTranslation: 'La چراغ زرد چشمک‌زن, del tipo C in figura, نشان می‌دهد una لاین riservata ai ciclomotori',
+      farsiTranslation: 'چراغ زرد چشمک‌زن نوع C در شکل لاین مخصوص موتورگازی‌ها را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_17_1',
       italianText: 'Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi a un passaggio a livello ferroviario senza barriere',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura مجبور می‌کندno ad توقف کردن a un عبور a livello ferroviario senza موانع',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل در گذرگاه راه‌آهن بدون مانع مجبور به توقف می‌کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_17_2',
       italianText: 'Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi a un passaggio a livello ferroviario con semibarriere',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura مجبور می‌کندno ad توقف کردن a un عبور a livello ferroviario con semiموانع',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل در گذرگاه راه‌آهن با نیم‌مانع مجبور به توقف می‌کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_17_3',
       italianText: 'Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi all’accesso di un pontile d’imbarco di navi traghetto',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura مجبور می‌کندno ad توقف کردن all’accesso di un pontile d’imbarco di کشتی‌های فری',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل در ورودی اسکله سوار شدن به کشتی مجبور به توقف می‌کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_17_4',
       italianText: 'Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi all’accesso di un ponte mobile',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura مجبور می‌کندno ad توقف کردن all’accesso di un ponte mobile',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل در ورودی پل متحرک مجبور به توقف می‌کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_17_5',
       italianText: 'Le luci rosse accese lampeggianti in figura obbligano a non superare la striscia trasversale d’arresto',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura مجبور می‌کندno a non superare la خط عرضی d’توقف',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل مجبور می‌کنند از خط عرضی توقف عبور نکنیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_17_6',
       italianText: 'Le luci rosse accese lampeggianti in figura si trovano in vicinanza di un posto di blocco della polizia',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura قرار داردno in vicinanza di un posto di blocco della polizia',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل در نزدیکی ایست بازرسی پلیس قرار دارند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_17_7',
       italianText: 'Le luci rosse accese lampeggianti in figura obbligano ad arrestarsi all’accesso di un ponte stretto',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura مجبور می‌کندno ad توقف کردن all’accesso di un ponte stretto',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل در ورودی پل باریک مجبور به توقف می‌کنند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_17_8',
       italianText: 'Le luci rosse accese lampeggianti in figura indicano l’uscita obbligatoria dall’autostrada',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura نشان می‌دهدno l’uscita مجبور می‌کندtoria dall’autostrada',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل خروج اجباری از آزادراه را نشان می‌دهند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_17_9',
       italianText: 'Le luci rosse accese lampeggianti in figura si trovano 150 metri prima di un confine di Stato',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura قرار داردno 150 metri prima di un confine di Stato',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل ۱۵۰ متر قبل از مرز کشور قرار دارند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_17_10',
       italianText: 'Le luci rosse accese lampeggianti in figura indicano che sta per accendersi la luce verde',
-      farsiTranslation: 'Le luci rosse accese lampeggianti in figura نشان می‌دهدno che sta per accendersi la چراغ سبز',
+      farsiTranslation: 'چراغ‌های قرمز چشمک‌زن روشن در شکل نشان می‌دهند چراغ سبز در حال روشن شدن است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_18_1',
       italianText: 'Le luci in figura si possono trovare in vicinanza di passaggi a livello con semibarriere',
-      farsiTranslation: 'Le luci in figura si posهستند trovare in vicinanza di گذرگاه‌های راه‌آهن con semiموانع',
+      farsiTranslation: 'چراغ‌های شکل ممکن است نزدیک گذرگاه راه‌آهن با نیم‌مانع دیده شوند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_2',
       italianText: 'Le luci in figura si accendono alternativamente per segnalare l’arrivo dei treni nei passaggi a livello senza barriere',
-      farsiTranslation: 'Le luci in figura si accendono alternativamente per segnalare l’arrivo dei treni nei گذرگاه‌های راه‌آهن senza موانع',
+      farsiTranslation: 'چراغ‌های شکل برای اعلام رسیدن قطار در گذرگاه بدون مانع، به صورت متناوب روشن می‌شوند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_3',
       italianText: 'Le luci in figura quando sono accese vietano il passaggio di veicoli e pedoni',
-      farsiTranslation: 'Le luci in figura quando هستند accese ممنوع می‌کندno il عبور di وسایل نقلیه e عابران پیاده',
+      farsiTranslation: 'چراغ‌های شکل وقتی روشن هستند عبور وسایل نقلیه و عابران را ممنوع می‌کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_4',
       italianText: 'Le luci in figura, di norma, sono situate sul lato destro della strada',
-      farsiTranslation: 'Le luci in figura, di معمولا, هستند situate sul lato destro della strada',
+      farsiTranslation: 'چراغ‌های شکل, معمولا در سمت راست راه قرار دارند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_5',
       italianText: 'Le luci in figura entrano in funzione poco prima dell’arrivo del treno e rimangono accese fino alla fine del suo passaggio',
-      farsiTranslation: 'Le luci in figura entrano in funzione poco prima dell’arrivo del treno e rimangono accese fino alla fine del suo عبور',
+      farsiTranslation: 'چراغ‌های شکل کمی قبل از رسیدن قطار فعال می‌شوند و تا پایان عبور قطار روشن می‌مانند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_6',
       italianText: 'Le luci in figura si accendono subito prima dell’inizio dell’abbassamento delle semibarriere',
-      farsiTranslation: 'Le luci in figura si accendono subito prima dell’inizio dell’abbassamento delle semiموانع',
+      farsiTranslation: 'چراغ‌های شکل درست پیش از شروع پایین آمدن نیم‌مانع‌ها روشن می‌شوند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_7',
       italianText: 'Le luci in figura sono integrate da un dispositivo di segnalazione acustica',
-      farsiTranslation: 'Le luci in figura هستند integrate da un dispositivo di segnalazione acustica',
+      farsiTranslation: 'چراغ‌های شکل با یک وسیله هشدار صوتی همراه هستند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_8',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse lampeggianti alternativamente e semibarriera ancora alzata, occorre predisporsi all’arresto',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con چراغ‌های قرمز چشمک‌زن alternativamente e semibarriera ancora alzata, occorre predisporsi all’توقف',
+      farsiTranslation: 'وقتی به گذرگاه راه‌آهن با چراغ‌های قرمز چشمک‌زن و نیم‌مانع هنوز بالا نزدیک می‌شویم، باید آماده توقف شویم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_18_9',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse lampeggianti alternativamente e semibarriera ancora alzata, si può passare velocemente, se non si vede sopraggiungere alcun treno',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con چراغ‌های قرمز چشمک‌زن alternativamente e semibarriera ancora alzata, si می‌تواند passare velocemente, se non si vede sopraggiungere alcun treno',
+      farsiTranslation: 'وقتی نیم‌مانع هنوز بالاست و قطاری دیده نمی‌شود، می‌توان سریع از گذرگاه راه‌آهن عبور کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_18_10',
       italianText: 'Le luci in figura si trovano lungo le linee ferroviarie, come semaforo per i conducenti dei treni',
-      farsiTranslation: 'Le luci in figura قرار داردno lungo le linee ferroviarie, come semaforo per i conducenti dei treni',
+      farsiTranslation: 'چراغ‌های شکل در امتداد خطوط راه‌آهن به عنوان چراغ برای رانندگان قطار قرار دارند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_18_11',
       italianText: 'Le luci in figura quando lampeggiano alternativamente invitano a occupare rapidamente il passaggio a livello',
-      farsiTranslation: 'Le luci in figura quando lampeggiano alternativamente invitano a occupare rapidamente il عبور a livello',
+      farsiTranslation: 'چراغ‌های شکل وقتی متناوب چشمک می‌زنند یعنی باید سریع وارد گذرگاه راه‌آهن شد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_18_12',
       italianText: 'Le luci in figura si possono trovare 150 metri prima di un passaggio a livello con barriere',
-      farsiTranslation: 'Le luci in figura si posهستند trovare 150 metri prima di un عبور a livello con موانع',
+      farsiTranslation: 'چراغ‌های شکل ممکن است ۱۵۰ متر قبل از گذرگاه راه‌آهن دارای مانع قرار داشته باشند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_18_13',
       italianText: 'Le luci in figura vengono poste sul primo dei pannelli distanziometrici di un passaggio a livello',
-      farsiTranslation: 'Le luci in figura vengono poste sul primo dei pannelli distanziometrici di un عبور a livello',
+      farsiTranslation: 'چراغ‌های شکل روی اولین تابلوی فاصله‌نما قبل از گذرگاه راه‌آهن نصب می‌شوند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_18_14',
       italianText: 'Il dispositivo luminoso in figura è costituito da luci lampeggianti alternativamente che si accendono durante la fase di apertura (sollevamento) delle semibarriere',
-      farsiTranslation: 'Il dispositivo luminoso in figura است costituito da luci lampeggianti alternativamente che si accendono durante la fase di apertura (sollevamento) delle semiموانع',
+      farsiTranslation: 'دستگاه نوری شکل از چراغ‌های چشمک‌زن متناوب تشکیل شده که هنگام باز شدن و بالا رفتن نیم‌مانع‌ها روشن می‌شوند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_19_1',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è necessario fermarsi sulla linea d’arresto',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, است necessario توقف کردن sulla linea d’توقف',
+      farsiTranslation: 'وقتی به گذرگاه راه‌آهن با چراغ قرمز روشن و نیم‌مانع هنوز بالا نزدیک می‌شویم، باید روی خط توقف بایستیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_19_2',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, non si deve accelerare per attraversare prima che si abbassi la semibarriera',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, non si deve سرعت گرفتن per عبور کردن prima che si abbassi la semibarriera',
+      farsiTranslation: 'نباید سرعت گرفت تا قبل از پایین آمدن نیم‌مانع از گذرگاه عبور کنیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_19_3',
-      italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, si può passare velocemen- te, se non si vede sopraggiungere il treno',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, si می‌تواند passare velocemen- te, se non si vede sopraggiungere il treno',
+      italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, si può passare velocemente, se non si vede sopraggiungere il treno',
+      farsiTranslation: 'اگر قطار دیده نشود، می‌توان سریع از گذرگاه با چراغ قرمز روشن عبور کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_19_4',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, bisogna accelerare per liberare rapidamente l’attraversamento',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, bisogna سرعت گرفتن per خالی کردن rapidamente l’عبور',
+      farsiTranslation: 'باید سرعت گرفت تا گذرگاه را سریع خالی کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_19_5',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, bisogna fermarsi in corri- spondenza del terzo pannello distanziometrico',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, bisogna توقف کردن in corri- spondenza del terzo pannello distanziometrico',
+      farsiTranslation: 'وقتی به گذرگاه راه‌آهن با چراغ‌های قرمز روشن و نیم‌مانع هنوز بالا نزدیک می‌شویم، باید کنار سومین تابلوی فاصله‌نما توقف کنیم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_19_6',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare se la linea ferroviaria è ad un solo binario',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, است possibile عبور کردن se la linea ferroviaria است ad un فقط binario',
+      farsiTranslation: 'اگر راه‌آهن فقط یک ریل داشته باشد، عبور از گذرگاه ممکن است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_19_7',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare i binari se non si sente ancora il fischio del treno',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, است possibile عبور کردن i binari se non si sente ancora il fischio del treno',
+      farsiTranslation: 'اگر هنوز سوت قطار شنیده نمی‌شود، عبور از ریل‌ها ممکن است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_19_8',
       italianText: 'Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare i binari se non vi sono altri veicoli in attesa',
-      farsiTranslation: 'Avvicinandosi ad un عبور a livello con luci rosse accese e semibarriera ancora alzata, است possibile عبور کردن i binari se non vi هستند altri وسایل نقلیه in attesa',
+      farsiTranslation: 'اگر وسیله دیگری منتظر نباشد، عبور از ریل‌ها ممکن است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_1',
       italianText: 'I segnali luminosi in figura sono semafori di onda verde',
-      farsiTranslation: 'علامت‌های نوری داخل شکل هستند semafori di onda سبز',
+      farsiTranslation: 'علامت‌های نوری شکل چراغ‌های موج سبز هستند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_20_2',
       italianText: 'Il semaforo in figura consiglia la velocità da mantenere, per trovare la luce verde al semaforo successivo',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل consiglia la velocità da mantenere, per trovare la چراغ سبز al semaforo successivo',
+      farsiTranslation: 'چراغ راهنمایی شکل سرعت پیشنهادی را نشان می‌دهد تا در چراغ بعدی به سبز برسیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_20_3',
       italianText: 'Il semaforo di onda verde in figura si trova su strade con più incroci dove vi sono semafori sincronizzati (temporizzati)',
-      farsiTranslation: 'Il semaforo di onda سبز in figura قرار دارد su strade con più incroci dove vi هستند semafori sincronizzati (temporizzati)',
+      farsiTranslation: 'چراغ موج سبز شکل در راه‌هایی با چند تقاطع و چراغ‌های هماهنگ‌شده نصب می‌شود',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_20_4',
       italianText: 'Il semaforo in figura segnala la velocità consigliata per poter usufruire dell’onda verde',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل segnala la velocità consigliata per poter usufruire dell’onda سبز',
+      farsiTranslation: 'چراغ راهنمایی شکل سرعت پیشنهادی برای استفاده از موج سبز را نشان می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_20_5',
       italianText: 'Delle tre luci del semaforo in figura se ne accende soltanto una, mentre le altre sono spente',
-      farsiTranslation: 'Delle tre luci del semaforo in figura se ne accende soltanto una, mentre le altre هستند spente',
+      farsiTranslation: 'از سه چراغ راهنمایی شکل فقط یکی روشن می‌شود و بقیه خاموش هستند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_20_6',
       italianText: 'Il semaforo in figura obbliga a mantenere la velocità indicata',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل مجبور می‌کند a mantenere la velocità نشان می‌دهدta',
+      farsiTranslation: 'چراغ راهنمایی شکل مجبور می‌کند سرعت نشان‌داده‌شده را حفظ کنیم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_7',
       italianText: 'Il semaforo in figura non consente di superare la velocità indicata',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل non اجازه می‌دهد di superare la velocità نشان می‌دهدta',
+      farsiTranslation: 'چراغ راهنمایی شکل اجازه نمی‌دهد از سرعت نشان‌داده‌شده بیشتر برویم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_8',
       italianText: 'Il semaforo in figura impone al conducente di mantenere dal veicolo che lo precede la distanza indicata',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل الزام می‌کند al conducente di mantenere dal veicolo che lo precede la distanza نشان می‌دهدta',
+      farsiTranslation: 'چراغ راهنمایی شکل راننده را مجبور می‌کند فاصله نشان‌داده‌شده را با وسیله جلویی حفظ کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_9',
       italianText: 'Il semaforo in figura indica di procedere con prudenza',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل نشان می‌دهد di procedere con احتیاط',
+      farsiTranslation: 'چراغ راهنمایی شکل می‌گوید با احتیاط حرکت کنیم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_10',
       italianText: 'Il semaforo in figura, anche se spento, indica la velocità obbligatoria',
-      farsiTranslation: 'چراغ راهنمایی داخل شکل, anche se خاموش, نشان می‌دهد la velocità مجبور می‌کندtoria',
+      farsiTranslation: 'چراغ راهنمایی شکل, حتی وقتی خاموش است سرعت اجباری را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_11',
       italianText: 'Il semaforo di onda verde in figura viene posto anche sulle autostrade',
-      farsiTranslation: 'Il semaforo di onda سبز in figura viene posto anche sulle autostrade',
+      farsiTranslation: 'چراغ موج سبز شکل در آزادراه‌ها هم نصب می‌شود',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_12',
       italianText: 'Il semaforo di onda verde in figura riporta i limiti massimi di velocità delle autovetture, motocicli e autocarri',
-      farsiTranslation: 'Il semaforo di onda سبز in figura riporta i limiti massimi di velocità delle autovetture, motocicli e autocarri',
+      farsiTranslation: 'چراغ موج سبز شکل حداکثر سرعت خودروها، موتورسیکلت‌ها و کامیون‌ها را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_13',
       italianText: 'Il semaforo di onda verde in figura indica le velocità che devono obbligatoriamente rispettare alcuni veicoli',
-      farsiTranslation: 'Il semaforo di onda سبز in figura نشان می‌دهد le velocità che devono مجبور می‌کندtoriamente rispettare alcuni وسایل نقلیه',
+      farsiTranslation: 'چراغ موج سبز شکل سرعت‌هایی را نشان می‌دهد که بعضی وسایل باید حتما رعایت کنند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_14',
       italianText: 'Il semaforo di onda verde in figura è un semaforo per lavori in corso',
-      farsiTranslation: 'Il semaforo di onda سبز in figura است un semaforo per lavori in corso',
+      farsiTranslation: 'چراغ موج سبز شکل چراغ مخصوص کارگاه راه‌سازی است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_20_15',
       italianText: 'Il semaforo di onda verde in figura indica la distanza dai caselli autostradali',
-      farsiTranslation: 'Il semaforo di onda سبز in figura نشان می‌دهد la distanza dai گیت‌های عوارض اتوبان',
+      farsiTranslation: 'چراغ موج سبز شکل فاصله تا گیت‌های عوارضی آزادراه را نشان می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_21_1',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura è vietato il passaggio',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura است ممنوع می‌کندto il عبور',
+      farsiTranslation: 'وقتی مأمور مانند شکل دست‌هایش را رو به مسیر ما باز کرده است، عبور ممنوع است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_21_2',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura bisogna arrestarsi prima della striscia trasversale di arresto',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura bisogna توقف کردن prima della خط عرضی di توقف',
+      farsiTranslation: 'وقتی مأمور مانند شکل دست‌هایش را رو به مسیر ما باز کرده است، باید قبل از خط عرضی توقف بایستیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_21_3',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura non si può svoltare a sinistra',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura non si می‌تواند پیچیدن a چپ',
+      farsiTranslation: 'در این حالت نمی‌توان به چپ پیچید',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_21_4',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura non si può attraversare l’incrocio',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura non si می‌تواند عبور کردن l’تقاطع',
+      farsiTranslation: 'در این حالت نمی‌توان از تقاطع عبور کرد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_21_5',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura non si può svoltare a destra',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura non si می‌تواند پیچیدن a راست',
+      farsiTranslation: 'وقتی مأمور مانند شکل دست‌هایش را رو به مسیر ما باز کرده است، نمی‌توان به راست پیچید',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_21_6',
       italianText: 'La posizione del vigile con le braccia aperte verso la nostra direzione come in figura equivale alla luce rossa del semaforo',
-      farsiTranslation: 'La posizione del vigile con le braccia aperte verso la nostra جهت come in figura equivale alla چراغ قرمز del semaforo',
+      farsiTranslation: 'وضعیت مأمور با دست‌های باز رو به مسیر ما مثل چراغ قرمز است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_21_7',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura si può passare se si svolta a destra, dando però la precedenza ai pedoni che attraversano',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura si می‌تواند passare se si svolta a راست, dando però la حق تقدم ai عابران پیاده che attraversano',
+      farsiTranslation: 'در این حالت اگر به راست بپیچیم می‌توانیم عبور کنیم، ولی باید به عابران حق تقدم بدهیم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_21_8',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la direzione da cui proviene il conducente come in figura questi può procedere, ma con la massima prudenza e a velocità moderata',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la جهت da cui proviene il conducente come in figura questi می‌تواند procedere, ma con la massima احتیاط e a velocità moderata',
+      farsiTranslation: 'وقتی مأمور دست‌هایش را رو به جهتی باز کرده که راننده از آن می‌آید، راننده می‌تواند با نهایت احتیاط و سرعت کم حرکت کند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_21_9',
       italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura bisogna suonare il clacson, ma con moderazione, per richiamare l’attenzione del vigile',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura bisogna suonare il clacson, ma con moderazione, per richiamare l’attenzione del vigile',
+      farsiTranslation: 'در این حالت باید برای جلب توجه مأمور، با احتیاط بوق زد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_21_10',
-      italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura si può svoltare, ma non prose- guire diritto',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone con le braccia aperte verso la nostra جهت come in figura si می‌تواند پیچیدن, ma non prose- guire diritto',
+      italianText: 'Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura si può svoltare, ma non proseguire diritto',
+      farsiTranslation: 'در این حالت می‌توان پیچید ولی نمی‌توان مستقیم رفت',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_21_11',
       italianText: 'La posizione del vigile con le braccia aperte verso la nostra direzione come in figura equivale alla luce verde del semaforo',
-      farsiTranslation: 'La posizione del vigile con le braccia aperte verso la nostra جهت come in figura equivale alla چراغ سبز del semaforo',
+      farsiTranslation: 'وضعیت مأمور با دست‌های باز رو به مسیر ما مثل چراغ سبز است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_22_1',
-      italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura è consentito il passaggio delle correnti di traffi- co che scorrono parallele alle sue braccia',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone di profilo con le braccia aperte come in figura است consentito il عبور delle correnti di traffi- co che scorrono parallele alle sue braccia',
+      italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura è consentito il passaggio delle correnti di traffico che scorrono parallele alle sue braccia',
+      farsiTranslation: 'وقتی مأمور به صورت نیم‌رخ با دست‌های باز ایستاده است، عبور جریان‌های ترافیکی موازی با دست‌های او مجاز است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_22_2',
       italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura si può svoltare a destra se si proviene dalla sua destra o dalla sua sinistra',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone di profilo con le braccia aperte come in figura si می‌تواند پیچیدن a راست se si proviene dalla sua راست o dalla sua چپ',
+      farsiTranslation: 'وقتی مأمور به صورت نیم‌رخ با دست‌های باز ایستاده است، اگر از سمت راست یا چپ او بیاییم می‌توانیم به راست بپیچیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_22_3',
       italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura, le correnti di traffico che scorrono parallele alle sue braccia possono attraversare l’incrocio, ma usando prudenza',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone di profilo con le braccia aperte come in figura, le correnti di traffico che scorrono parallele alle sue braccia posهستند عبور کردن l’تقاطع, ma usando احتیاط',
+      farsiTranslation: 'در حالت نیم‌رخ مأمور با دست‌های باز، جریان‌های موازی با دست‌های او می‌توانند با احتیاط از تقاطع عبور کنند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_22_4',
       italianText: 'La posizione di profilo del vigile con le braccia aperte come in figura equivale alla luce verde del semaforo per le correnti di traffico che scorrono parallele alle sue braccia',
-      farsiTranslation: 'La posizione di profilo del vigile con le braccia aperte come in figura equivale alla چراغ سبز del semaforo per le correnti di traffico che scorrono parallele alle sue braccia',
+      farsiTranslation: 'حالت نیم‌رخ مأمور با دست‌های باز برای جریان‌های موازی با دست‌های او مثل چراغ سبز است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_22_5',
       italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura si deve obbligatoriamente proseguire diritto',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone di profilo con le braccia aperte come in figura si deve مجبور می‌کندtoriamente ادامه دادن diritto',
+      farsiTranslation: 'در حالت نیم‌رخ مأمور با دست‌های باز حتما باید مستقیم رفت',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_22_6',
-      italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura, ci si deve arrestare prima della striscia trasver- sale di arresto se si proviene dalla sua sinistra',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone di profilo con le braccia aperte come in figura, ci si deve arrestare prima della striscia trasver- sale di توقف se si proviene dalla sua چپ',
+      italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura, ci si deve arrestare prima della striscia trasversale di arresto se si proviene dalla sua sinistra',
+      farsiTranslation: 'در حالت نیم‌رخ مأمور با دست‌های باز، اگر از سمت چپ او بیاییم باید قبل از خط توقف بایستیم',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_22_7',
       italianText: 'Quando il vigile si dispone di profilo con le braccia aperte come in figura ci si deve arrestare dopo aver superato le strisce dell’attraversamento pedonale',
-      farsiTranslation: 'Quando مأمور راهنمایی si dispone di profilo con le braccia aperte come in figura ci si deve arrestare dopo aver superato le strisce dell’عبور pedonale',
+      farsiTranslation: 'در حالت نیم‌رخ مأمور با دست‌های باز باید بعد از رد شدن از خط‌کشی عابر توقف کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_22_8',
       italianText: 'La posizione di profilo del vigile con le braccia aperte come in figura, per le correnti di traffico che scorrono parallele alle sue braccia equivale alla luce rossa del semaforo',
-      farsiTranslation: 'La posizione di profilo del vigile con le braccia aperte come in figura, per le correnti di traffico che scorrono parallele alle sue braccia equivale alla چراغ قرمز del semaforo',
+      farsiTranslation: 'حالت نیم‌رخ مأمور با دست‌های باز برای جریان‌های موازی با دست‌های او مثل چراغ قرمز است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_23_1',
       italianText: 'La posizione del vigile con un braccio alzato come in figura equivale alla luce gialla fissa del semaforo',
-      farsiTranslation: 'La posizione del vigile با یک دست بالا come in figura equivale alla چراغ زرد ثابت del semaforo',
+      farsiTranslation: 'حالت مأمور با یک دست بالا مثل چراغ زرد ثابت است',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_23_2',
       italianText: 'Se il vigile ha un braccio alzato come in figura bisogna liberare velocemente l’incrocio, se già è stato impegnato',
-      farsiTranslation: 'Se مأمور راهنمایی ha un braccio alzato come in figura bisogna خالی کردن velocemente l’تقاطع, se già است stato impegnato',
+      farsiTranslation: 'اگر مأمور مانند شکل یک دست را بالا برده و ما وارد تقاطع شده‌ایم، باید سریع تقاطع را خالی کنیم',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_23_3',
       italianText: 'Se il vigile ha un braccio alzato come in figura bisogna arrestarsi prima dell’incrocio, se è possibile farlo senza creare pericolo',
-      farsiTranslation: 'Se مأمور راهنمایی ha un braccio alzato come in figura bisogna توقف کردن prima dell’تقاطع, se است possibile farlo senza creare pericolo',
+      farsiTranslation: 'اگر مأمور یک دست را بالا برده، باید پیش از تقاطع توقف کنیم اگر این کار بدون خطر ممکن باشد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_23_4',
       italianText: 'La posizione del vigile con un braccio alzato come in figura è una indicazione riservata solo ai veicoli che devono svoltare',
-      farsiTranslation: 'La posizione del vigile با یک دست بالا come in figura است una نشان می‌دهدzione riservata فقط ai وسایل نقلیه che devono پیچیدن',
+      farsiTranslation: 'حالت مأمور با یک دست بالا فقط مخصوص وسایلی است که می‌خواهند بپیچند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_23_5',
       italianText: 'Se il vigile ha un braccio alzato come in figura bisogna in ogni caso arrestarsi',
-      farsiTranslation: 'Se مأمور راهنمایی ha un braccio alzato come in figura bisogna in ogni caso توقف کردن',
+      farsiTranslation: 'اگر مأمور یک دست را بالا برده، در هر حال باید توقف کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_23_6',
       italianText: 'Se il vigile ha un braccio alzato come in figura è consentito soltanto svoltare a destra',
-      farsiTranslation: 'Se مأمور راهنمایی ha un braccio alzato come in figura است consentito soltanto پیچیدن a راست',
+      farsiTranslation: 'اگر مأمور یک دست را بالا برده، فقط پیچیدن به راست مجاز است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_23_7',
       italianText: 'Se il vigile ha un braccio alzato come in figura bisogna rallentare solo se nell’incrocio vi sono binari del tram',
-      farsiTranslation: 'Se مأمور راهنمایی ha un braccio alzato come in figura bisogna کم کردن سرعت فقط se nell’تقاطع vi هستند binari del tram',
+      farsiTranslation: 'اگر مأمور یک دست را بالا برده، فقط وقتی در تقاطع ریل ترام باشد باید سرعت را کم کرد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_23_8',
       italianText: 'La posizione del vigile con il braccio alzato come in figura equivale alla luce rossa del semaforo',
-      farsiTranslation: 'La posizione del vigile con il braccio alzato come in figura equivale alla چراغ قرمز del semaforo',
+      farsiTranslation: 'حالت مأمور با دست بالا مثل چراغ قرمز است',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_24_1',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura consente la svolta a sinistra ai veicoli che arrivano dalla sua sinistra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura اجازه می‌دهد la svolta a چپ ai وسایل نقلیه che arrivano dalla sua چپ',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، به وسایلی که از سمت چپ او می‌آیند اجازه پیچیدن به چپ می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_24_2',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura ferma i veicoli che arrivano dalla sua destra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura ferma i وسایل نقلیه che arrivano dalla sua راست',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، وسایلی را که از سمت راست او می‌آیند متوقف می‌کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_24_3',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura vieta di proseguire diritto ai veicoli che gli vengono dalle sue spalle',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura ممنوع می‌کند di ادامه دادن diritto ai وسایل نقلیه che gli vengono dalle sue spalle',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، مستقیم رفتن وسایلی را که از پشت او می‌آیند ممنوع می‌کند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_24_4',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura consente di proseguire diritto ai veicoli che arrivano dalla sua sinistra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura اجازه می‌دهد di ادامه دادن diritto ai وسایل نقلیه che arrivano dalla sua چپ',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، به وسایلی که از سمت چپ او می‌آیند اجازه می‌دهد مستقیم بروند',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_24_5',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura consente di svoltare a destra ai veicoli che arrivano dalla sua sinistra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura اجازه می‌دهد di پیچیدن a راست ai وسایل نقلیه che arrivano dalla sua چپ',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، به وسایلی که از سمت چپ او می‌آیند اجازه پیچیدن به راست می‌دهد',
       correctAnswer: 'Vero'
     },
     {
       id: 'q_9_24_6',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura consente di svoltare a destra ai veicoli che arrivano dalla sua destra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura اجازه می‌دهد di پیچیدن a راست ai وسایل نقلیه che arrivano dalla sua راست',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، به وسایلی که از سمت راست او می‌آیند اجازه پیچیدن به راست می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_24_7',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura consente la svolta a destra ai veicoli che arrivano dalle sue spalle',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura اجازه می‌دهد la svolta a راست ai وسایل نقلیه che arrivano dalle sue spalle',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، به وسایلی که از پشت او می‌آیند اجازه پیچیدن به راست می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_24_8',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura consente la svolta a sinistra ai veicoli che arrivano dalla sua destra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura اجازه می‌دهد la svolta a چپ ai وسایل نقلیه che arrivano dalla sua راست',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، به وسایلی که از سمت راست او می‌آیند اجازه پیچیدن به چپ می‌دهد',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_24_9',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura consente di proseguire diritto ai veicoli che arrivano dalla sua destra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura اجازه می‌دهد di ادامه دادن diritto ai وسایل نقلیه che arrivano dalla sua راست',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، به وسایلی که از سمت راست او می‌آیند اجازه می‌دهد مستقیم بروند',
       correctAnswer: 'Falso'
     },
     {
       id: 'q_9_24_10',
       italianText: 'Il vigile disposto con le braccia ad angolo retto come in figura vieta il passaggio ai veicoli che arrivano dalla sua sinistra',
-      farsiTranslation: 'مأمور راهنمایی disposto con le braccia ad angolo retto come in figura ممنوع می‌کند il عبور ai وسایل نقلیه che arrivano dalla sua چپ',
+      farsiTranslation: 'مأمور با دست‌های زاویه‌دار مانند شکل، عبور وسایلی را که از سمت چپ او می‌آیند ممنوع می‌کند',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_9_25_1',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico significa che tutti i veicoli si devono arrestare, in condizioni di sicurezza',
+      farsiTranslation: 'صدای طولانی سوت مأمور راهنمایی یعنی همه وسایل نقلیه باید با رعایت ایمنی توقف کنند',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_9_25_2',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico serve per consentire il passaggio di veicoli di soccorso in servizio di emergenza',
+      farsiTranslation: 'صدای طولانی سوت مأمور برای باز کردن مسیر عبور وسایل امدادی در حال مأموریت اضطراری است',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_9_25_3',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico impone a chi ha impegnato l’incrocio di liberarlo ed eventualmente di arrestarsi subito dopo',
+      farsiTranslation: 'صدای طولانی سوت مأمور کسی را که وارد تقاطع شده مجبور می‌کند تقاطع را خالی کند و در صورت لزوم بلافاصله بعد از آن توقف کند',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_9_25_4',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico indica che occorre arrestarsi, se non si è ancora occupato l’incrocio',
+      farsiTranslation: 'صدای طولانی سوت مأمور یعنی اگر هنوز وارد تقاطع نشده‌ایم باید توقف کنیم',
+      correctAnswer: 'Vero'
+    },
+    {
+      id: 'q_9_25_5',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico indica che occorre tornare indietro',
+      farsiTranslation: 'صدای طولانی سوت مأمور یعنی باید به عقب برگردیم',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_9_25_6',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico serve per arrestare o deviare solo i veicoli che arrivano dalla sua destra',
+      farsiTranslation: 'صدای طولانی سوت مأمور فقط برای متوقف کردن یا منحرف کردن وسایلی است که از سمت راست او می‌آیند',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_9_25_7',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico significa che i veicoli fermi devono mettersi in marcia',
+      farsiTranslation: 'صدای طولانی سوت مأمور یعنی وسایل متوقف‌شده باید حرکت را شروع کنند',
+      correctAnswer: 'Falso'
+    },
+    {
+      id: 'q_9_25_8',
+      italianText: 'Il suono prolungato del fischietto da parte dell’agente preposto al traffico impone ai soli veicoli pesanti di arrestarsi',
+      farsiTranslation: 'صدای طولانی سوت مأمور فقط وسایل نقلیه سنگین را مجبور به توقف می‌کند',
       correctAnswer: 'Falso'
     }
   ]
